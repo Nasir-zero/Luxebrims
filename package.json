@@ -1,0 +1,11 @@
+{
+  "name": "theme",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "shopify theme dev --store=ipwhmw-sc.myshopify.com",
+		"pull": "shopify theme pull --store=ipwhmw-sc.myshopify.com"
+  },
+  "author": "",
+  "license": "ISC"
+}
