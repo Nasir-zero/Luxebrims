@@ -1,1 +1,44 @@
-{"sections":{"gp_section_563239031647830835":{"type":"gp-section-563239031647830835","settings":{"section_preload":"true","checksum":"42ffc9a477a9f99490be06271003959eb0c7f6077134c24e07bcf1b89469b69d_1_1"}},"gp_section_563239031647961907":{"type":"gp-section-563239031647961907","settings":{"checksum":"0e42504772bdc7f64a145185d5a2f719af8a88f6b9bc24947ac0b65a4a2ccafa_1_1"}},"gp_section_563239031647896371":{"type":"gp-section-563239031647896371","settings":{"checksum":"dbeddd6f475acf1110c3bf06f060d0be5b0574013ee21218cb30ace077dbb9e0_1_1"}},"gp_section_563239031647765299":{"type":"gp-section-563239031647765299","settings":{"checksum":"7e2f93f1c374118518cac7985f605047f13f3b7df182a88738059eda2ba64672_1_1"}}},"order":["gp_section_563239031647830835","gp_section_563239031647961907","gp_section_563239031647896371","gp_section_563239031647765299"]}
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "gp_section_563239031647765299": {
+      "settings": {
+        "checksum": "7e2f93f1c374118518cac7985f605047f13f3b7df182a88738059eda2ba64672_1_1_0_0_"
+      },
+      "type": "gp-section-563239031647765299"
+    },
+    "gp_section_563239031647830835": {
+      "settings": {
+        "checksum": "42ffc9a477a9f99490be06271003959eb0c7f6077134c24e07bcf1b89469b69d_1_1_0_0_",
+        "section_preload": "true"
+      },
+      "type": "gp-section-563239031647830835"
+    },
+    "gp_section_563239031647896371": {
+      "settings": {
+        "checksum": "dbeddd6f475acf1110c3bf06f060d0be5b0574013ee21218cb30ace077dbb9e0_1_1_0_0_"
+      },
+      "type": "gp-section-563239031647896371"
+    },
+    "gp_section_563239031647961907": {
+      "settings": {
+        "checksum": "0e42504772bdc7f64a145185d5a2f719af8a88f6b9bc24947ac0b65a4a2ccafa_1_1_0_0_"
+      },
+      "type": "gp-section-563239031647961907"
+    }
+  },
+  "order": [
+    "gp_section_563239031647830835",
+    "gp_section_563239031647961907",
+    "gp_section_563239031647896371",
+    "gp_section_563239031647765299"
+  ]
+}

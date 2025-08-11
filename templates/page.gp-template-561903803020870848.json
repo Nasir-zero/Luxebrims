@@ -1,1 +1,37 @@
-{"sections":{"gp_section_561903815285015744":{"type":"gp-section-561903815285015744","settings":{"section_preload":"true","checksum":"18a820d0bcc18ceb68eacbd11e9c57b8f55ee80481f27e37320f231a50bc3973_1_1","ggI6FbUW9uq_text":"About Us","ggYnWalJOEA_text":"<p>At Luxebrims, we believe true luxury lies not in bold logos, but in ​impeccable details​ and ​timeless design. Every hat is more than an accessory—it’s a fusion of craftsmanship and aesthetics, embodying our dedication to quality and distinctive style.<\/p>\n<p>Email: support@luxebrims.com\n<\/p>\n<p>Company name: BLUE STAR TRADING LIMITED<\/p>\n<p>Company address: RM C，6\/F，WORLD TRUST TOWER 50 STANLEY STREET CENTRAL HK<\/p>"}},"gp_section_561903815603782561":{"type":"gp-section-561903815603782561","disabled":true,"settings":{"section_preload":"false","checksum":"e61ff481f83bdf56f2fb218f675d0b7228f4003b25b5955c3c88db9fb79141f1_1_1","gg8XruY0AUZ_text":"<p>✔ <strong>Artisan Craft<\/strong> - Finest materials, handcrafted excellence<\/p>\n<p>✔ <strong>Eco-Conscious<\/strong> - Sustainable processes, biodegradable packaging<\/p>\n<p>✔ <strong>Made For You<\/strong> - Custom sizing &amp; exclusive colors<\/p>\n<p>✔ <strong>Lifetime Care<\/strong> - Enduring beauty guaranteed<\/p>","ggDD0rKPww8_text":"<p><\/p>","gg-N433GZ_G_text":"<p><span style=\"color:#242424;\"><strong>James Frank<\/strong><\/span> <span style=\"color:#B4B4B4;\">\/ CEO<\/span><\/p>"}},"gp_section_561903815620559852":{"type":"gp-section-561903815620559852","disabled":true,"settings":{"section_preload":"false","checksum":"2dd4d0c3021706032f00ca9030851a7a5cccbbf7e45a30355bb8d603a34ea584_1_1","gg9OAoVh1UR_text":"<p> ​Minimalist Aesthetic​ — Clean lines, precise tailoring, and understated silhouettes create a powerful yet refined presence.<\/p>","gg2lNLKE9t8_text":"<p>Nature-Inspired Palette​ — From desert sunsets to deep ocean hues, each season’s colors are drawn from nature, ensuring timeless uniqueness.<\/p>","ggoR2EFkFi0_text":"<p>Functional Details​ — Hidden adjustable bands, UV-protective linings, and foldable structures blend practicality with sophistication.<\/p>","ggYndOtqotl_text":"<p><i>“Luxebrims is more than a hat—it’s a statement of how you live.​​“<\/i><\/p>"}}},"order":["gp_section_561903815285015744","gp_section_561903815603782561","gp_section_561903815620559852"]}
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "gp_section_561903815285015744": {
+      "settings": {
+        "checksum": "18a820d0bcc18ceb68eacbd11e9c57b8f55ee80481f27e37320f231a50bc3973_1_1_0_0_",
+        "section_preload": "true"
+      },
+      "type": "gp-section-561903815285015744"
+    },
+    "gp_section_561903815603782561": {
+      "settings": {
+        "checksum": "e61ff481f83bdf56f2fb218f675d0b7228f4003b25b5955c3c88db9fb79141f1_1_1_0_0_"
+      },
+      "type": "gp-section-561903815603782561"
+    },
+    "gp_section_561903815620559852": {
+      "settings": {
+        "checksum": "2dd4d0c3021706032f00ca9030851a7a5cccbbf7e45a30355bb8d603a34ea584_1_1_0_0_"
+      },
+      "type": "gp-section-561903815620559852"
+    }
+  },
+  "order": [
+    "gp_section_561903815285015744",
+    "gp_section_561903815603782561",
+    "gp_section_561903815620559852"
+  ]
+}
