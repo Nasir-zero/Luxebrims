@@ -1,8 +1,9 @@
 {
   "sections": {
     "main": {
-      "type": "main-usf-search",
+      "type": "main-search",
       "settings": {
+      
       }
     }
   },

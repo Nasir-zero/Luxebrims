@@ -123,7 +123,11 @@
 
     {{ content_for_header }}
     <meta name="google-site-verification" content="Ly56ovvDAHYtG3KmNm6UzXB_UP0xDdvoOUY-laqXZJg">
-    {% render 'usf' %}
+    {%- comment -%}
+      USF snippet disabled to prevent hijacking search/collection pages and forcing USF nodes.
+      If you need USF again, remove this comment to re-enable:
+      {% render 'usf' %}
+    {%- endcomment -%}
 
     {%- liquid
       assign body_font_bold = settings.type_body_font | font_modify: 'weight', 'bold'
@@ -523,7 +527,10 @@
         media="print"
         onload="this.media='all'"
       >
+      <script src="{{ 'predictive-search.js' | asset_url }}" defer="defer"></script>
     {%- endif -%}
+    <link rel="stylesheet" href="{{ 'usf-disable.css' | asset_url }}">
+    <script src="{{ 'anti-usf.js' | asset_url }}" defer="defer"></script>
 
     <script>
       document.documentElement.className = document.documentElement.className.replace('no-js', 'js');
