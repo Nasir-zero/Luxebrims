@@ -9,28 +9,48 @@
  */
 {
   "sections": {
-    "gp_global_section_562325613218628482-1": {
-      "settings": {
-        "checksum": "",
-        "section_preload": "false"
-      },
-      "type": "gp-global-section-562325613218628482"
-    },
     "gp_section_561890596046767084": {
+      "type": "gp-section-561890596046767084",
       "settings": {
+        "section_preload": "true",
         "checksum": "f7cad0db4dcde95594688c83d0cd682d5acd1d10e0ffcfafba2cbd9b7e31231e_1_1_1_0_",
-        "section_preload": "true"
-      },
-      "type": "gp-section-561890596046767084"
+        "gggZbLy0EBc_sortingTextDisplay": "Sorting",
+        "gggZbLy0EBc_quantityTextDisplay": "%number% products",
+        "gg1ppQ-GrZW_customContent_suffix": "off",
+        "ggAxXQYDp2R_label": "Add to cart",
+        "ggAxXQYDp2R_outOfStockLabel": "Out of stocks",
+        "ggAxXQYDp2R_unavailableLabel": "Unavailable"
+      }
     },
     "gp_section_562326030015005570": {
+      "type": "gp-section-562326030015005570",
       "settings": {
-        "checksum": "4b4e7a959ca197b70f2975e8e47919a3a3516f3783ab8c083c0871927a3507dc_1_1_1_0_"
-      },
-      "type": "gp-section-562326030015005570"
+        "section_preload": "false",
+        "checksum": "4b4e7a959ca197b70f2975e8e47919a3a3516f3783ab8c083c0871927a3507dc_1_1_1_0_",
+        "ggDWKfifQHA_previousText": "&lt;",
+        "ggDWKfifQHA_nextText": "&gt;"
+      }
+    },
+    "gp_global_section_562325613218628482-1": {
+      "type": "gp-global-section-562325613218628482",
+      "settings": {
+        "section_preload": "false",
+        "checksum": "",
+        "gg2pNmmJkxV_text": "#ON INSTAGRAM"
+      }
+    },
+    "article_preview_WVgUdt": {
+      "type": "article-preview",
+      "name": "Article Preview",
+      "settings": {
+        "title": "Baseball caps: a trendy choice for everyone",
+        "excerpt": "Baseball caps have distant roots, but over time they have spread into many settings and contexts. They began as a functional accessory to shield the eyes from bright sunlight during games, and in the United States, they were immediat...",
+        "full_content": "<p>Baseball caps have distant roots, but over time they have spread into many settings and contexts. They began as a functional accessory to shield the eyes from bright sunlight during games, and in the United States, they were immediately recognized for their practical value.</p><p>From the games to the streets: everyday use</p><p>Baseball caps have become urban style icons, suitable for both outdoor and informal indoor settings. They highlight versatility, ability to add a \"pop of color,\" and the protection and practicality they offer.</p><p>Materials and basic care</p><p>This section focuses on the importance of fabric choice (cotton, polyester, synthetic blends) for breathability and durability. It provides simple care instructions, including gentle washing, air-drying, and dry storage.</p><p>Personal choice and styling</p><p>This final section explores the countless styling possibilities with baseball caps. It mentions pairing them with casual wear like jeans, T-shirts, and sneakers, as well as dressier pieces for contrast.</p>"
+      }
     }
   },
   "order": [
+    "article_preview_WVgUdt",
     "gp_section_561890596046767084",
     "gp_section_562326030015005570",
     "gp_global_section_562325613218628482-1"
