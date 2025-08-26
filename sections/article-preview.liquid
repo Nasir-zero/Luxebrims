@@ -36,7 +36,7 @@
       </div>
       
       <div class="article-preview__full-content hidden">
-        {{ ap_full_content }}
+        {{ ap_full_content | metafield_tag }}
       </div>
     </div>
     
@@ -54,7 +54,7 @@
   {% comment %} max-width: 1400px; {% endcomment %}
   margin: 0 auto;
   padding: 20px 20px;
-  background: #fafafa;
+  background: #FCFAF7;
   border-radius: 12px;
   box-shadow: 0 2px 20px rgba(0,0,0,0.08);
 }
