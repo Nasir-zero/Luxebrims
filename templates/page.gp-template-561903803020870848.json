@@ -11,27 +11,63 @@
   "sections": {
     "gp_section_561903815285015744": {
       "settings": {
-        "checksum": "18a820d0bcc18ceb68eacbd11e9c57b8f55ee80481f27e37320f231a50bc3973_1_1_0_0_",
+        "checksum": "bf99d2203ef12aecf878340b30d974c4ece0d97af3fd7f46b9a8102fee8967d6_1_1_1_0__1",
+        "ggI6FbUW9uq_text": "About Us",
+        "ggYnWalJOEA_text": "<p>Every great story begins with a simple belief. Ours started with the conviction that true luxury isn't just about what you wear—it's about how it makes you feel.</p>",
         "section_preload": "true"
       },
       "type": "gp-section-561903815285015744"
     },
-    "gp_section_561903815603782561": {
-      "settings": {
-        "checksum": "e61ff481f83bdf56f2fb218f675d0b7228f4003b25b5955c3c88db9fb79141f1_1_1_0_0_"
-      },
-      "type": "gp-section-561903815603782561"
-    },
     "gp_section_561903815620559852": {
       "settings": {
-        "checksum": "2dd4d0c3021706032f00ca9030851a7a5cccbbf7e45a30355bb8d603a34ea584_1_1_0_0_"
+        "checksum": "7e3938c56ddabfb6029a04500d828f878a0c4c028256144bdf9c83f075ad6e2f_1_1_1_0__1",
+        "gg2lNLKE9t8_text": "<p>2. Collections</p>",
+        "gg9OAoVh1UR_text": "<p>1. Mystery Box</p>",
+        "ggYndOtqotl_text": "<p><i>Thank you for choosing Luxebrims. We look forward to being a part of your story&nbsp;</i></p><p><i>and helping you express your unique style with&nbsp;</i></p><p><i>confidence and elegance.</i></p>",
+        "ggoR2EFkFi0_text": "<p>3. Accessories</p>"
       },
       "type": "gp-section-561903815620559852"
+    },
+    "gp_section_586069873205969693": {
+      "settings": {
+        "checksum": "43a5e1cd0a44a41d512964ed7d95be6f6b1d4bf277ee5bc21545f13662498e32_1_1_1_0__1",
+        "gg1lECw_9JL_text": "<p><span style=\"background-color:rgb(255,255,255);color:rgb(51,51,51);font-size:16px;\">Luxebrims sources materials from the finest suppliers around the world - this isn't just marketing speak, it's an absolute necessity for achieving the quality we demand. Our Italian leather comes from tanneries with centuries of tradition, our cashmere is sourced from the highlands of Mongolia and Scotland, our silk comes from the most skilled producers in France and Italy, and our precious metals are ethically sourced from certified suppliers.</span></p>",
+        "gg5sfwyl80U_text": "<p><span style=\"background-color:rgb(255,255,255);color:rgb(51,51,51);font-size:16px;\">This global network allows us to work with the world's finest craftspeople - from Italian leather artisans who have perfected their skills over generations, to master weavers who understand the intricacies of luxury textiles. We put our reputation where our standards are and invite everyone to experience the Luxebrims difference.</span></p>",
+        "gg604cPNvNT_text": "1.Why did you start Luxebrims?",
+        "ggCPSVxxegb_text": "<p><span style=\"background-color:rgb(255,255,255);color:rgb(51,51,51);font-size:16px;\">Our approach to sustainability is multi-faceted: we source materials from suppliers who share our commitment to ethical and environmental responsibility, we minimize waste through precise planning and efficient production processes, and we use packaging made from recycled and recyclable materials.</span></p>",
+        "ggDkYAv6ahD_text": "<p><span style=\"background-color:rgb(255,255,255);color:rgb(51,51,51);font-size:16px;\">Our customer service team consists of product specialists who understand every detail of our craftsmanship and can help you make the perfect choice for your needs. We offer personalized styling consultations, detailed care instructions, and ongoing support throughout your ownership experience.</span></p>",
+        "ggE-aMmjccC_text": "<p><span style=\"background-color:rgb(255,255,255);color:rgb(51,51,51);font-size:16px;\">Our \"White Glove Service\" includes complimentary gift wrapping, expedited shipping options, and our unique \"Preview Program\" where you can examine your purchase at home for 30 days before making your final decision.</span></p>",
+        "ggLOgAJfcg-_text": "<p><span style=\"background-color:rgb(255,255,255);color:rgb(51,51,51);font-size:16px;\">Customer satisfaction isn't just our goal - it's our obsession. We understand that choosing Luxebrims is an investment, and we're committed to ensuring that investment brings you joy for years to come.</span></p>",
+        "ggLyvqWK-m4_text": "<p><span style=\"background-color:rgb(255,255,255);color:rgb(51,51,51);font-size:16px;\">We're committed to building a community of individuals who appreciate the finer things in life while staying grounded in authenticity and genuine value.</span></p>",
+        "ggO0EpxJ9Kf_text": "<p><span style=\"background-color:rgb(255,255,255);color:rgb(51,51,51);font-size:16px;\">Whether you're discovering Luxebrims for the first time or you're a longtime member of our community, we're honored to be part of your story and committed to exceeding your expectations at every turn.</span></p>",
+        "ggOciHgwLsF_text": "<p><span style=\"background-color:rgb(255,255,255);color:rgb(51,51,51);font-size:16px;\">We maintain long-term relationships with our suppliers, many of whom have been family businesses for generations. This ensures consistency, quality, and supports traditional craftsmanship techniques that might otherwise be lost to mass production.</span></p>",
+        "ggUnSK6k9Zm_text": "<p><span style=\"background-color:rgb(255,255,255);color:rgb(51,51,51);font-size:16px;\">We personally visit every facility we work with on a regular basis to ensure our products meet our exacting standards, that artisans are treated with respect and fair compensation, and that the processes in place align with our values of excellence and ethical production.</span></p>",
+        "ggZtdyifhLI_text": "<p><span style=\"background-color:rgb(255,255,255);color:rgb(51,51,51);font-size:16px;\">Sustainability is at the core of everything we do at Luxebrims. We believe that true luxury must be responsible luxury. This means creating products that are built to last for generations, not seasons.</span></p>",
+        "gg_XrOa0wYF_text": "<strong>7.Join the Luxebrims Community</strong>",
+        "ggbG1TVh10-_text": "<p><span style=\"background-color:rgb(255,255,255);color:rgb(51,51,51);font-size:16px;\">Each material is chosen not just for its inherent quality, but for the story it tells and the craftsmanship behind it. We believe that the provenance of materials matters as much as their quality - it's what gives each Luxebrims product its unique character and authenticity.</span></p>",
+        "ggblI-RmOIl_text": "<p><span style=\"background-color:rgb(255,255,255);color:rgb(51,51,51);font-size:16px;\">Luxebrims' product designs originate from our design studio in Europe, and the products are manufactured in carefully selected production facilities around the world, including factories in China and other parts of Asia. While some may question this global approach, we believe it is our greatest strength.</span></p>",
+        "ggexFxdMtT3_text": "<strong>2.What is the mission of Luxebrims?</strong>",
+        "ggiqa1lHOMY_text": "<p><span style=\"background-color:rgb(255,255,255);color:rgb(51,51,51);font-size:16px;\">We also offer a comprehensive repair and restoration service for all our products, because we believe that maintaining and caring for quality items is far more sustainable than replacing them. Our craftspeople take pride in breathing new life into well-loved pieces.</span></p>",
+        "ggjtJPwxYJi_text": "<p><span style=\"background-color:rgb(255,255,255);color:rgb(51,51,51);font-size:16px;\">In a tangible sense, we achieve this mission by putting craftsmanship first, sourcing only the finest materials, and maintaining rigorous quality standards throughout every step of our process. But in the more profound sense, we hope our products become cherished companions that enhance your personal style and boost your confidence in every situation.</span></p>",
+        "ggklN2OFV2f_text": "<p><span style=\"background-color:rgb(255,255,255);color:rgb(51,51,51);font-size:16px;\">Luxebrims' mission is to redefine accessible luxury by creating products that inspire confidence and elevate everyday experiences. We believe that luxury isn't just about owning beautiful things - it's about how those things make you feel and the confidence they bring to your daily life.</span></p>",
+        "gglfgdoJ3ty_text": "<p><span style=\"background-color:rgb(255,255,255);color:rgb(51,51,51);font-size:16px;\">We also maintain a private client services team for our most valued customers, offering exclusive access to limited editions, custom modifications, and priority service for repairs and maintenance.</span></p>",
+        "ggntt6VGfJq_text": "<strong>6.How does Luxebrims ensure customer satisfaction?</strong>",
+        "ggq4dh227AJ_text": "<p><span style=\"background-color:rgb(255,255,255);color:rgb(51,51,51);font-size:16px;\">Luxebrims was born from a passionate belief that true luxury should be accessible without compromising on quality or craftsmanship. We noticed a significant gap in the market between mass-produced items and ultra-high-end luxury goods that were out of reach for most discerning customers.&nbsp;</span></p>",
+        "ggqItGp0ql4_text": "<strong>4.Where does Luxebrims source materials?</strong>",
+        "ggtNY1f491B_text": "<p><span style=\"background-color:rgb(255,255,255);color:rgb(51,51,51);font-size:16px;\">At Luxebrims, we're more than a brand - we're a community of individuals who believe that life's finest moments deserve to be celebrated with exceptional quality and timeless style. We invite you to experience the difference that true craftsmanship makes and to join us in our mission to make luxury accessible without compromise.</span></p>",
+        "ggwCD1IuAhq_text": "<strong>3.Where are Luxebrims products produced?</strong>",
+        "ggwh8bsmmN__text": "<p><span style=\"background-color:rgb(255,255,255);color:rgb(51,51,51);font-size:16px;\">Additionally, we're committed to transparency in our supply chain and regularly audit our partners to ensure they meet our standards for worker welfare and environmental responsibility.</span></p>",
+        "ggxOM75Kh0P_text": "<p><span style=\"background-color:rgb(255,255,255);color:rgb(51,51,51);font-size:16px;\">We're extremely proud to bridge this gap by offering meticulously crafted products that embody the essence of European elegance at a price point that makes luxury attainable. Our founders combined decades of experience in luxury goods with a fresh perspective on what modern consumers truly value - authenticity, quality, and timeless design.</span></p>",
+        "ggxfhx0JgY6_text": "<p>From our design studio in Europe, Luxebrims products undergo as many as 80 meticulous steps before they reach your hands. What makes Luxebrims truly unique? Read on, as Luxebrims founder Erica will answer the most frequently asked questions about our brand and our commitment to exquisite craftsmanship.</p>",
+        "ggyCuo2SADC_text": "How Are Luxebrims Hats Made?",
+        "ggyzSH5MAQE_text": "<strong>5.What makes Luxebrims products different?</strong>"
+      },
+      "type": "gp-section-586069873205969693"
     }
   },
   "order": [
     "gp_section_561903815285015744",
-    "gp_section_561903815603782561",
+    "gp_section_586069873205969693",
     "gp_section_561903815620559852"
   ]
 }
