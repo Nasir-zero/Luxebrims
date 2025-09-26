@@ -11,14 +11,26 @@
   "sections": {
     "gp_section_561860316376335396": {
       "settings": {
-        "checksum": "43866ed5525234f66f0f184baa51b03b052db67b00d19fb18959c40323aa4b66_1_1_0_0_",
+        "checksum": "9f2a66765536bfb5682c4f9ec3fc90ca0ad3be856f7e4b47f0e48c14182ead92_1_1_1_0__1",
+        "ggTM3jy3afW_text": "<p>Contact Us&nbsp;</p>",
+        "ggtP-f6STGQ_text": "<p>Due to high volume of orders and interactions, it may take longer for you to respond. We are working diligently during this critical time and we appreciate your patience.</p>",
         "section_preload": "true"
       },
       "type": "gp-section-561860316376335396"
     },
     "gp_section_561860316695102656": {
       "settings": {
-        "checksum": "9760aa36c9893490e7f5a874406a792e7f7d2c13d0f3ac74d51a7a0911ca95f0_1_1_0_0_"
+        "checksum": "7c34c3dd47a4e45b238a45a2ce3896d8c5c455c424934672f1ec48158f9c9868_1_1_1_0__1",
+        "gg3rYV8Vmd4_text": "<p><u>support@luxebrims.com</u></p>",
+        "gg7XmiL0EP7_text": "<p>We're happy to help!</p>",
+        "gg98IYjk7QS_text": "<p>FAQs</p>",
+        "ggG0HwMctkj_label": "Submit",
+        "ggMF_xKPqyy_text": "<p>Have a quick question?<br>Check our <u>FAQs</u> for a quick answer</p>",
+        "ggSNuU4EgJH_text": "<p>Email us</p>",
+        "ggW6FSWBjAs_placeholder": "Email",
+        "ggY_C5DFNvJ_placeholder": "Message",
+        "ggheqRaCnV7_text": "<p>Questions, concerns...? We want to help. Send us a message below</p>",
+        "ggyaPw36j-1_placeholder": "* Your Name"
       },
       "type": "gp-section-561860316695102656"
     }
