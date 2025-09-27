@@ -18,7 +18,7 @@
     "mobile_logo_width": 130,
     "favicon": "shopify://shop_images/20250422203945.png",
     "colors_solid_button_labels": "#fcfaf7",
-    "colors_accent_1": "#191918",
+    "colors_accent_1": "#ff7518",
     "gradient_accent_1": "",
     "colors_accent_2": "#fcfaf7",
     "gradient_accent_2": "linear-gradient(54deg, rgba(109, 56, 139, 1) 14%, rgba(105, 14, 14, 1) 85%)",
