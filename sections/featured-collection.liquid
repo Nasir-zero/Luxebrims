@@ -153,7 +153,18 @@
           <div class="splide__track">
             <ul class="splide__list">
               {%- for product in section.settings.collection.products limit: section.settings.products_to_show -%}
-                {% unless product.tags contains 'collection-hidden' %}
+                {% liquid
+                  assign is_hidden = false
+                  if product.tags contains 'collection-hidden'
+                    assign is_hidden = true
+                  endif
+                  
+                  assign lazy_load = false
+                  if forloop.index > 2
+                    assign lazy_load = true
+                  endif
+                %}
+                {% unless is_hidden %}
                   <li class="splide__slide">
                     <div
                       class="splide__slide__container splide__slide__container--card slider__slide collection-list__item{% if block.settings.collection.featured_image == nil %} collection-list__item--no-media{% endif %} animate-item animate-item--child"
@@ -170,7 +181,8 @@
                         swatches_option_name: section.settings.swatches_option_name,
                         show_quick_add: section.settings.enable_quick_add,
                         custom_color_scheme: section.settings.cards_color_scheme,
-                        section_id: section.id
+                        section_id: section.id,
+                        lazy_load: lazy_load
                       %}
                     </div>
                   </li>

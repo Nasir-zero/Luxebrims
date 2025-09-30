@@ -152,8 +152,13 @@
                   if forloop.index > 2
                     assign lazy_load = true
                   endif
+                  
+                  assign is_hidden = false
+                  if product.tags contains 'collection-hidden'
+                    assign is_hidden = true
+                  endif
                 %}
-                {% unless product.tags contains 'collection-hidden' %}
+                {% unless is_hidden %}
                   <li class="grid__item animate-item animate-item--child" style='--index: {{ forloop.index0 }};'>
                     {% render 'card-product',
                       card_product: product,

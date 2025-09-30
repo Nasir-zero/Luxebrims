@@ -1,0 +1,104 @@
+{% comment %}
+  Performance optimization snippet for TTFB improvement
+  This snippet provides various performance optimizations
+{% endcomment %}
+
+{% comment %} Critical CSS inlining for above-the-fold content {% endcomment %}
+{% if template.name == 'index' %}
+  <style>
+    /* Critical above-the-fold styles */
+    .header-wrapper { position: relative; z-index: 10; }
+    .main-content { min-height: 50vh; }
+    .loading-placeholder { 
+      background: linear-gradient(90deg, #f0f0f0 25%, #e0e0e0 50%, #f0f0f0 75%);
+      background-size: 200% 100%;
+      animation: loading 1.5s infinite;
+    }
+    @keyframes loading {
+      0% { background-position: 200% 0; }
+      100% { background-position: -200% 0; }
+    }
+  </style>
+{% endif %}
+
+{% comment %} Resource hints for better performance {% endcomment %}
+{% if template.name == 'product' %}
+  <link rel="prefetch" href="{{ product.featured_image | image_url: width: 800 }}">
+  {% for image in product.images limit: 3 %}
+    <link rel="prefetch" href="{{ image | image_url: width: 400 }}">
+  {% endfor %}
+{% endif %}
+
+{% if template.name == 'collection' %}
+  {% for product in collection.products limit: 6 %}
+    <link rel="prefetch" href="{{ product.url }}">
+    <link rel="prefetch" href="{{ product.featured_image | image_url: width: 400 }}">
+  {% endfor %}
+{% endif %}
+
+{% comment %} Lazy loading for non-critical images {% endcomment %}
+<script>
+  // Enhanced lazy loading
+  if ('IntersectionObserver' in window) {
+    const imageObserver = new IntersectionObserver((entries, observer) => {
+      entries.forEach(entry => {
+        if (entry.isIntersecting) {
+          const img = entry.target;
+          img.src = img.dataset.src;
+          img.classList.remove('lazy');
+          observer.unobserve(img);
+        }
+      });
+    });
+
+    document.addEventListener('DOMContentLoaded', () => {
+      const lazyImages = document.querySelectorAll('img[data-src]');
+      lazyImages.forEach(img => imageObserver.observe(img));
+    });
+  }
+</script>
+
+{% comment %} Service Worker for caching {% endcomment %}
+<script>
+  if ('serviceWorker' in navigator) {
+    window.addEventListener('load', () => {
+      navigator.serviceWorker.register('/sw.js')
+        .then(registration => {
+          console.log('SW registered: ', registration);
+        })
+        .catch(registrationError => {
+          console.log('SW registration failed: ', registrationError);
+        });
+    });
+  }
+</script>
+
+{% comment %} Performance monitoring {% endcomment %}
+<script>
+  // Web Vitals monitoring
+  function sendToAnalytics(metric) {
+    if (typeof gtag !== 'undefined') {
+      gtag('event', metric.name, {
+        event_category: 'Web Vitals',
+        event_label: metric.id,
+        value: Math.round(metric.name === 'CLS' ? metric.value * 1000 : metric.value),
+        non_interaction: true,
+      });
+    }
+  }
+
+  // Measure TTFB
+  if ('performance' in window) {
+    window.addEventListener('load', () => {
+      const navigation = performance.getEntriesByType('navigation')[0];
+      if (navigation) {
+        const ttfb = navigation.responseStart - navigation.requestStart;
+        sendToAnalytics({
+          name: 'TTFB',
+          value: ttfb,
+          id: 'ttfb'
+        });
+      }
+    });
+  }
+</script>

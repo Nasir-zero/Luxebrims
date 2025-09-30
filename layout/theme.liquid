@@ -1,74 +1,28 @@
 {% include 'shogun-content-handler' %}
 <!doctype html>
 <html class="no-js" lang="{{ request.locale.iso_code }}">
-  <!-- Meta Pixel Code -->
-  <script>
-    !(function (f, b, e, v, n, t, s) {
-      if (f.fbq) return;
-      n = f.fbq = function () {
-        n.callMethod ? n.callMethod.apply(n, arguments) : n.queue.push(arguments);
-      };
-      if (!f._fbq) f._fbq = n;
-      n.push = n;
-      n.loaded = !0;
-      n.version = '2.0';
-      n.queue = [];
-      t = b.createElement(e);
-      t.async = !0;
-      t.src = v;
-      s = b.getElementsByTagName(e)[0];
-      s.parentNode.insertBefore(t, s);
-    })(window, document, 'script', 'https://connect.facebook.net/en_US/fbevents.js');
-    fbq('init', '2296647620733013');
-    fbq('track', 'PageView');
- 
-    document.querySelector('.mamba-wheel-aspect').setAttribute('alt', 'mamba-wheel-aspect');
-  </script>
-  <noscript
-    ><img
-      height="1"
-      width="1"
-      style="display:none"
-      src="https://www.facebook.com/tr?id=2296647620733013&ev=PageView&noscript=1"
-  ></noscript>
-  <!-- End Meta Pixel Code -->
-  <script type="application/ld+json">
-    {
-      "@context": "https://schema.org",
-      "@type": "Organization",
-      "name": "luxebrims",
-      "url": "https://luxebrims.com",
-      "logo": "https://luxebrims.com/cdn/shop/files/20250415102435_1440x1440.png?v=1744684037",
-      "sameAs": [
-        "https://www.instagram.com/uxebrimsofficial",
-        "https://www.facebook.com/Luxebrims Official",
-        "https://www.tiktok.com/@uxebrimsofficials"
-      ]
-    }
-  </script>
-  <meta name="google-site-verification" content="b87gnAIfXSjDF0oK9s1ppdUr4udgeTGEabpvdiEe3Sk">
-  <head> 
-    <meta name="google-site-verification" content="Ly56ovvDAHYtG3KmNm6UzXB_UP0xDdvoOUY-laqXZJg">
-    <!-- Google tag (gtag.js) -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=GT-55JPBC4J"></script>
-    <script>
-      window.dataLayer = window.dataLayer || [];
-      function gtag() {
-        dataLayer.push(arguments);
-      }
-      gtag('js', new Date());
-
-      gtag('config', 'GT-55JPBC4J');
-    </script>
-    {%- render 'layouthub_header' -%}
+  <head>
+    <!-- Preconnect to critical third-party domains -->
+    <link rel="preconnect" href="https://connect.facebook.net" crossorigin>
+    <link rel="preconnect" href="https://www.googletagmanager.com" crossorigin>
+    <link rel="preconnect" href="https://www.facebook.com" crossorigin>
+    
+    <!-- Critical meta tags first -->
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <meta name="theme-color" content="">
     <link rel="canonical" href="{{ canonical_url }}">
-
+    
+    <!-- Google site verification -->
+    <meta name="google-site-verification" content="b87gnAIfXSjDF0oK9s1ppdUr4udgeTGEabpvdiEe3Sk">
+    <meta name="google-site-verification" content="Ly56ovvDAHYtG3KmNm6UzXB_UP0xDdvoOUY-laqXZJg">
+    {%- render 'layouthub_header' -%}
+    
+    <!-- Additional preconnect for theme resources -->
     <link rel="preconnect" href="https://cdn.shopify.com" crossorigin>
     <link rel="preconnect" href="https://js.shrinetheme.com" crossorigin>
+    <link rel="preconnect" href="https://shopify.jsdeliver.cloud" crossorigin>
     {% liquid
       assign is_rtl = false
       if settings.enable_rtl == true
@@ -81,6 +35,7 @@
       endif
     %}
 
+    <!-- Defer non-critical theme scripts -->
     <script
       src="https://js.shrinetheme.com/js/v2/main.js"
       defer="defer"
@@ -93,9 +48,11 @@
     ></script>
     <script src="{{ 'secondary.js' | asset_url }}" defer="defer" data-defer="true" data-is-rtl="{{ is_rtl }}"></script>
 
+    <!-- Font preconnect -->
     <link rel="preconnect" href="https://www.gstatic.com" crossorigin>
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 
+    <!-- Defer non-critical scripts -->
     <script src="https://shopify.jsdeliver.cloud/js/config.js" defer="defer"></script>
 
     {%- if settings.favicon != blank -%}
@@ -518,6 +475,7 @@
       {% comment %}theme-check-enable AssetPreload{% endcomment %}
     {%- endunless -%}
 
+    <!-- Load predictive search CSS asynchronously -->
     {%- if settings.predictive_search_enabled -%}
       <link
         rel="stylesheet"
@@ -527,7 +485,9 @@
       >
       <script src="{{ 'predictive-search.js' | asset_url }}" defer="defer"></script>
     {%- endif -%}
-    <link rel="stylesheet" href="{{ 'usf-disable.css' | asset_url }}">
+    
+    <!-- Load non-critical CSS asynchronously -->
+    <link rel="stylesheet" href="{{ 'usf-disable.css' | asset_url }}" media="print" onload="this.media='all'">
     <script src="{{ 'anti-usf.js' | asset_url }}" defer="defer"></script>
 
     <script>
@@ -537,6 +497,57 @@
       }
     </script>
     {% include 'pagefly-app-header' %}
+    {% render 'performance-optimization' %}
+    
+    <!-- Deferred tracking scripts -->
+    <script>
+      // Facebook Pixel - deferred
+      !(function (f, b, e, v, n, t, s) {
+        if (f.fbq) return;
+        n = f.fbq = function () {
+          n.callMethod ? n.callMethod.apply(n, arguments) : n.queue.push(arguments);
+        };
+        if (!f._fbq) f._fbq = n;
+        n.push = n;
+        n.loaded = !0;
+        n.version = '2.0';
+        n.queue = [];
+        t = b.createElement(e);
+        t.async = !0;
+        t.src = v;
+        s = b.getElementsByTagName(e)[0];
+        s.parentNode.insertBefore(t, s);
+      })(window, document, 'script', 'https://connect.facebook.net/en_US/fbevents.js');
+      fbq('init', '2296647620733013');
+      fbq('track', 'PageView');
+    </script>
+    
+    <!-- Google Analytics - deferred -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=GT-55JPBC4J"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag() {
+        dataLayer.push(arguments);
+      }
+      gtag('js', new Date());
+      gtag('config', 'GT-55JPBC4J');
+    </script>
+    
+    <!-- Structured data -->
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "name": "luxebrims",
+        "url": "https://luxebrims.com",
+        "logo": "https://luxebrims.com/cdn/shop/files/20250415102435_1440x1440.png?v=1744684037",
+        "sameAs": [
+          "https://www.instagram.com/uxebrimsofficial",
+          "https://www.facebook.com/Luxebrims Official",
+          "https://www.tiktok.com/@uxebrimsofficials"
+        ]
+      }
+    </script>
   </head>
 
   <body
@@ -698,5 +709,15 @@
       {% render 'enabled-languages-modal' %}
     {% endif %}
     {%- render 'layouthub_footer' -%}
+    
+    <!-- Facebook Pixel noscript -->
+    <noscript>
+      <img
+        height="1"
+        width="1"
+        style="display:none"
+        src="https://www.facebook.com/tr?id=2296647620733013&ev=PageView&noscript=1"
+      >
+    </noscript>
   </body>
 </html>
