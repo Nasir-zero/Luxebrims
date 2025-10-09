@@ -11,40 +11,43 @@
   "sections": {
     "gp_section_569598931776898272": {
       "settings": {
-        "checksum": "2b9eee1472c80042f6edd53b4e4184ba1d2297b6bcc0492f64d13d5382b507fa_1_1_1_0_"
+        "checksum": "2b9eee1472c80042f6edd53b4e4184ba1d2297b6bcc0492f64d13d5382b507fa_1_1_1_0__1",
+        "ggE5gEUpsmA_text": "Customers Show"
       },
       "type": "gp-section-569598931776898272"
     },
     "gp_section_569598931776963808": {
       "settings": {
-        "checksum": "35fef15ebc0babb127e5c5c5d891b0c0090b5667047e5b261621a4639efc866d_1_1_1_0_",
+        "checksum": "5d05c50fae7ce5e20422d79cdd24e0b5c2b2052ff9e96452b8f3f0d6a0b48307_1_1_1_0__1",
         "section_preload": "true"
       },
       "type": "gp-section-569598931776963808"
     },
     "gp_section_569598931777029344": {
       "settings": {
-        "checksum": "f205eb40de1fdd2e85ac40d44468c2f3229b7b4eca3ab97b1d942fd7b2d34cbf_1_1_1_0_"
+        "checksum": "f205eb40de1fdd2e85ac40d44468c2f3229b7b4eca3ab97b1d942fd7b2d34cbf_1_1_1_0__1"
       },
       "type": "gp-section-569598931777029344"
     },
     "gp_section_569598931777094880": {
       "settings": {
-        "checksum": "628367b9023305f3acac057040cd54d7dbeb2a416cfda431e9b83d348d8f29be_1_1_1_0_"
+        "checksum": "5263afba987ea0e5a1f23d0d8faf364569ab02964c95e6aac825373f2fa7ed24_1_1_1_0__1",
+        "gg-IZXxya8x_customContent_suffix": "off",
+        "gg1gJfnhA43_defaultLabel": "Copy",
+        "ggCd0TudAnX_text": "<p><span style=\"font-size:16px;\">35% off orders over $300 &nbsp;</span></p><p><span style=\"font-size:16px;\">Code：</span><span style=\"color:#FF0000;font-size:16px;\"><strong>LUXEHalloween30</strong></span></p>",
+        "ggUjYk4WldP_text": "<p><span style=\"font-size:16px;\">25% off orders over $200&nbsp;</span></p><p><span style=\"font-size:16px;\">&nbsp;Code：</span><span style=\"color:#FF0000;font-size:16px;\"><strong>LUXEHalloween20</strong></span></p>",
+        "ggXuW2gXBgl_label": "Add to cart",
+        "ggXuW2gXBgl_outOfStockLabel": "Out Of Stock",
+        "ggXuW2gXBgl_unavailableLabel": "Unavailable",
+        "ggdc6wxsort_defaultLabel": "Copy",
+        "ggwKuXxLQJ1_text": "Cowboy-Hats"
       },
       "type": "gp-section-569598931777094880"
-    },
-    "gp_section_581721826153988968": {
-      "settings": {
-        "checksum": "efe9d59c8697a03c589426321d4df66e8eeb3ecf03f648c3d8a4270eb7f1a1c6_1_1_1_0_"
-      },
-      "type": "gp-section-581721826153988968"
     }
   },
   "order": [
     "gp_section_569598931776963808",
     "gp_section_569598931777094880",
-    "gp_section_581721826153988968",
     "gp_section_569598931776898272",
     "gp_section_569598931777029344"
   ]
