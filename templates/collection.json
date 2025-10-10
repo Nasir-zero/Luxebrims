@@ -18,14 +18,22 @@
     },
     "gp_section_561890596046767084": {
       "settings": {
-        "checksum": "06ca7acc12c17148634978de3778de86b4369d32b926db724fa11a332a7d344e_1_1_1_0_",
+        "checksum": "5c65051e9aabb1c34aec3ed400027fa52a93fef4be0e13c3a6193a46693a3fed_1_1_1_0__1",
+        "gg1ppQ-GrZW_customContent_suffix": "off",
+        "ggAxXQYDp2R_label": "Add to cart",
+        "ggAxXQYDp2R_outOfStockLabel": "Out of stocks",
+        "ggAxXQYDp2R_unavailableLabel": "Unavailable",
+        "gggZbLy0EBc_quantityTextDisplay": "%number% products",
+        "gggZbLy0EBc_sortingTextDisplay": "Sorting",
         "section_preload": "true"
       },
       "type": "gp-section-561890596046767084"
     },
     "gp_section_562326030015005570": {
       "settings": {
-        "checksum": "28a59cf43333f153ad857aeba0b7cdff9f2978d7ecec49434bb706287ea1a32a_1_1_1_0_"
+        "checksum": "28a59cf43333f153ad857aeba0b7cdff9f2978d7ecec49434bb706287ea1a32a_1_1_1_0__1",
+        "ggDWKfifQHA_nextText": ">",
+        "ggDWKfifQHA_previousText": "<"
       },
       "type": "gp-section-562326030015005570"
     }
