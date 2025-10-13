@@ -18,22 +18,17 @@
     "gp_section_563239031647830835": {
       "type": "gp-section-563239031647830835",
       "blocks": {
-        "gp_app_selleasy_gf9vFwHNPC": {
-          "type": "shopify://apps/selleasy/blocks/lb-upsell-widget-pac/790c1a03-a71f-4bc1-9869-00dad526d3c2",
-          "settings": {}
-        },
         "gp_app_selleasy_gyfc2ONik3": {
           "type": "shopify://apps/selleasy/blocks/lb-upsell-widget-bl/790c1a03-a71f-4bc1-9869-00dad526d3c2",
           "settings": {}
         }
       },
       "block_order": [
-        "gp_app_selleasy_gf9vFwHNPC",
         "gp_app_selleasy_gyfc2ONik3"
       ],
       "settings": {
         "section_preload": "true",
-        "checksum": "c3e28b5238b0cc510555fe49bf674c3f063c0080a0162bdae6fbf949179d1376_1_1_1_0__1",
+        "checksum": "4ce061a9292e2d521465eed7c0f3d77d2b84a376e1e71a5d4acb2fb509324ccc_1_1_1_0__1",
         "ggXlf9CLBUw_text": "<p>(1080 reviews)</p>",
         "ggnsRlswju9_text": "<p>Short top in soft fabric with a square neckline and draped bodice. Long sleeves with narrow elastic at shoulders and cuffs. Lined bodice.</p>",
         "gg6w0oYKL-F_text": "Quantity",
