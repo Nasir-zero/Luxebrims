@@ -10,24 +10,34 @@
 {
   "sections": {
     "gp_section_563239031647765299": {
+      "type": "gp-section-563239031647765299",
       "settings": {
         "checksum": "71d5e6f33ff9732591889cc7ea383bbfefd58d62c5d27fb852ae2b09a9ce2bc8_1_1_1_0__1"
-      },
-      "type": "gp-section-563239031647765299"
+      }
     },
     "gp_section_563239031647830835": {
-      "block_order": [
-        "gp_app_selleasy_gyfc2ONik3"
-      ],
+      "type": "gp-section-563239031647830835",
       "blocks": {
+        "gp_app_selleasy_gOxBzXDrj4": {
+          "type": "shopify://apps/selleasy/blocks/lb-upsell-widget-pac/790c1a03-a71f-4bc1-9869-00dad526d3c2",
+          "settings": {}
+        },
         "gp_app_selleasy_gyfc2ONik3": {
           "type": "shopify://apps/selleasy/blocks/lb-upsell-widget-bl/790c1a03-a71f-4bc1-9869-00dad526d3c2",
           "settings": {}
         }
       },
+      "block_order": [
+        "gp_app_selleasy_gOxBzXDrj4",
+        "gp_app_selleasy_gyfc2ONik3"
+      ],
       "settings": {
-        "checksum": "bb9b21c5cdb3a9ab65811011e62d60c4df51a64fae801a36b78919e50c78189d_1_1_1_0__1",
+        "section_preload": "true",
+        "checksum": "32d8c2c79f36709877eeddfca46099ac86caa60c0a8151ac6bf86a844f3c0ae4_1_1_1_0__1",
+        "ggXlf9CLBUw_text": "<p>(1080 reviews)</p>",
+        "ggnsRlswju9_text": "<p>Short top in soft fabric with a square neckline and draped bodice. Long sleeves with narrow elastic at shoulders and cuffs. Lined bodice.</p>",
         "gg6w0oYKL-F_text": "Quantity",
+        "ggqFlBYCtF3_text": "<p><a href=\"https://luxebrims.com/pages/hat-size-guide\"><u>Size Guide</u></a></p>",
         "gg9EkWcHJcu_label": "Add To card",
         "gg9EkWcHJcu_outOfStockLabel": "Out of stock",
         "gg9EkWcHJcu_unavailableLabel": "Unavailable",
@@ -37,33 +47,28 @@
         "ggASsv2ZA0V_childItem_0": "<p>Discription</p>",
         "ggASsv2ZA0V_childItem_1": "<p>Size+fit</p>",
         "ggASsv2ZA0V_childItem_2": "<p>Free Shipping</p>",
-        "ggNRet-TOB1_viewLessText": "Show less",
         "ggNRet-TOB1_viewMoreText": "Show more",
+        "ggNRet-TOB1_viewLessText": "Show less",
         "ggOBbmTy4bI_text": "<p>At LuxeBrims, our hats are crafted with precision to ensure a tailored and flattering fit.</p><p>&nbsp;</p><p><strong>True to Size:</strong><br>Each style is designed to fit true to size, following standard international headwear measurements. Simply select your usual hat size for the most comfortable fit.</p><p>&nbsp;</p><p><strong>Between Sizes:</strong><br>If you find yourself between sizes, we recommend using one of our premium hat fillers. Designed for subtle comfort, they provide a secure fit without compromising the hat’s shape or style.</p><p>&nbsp;</p><p><strong>Need Assistance</strong>:<br>Not sure of your size? Visit our <a href=\"https://luxebrims.com/pages/hat-size-guide\"><u>Hat Size Guide</u></a> or reach out to our support team — we're here to help you find your perfect fit.</p>",
-        "ggXlf9CLBUw_text": "<p>(1080 reviews)</p>",
-        "ggnsRlswju9_text": "<p>Short top in soft fabric with a square neckline and draped bodice. Long sleeves with narrow elastic at shoulders and cuffs. Lined bodice.</p>",
-        "ggqFlBYCtF3_text": "<p><a href=\"https://luxebrims.com/pages/hat-size-guide\"><u>Size Guide</u></a></p>",
-        "ggtiHwHoJoI_text": "<p><span style=\"color:#3B3B3B;\">LuxeBrims delivers to customers around the world — with free shipping and estimated delivery in 15–20 business days.</span><br><span style=\"color:#3B3B3B;\">Note: Delivery times may vary slightly depending on your location.</span></p>",
-        "section_preload": "true"
-      },
-      "type": "gp-section-563239031647830835"
+        "ggtiHwHoJoI_text": "<p><span style=\"color:#3B3B3B;\">LuxeBrims delivers to customers around the world — with free shipping and estimated delivery in 15–20 business days.</span><br><span style=\"color:#3B3B3B;\">Note: Delivery times may vary slightly depending on your location.</span></p>"
+      }
     },
     "gp_section_563239031647896371": {
+      "type": "gp-section-563239031647896371",
       "settings": {
         "checksum": "a30780181f80058722f0c22523db0cd90cb9098ce2a7af597dcd3157a64de765_1_1_1_0__1",
         "ggAxk2GUPDw_label": "Add To cart",
         "ggAxk2GUPDw_outOfStockLabel": "Out Of Stock",
         "ggAxk2GUPDw_unavailableLabel": "Unavailable",
         "ggAxk2GUPDw_variantSelectionRequiredMessage": "Please select a variant to add product to cart"
-      },
-      "type": "gp-section-563239031647896371"
+      }
     },
     "gp_section_563239031647961907": {
+      "type": "gp-section-563239031647961907",
       "settings": {
         "checksum": "e7cc0016118a6acc47f1462ccf3ed004da1e9ae090d5efdfbb81ee7a21d42928_1_1_1_0__1",
         "ggTbNKrpvEN_text": "You may also like"
-      },
-      "type": "gp-section-563239031647961907"
+      }
     }
   },
   "order": [
