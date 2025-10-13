@@ -12,6 +12,7 @@
     "gp_section_563239031647765299": {
       "type": "gp-section-563239031647765299",
       "settings": {
+        "section_preload": "false",
         "checksum": "71d5e6f33ff9732591889cc7ea383bbfefd58d62c5d27fb852ae2b09a9ce2bc8_1_1_1_0__1"
       }
     },
@@ -28,7 +29,7 @@
       ],
       "settings": {
         "section_preload": "true",
-        "checksum": "4ce061a9292e2d521465eed7c0f3d77d2b84a376e1e71a5d4acb2fb509324ccc_1_1_1_0__1",
+        "checksum": "3628308b378cd43b9617e74cb7f8c97fee3bb8160ad35d57ddbdf4f6bed5dd3d_1_1_1_0__1",
         "ggXlf9CLBUw_text": "<p>(1080 reviews)</p>",
         "ggnsRlswju9_text": "<p>Short top in soft fabric with a square neckline and draped bodice. Long sleeves with narrow elastic at shoulders and cuffs. Lined bodice.</p>",
         "gg6w0oYKL-F_text": "Quantity",
@@ -51,6 +52,7 @@
     "gp_section_563239031647896371": {
       "type": "gp-section-563239031647896371",
       "settings": {
+        "section_preload": "false",
         "checksum": "a30780181f80058722f0c22523db0cd90cb9098ce2a7af597dcd3157a64de765_1_1_1_0__1",
         "ggAxk2GUPDw_label": "Add To cart",
         "ggAxk2GUPDw_outOfStockLabel": "Out Of Stock",
@@ -61,6 +63,7 @@
     "gp_section_563239031647961907": {
       "type": "gp-section-563239031647961907",
       "settings": {
+        "section_preload": "false",
         "checksum": "e7cc0016118a6acc47f1462ccf3ed004da1e9ae090d5efdfbb81ee7a21d42928_1_1_1_0__1",
         "ggTbNKrpvEN_text": "You may also like"
       }
