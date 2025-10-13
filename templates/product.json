@@ -68,6 +68,15 @@
     },
     "gp_section_563661322948969637": {
       "type": "gp-section-563661322948969637",
+      "blocks": {
+        "selleasy_lb_upsell_widget_bl_HHQtwn": {
+          "type": "shopify://apps/selleasy/blocks/lb-upsell-widget-bl/790c1a03-a71f-4bc1-9869-00dad526d3c2",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "selleasy_lb_upsell_widget_bl_HHQtwn"
+      ],
       "settings": {
         "section_preload": "true",
         "checksum": "54793a673c9b29a463032439695cf05956c737c98de636e8d3c9f403c68b70b0_1_1_1_0_",
