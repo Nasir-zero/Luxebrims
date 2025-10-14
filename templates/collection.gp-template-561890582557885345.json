@@ -18,7 +18,7 @@
     },
     "gp_section_561890596046767084": {
       "settings": {
-        "checksum": "5c65051e9aabb1c34aec3ed400027fa52a93fef4be0e13c3a6193a46693a3fed_1_1_1_0__1",
+        "checksum": "27b720bb94a66325d7bd4d417446a7ad5eccd84311d733f8f26891a50a99c3c9_1_1_1_0__1",
         "gg1ppQ-GrZW_customContent_suffix": "off",
         "ggAxXQYDp2R_label": "Add to cart",
         "ggAxXQYDp2R_outOfStockLabel": "Out of stocks",
@@ -32,8 +32,9 @@
     "gp_section_562326030015005570": {
       "settings": {
         "checksum": "28a59cf43333f153ad857aeba0b7cdff9f2978d7ecec49434bb706287ea1a32a_1_1_1_0__1",
-        "ggDWKfifQHA_nextText": ">",
-        "ggDWKfifQHA_previousText": "<"
+        "ggDWKfifQHA_nextText": "&gt;",
+        "ggDWKfifQHA_previousText": "&lt;",
+        "section_preload": "false"
       },
       "type": "gp-section-562326030015005570"
     }

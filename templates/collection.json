@@ -9,48 +9,37 @@
  */
 {
   "sections": {
-    "gp_section_561890596046767084": {
-      "type": "gp-section-561890596046767084",
+    "gp_global_section_562325613218628482-1": {
       "settings": {
-        "section_preload": "true",
-        "checksum": "5c65051e9aabb1c34aec3ed400027fa52a93fef4be0e13c3a6193a46693a3fed_1_1_1_0__1",
-        "gggZbLy0EBc_sortingTextDisplay": "Sorting",
-        "gggZbLy0EBc_quantityTextDisplay": "%number% products",
+        "checksum": "",
+        "section_preload": "false"
+      },
+      "type": "gp-global-section-562325613218628482"
+    },
+    "gp_section_561890596046767084": {
+      "settings": {
+        "checksum": "27b720bb94a66325d7bd4d417446a7ad5eccd84311d733f8f26891a50a99c3c9_1_1_1_0__1",
         "gg1ppQ-GrZW_customContent_suffix": "off",
         "ggAxXQYDp2R_label": "Add to cart",
         "ggAxXQYDp2R_outOfStockLabel": "Out of stocks",
-        "ggAxXQYDp2R_unavailableLabel": "Unavailable"
-      }
+        "ggAxXQYDp2R_unavailableLabel": "Unavailable",
+        "gggZbLy0EBc_quantityTextDisplay": "%number% products",
+        "gggZbLy0EBc_sortingTextDisplay": "Sorting",
+        "section_preload": "true"
+      },
+      "type": "gp-section-561890596046767084"
     },
     "gp_section_562326030015005570": {
-      "type": "gp-section-562326030015005570",
       "settings": {
-        "section_preload": "false",
         "checksum": "28a59cf43333f153ad857aeba0b7cdff9f2978d7ecec49434bb706287ea1a32a_1_1_1_0__1",
+        "ggDWKfifQHA_nextText": "&gt;",
         "ggDWKfifQHA_previousText": "&lt;",
-        "ggDWKfifQHA_nextText": "&gt;"
-      }
-    },
-    "gp_global_section_562325613218628482-1": {
-      "type": "gp-global-section-562325613218628482",
-      "settings": {
-        "section_preload": "false",
-        "checksum": "",
-        "gg2pNmmJkxV_text": "#ON INSTAGRAM"
-      }
-    },
-    "article_preview_NRHmPy": {
-      "type": "article-preview",
-      "name": "Article Preview",
-      "settings": {
-        "title": "Baseball caps: a trendy choice for everyone",
-        "excerpt": "Baseball caps have distant roots, but over time they have spread into many settings and contexts. They began as a functional accessory to shield the eyes from bright sunlight during games, and in the United States, they were immediat...",
-        "full_content": "<p>Baseball caps have distant roots, but over time they have spread into many settings and contexts. They began as a functional accessory to shield the eyes from bright sunlight during games, and in the United States, they were immediately recognized for their practical value.</p><p>From the games to the streets: everyday use</p><p>Baseball caps have become urban style icons, suitable for both outdoor and informal indoor settings. They highlight versatility, ability to add a \"pop of color,\" and the protection and practicality they offer.</p><p>Materials and basic care</p><p>This section focuses on the importance of fabric choice (cotton, polyester, synthetic blends) for breathability and durability. It provides simple care instructions, including gentle washing, air-drying, and dry storage.</p><p>Personal choice and styling</p><p>This final section explores the countless styling possibilities with baseball caps. It mentions pairing them with casual wear like jeans, T-shirts, and sneakers, as well as dressier pieces for contrast.</p>"
-      }
+        "section_preload": "false"
+      },
+      "type": "gp-section-562326030015005570"
     }
   },
   "order": [
-    "article_preview_NRHmPy",
     "gp_section_561890596046767084",
     "gp_section_562326030015005570",
     "gp_global_section_562325613218628482-1"
