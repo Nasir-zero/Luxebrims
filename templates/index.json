@@ -64,10 +64,10 @@
     },
     "gp_section_560448256270664560": {
       "settings": {
-        "checksum": "8f40e9cd9dc5ce22462eb01f16103490afc37a3cd7e5b0ba903b7f44363abecb_1_1_1_0__1",
-        "ggCeZSez22Q_text": "Luxebrims Hat",
-        "gggtDCkkEyK_label": "<p>Shop Now</p>",
-        "ggmjobzlJw3_text": "<p>Crafted with the same care and attention to detail that goes into our legendary hats.</p>",
+        "checksum": "526915524990be787e0a4690fc5ddf6be85754e66d12ba98a94186cc5d3a1e8a_1_1_1_0__1",
+        "ggBXAO1EcC2_text": "<p>Crafted with the same care and attention to detail that goes into our legendary hats.</p>",
+        "ggb6fYjSUkJ_label": "<p>Shop Now</p>",
+        "ggh0t1C5Ncc_text": "Luxebrims Hat",
         "section_preload": "true"
       },
       "type": "gp-section-560448256270664560"
@@ -152,11 +152,11 @@
     },
     "gp_section_589690465054360465": {
       "settings": {
-        "checksum": "d09c1363d33fd70a987f5b6afc6b7fe49841bdb3fbfc9f54984235062f9263ea_1_1_1_0__1",
-        "gg-bL28X1dl_label": "<p>&nbsp; Women &nbsp;</p>",
-        "gg7G18y-um0_text": "The Spirit of the West",
-        "ggC84LMzgCH_text": "<p>“Where Western Spirit Meets Modern Style.”<br>Timeless Texana hats for those who live free and ride proud.</p>",
-        "ggcrvyBXrTW_label": "<p>Men</p>"
+        "checksum": "f291fccabf332aea19ce7b2657f4e68c465fe013452f56d69218182edc4fff00_1_1_1_0__1",
+        "ggCFl0fiT1o_text": "<p>“Where Western Spirit Meets Modern Style.”<br>Timeless Texana hats for those who live free and ride proud.</p>",
+        "ggX0GD5fRqT_label": "<p>Women</p>",
+        "ggim6MSPXgl_text": "The Spirit of the West",
+        "ggqMTANcanV_label": "<p>Men</p>"
       },
       "type": "gp-section-589690465054360465"
     }
