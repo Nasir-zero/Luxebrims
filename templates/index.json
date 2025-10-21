@@ -64,11 +64,10 @@
     },
     "gp_section_560448256270664560": {
       "settings": {
-        "checksum": "67c0d80d776c6fed85c9e15a7a2d5a74f35548b1a7b754d870efea1cc3501807_1_1_1_0__1",
-        "gg-7c098B4n_text": "New Straw Hat",
-        "gg1OzWXYfxJ_label": "<p>Shop Now</p>",
-        "ggWZI8ImAY4_text": "Cowboy Hat",
-        "ggzVRIlGwo3_label": "<p>Shop Now</p>",
+        "checksum": "33a60165c02b97011f70e91c8c27a0986009bd7a8eb49784f3d87769d0aba307_1_1_1_0__1",
+        "ggCeZSez22Q_text": "Luxebrims Hat",
+        "gggtDCkkEyK_label": "<p>Shop Now</p>",
+        "ggmjobzlJw3_text": "<p>Crafted with the same care and attention to detail that goes into our legendary hats.</p>",
         "section_preload": "true"
       },
       "type": "gp-section-560448256270664560"
@@ -150,10 +149,21 @@
         "ggzco0rOCUP_label": "<p>Rewards</p>"
       },
       "type": "gp-section-563504039585645363"
+    },
+    "gp_section_589690465054360465": {
+      "settings": {
+        "checksum": "e29a4f8545a2ea46d9a7f68a699ee498f70d640c7995880589b02fa14b236426_1_1_1_0__1",
+        "gg-bL28X1dl_label": "<p>&nbsp; Women &nbsp;</p>",
+        "gg7G18y-um0_text": "The Spirit of the West",
+        "ggC84LMzgCH_text": "<p>“Where Western Spirit Meets Modern Style.”<br>Timeless Texana hats for those who live free and ride proud.</p>",
+        "ggEeJIwRrH7_label": "<p>&nbsp; &nbsp; &nbsp; &nbsp;Men &nbsp; &nbsp; &nbsp;&nbsp;</p>"
+      },
+      "type": "gp-section-589690465054360465"
     }
   },
   "order": [
     "gp_section_560448256270664560",
+    "gp_section_589690465054360465",
     "gp_section_560310868135379824",
     "gp_section_560422958695187312",
     "gp_section_560310868504478810",
