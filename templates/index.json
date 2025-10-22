@@ -11,7 +11,7 @@
   "sections": {
     "gp_section_560310868135379824": {
       "settings": {
-        "checksum": "d66457cfa1beb3229c90184abf8b419443bd16445f954a7af455a9c3046d8200_1_1_1_0__1",
+        "checksum": "82f3972683c76b638ed3a949c27fb4a849ff211f8994c44b5db6c167f67e4299_1_1_1_0__1",
         "ggEnH_OQS-v_label": "Add to cart",
         "ggEnH_OQS-v_outOfStockLabel": "Out of stocks",
         "ggEnH_OQS-v_unavailableLabel": "Unavailable",
@@ -23,7 +23,7 @@
     },
     "gp_section_560310868504478810": {
       "settings": {
-        "checksum": "1bb426c1dd16f75cf3207bdb813b514faede515ca720a067ab8ff0024268cc00_1_1_1_0__1",
+        "checksum": "75ed5e0ac7a20d60ca79b483edef92b4eedb0e496831c0745c002a81cd17a6ea_1_1_1_0__1",
         "ggAS4ndUFgc_label": "<p><strong>Shop Now</strong></p>",
         "ggEaqiAMFjI_text": "Mens&nbsp;",
         "gglPBP_4IQI_label": "<p><strong>Shop Now</strong></p>",
@@ -34,9 +34,8 @@
     },
     "gp_section_560422958695187312": {
       "settings": {
-        "checksum": "fa0696d1734460edd3891b19b96076dda0eb5679fc79a17576c80ff5fba24f7e_1_1_1_0__1",
+        "checksum": "bca5c04dc579e937ef4d106fd120f8964792afb5e35a823a6a994ead37dbdf83_1_1_1_0__1",
         "gg-IfagR-vn_text": "<p><span style=\"color:#242424;\"><strong>Designed for Individuality</strong></span></p>",
-        "gg3i1GzN-le_text": "<p>5000+ 5 Star reviews</p>",
         "gg9P2BITIqc_text": "Crafting Sustainable Style: Hats for a Conscious World",
         "ggAC53apmdT_text": "<p>Our hats feature thoughtful details and distinctive silhouettes, allowing you to express your unique style with confidence.</p>",
         "ggX6nGQBO2Q_text": "<p><span style=\"color:#242424;\"><strong>The Fiber's Footprint</strong></span></p>",
@@ -48,7 +47,7 @@
     },
     "gp_section_560443634046993189": {
       "settings": {
-        "checksum": "8196118ec33807fc3d7a5dbc34a43fb2e77ce735411d0bca973a50a6e4844964_1_1_1_0__1",
+        "checksum": "7772556dcf83826f41f1d72799a16eae6be3f7b1e1b77fbc63f91122c406ae17_1_1_1_0__1",
         "gg1-B3kSI1U_label": "<p>Felt Hats</p>",
         "ggR-5PuaUiV_label": "<p>Western Hats</p>",
         "ggSmOnKtQZO_label": "<p>Men’s Straw Hats</p>",
@@ -64,17 +63,17 @@
     },
     "gp_section_560448256270664560": {
       "settings": {
-        "checksum": "69cca2a72eccd624478fe376e83d5f9633f0a6d092ee1b40bc237caca4aab4ee_1_1_1_0__1",
+        "checksum": "333984b50188df04f5a683842b501d7a0acf81097cfb7429197c55cca6f31689_1_1_1_0__1",
         "ggBXAO1EcC2_text": "<p>Crafted with the same care and attention to detail that goes into our legendary hats.</p>",
         "ggb6fYjSUkJ_label": "<p>Shop Now</p>",
-        "ggh0t1C5Ncc_text": "Luxebrims Hat",
+        "ggh0t1C5Ncc_text": "Felt Hat",
         "section_preload": "true"
       },
       "type": "gp-section-560448256270664560"
     },
     "gp_section_562197297731994401": {
       "settings": {
-        "checksum": "f37197772ccd7fa3f43525118a9b6a7aaae80d823aabdc422d34fd8e31177b06_1_1_1_0__1",
+        "checksum": "cf297814a5a2bf8b5647994f83cfa84452dcd890a95a1488e3ac00ce73ac9258_1_1_1_0__1",
         "gg2pXbT-j5v_text": "<p>Emily</p>",
         "gg74vPm6RSR_label": "<p>SHOP NOW</p>",
         "ggDbytsvLLv_text": "<span style=\"background-color:rgba(255,255,255,0);color:#FFFFFF;font-size:15px;\">Bucket hat + ocean breeze = peace 🐚 Light, cute, sun-safe.</span>",
@@ -96,7 +95,7 @@
     },
     "gp_section_563504039585645363": {
       "settings": {
-        "checksum": "86e1e5e35a1c48d9c4b68db7ad6d4c21246cfb1c55fcdf67f71659f404df842d_1_1_1_0__1",
+        "checksum": "16a79b3c201130028cd641482de095e662f0075657071209a141646d945afebb_1_1_1_0__1",
         "gg18fAWaQ6Q_text": "<p>LEGAL AREA</p>",
         "gg1XPbzAgja_label": "<p>FAQ</p>",
         "gg3IKQez9oi_text": "<p>Customer Care</p>",
@@ -152,7 +151,7 @@
     },
     "gp_section_589690465054360465": {
       "settings": {
-        "checksum": "c211beda5352d488c9b66db42ac2fc87786a640e3d380bff865bf61e6b2e0dab_1_1_1_0__1",
+        "checksum": "b963838286bb45ed410f2dc435e2707fb587b4be8693835fa03b45621e2d936d_1_1_1_0__1",
         "ggCFl0fiT1o_text": "<p>“Where Western Spirit Meets Modern Style.”<br>Timeless Texana hats for those who live free and ride proud.</p>",
         "ggX0GD5fRqT_label": "<p>Women</p>",
         "ggim6MSPXgl_text": "The Spirit of the West",
