@@ -33,7 +33,7 @@
     "gp_section_560310868135379824": {
       "type": "gp-section-560310868135379824",
       "settings": {
-        "section_preload": "off_lazy_script",
+        "section_preload": "false",
         "checksum": "82f3972683c76b638ed3a949c27fb4a849ff211f8994c44b5db6c167f67e4299_1_1_1_0__1",
         "ggdvimNhP9R_text": "Our Best-Sellers ",
         "ggZmfzY3yQc_customContent_suffix": "off",
@@ -46,7 +46,7 @@
     "gp_section_560310868504478810": {
       "type": "gp-section-560310868504478810",
       "settings": {
-        "section_preload": "off_lazy_script",
+        "section_preload": "false",
         "checksum": "75ed5e0ac7a20d60ca79b483edef92b4eedb0e496831c0745c002a81cd17a6ea_1_1_1_0__1",
         "ggtFN88YYFv_text": "Men's &amp; Women's Hats",
         "ggEaqiAMFjI_text": "Mens ",
