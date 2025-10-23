@@ -17,7 +17,8 @@
         "ggEnH_OQS-v_unavailableLabel": "Unavailable",
         "ggEnH_OQS-v_variantSelectionRequiredMessage": "Please select a variant to add product to cart",
         "ggZmfzY3yQc_customContent_suffix": "off",
-        "ggdvimNhP9R_text": "Our Best-Sellers&nbsp;"
+        "ggdvimNhP9R_text": "Our Best-Sellers ",
+        "section_preload": "false"
       },
       "type": "gp-section-560310868135379824"
     },
@@ -25,10 +26,11 @@
       "settings": {
         "checksum": "75ed5e0ac7a20d60ca79b483edef92b4eedb0e496831c0745c002a81cd17a6ea_1_1_1_0__1",
         "ggAS4ndUFgc_label": "<p><strong>Shop Now</strong></p>",
-        "ggEaqiAMFjI_text": "Mens&nbsp;",
+        "ggEaqiAMFjI_text": "Mens ",
         "gglPBP_4IQI_label": "<p><strong>Shop Now</strong></p>",
         "ggo-OfAXpeI_text": "Womens",
-        "ggtFN88YYFv_text": "Men's &amp; Women's Hats"
+        "ggtFN88YYFv_text": "Men's &amp; Women's Hats",
+        "section_preload": "false"
       },
       "type": "gp-section-560310868504478810"
     },
@@ -41,7 +43,8 @@
         "ggX6nGQBO2Q_text": "<p><span style=\"color:#242424;\"><strong>The Fiber's Footprint</strong></span></p>",
         "ggaIosjIpkD_text": "<p>Meticulously handcrafted using time-honored techniques, our hats are designed for lasting style and wear.</p>",
         "ggaJNxDMcXT_text": "<p><span style=\"color:#242424;\"><strong>Enduring Craftsmanship</strong></span></p>",
-        "ggx6_YWRhqC_text": "<p>From sustainable sources to our atelier, we craft with respect for the planet.</p>"
+        "ggx6_YWRhqC_text": "<p>From sustainable sources to our atelier, we craft with respect for the planet.</p>",
+        "section_preload": "false"
       },
       "type": "gp-section-560422958695187312"
     },
@@ -55,15 +58,16 @@
         "ggXLCUbIfTG_text": "Featured Collection",
         "gghbfdgd163_label": "<p>Felt Hats</p>",
         "ggjLyFTa6PJ_text": "<p>Discover our latest collection of hats and beanies, featuring fresh and refined tones inspired by the season's renewal. Find the piece that resonates with your individual style and carry a touch of timeless elegance with you.</p>",
-        "ggvJD5-1MDF_label": "<p>Spring&amp;Summer&nbsp;</p>",
-        "ggw30Kr_iJh_label": "<p>Spring&amp;Summer&nbsp;</p>",
-        "ggzmOSHviOI_label": "<p>Men’s Straw Hats</p>"
+        "ggvJD5-1MDF_label": "<p>Spring&amp;Summer </p>",
+        "ggw30Kr_iJh_label": "<p>Spring&amp;Summer </p>",
+        "ggzmOSHviOI_label": "<p>Men’s Straw Hats</p>",
+        "section_preload": "off_lazy_script"
       },
       "type": "gp-section-560443634046993189"
     },
     "gp_section_560448256270664560": {
       "settings": {
-        "checksum": "333984b50188df04f5a683842b501d7a0acf81097cfb7429197c55cca6f31689_1_1_1_0__1",
+        "checksum": "385c04cfe3248d7fa87b6dc740b44227a593bfc207f09f52c044ea8a2170d8bf_1_1_1_0__1",
         "ggBXAO1EcC2_text": "<p>Crafted with the same care and attention to detail that goes into our legendary hats.</p>",
         "ggb6fYjSUkJ_label": "<p>Shop Now</p>",
         "ggh0t1C5Ncc_text": "Felt Hat",
@@ -80,7 +84,7 @@
         "ggDjnLIBWaa_text": "<p>Samantha</p>",
         "ggGGDSxumOi_text": "<p>Jasmine</p>",
         "ggJiWaheM7__label": "<p>SHOP NOW</p>",
-        "ggP1uyRsmCn_text": "<span style=\"background-color:rgba(255,255,255,0);color:#FFFFFF;font-size:15px;\">New favorite hat from&nbsp;</span>",
+        "ggP1uyRsmCn_text": "<span style=\"background-color:rgba(255,255,255,0);color:#FFFFFF;font-size:15px;\">New favorite hat from </span>",
         "ggQt-Zh1zKJ_text": "Happy frenchie Friday!!",
         "ggSFM7QtYin_label": "<p>SHOP NOW</p>",
         "ggSbuiYMfbU_text": "<p>Maya</p>",
@@ -89,7 +93,8 @@
         "gg_QNMzrHLC_text": "#ON INSTAGRAM",
         "ggo5cq_bV6R_text": "<p>thebohemianginger_</p>",
         "ggpyhu3d4Wz_label": "<p>SHOP NOW</p>",
-        "ggtaWLsQ3D-_text": "<span style=\"background-color:rgba(255,255,255,0);color:#FFFFFF;font-size:15px;\">Brunch‑to‑beach vibes: packable bucket, soft square‑neck. Flowy comfort.</span>"
+        "ggtaWLsQ3D-_text": "<span style=\"background-color:rgba(255,255,255,0);color:#FFFFFF;font-size:15px;\">Brunch‑to‑beach vibes: packable bucket, soft square‑neck. Flowy comfort.</span>",
+        "section_preload": "false"
       },
       "type": "gp-section-562197297731994401"
     },
@@ -145,17 +150,19 @@
         "ggxFhdTZ9JF_errorMessage": "Can’t send email. Please try again later.",
         "ggxFhdTZ9JF_successMessage": "Thanks for contacting us. We'll get back to you as soon as possible.",
         "ggxseTeImVD_label": "<p>Women</p>",
-        "ggzco0rOCUP_label": "<p>Rewards</p>"
+        "ggzco0rOCUP_label": "<p>Rewards</p>",
+        "section_preload": "false"
       },
       "type": "gp-section-563504039585645363"
     },
     "gp_section_589690465054360465": {
       "settings": {
-        "checksum": "69cc70084053345f8e1001d8ffad6a22e297cacc23f738b02788fb9058c8cf90_1_1_1_0__1",
+        "checksum": "ee521436131373210ee506e41b5864e762c7b80d733753ed0dec387be0426a06_1_1_1_0__1",
         "ggCFl0fiT1o_text": "<p>“Where Western Spirit Meets Modern Style.”<br>Timeless Texana hats for those who live free and ride proud.</p>",
         "ggX0GD5fRqT_label": "<p>Women</p>",
         "ggim6MSPXgl_text": "The Spirit of the West",
-        "ggqMTANcanV_label": "<p>Men</p>"
+        "ggqMTANcanV_label": "<p>Men</p>",
+        "section_preload": "false"
       },
       "type": "gp-section-589690465054360465"
     }
@@ -164,8 +171,8 @@
     "gp_section_560448256270664560",
     "gp_section_589690465054360465",
     "gp_section_560310868135379824",
-    "gp_section_560310868504478810",
     "gp_section_560422958695187312",
+    "gp_section_560310868504478810",
     "gp_section_560443634046993189",
     "gp_section_562197297731994401",
     "gp_section_563504039585645363"
