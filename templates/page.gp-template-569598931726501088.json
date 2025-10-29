@@ -11,31 +11,31 @@
   "sections": {
     "gp_section_569598931776898272": {
       "settings": {
-        "checksum": "2b9eee1472c80042f6edd53b4e4184ba1d2297b6bcc0492f64d13d5382b507fa_1_1_1_0__1",
+        "checksum": "cccd93468bdec51e646ebc86ce2078e31b6f2c912338b020d7a68e78e4e6ec49_1_1_1_0__1",
         "ggE5gEUpsmA_text": "Customers Show"
       },
       "type": "gp-section-569598931776898272"
     },
     "gp_section_569598931776963808": {
       "settings": {
-        "checksum": "5d05c50fae7ce5e20422d79cdd24e0b5c2b2052ff9e96452b8f3f0d6a0b48307_1_1_1_0__1",
+        "checksum": "205b9c54c6c7093c9b9dea916d0831bd62a28616a96f24b6a5da3eb2b87ccf88_1_1_1_0__1",
         "section_preload": "true"
       },
       "type": "gp-section-569598931776963808"
     },
     "gp_section_569598931777029344": {
       "settings": {
-        "checksum": "f205eb40de1fdd2e85ac40d44468c2f3229b7b4eca3ab97b1d942fd7b2d34cbf_1_1_1_0__1"
+        "checksum": "1b0ee23e64b479088acf199d217001433a5e711afdfc2bb95c444c031787adbe_1_1_1_0__1"
       },
       "type": "gp-section-569598931777029344"
     },
     "gp_section_569598931777094880": {
       "settings": {
-        "checksum": "5263afba987ea0e5a1f23d0d8faf364569ab02964c95e6aac825373f2fa7ed24_1_1_1_0__1",
+        "checksum": "3167d687370dce0c0f31e931778e4c5e2d841c68b552fe32e57854153de78964_1_1_1_0__1",
         "gg-IZXxya8x_customContent_suffix": "off",
         "gg1gJfnhA43_defaultLabel": "Copy",
-        "ggCd0TudAnX_text": "<p><span style=\"font-size:16px;\">35% off orders over $300 &nbsp;</span></p><p><span style=\"font-size:16px;\">Code：</span><span style=\"color:#FF0000;font-size:16px;\"><strong>LUXEHalloween30</strong></span></p>",
-        "ggUjYk4WldP_text": "<p><span style=\"font-size:16px;\">25% off orders over $200&nbsp;</span></p><p><span style=\"font-size:16px;\">&nbsp;Code：</span><span style=\"color:#FF0000;font-size:16px;\"><strong>LUXEHalloween20</strong></span></p>",
+        "ggCd0TudAnX_text": "<p><span style=\"font-size:16px;\">20% off orders over $200 &nbsp;</span></p><p><span style=\"font-size:16px;\">Code：</span><span style=\"color:#FF0000;font-size:16px;\"><strong>20%off-halloween</strong></span></p>",
+        "ggUjYk4WldP_text": "<p><span style=\"font-size:16px;\">15% off your entire order</span></p><p><span style=\"font-size:16px;\">&nbsp;Code：</span><span style=\"color:#FF0000;font-size:16px;\"><strong>15%off-halloween</strong></span></p>",
         "ggXuW2gXBgl_label": "Add to cart",
         "ggXuW2gXBgl_outOfStockLabel": "Out Of Stock",
         "ggXuW2gXBgl_unavailableLabel": "Unavailable",
