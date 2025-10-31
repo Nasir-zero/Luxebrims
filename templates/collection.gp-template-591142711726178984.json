@@ -1,0 +1,56 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "gp_section_591142711793287848": {
+      "settings": {
+        "checksum": "75659228f7f9d0f369fa31ec1fab2017aff519557ddf0f7b7e24e06eaadf65d3_1_1_1_0__1",
+        "section_preload": "true"
+      },
+      "type": "gp-section-591142711793287848"
+    },
+    "gp_section_591142711793353384": {
+      "settings": {
+        "checksum": "3c154b800fa26a6790205f9c2bee4fd2d5ab42c3ccca9d5ff7180b346277725d_1_1_1_0__1",
+        "gg-IZXxya8x_customContent_suffix": "off",
+        "gg1gJfnhA43_defaultLabel": "Copy",
+        "ggCd0TudAnX_text": "<p><span style=\"font-size:16px;\">20% off orders over $200 &nbsp;</span></p><p><span style=\"font-size:16px;\">Code：</span><span style=\"color:#FF0000;font-size:16px;\"><strong>20%off-halloween</strong></span></p>",
+        "ggUjYk4WldP_text": "<p><span style=\"font-size:16px;\">15% off your entire order</span></p><p><span style=\"font-size:16px;\">&nbsp;Code：</span><span style=\"color:#FF0000;font-size:16px;\"><strong>15%off-halloween</strong></span></p>",
+        "ggXuW2gXBgl_label": "Add to cart",
+        "ggXuW2gXBgl_outOfStockLabel": "Out Of Stock",
+        "ggXuW2gXBgl_unavailableLabel": "Unavailable",
+        "ggdc6wxsort_defaultLabel": "Copy",
+        "ggtkwvJXIAG_quantityTextDisplay": "%number% products",
+        "ggtkwvJXIAG_sortingTextDisplay": "Sorting",
+        "ggwKuXxLQJ1_text": "Cowboy-Hats"
+      },
+      "type": "gp-section-591142711793353384"
+    },
+    "gp_section_591142711793418920": {
+      "settings": {
+        "checksum": "280e3284c7bb3dc461961ecbf097ec3da4b4a148205191040de4993b7ffb0fe6_1_1_1_0__1"
+      },
+      "type": "gp-section-591142711793418920"
+    },
+    "gp_section_591142711793484456": {
+      "settings": {
+        "checksum": "a75963073235ffa6fd734f1de99289943474c75512dda801bc19ba1ab184bc43_1_1_1_0__1",
+        "ggE5gEUpsmA_text": "Customers Show"
+      },
+      "type": "gp-section-591142711793484456"
+    }
+  },
+  "order": [
+    "gp_section_591142711793287848",
+    "gp_section_591142711793353384",
+    "gp_section_591142711793484456",
+    "gp_section_591142711793418920"
+  ]
+}
