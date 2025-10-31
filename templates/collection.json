@@ -8,128 +8,40 @@
  * ------------------------------------------------------------
  */
 {
-  "order": [
-    "main-collection-banner",
-    "main-collection-product-grid",
-    "collage",
-    "newsletter"
-  ],
   "sections": {
-    "collage": {
-      "block_order": [
-        "product",
-        "collection"
-      ],
-      "blocks": {
-        "collection": {
-          "settings": {
-            "collection": "all"
-          },
-          "type": "collection"
-        },
-        "product": {
-          "settings": {
-            "product": "",
-            "second_image": false
-          },
-          "type": "product"
-        }
-      },
-      "disabled": true,
+    "gp_global_section_562325613218628482-1": {
       "settings": {
-        "card_styles": "product-card-wrapper",
-        "color_scheme": "background-1",
-        "custom_colors_background": "#ffffff",
-        "custom_colors_text": "#2e2a39",
-        "custom_gradient_background": "",
-        "desktop_layout": "right",
-        "display_id": false,
-        "heading_size": "h2",
-        "mobile_layout": "collage",
-        "padding_bottom": 64,
-        "padding_top": 16,
-        "title": "Multimedia collage",
-        "title_highlight_color": "#6d388b",
-        "visibility": "always-display"
+        "checksum": "",
+        "section_preload": "false"
       },
-      "type": "collage"
+      "type": "gp-global-section-562325613218628482"
     },
-    "main-collection-banner": {
+    "gp_section_561890596046767084": {
       "settings": {
-        "color_scheme": "background-1",
-        "show_collection_description": true,
-        "show_collection_image": true
+        "checksum": "e1c1cefd0dc658af7715a62407e206c374e949817e5afc1c0693bdb5a121ffcb_1_1_1_0__1",
+        "gg1ppQ-GrZW_customContent_suffix": "off",
+        "ggAxXQYDp2R_label": "Add to cart",
+        "ggAxXQYDp2R_outOfStockLabel": "Out of stocks",
+        "ggAxXQYDp2R_unavailableLabel": "Unavailable",
+        "gggZbLy0EBc_quantityTextDisplay": "%number% products",
+        "gggZbLy0EBc_sortingTextDisplay": "Sorting",
+        "section_preload": "true"
       },
-      "type": "main-collection-banner"
+      "type": "gp-section-561890596046767084"
     },
-    "main-collection-product-grid": {
-      "custom_css": [],
+    "gp_section_562326030015005570": {
       "settings": {
-        "badges": "regular",
-        "columns_desktop": 4,
-        "columns_mobile": "2",
-        "enable_filtering": true,
-        "enable_quick_add": true,
-        "enable_sorting": true,
-        "filter_type": "horizontal",
-        "image_ratio": "adapt",
-        "padding_bottom": 36,
-        "padding_top": 0,
-        "products_per_page": 20,
-        "show_rating": false,
-        "show_secondary_image": true,
-        "show_vendor": false,
-        "stretch_cards": false,
-        "swatches_desktop_size": 36,
-        "swatches_mobile_size": 24,
-        "swatches_option_name": "",
-        "swatches_position": "top"
+        "checksum": "f5c9968348266499828c816180fb90d73fb3dd99fe0ff901baa7c4b11a8e0b10_1_1_1_0__1",
+        "ggDWKfifQHA_nextText": ">",
+        "ggDWKfifQHA_previousText": "<",
+        "section_preload": "false"
       },
-      "type": "main-collection-product-grid"
-    },
-    "newsletter": {
-      "block_order": [
-        "heading",
-        "paragraph",
-        "email-form"
-      ],
-      "blocks": {
-        "email-form": {
-          "settings": {},
-          "type": "email_form"
-        },
-        "heading": {
-          "settings": {
-            "heading_size": "h1",
-            "title": "Subscribe to our emails",
-            "title_highlight_color": "#6d388b"
-          },
-          "type": "heading"
-        },
-        "paragraph": {
-          "settings": {
-            "text": "<p>Join our email list for exclusive offers and the latest news. </p>"
-          },
-          "type": "paragraph"
-        }
-      },
-      "settings": {
-        "button_label": "Sign up",
-        "button_style_secondary": false,
-        "button_type": "solid",
-        "color_scheme": "background-2",
-        "custom_colors_background": "#ffffff",
-        "custom_colors_solid_button_background": "#dd1d1d",
-        "custom_colors_solid_button_text": "#ffffff",
-        "custom_colors_text": "#2e2a39",
-        "custom_gradient_background": "",
-        "display_id": false,
-        "full_width": true,
-        "padding_bottom": 52,
-        "padding_top": 68,
-        "visibility": "always-display"
-      },
-      "type": "newsletter"
+      "type": "gp-section-562326030015005570"
     }
-  }
+  },
+  "order": [
+    "gp_section_561890596046767084",
+    "gp_section_562326030015005570",
+    "gp_global_section_562325613218628482-1"
+  ]
 }
