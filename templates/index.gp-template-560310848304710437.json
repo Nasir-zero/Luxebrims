@@ -11,13 +11,13 @@
   "sections": {
     "gp_section_560310868135379824": {
       "settings": {
-        "checksum": "82f3972683c76b638ed3a949c27fb4a849ff211f8994c44b5db6c167f67e4299_1_1_1_0__1",
+        "checksum": "b32d2e9888d839460d9e6979ec76113f22860d6637f7900360c97431c7924b9a_1_1_1_0__1",
         "ggEnH_OQS-v_label": "Add to cart",
         "ggEnH_OQS-v_outOfStockLabel": "Out of stocks",
         "ggEnH_OQS-v_unavailableLabel": "Unavailable",
         "ggEnH_OQS-v_variantSelectionRequiredMessage": "Please select a variant to add product to cart",
         "ggZmfzY3yQc_customContent_suffix": "off",
-        "ggdvimNhP9R_text": "Our Best-Sellers ",
+        "ggdvimNhP9R_text": "Our Best-Sellers&nbsp;",
         "section_preload": "false"
       },
       "type": "gp-section-560310868135379824"
@@ -36,7 +36,7 @@
     },
     "gp_section_560422958695187312": {
       "settings": {
-        "checksum": "828350717605e1cf5b56869f6011d76fbfd122bf8676d0db125482bda98f8014_1_1_1_0__1",
+        "checksum": "4c83b3919764c4cd373a5a5ec41868422e4df0875102cd424b9bdd2bef9526a9_1_1_1_0__1",
         "gg-IfagR-vn_text": "<p><span style=\"color:#242424;\"><strong>Designed for Individuality</strong></span></p>",
         "gg9P2BITIqc_text": "Crafting Sustainable Style: Hats for a Conscious World",
         "ggAC53apmdT_text": "<p>Our hats feature thoughtful details and distinctive silhouettes, allowing you to express your unique style with confidence.</p>",
@@ -50,7 +50,7 @@
     },
     "gp_section_560443634046993189": {
       "settings": {
-        "checksum": "c6c9348938831ce8a3b9807923bb6fa6b8ec50241134ae1a4a1a568edb392ead_1_1_1_0__1",
+        "checksum": "ba01a00d21a31dcf9995d5ba4317eb17c1977cfa5a2f6ff10ade3c3891be3a65_1_1_1_0__1",
         "gg1-B3kSI1U_label": "<p>Felt Hats</p>",
         "ggR-5PuaUiV_label": "<p>Western Hats</p>",
         "ggSmOnKtQZO_label": "<p>Men’s Straw Hats</p>",
@@ -100,7 +100,7 @@
     },
     "gp_section_563504039585645363": {
       "settings": {
-        "checksum": "529ce05d1be1a4d8fc1cf912e92c6e857f7eae6cc0b1608f723e9620eb386eae_1_1_1_0__1",
+        "checksum": "b07f1f54f5dbbac19db5a783f401308116a86a6a2fec1d297d923c19ec4c05ed_1_1_1_0__1",
         "gg18fAWaQ6Q_text": "<p>LEGAL AREA</p>",
         "gg1XPbzAgja_label": "<p>FAQ</p>",
         "gg3IKQez9oi_text": "<p>Customer Care</p>",
