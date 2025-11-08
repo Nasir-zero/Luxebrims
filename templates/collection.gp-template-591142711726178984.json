@@ -11,18 +11,18 @@
   "sections": {
     "gp_section_591142711793287848": {
       "settings": {
-        "checksum": "75659228f7f9d0f369fa31ec1fab2017aff519557ddf0f7b7e24e06eaadf65d3_1_1_1_0__1",
+        "checksum": "d6ca1eda7ad75c2d50393d1e1914bee22c3ef0e61e0ca09948d75d878603cd3e_1_1_1_0__1",
         "section_preload": "true"
       },
       "type": "gp-section-591142711793287848"
     },
     "gp_section_591142711793353384": {
       "settings": {
-        "checksum": "6e30f8172fdf558b92d25cb8a5618bf2baf44333fba27b9934d0d0335ead79e2_1_1_1_0__1",
+        "checksum": "8e08aa4296c220d1434c8571ef91f2b55902fcdbae483d5810b8dd771c303c5a_1_1_1_0__1",
         "gg-IZXxya8x_customContent_suffix": "off",
         "gg1gJfnhA43_defaultLabel": "Copy",
-        "ggCd0TudAnX_text": "<p><span style=\"font-size:16px;\">20% off orders over $200 &nbsp;</span></p><p><span style=\"font-size:16px;\">Code：</span><span style=\"color:#FF0000;font-size:16px;\"><strong>20%off-halloween</strong></span></p>",
-        "ggUjYk4WldP_text": "<p><span style=\"font-size:16px;\">15% off your entire order</span></p><p><span style=\"font-size:16px;\">&nbsp;Code：</span><span style=\"color:#FF0000;font-size:16px;\"><strong>15%off-halloween</strong></span></p>",
+        "ggCd0TudAnX_text": "<p><span style=\"font-size:16px;\">30% off orders over $300 &nbsp;</span></p><p><span style=\"font-size:16px;\">Code：BF30</span></p>",
+        "ggUjYk4WldP_text": "<p><span style=\"font-size:16px;\">20% off orders over $200 &nbsp;</span></p><p><span style=\"font-size:16px;\">&nbsp;Code：BF20</span></p>",
         "ggXuW2gXBgl_label": "Add to cart",
         "ggXuW2gXBgl_outOfStockLabel": "Out Of Stock",
         "ggXuW2gXBgl_unavailableLabel": "Unavailable",
