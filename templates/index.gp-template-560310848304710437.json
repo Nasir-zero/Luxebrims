@@ -9,9 +9,16 @@
  */
 {
   "sections": {
+    "gp_global_section_561765491551503340-1": {
+      "settings": {
+        "checksum": "",
+        "section_preload": "false"
+      },
+      "type": "gp-global-section-561765491551503340"
+    },
     "gp_section_560310868135379824": {
       "settings": {
-        "checksum": "b32d2e9888d839460d9e6979ec76113f22860d6637f7900360c97431c7924b9a_1_1_1_0__1",
+        "checksum": "4cc206a4eaddec6fa655dfddb89aa74c0103a20b744f2329009a16c89ff6b9a0_1_1_1_0__1",
         "ggEnH_OQS-v_label": "Add to cart",
         "ggEnH_OQS-v_outOfStockLabel": "Out of stocks",
         "ggEnH_OQS-v_unavailableLabel": "Unavailable",
@@ -24,9 +31,9 @@
     },
     "gp_section_560310868504478810": {
       "settings": {
-        "checksum": "75ed5e0ac7a20d60ca79b483edef92b4eedb0e496831c0745c002a81cd17a6ea_1_1_1_0__1",
+        "checksum": "47e75b256fd7bdb994bfdb3c5dfcbabd3e3bb29702ae4bdb7d45d9c70bb67b4a_1_1_1_0__1",
         "ggAS4ndUFgc_label": "<p><strong>Shop Now</strong></p>",
-        "ggEaqiAMFjI_text": "Mens ",
+        "ggEaqiAMFjI_text": "Mens&nbsp;",
         "gglPBP_4IQI_label": "<p><strong>Shop Now</strong></p>",
         "ggo-OfAXpeI_text": "Womens",
         "ggtFN88YYFv_text": "Men's &amp; Women's Hats",
@@ -36,7 +43,7 @@
     },
     "gp_section_560422958695187312": {
       "settings": {
-        "checksum": "49bb4de0c7bd13f74bc2579576560acd806ac0c1ee381a848c9bc78e6ac6d940_1_1_1_0__1",
+        "checksum": "212e47d3d63c7a1cb384ef6e6eef073fd34afc87d351e7e92847cc417ce60a10_1_1_1_0__1",
         "gg-IfagR-vn_text": "<p><span style=\"color:#242424;\"><strong>Designed for Individuality</strong></span></p>",
         "gg9P2BITIqc_text": "Crafting Sustainable Style: Hats for a Conscious World",
         "ggAC53apmdT_text": "<p>Our hats feature thoughtful details and distinctive silhouettes, allowing you to express your unique style with confidence.</p>",
@@ -50,7 +57,7 @@
     },
     "gp_section_560443634046993189": {
       "settings": {
-        "checksum": "ba01a00d21a31dcf9995d5ba4317eb17c1977cfa5a2f6ff10ade3c3891be3a65_1_1_1_0__1",
+        "checksum": "f99d08f827871e8a9ff060d526169e54049ebd8df58d7289221c4d4fe5734407_1_1_1_0__1",
         "gg1-B3kSI1U_label": "<p>Felt Hats</p>",
         "ggR-5PuaUiV_label": "<p>Western Hats</p>",
         "ggSmOnKtQZO_label": "<p>Men’s Straw Hats</p>",
@@ -67,7 +74,7 @@
     },
     "gp_section_560448256270664560": {
       "settings": {
-        "checksum": "daed211acfe7b9c441e7ceb71e4431ed412018fd531ea1cc161f1c223a387e9f_1_1_1_0__1",
+        "checksum": "fa1c303e2c2d185cc1feced4a8065a5b5c4b45a626afdab0a9133506cfe2978f_1_1_1_0__1",
         "ggBXAO1EcC2_text": "<p>Crafted with the same care and attention to detail that goes into our legendary hats.</p>",
         "ggb6fYjSUkJ_label": "<p>Shop Now</p>",
         "ggh0t1C5Ncc_text": "Felt Hat",
@@ -77,7 +84,7 @@
     },
     "gp_section_562197297731994401": {
       "settings": {
-        "checksum": "2a6105c3ad8e84de6efa4c6762db46f314874d2ed554ec753216d6c3e1215a9f_1_1_1_0__1",
+        "checksum": "e22b32113f2458387704eefa9751bfc0047a3044bc8693c8abf536df78949bee_1_1_1_0__1",
         "gg2pXbT-j5v_text": "<p>Emily</p>",
         "gg74vPm6RSR_label": "<p>SHOP NOW</p>",
         "ggDbytsvLLv_text": "<span style=\"background-color:rgba(255,255,255,0);color:#FFFFFF;font-size:15px;\">Bucket hat + ocean breeze = peace 🐚 Light, cute, sun-safe.</span>",
@@ -98,66 +105,9 @@
       },
       "type": "gp-section-562197297731994401"
     },
-    "gp_section_563504039585645363": {
-      "settings": {
-        "checksum": "b07f1f54f5dbbac19db5a783f401308116a86a6a2fec1d297d923c19ec4c05ed_1_1_1_0__1",
-        "gg18fAWaQ6Q_text": "<p>LEGAL AREA</p>",
-        "gg1XPbzAgja_label": "<p>FAQ</p>",
-        "gg3IKQez9oi_text": "<p>Customer Care</p>",
-        "gg3nGoJMNOR_text": "<p>Copyright © 2025 luxebrims. All Rights Reserved.</p>",
-        "gg8EupfJ64p_label": "<p>Shipping</p>",
-        "gg9_gk_-_Q8_label": "<p>Face Shape Guide</p>",
-        "ggCCRntAcTs_label": "<p>Privacy policy</p>",
-        "ggECiZKHPzb_label": "<p>New Arrival</p>",
-        "ggIu81uWGdu_text": "<p>Shop</p>",
-        "ggK4Q3HykeK_label": "<p>Cookie</p>",
-        "ggKAxriZtIz_label": "<p>Hat Bar</p>",
-        "ggKaaztPNDo_label": "<p>Contact Us</p>",
-        "ggMkQvosPNe_label": "<p>Conditions of sale</p>",
-        "ggMr4K7vUY0_text": "<p>BY PROVIDING YOUR EMAIL ADDRESS, YOU AGREE TO OUR PRIVACY POLICY &amp; TERMS &amp; CONDITIONS.</p>",
-        "ggNqa-PdR9D_label": "<p>Return &amp; Exchanges</p>",
-        "ggPNOQeZ58u_text": "<p>Customer Care</p>",
-        "ggR4-Nh3FuX_label": "<p>Conditions of sale</p>",
-        "ggR7MGm_oYH_label": "<p>Face Shape Guide</p>",
-        "ggRZ5U7yNEC_label": "<p>FAQ</p>",
-        "ggRcAPBY-dD_text": "<p>Support</p>",
-        "ggS-6a_j_GO_label": "Subscribe",
-        "ggSQ5N_X7WW_label": "<p>Return &amp; Exchanges</p>",
-        "ggXNK-N8xVL_label": "<p>Women</p>",
-        "ggYEVBvcL7U_label": "<p>Shipping</p>",
-        "ggYnY_dDKsp_label": "<p>Accessories</p>",
-        "ggZ20De417N_text": "<p>Support</p>",
-        "gg_LqXkAyAa_label": "<p>Contact Us</p>",
-        "gga4Cpi3_oJ_label": "<p>New Arrival</p>",
-        "ggbH7uz1Ux9_text": "SUBSCRIBE TO OUR EMAIL",
-        "ggbrpX_Seru_label": "<p>Order Status</p>",
-        "ggdbFs5GDaF_label": "<p>Men</p>",
-        "ggfkOn2RH7i_label": "<p>Cookie</p>",
-        "gggmEpZZgv1_label": "<p>Best Seller</p>",
-        "gghgqw8XPKE_label": "<p>Privacy policy</p>",
-        "ggi3O8U_xKg_label": "<p>Best Seller</p>",
-        "ggjNrtAUI26_label": "<p>Men</p>",
-        "ggmMpqxyXw-_label": "<p>Hat Care Guide</p>",
-        "ggnGkzOTcul_label": "<p>Size Guide</p>",
-        "ggpNxwiWDcm_label": "<p>Hat Bar</p>",
-        "ggpuIFRUdE3_text": "<p>Size Guide</p>",
-        "ggqYaKcTlJ-_label": "<p>Hat Bar</p>",
-        "ggsBJ_WI6m4_placeholder": "Enter your email",
-        "ggvF1zVhkVB_label": "<p>Accessories</p>",
-        "ggvFZXgQvHJ_label": "<p>Hat Care Guide</p>",
-        "ggvrbhc6WIK_label": "<p>Rewards</p>",
-        "ggwHhdciPRj_label": "<p>Order Status</p>",
-        "ggxFhdTZ9JF_errorMessage": "Can’t send email. Please try again later.",
-        "ggxFhdTZ9JF_successMessage": "Thanks for contacting us. We'll get back to you as soon as possible.",
-        "ggxseTeImVD_label": "<p>Women</p>",
-        "ggzco0rOCUP_label": "<p>Rewards</p>",
-        "section_preload": "false"
-      },
-      "type": "gp-section-563504039585645363"
-    },
     "gp_section_589690465054360465": {
       "settings": {
-        "checksum": "9d17beb2105a9b9b0664ece78fbe42dca4a869606c1d9b0bd5fd6660dce55ca1_1_1_1_0__1",
+        "checksum": "f250f4c6f2f99d36a3dc2a33e20f8ace7fd1817162038d3249ba4883a96f00f3_1_1_1_0__1",
         "ggCFl0fiT1o_text": "<p>“Where Western Spirit Meets Modern Style.”<br>Timeless Texana hats for those who live free and ride proud.</p>",
         "ggX0GD5fRqT_label": "<p>Women</p>",
         "ggim6MSPXgl_text": "The Spirit of the West",
@@ -175,7 +125,7 @@
     "gp_section_560310868504478810",
     "gp_section_560443634046993189",
     "gp_section_562197297731994401",
-    "gp_section_563504039585645363"
+    "gp_global_section_561765491551503340-1"
   ],
   "layout": "theme.gempages.header"
 }
