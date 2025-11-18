@@ -16,7 +16,7 @@
     "logo": "shopify://shop_images/fc8564829d8fe98c873f4f0a7539d4c.png",
     "logo_width": 200,
     "mobile_logo_width": 130,
-    "favicon": "shopify://shop_images/20250422203945.png",
+    "favicon": "shopify://shop_images/2000.png",
     "colors_solid_button_labels": "#fcfaf7",
     "colors_accent_1": "#191918",
     "gradient_accent_1": "",
@@ -615,11 +615,6 @@
           "button_vertical_position": "lowest",
           "greeting_message": ""
         }
-      },
-      "14352282602675302068": {
-        "type": "shopify://apps/xcloud-search-product-filter/blocks/cloudsearch_opt/8ddbd0bf-e311-492e-ab28-69d0ad268fac",
-        "disabled": false,
-        "settings": {}
       }
     }
   },
