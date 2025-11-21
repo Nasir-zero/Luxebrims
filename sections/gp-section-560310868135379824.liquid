@@ -10,24 +10,6 @@
   src: url(https://fonts.gstatic.com/s/aronesans/v6/TUZezwhrmbFp0Srr_tH6fv6RcUejHO_u7GF5aXfv-U2QzBLF6gslWn_9DW0.ttf) format('truetype');
 }
 @font-face {
-  font-family: 'Host Grotesk';
-  font-style: normal;
-  font-weight: 400;
-  font-display: swap;
-  src: url(https://fonts.gstatic.com/s/hostgrotesk/v5/co3UmWBnlCJ3U42vbbfdwMjzqHAXOdFzqU5PuefOzhY.ttf) format('truetype');
-}
-
-
-@font-face {
-  font-family: 'Raleway';
-  font-style: normal;
-  font-weight: 700;
-  font-display: swap;
-  src: url(https://fonts.gstatic.com/s/raleway/v37/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVs9pYCP.ttf) format('truetype');
-}
-
-
-@font-face {
   font-family: 'Chenla';
   font-style: normal;
   font-weight: 400;
@@ -47,6 +29,13 @@
   font-weight: 700;
   font-display: swap;
   src: url(https://fonts.gstatic.com/s/lora/v37/0QI6MX1D_JOuGQbT0gvTJPa787z5vCJG.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Raleway';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/raleway/v37/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVs9pYCP.ttf) format('truetype');
 }
 </style>
   
@@ -88,8 +77,8 @@
     {% assign locationOrigin = request.origin | append: routes.root_url | split: '/' | join: '/' %}
     <div data-id="gdvimNhP9R"
         class="gdvimNhP9R"
-        style="--ta:center;--bs:solid;--bw:0px;--bc:#121212;--shadow:none;--d:block;--d-mobile:block;--d-tablet:block;--op:100%;--pageType:GP_INDEX;--bblr:0px;--bbrr:0px;--btlr:0px;--btrr:0px;--mb:30px;--pt:var(--g-s-xs);--pb:var(--g-s-xs);--dynamic-source-color:#F4F4F4"
-        data-test-force-publish="1763352471601"
+        style="--ta:center;--bs:solid;--bw:0px;--bc:#121212;--shadow:none;--d:block;--d-mobile:block;--d-tablet:block;--op:100%;--pageType:GP_INDEX;--bblr:0px;--bbrr:0px;--btlr:0px;--btrr:0px;--mb:30px;--pt:4px;--pb:var(--g-s-xs);--dynamic-source-color:#F4F4F4"
+        data-test-force-publish="1763720714157"
       >
       <div class="gp-flex" style="--jc:center">
         <h2
@@ -341,7 +330,7 @@
     <div id="p-tag-gZmfzY3yQc" data-id
         
         style="--dynamic-source-color:#F4F4F4"
-        data-test-force-publish="1763352471605"
+        data-test-force-publish="1763720714158"
       >
       <div  >
         <div
@@ -587,7 +576,7 @@
     <div data-id="gQ0b80p0ak"
         class="gQ0b80p0ak"
         style="--dynamic-source-color:#F4F4F4"
-        data-test-force-publish="1763352471623"
+        data-test-force-publish="1763720714195"
       >
       <div  >
         <h2
@@ -627,7 +616,7 @@
     <div id="p-price-g_c8nvAF4v" data-id
         
         style="--dynamic-source-color:#F4F4F4"
-        data-test-force-publish="1763352471627"
+        data-test-force-publish="1763720714196"
       >
       <div  >
         <div
@@ -664,7 +653,7 @@
     <div id="p-price-gA-j3FXgcG" data-id
         
         style="--dynamic-source-color:#F4F4F4"
-        data-test-force-publish="1763352471628"
+        data-test-force-publish="1763720714196"
       >
       <div  >
         <div
@@ -1180,6 +1169,8 @@
     <script {% if section.settings.section_preload == "false" %}class="gps-link" delay {% else %}src{% endif %}="https://assets.gemcommerce.com/assets-v2/gp-product-variant-v7-5.js?v={{ shop.metafields.GEMPAGES.ASSETS_VERSION }}" defer="defer"></script>
   
       </div>
+    {%- assign total_combinations = 1 -%}
+    {% for option in product.options_with_values %}{%- assign total_combinations = total_combinations | times: option.values.size -%}{% endfor %}
     {%- liquid
       assign inventory_quantity = variant.inventory_quantity | default: 0
       assign is_in_stock = variant.available
