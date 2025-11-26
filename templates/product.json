@@ -9,13 +9,6 @@
  */
 {
   "sections": {
-    "gp_section_563239031647765299": {
-      "type": "gp-section-563239031647765299",
-      "settings": {
-        "section_preload": "false",
-        "checksum": "9282995c7f2c64f430680e4e39b133c364dda5d05a29b10a69da065a7925557b_1_1_1_0__1"
-      }
-    },
     "gp_section_563239031647830835": {
       "type": "gp-section-563239031647830835",
       "blocks": {
@@ -45,8 +38,16 @@
         "ggASsv2ZA0V_childItem_2": "<p>Free Shipping</p>",
         "ggNRet-TOB1_viewMoreText": "Show more",
         "ggNRet-TOB1_viewLessText": "Show less",
-        "ggOBbmTy4bI_text": "<p>At LuxeBrims, our hats are crafted with precision to ensure a tailored and flattering fit.</p><p>&nbsp;</p><p><strong>True to Size:</strong><br>Each style is designed to fit true to size, following standard international headwear measurements. Simply select your usual hat size for the most comfortable fit.</p><p>&nbsp;</p><p><strong>Between Sizes:</strong><br>If you find yourself between sizes, we recommend using one of our premium hat fillers. Designed for subtle comfort, they provide a secure fit without compromising the hat’s shape or style.</p><p>&nbsp;</p><p><strong>Need Assistance</strong>:<br>Not sure of your size? Visit our <a href=\"https://luxebrims.com/pages/hat-size-guide\"><u>Hat Size Guide</u></a> or reach out to our support team — we're here to help you find your perfect fit.</p>",
+        "ggOBbmTy4bI_text": "<p>At LuxeBrims, our hats are crafted with precision to ensure a tailored and flattering fit.</p><p> </p><p><strong>True to Size:</strong><br>Each style is designed to fit true to size, following standard international headwear measurements. Simply select your usual hat size for the most comfortable fit.</p><p> </p><p><strong>Between Sizes:</strong><br>If you find yourself between sizes, we recommend using one of our premium hat fillers. Designed for subtle comfort, they provide a secure fit without compromising the hat’s shape or style.</p><p> </p><p><strong>Need Assistance</strong>:<br>Not sure of your size? Visit our <a href=\"https://luxebrims.com/pages/hat-size-guide\"><u>Hat Size Guide</u></a> or reach out to our support team — we're here to help you find your perfect fit.</p>",
         "ggtiHwHoJoI_text": "<p><span style=\"color:#3B3B3B;\">LuxeBrims delivers to customers around the world — with free shipping and estimated delivery in 15–20 business days.</span><br><span style=\"color:#3B3B3B;\">Note: Delivery times may vary slightly depending on your location.</span></p>"
+      }
+    },
+    "gp_section_563239031647961907": {
+      "type": "gp-section-563239031647961907",
+      "settings": {
+        "section_preload": "false",
+        "checksum": "2a5130023212870d354fb0c2043f11f01ca2038708a1def2ee0a5f73342092ca_1_1_1_0__1",
+        "ggTbNKrpvEN_text": "You may also like"
       }
     },
     "gp_section_563239031647896371": {
@@ -60,12 +61,11 @@
         "ggAxk2GUPDw_variantSelectionRequiredMessage": "Please select a variant to add product to cart"
       }
     },
-    "gp_section_563239031647961907": {
-      "type": "gp-section-563239031647961907",
+    "gp_section_563239031647765299": {
+      "type": "gp-section-563239031647765299",
       "settings": {
         "section_preload": "false",
-        "checksum": "2a5130023212870d354fb0c2043f11f01ca2038708a1def2ee0a5f73342092ca_1_1_1_0__1",
-        "ggTbNKrpvEN_text": "You may also like"
+        "checksum": "9282995c7f2c64f430680e4e39b133c364dda5d05a29b10a69da065a7925557b_1_1_1_0__1"
       }
     }
   },

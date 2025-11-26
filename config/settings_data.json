@@ -620,7 +620,7 @@
         "type": "shopify://apps/surecircle/blocks/app-embed-block/4a58e42c-00e9-4f30-bcc3-7292a73c0881",
         "disabled": false,
         "settings": {
-          "target_class": ".cart-drawer .cart__ctas",
+          "target_class": ".cart-drawer .cart__ctas,.cart__footer .cart__ctas .cart__checkout-button",
           "target_btn_class": ".class"
         }
       }
