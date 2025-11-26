@@ -615,6 +615,14 @@
           "button_vertical_position": "lowest",
           "greeting_message": ""
         }
+      },
+      "9258164331292233951": {
+        "type": "shopify://apps/surecircle/blocks/app-embed-block/4a58e42c-00e9-4f30-bcc3-7292a73c0881",
+        "disabled": false,
+        "settings": {
+          "target_class": ".cart-drawer .cart__ctas",
+          "target_btn_class": ".class"
+        }
       }
     }
   },
