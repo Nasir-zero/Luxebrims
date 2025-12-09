@@ -72,14 +72,6 @@
       },
       "type": "gp-section-560443634046993189"
     },
-    "gp_section_560448256270664560": {
-      "settings": {
-        "checksum": "f0bfde5fe09e37ee27ebcf1e4a1ba3466b192e06d4294a7c19b349ecb591525c_1_1_1_0__1",
-        "ggb6fYjSUkJ_label": "<p>Shop Now</p>",
-        "section_preload": "true"
-      },
-      "type": "gp-section-560448256270664560"
-    },
     "gp_section_562197297731994401": {
       "settings": {
         "checksum": "8f8664dab14f2965a5b7a590c53030c9500d6ba24b4d1c88f8873650f7f896ff_1_1_1_0__1",
@@ -105,18 +97,17 @@
     },
     "gp_section_589690465054360465": {
       "settings": {
-        "checksum": "f250f4c6f2f99d36a3dc2a33e20f8ace7fd1817162038d3249ba4883a96f00f3_1_1_1_0__1",
-        "ggCFl0fiT1o_text": "<p>“Where Western Spirit Meets Modern Style.”<br>Timeless Texana hats for those who live free and ride proud.</p>",
+        "checksum": "45c2de2adc9004fa923c445872f0b5e7e42088562c3b157fa838750e9d3407c6_1_1_1_0__1",
+        "ggCFl0fiT1o_text": "<p>Premium wool. Perfect warmth.</p>",
         "ggX0GD5fRqT_label": "<p>Women</p>",
-        "ggim6MSPXgl_text": "The Spirit of the West",
+        "ggim6MSPXgl_text": "Felt Hats Made for Winter",
         "ggqMTANcanV_label": "<p>Men</p>",
-        "section_preload": "false"
+        "section_preload": "true"
       },
       "type": "gp-section-589690465054360465"
     }
   },
   "order": [
-    "gp_section_560448256270664560",
     "gp_section_589690465054360465",
     "gp_section_560310868135379824",
     "gp_section_560422958695187312",
