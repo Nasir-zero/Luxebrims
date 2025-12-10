@@ -18,19 +18,19 @@
     },
     "gp_section_594337781904311207": {
       "settings": {
-        "checksum": "95b76fa0853e719bd775260096a9cabf3e64378001c882dd96b7f146ed56419d_1_1_1_0__1",
+        "checksum": "a78801a4509fd68c9dc8e2a62b52ca4d20f62ad4e85c847632c692b5f26fb6cb_1_1_1_0__1",
         "gg1-B3kSI1U_label": "<p>Shop Western Hat</p>",
         "gg38SxeTi9T_text": "Men’s Western &amp; Everyday",
-        "gg8O8KSIX0N_text": "Women's Felt Fedoras",
+        "gg8O8KSIX0N_text": "Women's Felt Hat",
         "ggCL2E5NOC__text": "Women’s Travel &amp; Straw Classics",
-        "ggODl2sPrM4_text": "Winter Buckets &amp; Casual Essentials",
+        "ggODl2sPrM4_text": "<strong>Western Hats</strong> &amp; Casual Essentials",
         "ggR-5PuaUiV_label": "<p>Shop Travel Hats&nbsp;</p>",
         "ggSmOnKtQZO_label": "<p>Shop Winter Hats&nbsp;</p>",
         "ggU6_82Uauu_label": "<p>Shop Travel Hats</p>",
         "ggXLCUbIfTG_text": "Featured Collection",
         "ggjLyFTa6PJ_text": "<p>Discover our latest collection of hats and beanies, featuring fresh and refined tones inspired by the season's renewal. Find the piece that resonates with your individual style and carry a touch of timeless elegance with you.</p>",
         "ggvJD5-1MDF_label": "<p>Shop Felt Hats</p>",
-        "ggw30Kr_iJh_label": "<p>Shop Felt Hats&nbsp;</p>",
+        "ggw30Kr_iJh_label": "<p>Shop Felt Hats</p>",
         "ggx1we8AT1P_label": "<p>Shop Western Hat</p>",
         "ggzmOSHviOI_label": "<p>Shop Winter Hats</p>"
       },
@@ -38,7 +38,7 @@
     },
     "gp_section_594337781904573351": {
       "settings": {
-        "checksum": "0de809aaf1b86d351076ad4c4fc7487fd0023019518ad3b71bc8352e2b97cec6_1_1_1_0__1",
+        "checksum": "5066e94a75f1770688e3ff47ed2b5dc058245b18683073d73abad8750b9e6343_1_1_1_0__1",
         "ggEnH_OQS-v_label": "Add to cart",
         "ggEnH_OQS-v_outOfStockLabel": "Out of stocks",
         "ggEnH_OQS-v_unavailableLabel": "Unavailable",
@@ -73,8 +73,12 @@
     },
     "gp_section_595952142200603409": {
       "settings": {
-        "checksum": "5e3ffa884d12d5c8d8d9566bf1b81a64f664d08681edd74613d72c5671703539_1_1_1_0__1",
+        "checksum": "e71f32795a25315b7378322c5ee5fcbb02e7d5c96c773a800c7cd4e54f9723b7_1_1_1_0__1",
         "gg7vl-5qhFK_text": "<p>Fit-Perfect Crown</p><p>&amp; Brim Design</p>",
+        "ggKPj8QC8wI_text": "<p>30-Day Free</p><p>Return ...</p>",
+        "ggPxStlBmY1_text": "<p>Small-Batch</p><p>Craftsmanship</p>",
+        "ggYY1zgW2dH_text": "<p>Fit-Perfect Crown...</p>",
+        "ggkufRZ8tYV_text": "<p>Premium</p><p>Felt &amp; Raffia</p>",
         "ggmql0U5l4e_text": "<p>Small-Batch</p><p>Craftsmanship</p>",
         "ggpVM09pLAC_text": "<p>30-Day Free</p><p>Return + Shape Care</p>",
         "ggrACTx5juw_text": "<p>Premium</p><p>Felt &amp; Raffia</p>"
@@ -83,7 +87,7 @@
     },
     "gp_section_596210905373475820": {
       "settings": {
-        "checksum": "cabc6b57458a7fb83b4463ff382af22779941d4416990d5edbcca9e92ae59965_1_1_1_0__1",
+        "checksum": "0831634c2598e77e7aa952923997595269df8d3d57b14db410e9710139e081d5_1_1_1_0__1",
         "gg2pxl7aK8A_label": "<p>Shop Men's Collection</p>",
         "ggDwlQwSRUv_text": "El Amo Black Fur Felt Hat",
         "ggI3T0lwsD8_text": "<p>Skyline 7242 Cowboy Hat</p>",
@@ -104,7 +108,7 @@
     },
     "gp_section_596823460722770924": {
       "settings": {
-        "checksum": "5d5616a98f3acf16c65e01e10fae523f47d749efb86a50c53cd3ea41ac3ef1a0_1_1_1_0__1",
+        "checksum": "de31995026562897196ba9fcaef7175f139514586e70260ecd845aa5688c41ef_1_1_1_0__1",
         "ggde0uZ6zGU_text": "The Difference Between Four‑Season Hats...",
         "ggnj5iiudNE_text": "Your Cold-Weather Kit: The Ultimate Guide to...",
         "ggz32OJIKzZ_text": "Handcrafted vs. Machine-Made Hats: What Truly..."
@@ -113,7 +117,7 @@
     },
     "gp_section_596832866432713708": {
       "settings": {
-        "checksum": "3d047d069db402f897abd9042609a0e0c5da6c4f06ad8f5f4b041e01f252a55c_1_1_1_0__1",
+        "checksum": "7d30e447e175b3e6831db4725dda0601c2df3f289c48a1388f50863160b958cb_1_1_1_0__1",
         "ggGQKHxTEHs_text": "As Seen On You"
       },
       "type": "gp-section-596832866432713708"
