@@ -11,22 +11,24 @@
   "sections": {
     "gp_section_591142711793287848": {
       "settings": {
-        "checksum": "fe41c8f7180f5f724cedd6c46d6a94264745e4fc0301988b6b9326050812c2e2_1_1_1_0__1",
+        "checksum": "2073a5d4a658363c378ea787d99f019d54526dac34f3964817754d9a90202b40_1_1_1_0__1",
         "section_preload": "true"
       },
       "type": "gp-section-591142711793287848"
     },
     "gp_section_591142711793353384": {
       "settings": {
-        "checksum": "8f4246f475614bf6f3f1b5dbc8c9664990b9653e2dbebeea3973cbb8cdd8444f_1_1_1_0__1",
+        "checksum": "b4de1c5c898cd1cd765d44051d126e48e6bd50583767af14fff4924748993872_1_1_1_0__1",
         "gg-IZXxya8x_customContent_suffix": "off",
         "gg1gJfnhA43_defaultLabel": "Copy",
-        "ggCd0TudAnX_text": "<p><span style=\"font-size:16px;\">30% off orders over $300 &nbsp;</span></p><p><span style=\"font-size:16px;\">Code：BF30</span></p>",
-        "ggUjYk4WldP_text": "<p><span style=\"font-size:16px;\">20% off orders over $200 &nbsp;</span></p><p><span style=\"font-size:16px;\">&nbsp;Code：BF20</span></p>",
+        "ggCd0TudAnX_text": "<p><span style=\"font-size:16px;\">$40 off $200 &nbsp;</span></p><p><span style=\"font-size:16px;\">Code：LBChristmas40</span></p>",
+        "ggG9Ts7iDRV_text": "<p><span style=\"font-size:16px;\">$60 off $300&nbsp;</span></p><p><span style=\"font-size:16px;\">Code：LBChristmas60</span></p>",
+        "ggUjYk4WldP_text": "<p><span style=\"font-size:16px;\">$15 off $100&nbsp;</span></p><p><span style=\"font-size:16px;\">&nbsp;Code：LBChristmas15</span></p>",
         "ggXuW2gXBgl_label": "Add to cart",
         "ggXuW2gXBgl_outOfStockLabel": "Out Of Stock",
         "ggXuW2gXBgl_unavailableLabel": "Unavailable",
         "ggdc6wxsort_defaultLabel": "Copy",
+        "gges5M1r8Bf_defaultLabel": "Copy",
         "ggtkwvJXIAG_quantityTextDisplay": "%number% products",
         "ggtkwvJXIAG_sortingTextDisplay": "Sorting",
         "ggwKuXxLQJ1_text": "Cowboy-Hats"
