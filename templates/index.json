@@ -50,7 +50,7 @@
     },
     "gp_section_594337781904704423": {
       "settings": {
-        "checksum": "3c37aa299e05df26c793f832635d1843a44d79b825a20baf17767e8898a8c955_1_1_1_0__1",
+        "checksum": "a514ce0c1e87bd6fb04f13e02f8d0079c0c758049b6bcff4bc648aba8eb6498f_1_1_1_0__1",
         "ggQx7e0-SUW_label": "<p>Shop Now</p>",
         "section_preload": "true"
       },
@@ -97,15 +97,6 @@
       },
       "type": "gp-section-596210905373475820"
     },
-    "gp_section_596212290919859180": {
-      "settings": {
-        "checksum": "624d04be2d3dda10b7113ffdb7e96f3fd722cbc6a56c048826ac96aea8710b50_1_1_1_0__1",
-        "ggYGyTff273_text": "Your Cold-Weather Kit: The Ultimate Guide to...",
-        "ggaaSZEzXw5_text": "The Difference Between Four‑Season Hats...",
-        "ggkqXwxZrUL_text": "Handcrafted vs. Machine-Made Hats: What Truly..."
-      },
-      "type": "gp-section-596212290919859180"
-    },
     "gp_section_596823460722770924": {
       "settings": {
         "checksum": "de31995026562897196ba9fcaef7175f139514586e70260ecd845aa5688c41ef_1_1_1_0__1",
@@ -121,6 +112,15 @@
         "ggGQKHxTEHs_text": "As Seen On You"
       },
       "type": "gp-section-596832866432713708"
+    },
+    "gp_section_597113695687934860": {
+      "settings": {
+        "checksum": "0732054d47ad43a466d9b7f94cbcfceccae3e3b4ece21c5677d4f1b23d84b0f9_1_1_1_0__1",
+        "ggYGyTff273_text": "Your Cold-Weather Kit: The Ultimate Guide to...",
+        "ggaaSZEzXw5_text": "The Difference Between Four‑Season Hats...",
+        "ggkqXwxZrUL_text": "Handcrafted vs. Machine-Made Hats: What Truly..."
+      },
+      "type": "gp-section-597113695687934860"
     }
   },
   "order": [
@@ -132,7 +132,7 @@
     "gp_section_595084411871953506",
     "gp_section_596832866432713708",
     "gp_section_596823460722770924",
-    "gp_section_596212290919859180",
+    "gp_section_597113695687934860",
     "gp_global_section_561765491551503340-1"
   ],
   "layout": "theme.gempages.header"
