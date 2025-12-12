@@ -18,7 +18,7 @@
     },
     "gp_section_569598931776963808": {
       "settings": {
-        "checksum": "205b9c54c6c7093c9b9dea916d0831bd62a28616a96f24b6a5da3eb2b87ccf88_1_1_1_0__1",
+        "checksum": "dc1a20d0054455603d1043f8098bd2dd3906626dc9f02783615fb0ba1692d46a_1_1_1_0__1",
         "section_preload": "true"
       },
       "type": "gp-section-569598931776963808"
@@ -31,23 +31,59 @@
     },
     "gp_section_569598931777094880": {
       "settings": {
-        "checksum": "3167d687370dce0c0f31e931778e4c5e2d841c68b552fe32e57854153de78964_1_1_1_0__1",
-        "gg-IZXxya8x_customContent_suffix": "off",
+        "checksum": "d52322e6558f36602bc26f3be384daf36b27033c50fea64f7bba3650bb2aaa09_1_1_1_0__1",
         "gg1gJfnhA43_defaultLabel": "Copy",
-        "ggCd0TudAnX_text": "<p><span style=\"font-size:16px;\">20% off orders over $200 &nbsp;</span></p><p><span style=\"font-size:16px;\">Code：</span><span style=\"color:#FF0000;font-size:16px;\"><strong>20%off-halloween</strong></span></p>",
-        "ggUjYk4WldP_text": "<p><span style=\"font-size:16px;\">15% off your entire order</span></p><p><span style=\"font-size:16px;\">&nbsp;Code：</span><span style=\"color:#FF0000;font-size:16px;\"><strong>15%off-halloween</strong></span></p>",
-        "ggXuW2gXBgl_label": "Add to cart",
-        "ggXuW2gXBgl_outOfStockLabel": "Out Of Stock",
-        "ggXuW2gXBgl_unavailableLabel": "Unavailable",
+        "ggCd0TudAnX_text": "<p><span style=\"font-size:16px;\">$40 off $200 &nbsp;</span></p><p><span style=\"font-size:16px;\">Code：LBChristmas40</span></p>",
+        "ggKRgc3Jyrj_defaultLabel": "Copy",
+        "ggUjYk4WldP_text": "<p><span style=\"font-size:16px;\">$15 off $100&nbsp;</span></p><p><span style=\"font-size:16px;\">&nbsp;Code：LBChristmas15</span></p>",
+        "ggYXAk3RGiM_text": "<p><span style=\"font-size:16px;\">$60 off $300&nbsp;</span></p><p><span style=\"font-size:16px;\">Code：LBChristmas60</span></p>",
         "ggdc6wxsort_defaultLabel": "Copy",
-        "ggwKuXxLQJ1_text": "Cowboy-Hats"
+        "section_preload": "true"
       },
       "type": "gp-section-569598931777094880"
+    },
+    "gp_section_597267438152713100": {
+      "settings": {
+        "checksum": "d6f18a715eefef98b0575a91ee7a6465c3610df244cbf6d95a1c97fcf5a7bf49_1_1_1_0__1",
+        "gg-uqqU7neh_customContent_suffix": "off",
+        "ggVqKsBeu6a_label": "Add to cart",
+        "ggVqKsBeu6a_outOfStockLabel": "Out Of Stock",
+        "ggVqKsBeu6a_unavailableLabel": "Unavailable",
+        "ggs6GtOYGOn_text": "<strong>Men's Felt Hats</strong>",
+        "section_preload": "true"
+      },
+      "type": "gp-section-597267438152713100"
+    },
+    "gp_section_597267699894059609": {
+      "settings": {
+        "checksum": "d8dbe11e399eb12140f49ee91a510037acc0d3d01c6c872ca2943db7e45a9778_1_1_1_0__1",
+        "gg5c2BNIq4p_label": "Add to cart",
+        "gg5c2BNIq4p_outOfStockLabel": "Out Of Stock",
+        "gg5c2BNIq4p_unavailableLabel": "Unavailable",
+        "ggbnArdqJ1F_customContent_suffix": "off",
+        "ggwKuXxLQJ1_text": "<strong>Women's Felt Hats</strong>",
+        "section_preload": "true"
+      },
+      "type": "gp-section-597267699894059609"
+    },
+    "gp_section_597268220709175863": {
+      "settings": {
+        "checksum": "0ba2ce96be2bbffa1c4169b3c0aaa11049aeaecbd46598ac1f6066d31cf8933e_1_1_1_0__1",
+        "ggAezwiLxXJ_text": "<strong>Women's Felt Hats</strong>",
+        "ggTdcOa4VI2_text": "Men's &amp; Women's Hats",
+        "ggtbC0hZYEf_text": "<strong>Men's Felt Hats</strong>",
+        "ggx2GyIHcP6_label": "<p><strong>Shop Now</strong></p>",
+        "ggx9nIKRorS_label": "<p><strong>Shop Now</strong></p>"
+      },
+      "type": "gp-section-597268220709175863"
     }
   },
   "order": [
     "gp_section_569598931776963808",
     "gp_section_569598931777094880",
+    "gp_section_597267699894059609",
+    "gp_section_597267438152713100",
+    "gp_section_597268220709175863",
     "gp_section_569598931776898272",
     "gp_section_569598931777029344"
   ]
