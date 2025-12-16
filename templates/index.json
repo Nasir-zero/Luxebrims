@@ -10,136 +10,120 @@
 {
   "sections": {
     "gp_global_section_561765491551503340-1": {
-      "type": "gp-global-section-561765491551503340",
       "settings": {
-        "section_preload": "false",
-        "checksum": ""
-      }
+        "checksum": "",
+        "section_preload": "false"
+      },
+      "type": "gp-global-section-561765491551503340"
     },
     "gp_section_594337781904311207": {
-      "type": "gp-section-594337781904311207",
       "settings": {
-        "section_preload": "true",
         "checksum": "e9db364efb698630a990277eef0cfe7c1535b0c78ebf4c6f8d2e385203589b2f_1_1_1_0__1",
+        "gg1-B3kSI1U_label": "<p>Shop Western Hat</p>",
+        "ggR-5PuaUiV_label": "<p>Shop Travel Hats&nbsp;</p>",
+        "ggSmOnKtQZO_label": "<p>Shop Winter Hats&nbsp;</p>",
+        "ggU6_82Uauu_label": "<p>Shop Travel Hats</p>",
         "ggXLCUbIfTG_text": "Featured Collection",
         "ggjLyFTa6PJ_text": "<p>Discover our latest collection of hats and beanies, featuring fresh and refined tones inspired by the season's renewal. Find the piece that resonates with your individual style and carry a touch of timeless elegance with you.</p>",
-        "ggw30Kr_iJh_label": "<p>Shop Felt Hats</p>",
-        "ggSmOnKtQZO_label": "<p>Shop Winter Hats&nbsp;</p>",
-        "ggR-5PuaUiV_label": "<p>Shop Travel Hats&nbsp;</p>",
-        "gg1-B3kSI1U_label": "<p>Shop Western Hat</p>",
         "ggvJD5-1MDF_label": "<p>Shop Felt Hats</p>",
+        "ggw30Kr_iJh_label": "<p>Shop Felt Hats</p>",
+        "ggx1we8AT1P_label": "<p>Shop Western Hat</p>",
         "ggzmOSHviOI_label": "<p>Shop Winter Hats</p>",
-        "ggU6_82Uauu_label": "<p>Shop Travel Hats</p>",
-        "ggx1we8AT1P_label": "<p>Shop Western Hat</p>"
-      }
+        "section_preload": "true"
+      },
+      "type": "gp-section-594337781904311207"
     },
     "gp_section_594337781904573351": {
-      "type": "gp-section-594337781904573351",
       "settings": {
-        "section_preload": "true",
         "checksum": "c23637a370b466ae1c837f6c96fc2bc13cc48698474b4b835abebcb8eea19a63_1_1_1_0__1",
-        "ggdvimNhP9R_text": "Our Best-Sellers&nbsp;",
-        "ggZmfzY3yQc_customContent_suffix": "off",
         "ggEnH_OQS-v_label": "Add to cart",
         "ggEnH_OQS-v_outOfStockLabel": "Out of stocks",
         "ggEnH_OQS-v_unavailableLabel": "Unavailable",
-        "ggEnH_OQS-v_variantSelectionRequiredMessage": "Please select a variant to add product to cart"
-      }
+        "ggEnH_OQS-v_variantSelectionRequiredMessage": "Please select a variant to add product to cart",
+        "ggZmfzY3yQc_customContent_suffix": "off",
+        "ggdvimNhP9R_text": "Our Best-Sellers&nbsp;",
+        "section_preload": "true"
+      },
+      "type": "gp-section-594337781904573351"
     },
     "gp_section_594337781904704423": {
-      "type": "gp-section-594337781904704423",
       "settings": {
-        "section_preload": "true",
         "checksum": "abd76c7ccdf43f2842aac3922006e43751ebdc9cccd295ef052d1f8062757cb1_1_1_1_0__1",
-        "ggQx7e0-SUW_label": "<p>Shop Now</p>"
-      }
+        "ggQx7e0-SUW_label": "<p>Shop Now</p>",
+        "section_preload": "true"
+      },
+      "type": "gp-section-594337781904704423"
     },
     "gp_section_595084411871953506": {
-      "type": "gp-section-595084411871953506",
       "settings": {
         "checksum": "904ff6e7b46afde5852326a7b503a5a84bb7f9caea72d2def0f0fc002c6ddaa5_1_1_1_0__1",
-        "ggM5QhDqrbi_text": "As Seen On You",
-        "ggkOT_HwDXc_text": "<span style=\"background-color:rgba(255,255,255,0);color:#FFFFFF;font-size:15px;\">What a versatile hat! I wear it to the beach, to work, and even when running errands. The neutral color matches everything in my wardrobe, and it's lightweight enough to pack in my bag without losing its shape. The quality is impressive for the price.&nbsp;</span><br><br><span style=\"background-color:rgba(255,255,255,0);color:#FFFFFF;font-size:15px;\">Emma</span>",
-        "ggPaIPC8t8F_text": "<span style=\"background-color:rgba(255,255,255,0);color:#FFFFFF;font-size:15px;\">I've been searching for a warm winter hat for weeks, and this one exceeded all my expectations. The wool blend is cozy and doesn't irritate my skin, and the pom-pom on top adds such a cute touch. Even on cold windy days, my ears stay toasty. Great purchase!&nbsp;</span><br><br><span style=\"background-color:rgba(255,255,255,0);color:#FFFFFF;font-size:15px;\">Jismine</span>",
-        "gghvFo_08ud_text": "<span style=\"background-color:rgba(255,255,255,0);color:#FFFFFF;font-size:15px;\">As someone with a larger head, finding a hat that fits well is always a struggle. But this one fits like it was custom-made! The stretchy band inside is gentle on my hair, and the design doesn't make my head look bulky. It's become my new everyday essential.&nbsp;</span><br><br><span style=\"background-color:rgba(255,255,255,0);color:#FFFFFF;font-size:15px;\">Tom</span>",
-        "ggMsAjOJZ7h_text": "<span style=\"background-color:rgba(255,255,255,0);color:#FFFFFF;font-size:15px;\">The color of this hat is even more beautiful in person than in the pictures—rich and vibrant without being too loud. It's well-constructed, with neat stitching and a sturdy brim. I wore it to a music festival and got tons of questions about where I bought it.</span><br><br><span style=\"background-color:rgba(255,255,255,0);color:#FFFFFF;font-size:15px;\">Lisa</span>",
-        "ggDbkwrdXNT_text": "<span style=\"background-color:rgba(255,255,255,0);color:#FFFFFF;font-size:15px;\">I was worried this hat would be too flimsy, but it's actually really well-made. The brim stays stiff enough to shield my eyes from the sun, and the inner lining is soft and comfortable. It's also adjustable, so I can tweak the fit depending on if I'm wearing my hair up or down.&nbsp;</span>",
-        "ggi2hCMaEh3_text": "<p>Mia</p>",
         "gg3fnHIE_sE_text": "<span style=\"background-color:rgba(255,255,255,0);color:#FFFFFF;font-size:15px;\">This beanie is exactly what I needed for the cold months. It's thick enough to keep me warm but not so thick that it makes my head look like a snowball. The color is easy to match, and it doesn't pill after washing. I've already bought one for my sister too!&nbsp;</span><br><br><span style=\"background-color:rgba(255,255,255,0);color:#FFFFFF;font-size:15px;\">Ryan</span>",
-        "ggeBWZM6XZ2_text": "<span style=\"background-color:rgba(255,255,255,0);color:#FFFFFF;font-size:15px;\">This hat is absolutely fantastic! The fabric is soft yet durable, and it fits my head perfectly without feeling tight. It keeps the sun out of my eyes during morning walks and looks stylish with both casual tees and dresses. Highly recommend it!&nbsp;</span><br><br><span style=\"background-color:rgba(255,255,255,0);color:#FFFFFF;font-size:15px;\">Lily</span>"
-      }
+        "ggDbkwrdXNT_text": "<span style=\"background-color:rgba(255,255,255,0);color:#FFFFFF;font-size:15px;\">I was worried this hat would be too flimsy, but it's actually really well-made. The brim stays stiff enough to shield my eyes from the sun, and the inner lining is soft and comfortable. It's also adjustable, so I can tweak the fit depending on if I'm wearing my hair up or down.&nbsp;</span>",
+        "ggM5QhDqrbi_text": "As Seen On You",
+        "ggMsAjOJZ7h_text": "<span style=\"background-color:rgba(255,255,255,0);color:#FFFFFF;font-size:15px;\">The color of this hat is even more beautiful in person than in the pictures—rich and vibrant without being too loud. It's well-constructed, with neat stitching and a sturdy brim. I wore it to a music festival and got tons of questions about where I bought it.</span><br><br><span style=\"background-color:rgba(255,255,255,0);color:#FFFFFF;font-size:15px;\">Lisa</span>",
+        "ggPaIPC8t8F_text": "<span style=\"background-color:rgba(255,255,255,0);color:#FFFFFF;font-size:15px;\">I've been searching for a warm winter hat for weeks, and this one exceeded all my expectations. The wool blend is cozy and doesn't irritate my skin, and the pom-pom on top adds such a cute touch. Even on cold windy days, my ears stay toasty. Great purchase!&nbsp;</span><br><br><span style=\"background-color:rgba(255,255,255,0);color:#FFFFFF;font-size:15px;\">Jismine</span>",
+        "ggeBWZM6XZ2_text": "<span style=\"background-color:rgba(255,255,255,0);color:#FFFFFF;font-size:15px;\">This hat is absolutely fantastic! The fabric is soft yet durable, and it fits my head perfectly without feeling tight. It keeps the sun out of my eyes during morning walks and looks stylish with both casual tees and dresses. Highly recommend it!&nbsp;</span><br><br><span style=\"background-color:rgba(255,255,255,0);color:#FFFFFF;font-size:15px;\">Lily</span>",
+        "gghvFo_08ud_text": "<span style=\"background-color:rgba(255,255,255,0);color:#FFFFFF;font-size:15px;\">As someone with a larger head, finding a hat that fits well is always a struggle. But this one fits like it was custom-made! The stretchy band inside is gentle on my hair, and the design doesn't make my head look bulky. It's become my new everyday essential.&nbsp;</span><br><br><span style=\"background-color:rgba(255,255,255,0);color:#FFFFFF;font-size:15px;\">Tom</span>",
+        "ggi2hCMaEh3_text": "<p>Mia</p>",
+        "ggkOT_HwDXc_text": "<span style=\"background-color:rgba(255,255,255,0);color:#FFFFFF;font-size:15px;\">What a versatile hat! I wear it to the beach, to work, and even when running errands. The neutral color matches everything in my wardrobe, and it's lightweight enough to pack in my bag without losing its shape. The quality is impressive for the price.&nbsp;</span><br><br><span style=\"background-color:rgba(255,255,255,0);color:#FFFFFF;font-size:15px;\">Emma</span>"
+      },
+      "type": "gp-section-595084411871953506"
     },
     "gp_section_595952142200603409": {
-      "type": "gp-section-595952142200603409",
       "settings": {
         "checksum": "e71f32795a25315b7378322c5ee5fcbb02e7d5c96c773a800c7cd4e54f9723b7_1_1_1_0__1",
-        "ggPxStlBmY1_text": "<p>Small-Batch</p><p>Craftsmanship</p>",
-        "ggmql0U5l4e_text": "<p>Small-Batch</p><p>Craftsmanship</p>",
-        "ggkufRZ8tYV_text": "<p>Premium</p><p>Felt &amp; Raffia</p>",
-        "ggrACTx5juw_text": "<p>Premium</p><p>Felt &amp; Raffia</p>",
-        "ggYY1zgW2dH_text": "<p>Fit-Perfect Crown...</p>",
         "gg7vl-5qhFK_text": "<p>Fit-Perfect Crown</p><p>&amp; Brim Design</p>",
         "ggKPj8QC8wI_text": "<p>30-Day Free</p><p>Return ...</p>",
-        "ggpVM09pLAC_text": "<p>30-Day Free</p><p>Return + Shape Care</p>"
-      }
+        "ggPxStlBmY1_text": "<p>Small-Batch</p><p>Craftsmanship</p>",
+        "ggYY1zgW2dH_text": "<p>Fit-Perfect Crown...</p>",
+        "ggkufRZ8tYV_text": "<p>Premium</p><p>Felt &amp; Raffia</p>",
+        "ggmql0U5l4e_text": "<p>Small-Batch</p><p>Craftsmanship</p>",
+        "ggpVM09pLAC_text": "<p>30-Day Free</p><p>Return + Shape Care</p>",
+        "ggrACTx5juw_text": "<p>Premium</p><p>Felt &amp; Raffia</p>"
+      },
+      "type": "gp-section-595952142200603409"
     },
     "gp_section_596210905373475820": {
-      "type": "gp-section-596210905373475820",
       "settings": {
         "checksum": "dcb42414264985d45fca26d0570565802c267b366a1666280d280c741f7cf3c1_1_1_1_0__1",
-        "ggcK_2yHiiq_text": "<p>After</p>",
-        "ggP18Q8yiQf_text": "Western Craftsmanship for Him",
-        "ggI3T0lwsD8_text": "<p>Skyline 7242 Cowboy Hat</p>",
         "gg2pxl7aK8A_label": "<p>Shop Men's Collection</p>",
         "ggDwlQwSRUv_text": "El Amo Black Fur Felt Hat",
+        "ggI3T0lwsD8_text": "<p>Skyline 7242 Cowboy Hat</p>",
+        "ggP18Q8yiQf_text": "Western Craftsmanship for Him",
+        "ggcK_2yHiiq_text": "<p>After</p>",
         "ggwA6nMzAR__text": "Range Felt Cowboy Hat"
-      }
+      },
+      "type": "gp-section-596210905373475820"
     },
     "gp_section_596823460722770924": {
-      "type": "gp-section-596823460722770924",
       "settings": {
         "checksum": "de31995026562897196ba9fcaef7175f139514586e70260ecd845aa5688c41ef_1_1_1_0__1",
         "ggde0uZ6zGU_text": "The Difference Between Four‑Season Hats...",
-        "ggz32OJIKzZ_text": "Handcrafted vs. Machine-Made Hats: What Truly...",
-        "ggnj5iiudNE_text": "Your Cold-Weather Kit: The Ultimate Guide to..."
-      }
+        "ggnj5iiudNE_text": "Your Cold-Weather Kit: The Ultimate Guide to...",
+        "ggz32OJIKzZ_text": "Handcrafted vs. Machine-Made Hats: What Truly..."
+      },
+      "type": "gp-section-596823460722770924"
     },
     "gp_section_596832866432713708": {
-      "type": "gp-section-596832866432713708",
       "settings": {
         "checksum": "7d30e447e175b3e6831db4725dda0601c2df3f289c48a1388f50863160b958cb_1_1_1_0__1",
         "ggGQKHxTEHs_text": "As Seen On You"
-      }
+      },
+      "type": "gp-section-596832866432713708"
     },
     "gp_section_597113695687934860": {
-      "type": "gp-section-597113695687934860",
       "settings": {
         "checksum": "48548225e62e84dc4c43e34e5bfd0fe960c03467ffe161477ec3fc04b19b1ed0_1_1_1_0__1",
+        "ggYGyTff273_text": "Your Cold-Weather Kit: The Ultimate Guide to...",
         "ggaaSZEzXw5_text": "The Difference Between Four‑Season Hats...",
-        "ggkqXwxZrUL_text": "Handcrafted vs. Machine-Made Hats: What Truly...",
-        "ggYGyTff273_text": "Your Cold-Weather Kit: The Ultimate Guide to..."
-      }
-    },
-    "gp_section_597844921470157708": {
-      "type": "gp-section-597844921470157708",
-      "blocks": {
-        "gp_app_boost-a-i-search-discovery_gFD_h3y2Q2": {
-          "type": "shopify://apps/boost-ai-search-filter/blocks/filter-product-list-ssr/7fc998ae-a150-4367-bab8-505d8a4503f7",
-          "settings": {}
-        }
+        "ggkqXwxZrUL_text": "Handcrafted vs. Machine-Made Hats: What Truly..."
       },
-      "block_order": [
-        "gp_app_boost-a-i-search-discovery_gFD_h3y2Q2"
-      ],
-      "settings": {
-        "checksum": "56d571a5f96036010d0051fc6dfea23cab34d98f570c3522204846701ef2470c_1_1_1_0__1"
-      }
+      "type": "gp-section-597113695687934860"
     }
   },
   "order": [
     "gp_section_594337781904704423",
     "gp_section_594337781904573351",
-    "gp_section_597844921470157708",
     "gp_section_594337781904311207",
     "gp_section_596210905373475820",
     "gp_section_595952142200603409",
