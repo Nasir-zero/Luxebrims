@@ -11,7 +11,6 @@
   "sections": {
     "gp_section_561890596046767084": {
       "type": "gp-section-561890596046767084",
-      "disabled": true,
       "settings": {
         "section_preload": "true",
         "checksum": "1582127bd1abae61bbb460d04adecb4c8caa45c0479281188f50c520357139fb_1_1_1_0__1",
@@ -25,7 +24,6 @@
     },
     "gp_section_562326030015005570": {
       "type": "gp-section-562326030015005570",
-      "disabled": true,
       "settings": {
         "section_preload": "false",
         "checksum": "f5c9968348266499828c816180fb90d73fb3dd99fe0ff901baa7c4b11a8e0b10_1_1_1_0__1",
@@ -35,7 +33,6 @@
     },
     "gp_global_section_562325613218628482-1": {
       "type": "gp-global-section-562325613218628482",
-      "disabled": true,
       "settings": {
         "section_preload": "false",
         "checksum": "",
@@ -44,33 +41,18 @@
     },
     "article_preview_cqH33e": {
       "type": "article-preview",
-      "disabled": true,
       "name": "Article Preview",
       "settings": {
         "title": "Baseball caps: a trendy choice for everyone",
         "excerpt": "Baseball caps have distant roots, but over time they have spread into many settings and contexts. They began as a functional accessory to shield the eyes from bright sunlight during games, and in the United States, they were immediat...",
         "full_content": "<p>Baseball caps have distant roots, but over time they have spread into many settings and contexts. They began as a functional accessory to shield the eyes from bright sunlight during games, and in the United States, they were immediately recognized for their practical value.</p><p>From the games to the streets: everyday use</p><p>Baseball caps have become urban style icons, suitable for both outdoor and informal indoor settings. They highlight versatility, ability to add a \"pop of color,\" and the protection and practicality they offer.</p><p>Materials and basic care</p><p>This section focuses on the importance of fabric choice (cotton, polyester, synthetic blends) for breathability and durability. It provides simple care instructions, including gentle washing, air-drying, and dry storage.</p><p>Personal choice and styling</p><p>This final section explores the countless styling possibilities with baseball caps. It mentions pairing them with casual wear like jeans, T-shirts, and sneakers, as well as dressier pieces for contrast.</p>"
       }
-    },
-    "c392db92-f9d3-4ead-8cea-e81fa41fa034": {
-      "type": "apps",
-      "blocks": {
-        "6f439905-496c-4c70-ab48-f9681a6913a2": {
-          "type": "shopify://apps/boost-ai-search-filter/blocks/filter-product-list-ssr/7fc998ae-a150-4367-bab8-505d8a4503f7",
-          "settings": {}
-        }
-      },
-      "block_order": [
-        "6f439905-496c-4c70-ab48-f9681a6913a2"
-      ],
-      "settings": {}
     }
   },
   "order": [
     "article_preview_cqH33e",
     "gp_section_561890596046767084",
     "gp_section_562326030015005570",
-    "gp_global_section_562325613218628482-1",
-    "c392db92-f9d3-4ead-8cea-e81fa41fa034"
+    "gp_global_section_562325613218628482-1"
   ]
 }
