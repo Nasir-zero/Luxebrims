@@ -616,19 +616,21 @@
           "greeting_message": ""
         }
       },
-      "9258164331292233951": {
-        "type": "shopify://apps/surecircle/blocks/app-embed-block/4a58e42c-00e9-4f30-bcc3-7292a73c0881",
+      "10757484608650040377": {
+        "type": "shopify://apps/surecircle/blocks/app-embed-block/019b2b05-0150-7638-9440-9cf2013b18da",
         "disabled": false,
         "settings": {
-          "target_class": ".cart-drawer .cart__ctas,.cart__footer .cart__ctas .cart__checkout-button",
-          "target_btn_class": ".class"
+          "target_class": ".your-class",
+          "target_btn_class": ".class",
+          "target_btn_position": "up"
         }
       },
       "3b75a401-13c5-4050-b5d0-2374bf8f3cfe": {
         "type": "shopify://apps/boost-ai-search-filter/blocks/boost-sd-ssr/7fc998ae-a150-4367-bab8-505d8a4503f7",
-        "disabled": false,
+        "disabled": true,
         "settings": {
-          "templateId": "IEKRrIBXTO"
+          "templateId": "IEKRrIBXTO",
+          "productGridSelector": ""
         }
       }
     }
