@@ -627,9 +627,9 @@
       },
       "3b75a401-13c5-4050-b5d0-2374bf8f3cfe": {
         "type": "shopify://apps/boost-ai-search-filter/blocks/boost-sd-ssr/7fc998ae-a150-4367-bab8-505d8a4503f7",
-        "disabled": true,
+        "disabled": false,
         "settings": {
-          "templateId": "IEKRrIBXTO",
+          "templateId": "wVceMn9MAj",
           "productGridSelector": ""
         }
       }
