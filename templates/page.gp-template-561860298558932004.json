@@ -11,7 +11,7 @@
   "sections": {
     "gp_section_561860316376335396": {
       "settings": {
-        "checksum": "9f2a66765536bfb5682c4f9ec3fc90ca0ad3be856f7e4b47f0e48c14182ead92_1_1_1_0__1",
+        "checksum": "9ef57451aecad21f5f97ee2508f2001666a1b14b4f21c7bb1ad282ec8776f779_1_1_1_0__1",
         "ggTM3jy3afW_text": "<p>Contact Us&nbsp;</p>",
         "ggtP-f6STGQ_text": "<p>Due to high volume of orders and interactions, it may take longer for you to respond. We are working diligently during this critical time and we appreciate your patience.</p>",
         "section_preload": "true"
@@ -20,8 +20,8 @@
     },
     "gp_section_561860316695102656": {
       "settings": {
-        "checksum": "7c34c3dd47a4e45b238a45a2ce3896d8c5c455c424934672f1ec48158f9c9868_1_1_1_0__1",
-        "gg3rYV8Vmd4_text": "<p><u>support@luxebrims.com</u></p>",
+        "checksum": "f8b626e35842f449f7ea480860f9d1ea009be2d079a6842e244d1c5f45ac5fb8_1_1_1_0__1",
+        "gg3rYV8Vmd4_text": "<p><u>https://shoplbora.com/</u></p>",
         "gg7XmiL0EP7_text": "<p>We're happy to help!</p>",
         "gg98IYjk7QS_text": "<p>FAQs</p>",
         "ggG0HwMctkj_label": "Submit",
@@ -30,7 +30,8 @@
         "ggW6FSWBjAs_placeholder": "Email",
         "ggY_C5DFNvJ_placeholder": "Message",
         "ggheqRaCnV7_text": "<p>Questions, concerns...? We want to help. Send us a message below</p>",
-        "ggyaPw36j-1_placeholder": "* Your Name"
+        "ggyaPw36j-1_placeholder": "* Your Name",
+        "section_preload": "true"
       },
       "type": "gp-section-561860316695102656"
     }
