@@ -11,7 +11,7 @@
   "sections": {
     "gp_section_561869099181802688": {
       "settings": {
-        "checksum": "16dd0d89ebfb41f6ae9be6546123ed2dfb343e5e8a564f179f9b604b37f5a758_1_1_1_0__1",
+        "checksum": "0d3be8d0311b84bfbeabb048225ebf7f89c8a5815e705bfed8ef6c4f3f4748d6_1_1_1_0__1",
         "ggW-Rc02JIQ_text": "<p>Frequently Asked Questions</p>",
         "ggX-1SB2FoM_text": "<p>Last updated: <span style=\"color:hsl(0, 0%, 0%);\"><strong>April 2023</strong></span></p>",
         "gghS9_wDpXL_text": "<p>Please take a look at the sections below to find the answers you’re looking for. If you can’t find what you’re looking for or have additional questions, please don’t hesitate to contact us. We’re always here to help!</p>",
@@ -21,7 +21,7 @@
     },
     "gp_section_561869099769005036": {
       "settings": {
-        "checksum": "ac05a48ccce2ca813f23d7bf631b46a119686c1ab75faac58c48f1c9f64315c7_1_1_1_0__1",
+        "checksum": "4049ae6c823f3e359a86743e7562afaf3a52389fc79fdfa0594aef33ac9fde63_1_1_1_0__1",
         "gg0NuidudqD_text": "<p>Do you offer installment payment options?</p>",
         "gg0epiE3ri7_text": "<p>How much does shipping cost?</p>",
         "gg1VMGVKse__text": "<p>What size should I order?</p>",
@@ -50,7 +50,7 @@
         "gg_X0H1yFSA_label": "1. General Questions",
         "ggbxRbEAV1K_text": "<p>What is the material of this product?</p>",
         "ggbzzkp68Kd_text": "<p>The material for each product is listed on the product page, under the \"Details\" section. If you have further questions about the material, please don't hesitate to contact us.</p>",
-        "gge-QULK-RQ_text": "<p>We welcome and value your feedback! You can leave us a message through our contact page on our website, or email us at <span style=\"color:hsl(0,0%,0%);\"><strong>support@luxebrims.com</strong></span>.</p>",
+        "gge-QULK-RQ_text": "<p>We welcome and value your feedback! You can leave us a message through our contact page on our website, or email us at <span style=\"color:hsl(0,0%,0%);\"><strong>support@shoplbora.com</strong></span>.</p>",
         "ggf1x3JgCiJ_text": "<p>1. General Questions</p>",
         "ggghlOu1NhG_text": "<p>Shipping cost depends on your location and the shipping method you choose. Please refer to our shipping policy for more details.</p>",
         "gghNDu1i233_text": "<p>Can I cancel or modify my order?</p>",
@@ -60,20 +60,21 @@
         "ggikNw_RQKp_text": "<p>Our business hours are Monday through Friday from 9:00am to 5:00pm EST.</p>",
         "ggjr7vaIVN7_text": "<p>How can I contact customer service?</p>",
         "ggml-lAhBMr_text": "<p>How long does shipping take?</p>",
-        "ggn12JGFvUI_text": "<p>If you have a hat that fits you well, check the sizing on the tag. Then, using our size conversion chart below, simply convert this size to a measurement on the table. This will help you determine the perfect size of your new Luxebrims Hat.</p>",
+        "ggn12JGFvUI_text": "<p>If you have a hat that fits you well, check the sizing on the tag. Then, using our size conversion chart below, simply convert this size to a measurement on the table. This will help you determine the perfect size of your new Lbora Hat.</p>",
         "ggnr0ptr1_V_text": "<p>Is my payment information secure?</p>",
         "ggo_p2xpbbA_text": "<p>Yes, we offer free shipping on orders above a certain amount. Please refer to our shipping policy for more details.</p>",
         "ggqlNhB0nTq_text": "<p>3. Payment Questions</p>",
-        "ggrHpY5N2lv_text": "<p>You can reach our customer service team by emailing <span style=\"color:hsl(0,0%,0%);\"><strong>support@luxebrims.com</strong></span></p>",
+        "ggrHpY5N2lv_text": "<p>You can reach our customer service team by emailing <span style=\"color:hsl(0,0%,0%);\"><strong>support@shoplbora.com</strong></span></p>",
         "ggwVBMDLFmd_text": "<p>Yes, we offer installment payment options for certain purchases. Please check our website or contact our customer service for more information.</p>",
         "ggxsk8imQ9q_text": "<p>We accept a variety of payment methods including credit cards (Visa, MasterCard, American Express), PayPal, and Apple Pay.</p>",
-        "ggzHfIiVDGy_label": "2. Product Questions"
+        "ggzHfIiVDGy_label": "2. Product Questions",
+        "section_preload": "true"
       },
       "type": "gp-section-561869099769005036"
     },
     "gp_section_563388455673922725": {
       "settings": {
-        "checksum": "9365c87ea02de760f71758046ed57189555d1c6d272b24cc16f50d1d1fd75eff_1_1_1_0__1",
+        "checksum": "7c79b2a6520d8f964bd77a050a6f48c6035f06dbae46e52afb2e699703f5dab7_1_1_1_0__1",
         "gg17OpZpS8m_text": "<p>How To Prepare A Successful Website For Black Friday</p>",
         "gg9hT4Ll5ce_text": "<p>Optimizing Shopify Landing Page: Secrets to A High...</p>",
         "ggLSMcM5e4r_text": "<p>We invited two successful businesswomen to share their insights and advice on employment. Let's listen ....</p>",
@@ -89,7 +90,8 @@
         "ggtsViAzdT5_text": "<p>How To Prepare A Successful Website For Black Friday</p>",
         "ggu_IYg_I0k_text": "<p>7 Keys to Shopify Success, Shared by Inspiring Women...</p>",
         "ggwSDfm11VY_text": "<p>May 29,2022</p>",
-        "ggwm-jbGJAL_text": "<p>By <span style=\"color:hsl(0, 0%, 30%);\"><strong>Zoro</strong></span></p>"
+        "ggwm-jbGJAL_text": "<p>By <span style=\"color:hsl(0, 0%, 30%);\"><strong>Zoro</strong></span></p>",
+        "section_preload": "true"
       },
       "type": "gp-section-563388455673922725"
     }
