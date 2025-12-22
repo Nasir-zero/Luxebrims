@@ -9,714 +9,134 @@
  */
 {
   "sections": {
-    "main": {
-      "type": "main-product",
+    "gp_section_596680497334060012": {
+      "settings": {
+        "checksum": "71f1f3ee18eaecb5cec50823bb927fa930b1a8657fb9612ccfa058282df6a7a1_1_1_1_0__1",
+        "gg-TFwiXPjm_text": "<p>Satisfied customers and<br>five-star reviews</p>",
+        "gg1lZlrQKcN_text": "<p>50+</p>",
+        "ggKxaMhOa0e_text": "<p>Recommendations by over<br>50 safety experts</p>",
+        "ggWRwH8tskX_text": "<p>30,942+</p>",
+        "ggdFt2qNRXS_text": "<p>Products have<br>reached consumers</p>",
+        "ggfWshANpwu_text": "<p>98.5%</p>"
+      },
+      "type": "gp-section-596680497334060012"
+    },
+    "gp_section_596680498156143134": {
+      "settings": {
+        "checksum": "c22d2b9b3343539c169498689ad540b5fb076f0530919bc415f07c05aeb0628d_1_1_1_0__1",
+        "ggSDyfq54S6_text": "For Those Who Seek Quality",
+        "ggWsx2RdOpM_text": "Handcrafted in the Western Tradition",
+        "ggb1zKYq5Wt_text": "<p>Every Lbora hat is meticulously hand-woven, steam-shaped, and hand-finished by skilled artisans. We carry forward the craftsmanship of Western artisans, combining traditional techniques with modern design to create classic headwear for those who seek quality.</p><p><br>Here, tradition meets innovation, and craftsmanship merges with fashion. Lbora—carrying forward the Western spirit, honoring masterful craftsmanship.<br>&nbsp;</p>",
+        "ggthvI-CM1p_text": "<p>Every Lbora hat undergoes meticulous hand-weaving, steam shaping, and hand-finishing by skilled artisans. We carry forward the craftsmanship of Western artisans, combining traditional techniques with modern design to create classic headwear for those who seek quality</p><p>&nbsp;</p><p>Here, tradition meets innovation, and craftsmanship merges with fashion. LuxeBrims—carrying forward the Western spirit, honoring masterful craftsmanship</p>"
+      },
+      "type": "gp-section-596680498156143134"
+    },
+    "gp_section_596680498374246942": {
+      "settings": {
+        "checksum": "2ce3a3807dff68a2a9e9b98a1556749134e2a14f299fc5e8636ed29ad371bcb2_1_1_1_0__1",
+        "ggSVdZAU4b5_text": "<strong>Traditional Craft, Modern Quality</strong>",
+        "ggTa4RDjTpO_text": "<p>Each hat undergoes complete hand-weaving, steam shaping, and precision pressing processes</p>",
+        "ggZPmkMo54x_text": "3. <strong>From Material to Masterpiece</strong>",
+        "ggkw6qOEmEf_text": "<p>Using traditional weaving techniques, every hat is carefully crafted and meticulously finished</p>",
+        "gglGJiLpKC7_text": "2. <strong>Handwoven with Precision</strong>",
+        "ggovYFTG4uR_text": "4. <strong>Handcrafted Excellence Guaranteed</strong>",
+        "ggqleqfOR5n_text": "<p>From hand-woven materials to steam shaping, each step reflects master craftsmanship</p>",
+        "ggqwr0rCnZQ_text": "1. <strong>Crafted with Traditional Excellence</strong>",
+        "ggyjxogdMqu_text": "<p>Selected natural materials go through weaving, shaping, and precision pressing to achieve perfect quality</p>"
+      },
+      "type": "gp-section-596680498374246942"
+    },
+    "gp_section_596680499213107814": {
+      "settings": {
+        "checksum": "aa8c6718557ad7760bc5462e4860714f4188345315570260884f9473d4711a81_1_1_1_0__1",
+        "gg0K0oSaEuJ_text": "<p>230</p>",
+        "gg11dfamS-b_text": "<p>0</p>",
+        "ggB6cnoYetG_text": "<p>Okay, this Lbora black wide-brim hat is seriously amazing!The black color goes with everything, and the structured design is so chic. It stays in place even when I'm hiking or exploring, and the wide brim gives me great sun protection. Plus, it looks stylish in every photo!Perfect for outdoor adventures, travel, and everyday wear. If you need a hat that's both functional and fashionable, this is it!</p>",
+        "ggETglqrWkk_text": "<p>Regina Moore</p>",
+        "ggHHrbHtSCA_text": "<p>0</p>",
+        "ggIzEZijhLp_text": "<p>Girls, this Lbora wide-brim flat top hat is seriously amazing!<br>The light beige color is super versatile, and the wide-brim flat top design is classic. The craftsmanship is solid, and the hat maintains its shape well. It's incredibly versatile and works for both casual and slightly formal looks. Comfortable to wear for long periods.<br>Perfect for everyday wear, photo shoots, travel, and more. Highly recommended if you need a versatile hat!</p>",
+        "ggLDA6X_YPB_text": "<p>Apr 22, 2025</p>",
+        "ggLRFYqIogL_text": "<p>Let's Hear What Our<br>Customers Say</p>",
+        "ggM9XLyxm0e_text": "<p>Guys, I bought this Lbora beige wide-brim flat top hat for my wife, and she looks absolutely stunning in it!The elegant beige color is so versatile, and the classic wide-brim design is timeless. She's worn it on multiple occasions, and it always elevates her look. Plus, it makes our photos together look amazing!She says it's comfortable, stylish, and makes her feel confident. If you're looking for a gift for your wife or partner, this is it. Highly recommended!</p>",
+        "ggOMViEcxt1_text": "<p>Sabrina Miller</p>",
+        "ggUhfIUovh6_text": "<p>Feb 22, 2025</p>",
+        "ggeF8OhhwWS_text": "<p>Oct 22, 2022</p>",
+        "ggiOj0eqwtC_text": "<p>121</p>",
+        "ggjuNgpAvk8_text": "<p>140</p>",
+        "ggrPnUKGR-t_text": "<p>Ned Jacobs</p>",
+        "ggwctTz4Ctc_text": "<p>0</p>"
+      },
+      "type": "gp-section-596680499213107814"
+    },
+    "gp_section_596938197737407462": {
+      "block_order": [
+        "gp_app_selleasy_gCPG9osPzR"
+      ],
       "blocks": {
-        "title": {
-          "type": "title",
-          "settings": {
-            "text_size": "h1",
-            "title_alignment": "left"
-          }
-        },
-        "a6eb81db-40e4-43e0-972f-32db010a4a56": {
-          "type": "rating_stars",
-          "settings": {
-            "rating": 4.4,
-            "star_color": "#ffcc00",
-            "bg_stars_style": "full",
-            "bg_star_color": "#ececec",
-            "label": "(xxxx Reviews)",
-            "size": 16,
-            "alignment": "flex-start",
-            "margin_bottom": 9
-          }
-        },
-        "price": {
-          "type": "price",
-          "settings": {
-            "layout": "price_first",
-            "price_color": "accent-1",
-            "compare_price_color": "text",
-            "displayed_badge": "sale",
-            "icon_scale": 140,
-            "custom_badge_text": "[icon_1] SPECIAL OFFER",
-            "icon_1": "redeem",
-            "icon_2": "check_circle",
-            "margin_top": 9,
-            "margin_bottom": 15
-          }
-        },
-        "5fcc0428-e768-4cb7-bea3-eb0274198dd1": {
-          "type": "variant_picker",
-          "settings": {
-            "picker_types": "pills, dropdown, dropdown",
-            "custom_labels": "[name] - [selected]",
-            "swatches_size": "medium",
-            "swatches_custom_colors": "disabled",
-            "swatches_custom_colors_list": "#000000, #6D388B, #0000FF, #FFCC00",
-            "breaks_style": "normal",
-            "breaks_headline": "BUNDLE & SAVE",
-            "breaks_display_selected_indicator": true,
-            "breaks_border_radius": 10,
-            "breaks_border_width": 2,
-            "breaks_color_scheme": "accent-1",
-            "breaks_badges": "[empty], Most popular, [empty]",
-            "breaks_badge_style": "1",
-            "breaks_badge_color": "accent-1",
-            "breaks_displayed_images": "variant_images",
-            "breaks_image_width": 70,
-            "breaks_space_images": true,
-            "breaks_vertical_images_position": "top",
-            "breaks_vertical_prices_layout": "vertical",
-            "breaks_labels": "[name], [name], [name]",
-            "breaks_benefits": "[empty], Free Shipping, Free Shipping",
-            "breaks_benefit_position": "top",
-            "breaks_benefit_style": "outlined",
-            "breaks_benefit_color": "accent-1",
-            "breaks_captions": "Variant 1 caption, Variant 2 caption, Variant 3 caption",
-            "breaks_price_texts": "[price], [price], [price]",
-            "breaks_compare_price_texts": "[compare_price], [compare_price], [compare_price]",
-            "margin_top": 15,
-            "margin_bottom": 15
-          }
-        },
-        "04ba004e-2f54-4936-8b1c-8bcadf6573f6": {
-          "type": "quantity_selector",
-          "settings": {
-            "atc_append": "none",
-            "atc_append_heights": "stretch-quantity",
-            "style": "normal",
-            "headline": "BUNDLE & SAVE",
-            "preselected": "option_1",
-            "display_selected_indicator": true,
-            "border_radius": 10,
-            "border_width": 2,
-            "color_scheme": "accent-1",
-            "enable_variant_selectors": true,
-            "hide_pickers_overlay": true,
-            "image_width": 70,
-            "space_images": true,
-            "vertical_images_position": "top",
-            "vertical_prices_layout": "vertical",
-            "option_1_quantity": 1,
-            "option_1_badge_style": "1",
-            "option_1_badge_color": "accent-1",
-            "option_1_label": "Buy [quantity]",
-            "option_1_benefit_position": "top",
-            "option_1_benefit_style": "outlined",
-            "option_1_benefit_color": "accent-1",
-            "option_1_caption": "You save [amount_saved]",
-            "option_1_price_text": "[price]",
-            "option_1_compare_price": "compare_price",
-            "option_1_compare_price_text": "[compare_price]",
-            "option_2_quantity": 2,
-            "option_2_badge_style": "1",
-            "option_2_badge_color": "accent-1",
-            "option_2_label": "Buy [quantity]",
-            "option_2_benefit_position": "top",
-            "option_2_benefit_style": "outlined",
-            "option_2_benefit_color": "accent-1",
-            "option_2_caption": "You save [amount_saved]",
-            "option_2_price_text": "[price]",
-            "option_2_compare_price": "compare_price",
-            "option_2_compare_price_text": "[compare_price]",
-            "option_3_quantity": 3,
-            "option_3_badge_style": "1",
-            "option_3_badge_color": "accent-1",
-            "option_3_label": "Buy [quantity]",
-            "option_3_benefit_position": "top",
-            "option_3_benefit_style": "outlined",
-            "option_3_benefit_color": "accent-1",
-            "option_3_caption": "You save [amount_saved]",
-            "option_3_price_text": "[price]",
-            "option_3_compare_price": "compare_price",
-            "option_3_compare_price_text": "[compare_price]",
-            "option_4_quantity": 4,
-            "option_4_badge_style": "1",
-            "option_4_badge_color": "accent-1",
-            "option_4_label": "Buy [quantity]",
-            "option_4_benefit_position": "top",
-            "option_4_benefit_style": "outlined",
-            "option_4_benefit_color": "accent-1",
-            "option_4_caption": "You save [amount_saved]",
-            "option_4_price_text": "[price]",
-            "option_4_compare_price": "compare_price",
-            "option_4_compare_price_text": "[compare_price]",
-            "margin_top": 15,
-            "margin_bottom": 15
-          }
-        },
-        "buy_buttons": {
-          "type": "buy_buttons",
-          "settings": {
-            "uppercase_text": true,
-            "icon_scale": 120,
-            "icon_spacing": 10,
-            "custom_color": "#53af01",
-            "secondary_btn_label": "Buy It Now",
-            "secondary_btn_custom_color": "#dd1d1d",
-            "margin_top": 24,
-            "margin_bottom": 24
-          }
-        },
-        "e0a0b690-50df-4ca4-acfd-ce2980696cce": {
-          "type": "shipping_checkpoints",
-          "settings": {
-            "icon_1": "add_shopping_cart",
-            "top_text_1": "<strong>[start_date]</strong>",
-            "bottom_text_1": "Ordered",
-            "icon_2": "local_shipping",
-            "top_text_2": "<strong>[start_date] - [end_date]</strong>",
-            "bottom_text_2": "Order Ready",
-            "min_days_2": 1,
-            "max_days_2": 2,
-            "icon_3": "redeem",
-            "top_text_3": "<strong>[start_date] - [end_date]</strong>",
-            "bottom_text_3": "Delivered",
-            "min_days_3": 10,
-            "max_days_3": 12,
-            "date_format": "mm_dd",
-            "days_labels": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
-            "months_labels": "Jan, Feb, Mar, Apr, May, Jun, Jul, Aug, Sep, Oct, Nov, Dec",
-            "color_scheme": "inverse",
-            "margin_top": 24,
-            "margin_bottom": 24
-          }
-        },
-        "e7a28cbe-03cb-4c9d-a2c4-0e3e76ffb3e5": {
-          "type": "sticky_atc",
-          "settings": {
-            "function": "add_to_cart",
-            "display_when": "after_scroll",
-            "button_label": "Add to cart",
-            "custom_btn_color": "#dd1d1d",
-            "color_scheme": "background-1",
-            "star_color": "#ffcc00",
-            "stars_label": "(xxxx Reviews)",
-            "picker_type": "combined",
-            "desktop_show_image": true,
-            "desktop_show_title": true,
-            "desktop_show_price": true,
-            "desktop_show_sale_badge": true,
-            "desktop_variant_picker": true,
-            "mobile_show_title": true,
-            "mobile_show_price": true
-          }
-        },
-        "description": {
-          "type": "description",
-          "settings": {
-            "margin_top": 24,
-            "margin_bottom": 24
-          }
-        },
-        "reviews_8UgFbe": {
-          "type": "reviews",
-          "settings": {
-            "color_scheme": "background-1",
-            "custom_bg_color": "#f2f2f2",
-            "corner_radius": 12,
-            "border_color": "#b7b7b7",
-            "avatar_alignment": "top",
-            "avatar_corner_radius": 40,
-            "star_color": "#ffcc00",
-            "checkmark_color": "#6d388b",
-            "checkmark_icon_color": "#ffffff",
-            "slider_type": "slide",
-            "autoplay_speed": 5,
-            "display_dots": true,
-            "author_1": "<em>Author</em> [stars]",
-            "text_1": "<p>Share positive thoughts and feedback from your customer.</p>",
-            "author_2": "<em>Author</em> [stars]",
-            "text_2": "<p>Share positive thoughts and feedback from your customer.</p>",
-            "author_3": "<em>Author</em> [stars]",
-            "text_3": "<p>Share positive thoughts and feedback from your customer.</p>",
-            "margin_top": 24,
-            "margin_bottom": 24
-          }
-        },
-        "de158e68-5d0d-4819-a625-e2dabdff87d1": {
-          "type": "collapsible_tab",
-          "settings": {
-            "heading": "Collapsible row",
-            "heading_size": "medium",
-            "icon": "check_box",
-            "collapse_icon": "carret",
-            "display_top_border": true,
-            "margin_top": 24
-          }
+        "gp_app_selleasy_gCPG9osPzR": {
+          "type": "shopify://apps/selleasy/blocks/lb-upsell-widget-bl/790c1a03-a71f-4bc1-9869-00dad526d3c2",
+          "settings": {}
         }
       },
-      "block_order": [
-        "title",
-        "a6eb81db-40e4-43e0-972f-32db010a4a56",
-        "price",
-        "5fcc0428-e768-4cb7-bea3-eb0274198dd1",
-        "04ba004e-2f54-4936-8b1c-8bcadf6573f6",
-        "buy_buttons",
-        "e0a0b690-50df-4ca4-acfd-ce2980696cce",
-        "e7a28cbe-03cb-4c9d-a2c4-0e3e76ffb3e5",
-        "description",
-        "reviews_8UgFbe",
-        "de158e68-5d0d-4819-a625-e2dabdff87d1"
-      ],
       "settings": {
-        "enable_sticky_info": true,
-        "disable_prepend": true,
-        "variant_image_filtering": "none",
-        "image_zoom": "none",
-        "thumbnails_ratio": "square",
-        "arrows_color_scheme": "inverse",
-        "dots_color_scheme": "inverse",
-        "video_player": "play_btn",
-        "play_btn_color_scheme": "accent-1",
-        "sound_btn_color_scheme": "inverse",
-        "timeline_color": "accent-1",
-        "media_size": "medium",
-        "media_position": "left",
-        "gallery_layout": "thumbnail_slider",
-        "desktop_thumbnails_position": "bottom",
-        "desktop_thumbnails_count": 5,
-        "desktop_vertical_thumbnails_width": 16,
-        "constrain_to_viewport": true,
-        "media_fit": "contain",
-        "desktop_arrows_position": "hidden",
-        "mobile_arrows_position": "sides",
-        "mobile_pagination": "dots_overlay",
-        "mobile_thumbnails_position": "hidden",
-        "mobile_thumbnails_count": 5,
-        "mobile_vertical_thumbnails_width": 22,
-        "mobile_vertical_thumbnails_hide_arrows": true,
-        "mobile_scroll_padding_pixels": 14,
-        "mobile_slides_container_width": 100,
-        "mobile_slides_inner_width": 100,
-        "trust_badge_position": "top-right",
-        "trust_badge_size": "medium",
-        "mobile_padding_bottom": 16,
-        "desktop_padding_top": 36,
-        "desktop_padding_bottom": 36
-      }
-    },
-    "related-products": {
-      "type": "related-products",
-      "disabled": true,
-      "settings": {
-        "title": "You may also like",
-        "title_highlight_color": "#6d388b",
-        "heading_size": "h2",
-        "products_to_show": 4,
-        "columns_desktop": 4,
-        "color_scheme": "background-1",
-        "image_ratio": "adapt",
-        "columns_mobile": "2",
-        "padding_top": 36,
-        "padding_bottom": 24
-      }
-    },
-    "8beb6911-28c6-482c-976a-e5421ad3e8df": {
-      "type": "custom-columns",
-      "blocks": {
-        "template--21507361800487__8beb6911-28c6-482c-976a-e5421ad3e8df-heading-1": {
-          "type": "heading",
-          "settings": {
-            "column": "col_1",
-            "visibility": "always-display",
-            "heading": "Custom columns",
-            "title_highlight_color": "#6d388b",
-            "heading_size": "h1",
-            "alignment": "center",
-            "mobile_alignment": "mobile-center",
-            "margin_top": 20,
-            "margin_bottom": 20
-          }
-        },
-        "template--21507361800487__8beb6911-28c6-482c-976a-e5421ad3e8df-richtext-1": {
-          "type": "richtext",
-          "settings": {
-            "column": "col_1",
-            "visibility": "always-display",
-            "text": "<p>Use the flexible grid system to create any layout. Each block can be placed in any of the columns.</p>",
-            "text_style": "body",
-            "alignment": "center",
-            "mobile_alignment": "mobile-center",
-            "margin_top": 20,
-            "margin_bottom": 20
-          }
-        },
-        "template--21507361800487__8beb6911-28c6-482c-976a-e5421ad3e8df-icon_with_text-1": {
-          "type": "icon_with_text",
-          "settings": {
-            "column": "col_2",
-            "visibility": "always-display",
-            "icon": "check_circle",
-            "icon_size": "m",
-            "icon_position": "next-to-title",
-            "icon_color": "accent-1",
-            "icon_heading_size": "h3",
-            "icon_text_alignment": "left",
-            "title": "Icon with text",
-            "text": "<p>Pair text with an icon to focus on your chosen product, collection, or blog post</p>",
-            "margin_top": 20,
-            "margin_bottom": 30
-          }
-        },
-        "template--21507361800487__8beb6911-28c6-482c-976a-e5421ad3e8df-icon_with_text-2": {
-          "type": "icon_with_text",
-          "settings": {
-            "column": "col_2",
-            "visibility": "always-display",
-            "icon": "check_circle",
-            "icon_size": "m",
-            "icon_position": "next-to-title",
-            "icon_color": "accent-1",
-            "icon_heading_size": "h3",
-            "icon_text_alignment": "left",
-            "title": "Icon with text",
-            "text": "<p>Pair text with an icon to focus on your chosen product, collection, or blog post</p>",
-            "margin_top": 20,
-            "margin_bottom": 20
-          }
-        },
-        "template--21507361800487__8beb6911-28c6-482c-976a-e5421ad3e8df-image-1": {
-          "type": "image",
-          "settings": {
-            "column": "col_3",
-            "visibility": "always-display",
-            "width": 100,
-            "alignment": "center",
-            "mobile_alignment": "center",
-            "margin_top": 20,
-            "margin_bottom": 20
-          }
-        },
-        "template--21507361800487__8beb6911-28c6-482c-976a-e5421ad3e8df-icon_with_text-3": {
-          "type": "icon_with_text",
-          "settings": {
-            "column": "col_4",
-            "visibility": "always-display",
-            "icon": "check_circle",
-            "icon_size": "m",
-            "icon_position": "next-to-title",
-            "icon_color": "accent-1",
-            "icon_heading_size": "h3",
-            "icon_text_alignment": "left",
-            "title": "Icon with text",
-            "text": "<p>Pair text with an icon to focus on your chosen product, collection, or blog post</p>",
-            "margin_top": 20,
-            "margin_bottom": 30
-          }
-        },
-        "template--21507361800487__8beb6911-28c6-482c-976a-e5421ad3e8df-icon_with_text-4": {
-          "type": "icon_with_text",
-          "settings": {
-            "column": "col_4",
-            "visibility": "always-display",
-            "icon": "check_circle",
-            "icon_size": "m",
-            "icon_position": "next-to-title",
-            "icon_color": "accent-1",
-            "icon_heading_size": "h3",
-            "icon_text_alignment": "left",
-            "title": "Icon with text",
-            "text": "<p>Pair text with an icon to focus on your chosen product, collection, or blog post</p>",
-            "margin_top": 20,
-            "margin_bottom": 20
-          }
-        }
+        "checksum": "22518d2a142988fb4c282cff6c0d0015b3707514a0c45eb8bcfbd6f0d57117c3_1_1_1_0__1",
+        "gg1elQw0vld_text": "<p>Customer Service</p>",
+        "gg95c3F6kUK_text": "<p>Short top in soft fabric with a square neckline and draped bodice. Long sleeves with narrow elastic at shoulders and cuffs. Lined bodice.</p>",
+        "gg9jJ0g7br-_label": "Buy Now",
+        "gg9jJ0g7br-_outOfStockLabel": "Out of stock",
+        "gg9jJ0g7br-_unavailableLabel": "Unavailable",
+        "ggA-bjY31sD_text": "<p>Your payment security matters to us. Lbora partners exclusively with certified payment service providers who are committed to protecting and maintaining the confidentiality of your payment information.</p>",
+        "ggEaUc38KV4_text": "<p>(1080 reviews)</p>",
+        "ggGHGvQgckX_text": "<p>At Lbora, we protect your privacy with industry-standard encryption. Your shipping address, payment information, and purchase details are secured throughout your entire shopping experience. Shop with confidence.</p>",
+        "ggL85oxCgCt_childItem_0": "<p>Discription</p>",
+        "ggL85oxCgCt_childItem_1": "<p>Size+fit</p>",
+        "ggL85oxCgCt_childItem_2": "<p>Free Shipping</p>",
+        "ggN4VeA-MvV_text": "<p><span style=\"font-size:16px;\">Save 10% | Code: <strong>10%Off-LBORA</strong></span></p>",
+        "ggODL_QU1nu_childItem_0": "<p>Security and Service</p>",
+        "ggRa1qdeaB__text": "<p><span style=\"color:#3B3B3B;\">Lbora delivers to customers around the world — with free shipping and estimated delivery in 15–20 business days.</span><br><span style=\"color:#3B3B3B;\">Lbora 为全球客户提供送货服务——免运费，预计 15-20 个工作日内送达。</span><br><span style=\"color:#3B3B3B;\">Note: Delivery times may vary slightly depending on your location.</span><br><span style=\"color:#3B3B3B;\">注：送货时间可能因您所在地区而略有不同。</span></p>",
+        "ggSjQVgOFCb_text": "<p>Privacy Protection &nbsp;</p>",
+        "ggUWHchKLTN_text": "<p>Efficient and Safe Logitics</p>",
+        "ggVvbjlTt1G_label": "Add To card",
+        "ggVvbjlTt1G_outOfStockLabel": "Out of stock",
+        "ggVvbjlTt1G_unavailableLabel": "Unavailable",
+        "ggWccoCWPlH_viewLessText": "Show less",
+        "ggWccoCWPlH_viewMoreText": "Show more",
+        "ggXfb772EcP_defaultLabel": "Copy",
+        "ggagGj567_n_text": "<p>At <span style=\"color:#3B3B3B;\">Lbora</span>, our hats are crafted with precision to ensure a tailored and flattering fit.</p><p>&nbsp;</p><p><strong>True to Size:</strong><br>Each style is designed to fit true to size, following standard international headwear measurements. Simply select your usual hat size for the most comfortable fit.</p><p>&nbsp;</p><p><strong>Between Sizes:</strong><br>If you find yourself between sizes, we recommend using one of our premium hat fillers. Designed for subtle comfort, they provide a secure fit without compromising the hat’s shape or style.</p><p>&nbsp;</p><p><strong>Need Assistance</strong>:<br>Not sure of your size? Visit our <a href=\"https://luxebrims.com/pages/hat-size-guide\"><u>Hat Size Guide</u></a> or reach out to our support team — we're here to help you find your perfect fit.</p>",
+        "ggdwBSWcPdo_text": "<p>At Lbora, we deliver with security and efficiency. Track your order in real-time, and protect your purchase with our optional Shipping Protection—covering delays, damage, or loss during transit.</p>",
+        "gghu8zcgiHE_text": "<p><a href=\"https://luxebrims.com/pages/hat-size-guide\"><u>Size Guide</u></a></p>",
+        "ggoBqigMSJW_text": "<p>Payment Security</p>",
+        "ggp_rof59Bh_text": "Quantity",
+        "ggrjBheTtwl_text": "<p>We're here to help. If you encounter any problems during or after shopping, Lbora's customer service team is ready to assist you.</p>",
+        "section_preload": "true"
       },
-      "block_order": [
-        "template--21507361800487__8beb6911-28c6-482c-976a-e5421ad3e8df-heading-1",
-        "template--21507361800487__8beb6911-28c6-482c-976a-e5421ad3e8df-richtext-1",
-        "template--21507361800487__8beb6911-28c6-482c-976a-e5421ad3e8df-icon_with_text-1",
-        "template--21507361800487__8beb6911-28c6-482c-976a-e5421ad3e8df-icon_with_text-2",
-        "template--21507361800487__8beb6911-28c6-482c-976a-e5421ad3e8df-image-1",
-        "template--21507361800487__8beb6911-28c6-482c-976a-e5421ad3e8df-icon_with_text-3",
-        "template--21507361800487__8beb6911-28c6-482c-976a-e5421ad3e8df-icon_with_text-4"
-      ],
-      "settings": {
-        "visibility": "always-display",
-        "color_scheme": "background-1",
-        "columns_count": 4,
-        "desktop_page_width": "normal",
-        "column_gap_desktop": 40,
-        "row_gap_desktop": 40,
-        "desktop_vertical_alignment": "center",
-        "column_gap_mobile": 20,
-        "row_gap_mobile": 30,
-        "mobile_vertical_alignment": "flex-start",
-        "col_1_desktop_width": 12,
-        "col_1_mobile_width": 4,
-        "col_1_visibility": "always-display",
-        "col_2_desktop_width": 4,
-        "col_2_mobile_width": 4,
-        "col_2_visibility": "always-display",
-        "col_3_desktop_width": 4,
-        "col_3_mobile_width": 4,
-        "col_3_visibility": "always-display",
-        "col_4_desktop_width": 4,
-        "col_4_mobile_width": 4,
-        "col_4_visibility": "always-display",
-        "col_5_desktop_width": 3,
-        "col_5_mobile_width": 4,
-        "col_5_visibility": "always-display",
-        "col_6_desktop_width": 3,
-        "col_6_mobile_width": 4,
-        "col_6_visibility": "always-display",
-        "padding_top": 36,
-        "padding_bottom": 36,
-        "custom_colors_background": "#ffffff",
-        "custom_colors_text": "#2e2a39",
-        "custom_colors_solid_button_background": "#dd1d1d",
-        "custom_colors_solid_button_text": "#ffffff",
-        "custom_colors_outline_button": "#dd1d1d"
-      }
+      "type": "gp-section-596938197737407462"
     },
-    "eba88da5-80ac-47fc-aa75-997cfe7b2e59": {
-      "type": "image-slider",
-      "blocks": {
-        "template--21507361800487__eba88da5-80ac-47fc-aa75-997cfe7b2e59-image_slide-1": {
-          "type": "image_slide",
-          "settings": {
-            "desc_alignment": "center",
-            "desc_color_scheme": "background-2"
-          }
-        },
-        "template--21507361800487__eba88da5-80ac-47fc-aa75-997cfe7b2e59-image_slide-2": {
-          "type": "image_slide",
-          "settings": {
-            "desc_alignment": "center",
-            "desc_color_scheme": "background-2"
-          }
-        },
-        "template--21507361800487__eba88da5-80ac-47fc-aa75-997cfe7b2e59-image_slide-3": {
-          "type": "image_slide",
-          "settings": {
-            "desc_alignment": "center",
-            "desc_color_scheme": "background-2"
-          }
-        },
-        "template--21507361800487__eba88da5-80ac-47fc-aa75-997cfe7b2e59-image_slide-4": {
-          "type": "image_slide",
-          "settings": {
-            "desc_alignment": "center",
-            "desc_color_scheme": "background-2"
-          }
-        }
+    "gp_section_598420585902506585": {
+      "settings": {
+        "checksum": "43ca3a9d51fd6612f8b385b12bacf7037cf413f84339994b600eefbd43410f4e_1_1_1_0__1",
+        "ggCn_Xpxq1C_text": "You may also like",
+        "ggT8GBA06KF_label": "Add To Cart",
+        "ggT8GBA06KF_outOfStockLabel": "Out Of Stock",
+        "ggT8GBA06KF_unavailableLabel": "Unavailable",
+        "ggT8GBA06KF_variantSelectionRequiredMessage": "Please select a variant to add product to cart"
       },
-      "block_order": [
-        "template--21507361800487__eba88da5-80ac-47fc-aa75-997cfe7b2e59-image_slide-1",
-        "template--21507361800487__eba88da5-80ac-47fc-aa75-997cfe7b2e59-image_slide-2",
-        "template--21507361800487__eba88da5-80ac-47fc-aa75-997cfe7b2e59-image_slide-3",
-        "template--21507361800487__eba88da5-80ac-47fc-aa75-997cfe7b2e59-image_slide-4"
-      ],
-      "settings": {
-        "visibility": "always-display",
-        "title": "Image/Video Slider",
-        "title_highlight_color": "#6d388b",
-        "heading_size": "h1",
-        "color_scheme": "background-1",
-        "type": "slide",
-        "drag": "enabled",
-        "autoplay_speed": 5,
-        "arrows_color_scheme": "inverse",
-        "dots_color_scheme": "inverse",
-        "desktop_page_width": "normal",
-        "slides_desktop": 3,
-        "per_move_desktop": 1,
-        "desktop_spacing": 28,
-        "desktop_padding_calc": true,
-        "desktop_dots_position": "under",
-        "desktop_arrows_position": "sides",
-        "slides_mobile": 2,
-        "per_move_mobile": 1,
-        "mobile_spacing": 12,
-        "mobile_padding_calc": true,
-        "mobile_dots_position": "under",
-        "mobile_arrows_position": "sides",
-        "padding_top": 36,
-        "padding_bottom": 36,
-        "custom_colors_background": "#ffffff",
-        "custom_colors_text": "#121212"
-      }
+      "type": "gp-section-598420585902506585"
     },
-    "4fc05ee5-1c30-4863-b88f-81cb6fa7c41a": {
-      "type": "icons-with-content",
-      "blocks": {
-        "template--21507361800487__4fc05ee5-1c30-4863-b88f-81cb6fa7c41a-icon-1": {
-          "type": "icon",
-          "settings": {
-            "icon": "check_circle",
-            "title": "Icon with text",
-            "text": "<p>Pair text with an icon to focus on your chosen product, collection, or blog post</p>"
-          }
-        },
-        "template--21507361800487__4fc05ee5-1c30-4863-b88f-81cb6fa7c41a-icon-2": {
-          "type": "icon",
-          "settings": {
-            "icon": "check_circle",
-            "title": "Icon with text",
-            "text": "<p>Pair text with an icon to focus on your chosen product, collection, or blog post</p>"
-          }
-        },
-        "template--21507361800487__4fc05ee5-1c30-4863-b88f-81cb6fa7c41a-icon-3": {
-          "type": "icon",
-          "settings": {
-            "icon": "check_circle",
-            "title": "Icon with text",
-            "text": "<p>Pair text with an icon to focus on your chosen product, collection, or blog post</p>"
-          }
-        },
-        "template--21507361800487__4fc05ee5-1c30-4863-b88f-81cb6fa7c41a-heading-1": {
-          "type": "heading",
-          "settings": {
-            "title": "Content heading",
-            "title_highlight_color": "#6d388b",
-            "heading_size": "h1"
-          }
-        },
-        "template--21507361800487__4fc05ee5-1c30-4863-b88f-81cb6fa7c41a-text-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Pair icons with content to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
-            "text_style": "body"
-          }
-        },
-        "template--21507361800487__4fc05ee5-1c30-4863-b88f-81cb6fa7c41a-button-1": {
-          "type": "button",
-          "settings": {
-            "button_label": "Button label"
-          }
-        }
+    "gp_section_598434179994092121": {
+      "settings": {
+        "checksum": "8ea917d57fed7a3d4f965f0c2a29de9428478dfccdfff02cbead8af4dcf67a10_1_1_1_0__1"
       },
-      "block_order": [
-        "template--21507361800487__4fc05ee5-1c30-4863-b88f-81cb6fa7c41a-icon-1",
-        "template--21507361800487__4fc05ee5-1c30-4863-b88f-81cb6fa7c41a-icon-2",
-        "template--21507361800487__4fc05ee5-1c30-4863-b88f-81cb6fa7c41a-icon-3",
-        "template--21507361800487__4fc05ee5-1c30-4863-b88f-81cb6fa7c41a-heading-1",
-        "template--21507361800487__4fc05ee5-1c30-4863-b88f-81cb6fa7c41a-text-1",
-        "template--21507361800487__4fc05ee5-1c30-4863-b88f-81cb6fa7c41a-button-1"
-      ],
-      "settings": {
-        "visibility": "always-display",
-        "color_scheme": "background-1",
-        "icon_size": "m",
-        "icon_position": "next-to-title",
-        "icon_color": "accent-1",
-        "icon_heading_size": "h3",
-        "icon_text_alignment": "left",
-        "icons_desktop_layout": "1-column",
-        "icons_mobile_layout": "1-column",
-        "desktop_content_alignment": "left",
-        "layout": "image_first",
-        "mobile_layout": "text_first",
-        "padding_top": 36,
-        "padding_bottom": 36,
-        "custom_colors_background": "#ffffff",
-        "custom_colors_text": "#2e2a39",
-        "custom_colors_solid_button_background": "#dd1d1d",
-        "custom_colors_solid_button_text": "#ffffff",
-        "custom_colors_outline_button": "#dd1d1d"
-      }
-    },
-    "55bd100e-3bbd-426c-a5cf-eed7b2a3706f": {
-      "type": "testimonials",
-      "blocks": {
-        "template--21507361800487__55bd100e-3bbd-426c-a5cf-eed7b2a3706f-column-1": {
-          "type": "column",
-          "settings": {
-            "star_rating": 5,
-            "title": "Heading",
-            "text": "<p>Share positive thoughts and feedback from your customer..</p>",
-            "author": "<em><strong>Author</strong></em>"
-          }
-        },
-        "template--21507361800487__55bd100e-3bbd-426c-a5cf-eed7b2a3706f-column-2": {
-          "type": "column",
-          "settings": {
-            "star_rating": 5,
-            "title": "Heading",
-            "text": "<p>Share positive thoughts and feedback from your customer..</p>",
-            "author": "<em><strong>Author</strong></em>"
-          }
-        },
-        "template--21507361800487__55bd100e-3bbd-426c-a5cf-eed7b2a3706f-column-3": {
-          "type": "column",
-          "settings": {
-            "star_rating": 5,
-            "title": "Heading",
-            "text": "<p>Share positive thoughts and feedback from your customer..</p>",
-            "author": "<em><strong>Author</strong></em>"
-          }
-        }
-      },
-      "block_order": [
-        "template--21507361800487__55bd100e-3bbd-426c-a5cf-eed7b2a3706f-column-1",
-        "template--21507361800487__55bd100e-3bbd-426c-a5cf-eed7b2a3706f-column-2",
-        "template--21507361800487__55bd100e-3bbd-426c-a5cf-eed7b2a3706f-column-3"
-      ],
-      "settings": {
-        "visibility": "always-display",
-        "title": "Testimonials",
-        "title_highlight_color": "#6d388b",
-        "heading_size": "h1",
-        "color_scheme": "background-1",
-        "image_width": "full",
-        "image_ratio": "square",
-        "column_alignment": "center",
-        "show_stars": true,
-        "inactive_stars_style": "solid",
-        "star_color": "#ffcc00",
-        "bg_star_color": "#ececec",
-        "show_quotes": true,
-        "quotes_color_scheme": "accent-2",
-        "cards_color_scheme": "bg-overlay",
-        "type": "slide",
-        "autoplay_speed": 5,
-        "arrows_color_scheme": "inverse",
-        "transparent_arrows": true,
-        "dots_color_scheme": "inverse",
-        "columns_desktop": 3,
-        "per_move_desktop": 1,
-        "desktop_spacing": 40,
-        "desktop_padding_calc": true,
-        "desktop_dots_position": "under",
-        "desktop_arrows_position": "sides",
-        "slider_mobile": true,
-        "mobile_dots_position": "under",
-        "mobile_arrows_position": "under",
-        "padding_top": 36,
-        "padding_bottom": 36,
-        "custom_colors_background": "#ffffff",
-        "custom_colors_text": "#2e2a39",
-        "custom_cards_colors_background": "#f3f3f3",
-        "custom_cards_colors_text": "#2e2a39"
-      }
-    },
-    "b321ab88-2b59-4dba-bade-54885c874ca5": {
-      "type": "section-divider",
-      "settings": {
-        "visibility": "always-display",
-        "shape": "waves_3",
-        "shape_color": "accent-2",
-        "custom_shape_color": "#b7b5b5",
-        "background_color": "accent-2",
-        "custom_background_color": "#ffffff"
-      }
-    },
-    "1629746450643786911": {
-      "type": "areviews-section",
-      "settings": {}
+      "type": "gp-section-598434179994092121"
     }
   },
   "order": [
-    "main",
-    "related-products",
-    "8beb6911-28c6-482c-976a-e5421ad3e8df",
-    "eba88da5-80ac-47fc-aa75-997cfe7b2e59",
-    "4fc05ee5-1c30-4863-b88f-81cb6fa7c41a",
-    "55bd100e-3bbd-426c-a5cf-eed7b2a3706f",
-    "b321ab88-2b59-4dba-bade-54885c874ca5",
-    "1629746450643786911"
+    "gp_section_596938197737407462",
+    "gp_section_596680497334060012",
+    "gp_section_596680498374246942",
+    "gp_section_596680498156143134",
+    "gp_section_596680499213107814",
+    "gp_section_598420585902506585",
+    "gp_section_598434179994092121"
   ]
 }
