@@ -32,6 +32,7 @@
       "block_order": [
         "boost_ai_search_filter_recommendation_ssr_aMXT63"
       ],
+      "disabled": true,
       "settings": {
         "display_id": false,
         "include_margins": true
@@ -39,7 +40,6 @@
     },
     "gp_section_594337781904573351": {
       "type": "gp-section-594337781904573351",
-      "disabled": true,
       "settings": {
         "section_preload": "true",
         "checksum": "c23637a370b466ae1c837f6c96fc2bc13cc48698474b4b835abebcb8eea19a63_1_1_1_0__1",
