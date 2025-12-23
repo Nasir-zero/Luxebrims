@@ -35,6 +35,7 @@
     "gp_section_596680498374246942": {
       "type": "gp-section-596680498374246942",
       "settings": {
+        "section_preload": "true",
         "checksum": "6b0c26117379ef5e78e6214bc73a041230b01608ec4bd1d91baa4b9011be0ce1_1_1_1_0__1",
         "ggSVdZAU4b5_text": "<strong>Traditional Craft, Modern Quality</strong>",
         "ggqwr0rCnZQ_text": "1. <strong>Crafted with Traditional Excellence</strong>",
@@ -82,7 +83,7 @@
       ],
       "settings": {
         "section_preload": "true",
-        "checksum": "e91b84795ae2383c0f14d483a4ff53533cad593341cecd295c233b8be9c21306_1_1_1_0__1",
+        "checksum": "2180e3463bcdd8b9cc000481a8031ede45b5e07c60807007c1e80b6e3489c3c2_1_1_1_0__1",
         "ggEaUc38KV4_text": "<p>(1080 reviews)</p>",
         "ggN4VeA-MvV_text": "<p><span style=\"font-size:16px;\">Save 10% | Code: <strong>10%Off-LBORA</strong></span></p>",
         "ggXfb772EcP_defaultLabel": "Copy",
