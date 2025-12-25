@@ -17,10 +17,10 @@
         "ggQx7e0-SUW_label": "<p>Shop Now</p>"
       }
     },
-    "1766397696c0e4852c": {
+    "1766635675141315b3": {
       "type": "apps",
       "blocks": {
-        "boost_ai_search_filter_recommendation_ssr_WVhK4E": {
+        "boost_ai_search_filter_recommendation_ssr_cGqJhc": {
           "type": "shopify://apps/boost-ai-search-filter/blocks/recommendation-ssr/7fc998ae-a150-4367-bab8-505d8a4503f7",
           "settings": {
             "widgetId": "homepage-783263",
@@ -30,7 +30,7 @@
         }
       },
       "block_order": [
-        "boost_ai_search_filter_recommendation_ssr_WVhK4E"
+        "boost_ai_search_filter_recommendation_ssr_cGqJhc"
       ],
       "settings": {
         "display_id": false,
@@ -196,31 +196,11 @@
         "ggHeQJnGgmZ_label": "<p>Hat Bar</p>",
         "ggZDbeJHTED_label": "<p>Hat Care Guide</p>"
       }
-    },
-    "17666356732e234c18": {
-      "type": "apps",
-      "blocks": {
-        "boost_ai_search_filter_recommendation_ssr_pjjdEQ": {
-          "type": "shopify://apps/boost-ai-search-filter/blocks/recommendation-ssr/7fc998ae-a150-4367-bab8-505d8a4503f7",
-          "settings": {
-            "widgetId": "",
-            "additional_classes": "",
-            "custom_css": ""
-          }
-        }
-      },
-      "block_order": [
-        "boost_ai_search_filter_recommendation_ssr_pjjdEQ"
-      ],
-      "settings": {
-        "display_id": false,
-        "include_margins": true
-      }
     }
   },
   "order": [
     "gp_section_594337781904704423",
-    "1766397696c0e4852c",
+    "1766635675141315b3",
     "gp_section_594337781904573351",
     "gp_section_594337781904311207",
     "gp_section_596210905373475820",
@@ -229,8 +209,7 @@
     "gp_section_596832866432713708",
     "gp_section_596823460722770924",
     "gp_section_597113695687934860",
-    "gp_global_section_561765491551503340-1",
-    "17666356732e234c18"
+    "gp_global_section_561765491551503340-1"
   ],
   "layout": "theme.gempages.header"
 }
