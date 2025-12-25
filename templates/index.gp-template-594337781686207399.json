@@ -20,8 +20,8 @@
       "settings": {
         "checksum": "8ca5ec272d145f4da2f8313b3cc3ae5f4adb0c7bd9484668a3810f24f0da93dc_1_1_1_0__1",
         "gg1-B3kSI1U_label": "<p>Shop Western Hat</p>",
-        "ggR-5PuaUiV_label": "<p>Shop Travel Hats&nbsp;</p>",
-        "ggSmOnKtQZO_label": "<p>Shop Winter Hats&nbsp;</p>",
+        "ggR-5PuaUiV_label": "<p>Shop Travel Hats </p>",
+        "ggSmOnKtQZO_label": "<p>Shop Winter Hats </p>",
         "ggU6_82Uauu_label": "<p>Shop Travel Hats</p>",
         "ggXLCUbIfTG_text": "Featured Collection",
         "ggjLyFTa6PJ_text": "<p>Discover our latest collection of hats and beanies, featuring fresh and refined tones inspired by the season's renewal. Find the piece that resonates with your individual style and carry a touch of timeless elegance with you.</p>",
@@ -41,7 +41,7 @@
         "ggEnH_OQS-v_unavailableLabel": "Unavailable",
         "ggEnH_OQS-v_variantSelectionRequiredMessage": "Please select a variant to add product to cart",
         "ggZmfzY3yQc_customContent_suffix": "off",
-        "ggdvimNhP9R_text": "Our Best-Sellers&nbsp;",
+        "ggdvimNhP9R_text": "Our Best-Sellers ",
         "section_preload": "true"
       },
       "type": "gp-section-594337781904573351"
@@ -57,15 +57,15 @@
     "gp_section_595084411871953506": {
       "settings": {
         "checksum": "107744e351b2f22b05dc82bcffaf7cf126109833dcf9096cb2897a365b85af46_1_1_1_0__1",
-        "gg3fnHIE_sE_text": "<span style=\"background-color:rgba(255,255,255,0);color:#FFFFFF;font-size:15px;\">This beanie is exactly what I needed for the cold months. It's thick enough to keep me warm but not so thick that it makes my head look like a snowball. The color is easy to match, and it doesn't pill after washing. I've already bought one for my sister too!&nbsp;</span><br><br><span style=\"background-color:rgba(255,255,255,0);color:#FFFFFF;font-size:15px;\">Ryan</span>",
-        "ggDbkwrdXNT_text": "<span style=\"background-color:rgba(255,255,255,0);color:#FFFFFF;font-size:15px;\">I was worried this hat would be too flimsy, but it's actually really well-made. The brim stays stiff enough to shield my eyes from the sun, and the inner lining is soft and comfortable. It's also adjustable, so I can tweak the fit depending on if I'm wearing my hair up or down.&nbsp;</span>",
+        "gg3fnHIE_sE_text": "<span style=\"background-color:rgba(255,255,255,0);color:#FFFFFF;font-size:15px;\">This beanie is exactly what I needed for the cold months. It's thick enough to keep me warm but not so thick that it makes my head look like a snowball. The color is easy to match, and it doesn't pill after washing. I've already bought one for my sister too! </span><br><br><span style=\"background-color:rgba(255,255,255,0);color:#FFFFFF;font-size:15px;\">Ryan</span>",
+        "ggDbkwrdXNT_text": "<span style=\"background-color:rgba(255,255,255,0);color:#FFFFFF;font-size:15px;\">I was worried this hat would be too flimsy, but it's actually really well-made. The brim stays stiff enough to shield my eyes from the sun, and the inner lining is soft and comfortable. It's also adjustable, so I can tweak the fit depending on if I'm wearing my hair up or down. </span>",
         "ggM5QhDqrbi_text": "As Seen On You",
         "ggMsAjOJZ7h_text": "<span style=\"background-color:rgba(255,255,255,0);color:#FFFFFF;font-size:15px;\">The color of this hat is even more beautiful in person than in the pictures—rich and vibrant without being too loud. It's well-constructed, with neat stitching and a sturdy brim. I wore it to a music festival and got tons of questions about where I bought it.</span><br><br><span style=\"background-color:rgba(255,255,255,0);color:#FFFFFF;font-size:15px;\">Lisa</span>",
-        "ggPaIPC8t8F_text": "<span style=\"background-color:rgba(255,255,255,0);color:#FFFFFF;font-size:15px;\">I've been searching for a warm winter hat for weeks, and this one exceeded all my expectations. The wool blend is cozy and doesn't irritate my skin, and the pom-pom on top adds such a cute touch. Even on cold windy days, my ears stay toasty. Great purchase!&nbsp;</span><br><br><span style=\"background-color:rgba(255,255,255,0);color:#FFFFFF;font-size:15px;\">Jismine</span>",
-        "ggeBWZM6XZ2_text": "<span style=\"background-color:rgba(255,255,255,0);color:#FFFFFF;font-size:15px;\">This hat is absolutely fantastic! The fabric is soft yet durable, and it fits my head perfectly without feeling tight. It keeps the sun out of my eyes during morning walks and looks stylish with both casual tees and dresses. Highly recommend it!&nbsp;</span><br><br><span style=\"background-color:rgba(255,255,255,0);color:#FFFFFF;font-size:15px;\">Lily</span>",
-        "gghvFo_08ud_text": "<span style=\"background-color:rgba(255,255,255,0);color:#FFFFFF;font-size:15px;\">As someone with a larger head, finding a hat that fits well is always a struggle. But this one fits like it was custom-made! The stretchy band inside is gentle on my hair, and the design doesn't make my head look bulky. It's become my new everyday essential.&nbsp;</span><br><br><span style=\"background-color:rgba(255,255,255,0);color:#FFFFFF;font-size:15px;\">Tom</span>",
+        "ggPaIPC8t8F_text": "<span style=\"background-color:rgba(255,255,255,0);color:#FFFFFF;font-size:15px;\">I've been searching for a warm winter hat for weeks, and this one exceeded all my expectations. The wool blend is cozy and doesn't irritate my skin, and the pom-pom on top adds such a cute touch. Even on cold windy days, my ears stay toasty. Great purchase! </span><br><br><span style=\"background-color:rgba(255,255,255,0);color:#FFFFFF;font-size:15px;\">Jismine</span>",
+        "ggeBWZM6XZ2_text": "<span style=\"background-color:rgba(255,255,255,0);color:#FFFFFF;font-size:15px;\">This hat is absolutely fantastic! The fabric is soft yet durable, and it fits my head perfectly without feeling tight. It keeps the sun out of my eyes during morning walks and looks stylish with both casual tees and dresses. Highly recommend it! </span><br><br><span style=\"background-color:rgba(255,255,255,0);color:#FFFFFF;font-size:15px;\">Lily</span>",
+        "gghvFo_08ud_text": "<span style=\"background-color:rgba(255,255,255,0);color:#FFFFFF;font-size:15px;\">As someone with a larger head, finding a hat that fits well is always a struggle. But this one fits like it was custom-made! The stretchy band inside is gentle on my hair, and the design doesn't make my head look bulky. It's become my new everyday essential. </span><br><br><span style=\"background-color:rgba(255,255,255,0);color:#FFFFFF;font-size:15px;\">Tom</span>",
         "ggi2hCMaEh3_text": "<p>Mia</p>",
-        "ggkOT_HwDXc_text": "<span style=\"background-color:rgba(255,255,255,0);color:#FFFFFF;font-size:15px;\">What a versatile hat! I wear it to the beach, to work, and even when running errands. The neutral color matches everything in my wardrobe, and it's lightweight enough to pack in my bag without losing its shape. The quality is impressive for the price.&nbsp;</span><br><br><span style=\"background-color:rgba(255,255,255,0);color:#FFFFFF;font-size:15px;\">Emma</span>"
+        "ggkOT_HwDXc_text": "<span style=\"background-color:rgba(255,255,255,0);color:#FFFFFF;font-size:15px;\">What a versatile hat! I wear it to the beach, to work, and even when running errands. The neutral color matches everything in my wardrobe, and it's lightweight enough to pack in my bag without losing its shape. The quality is impressive for the price. </span><br><br><span style=\"background-color:rgba(255,255,255,0);color:#FFFFFF;font-size:15px;\">Emma</span>"
       },
       "type": "gp-section-595084411871953506"
     },
@@ -97,10 +97,10 @@
     },
     "gp_section_596823460722770924": {
       "settings": {
-        "checksum": "4741fdea05f0ab17507657644f5fe4f36a38736bf5653e8026dbaba6c9bff09f_1_1_1_0__1",
-        "ggde0uZ6zGU_text": "<strong>The Art of Gifting a Hat: How to Choose the Rig...</strong>",
-        "ggnj5iiudNE_text": "<strong>Hat Engineering: Beyond Size, Guaranteeing The Perfect...</strong>",
-        "ggz32OJIKzZ_text": "<strong>Why the Liner and Sweatband are the Beating Heart of...</strong>"
+        "checksum": "f930d37f149b810aa4892f83a2ca235e3ab9c443cee9e26665b2ef1a19fec091_1_1_1_0__1",
+        "ggde0uZ6zGU_text": "<strong>The 7 Sins of Style: Why Your Hat Looks...</strong>",
+        "ggnj5iiudNE_text": "<strong>Can You Wash a Felt Hat? Expert Techniques...</strong>",
+        "ggz32OJIKzZ_text": "<strong>How to Pack Your Expensive Wide-Brim ...</strong>"
       },
       "type": "gp-section-596823460722770924"
     },
@@ -113,11 +113,11 @@
     },
     "gp_section_597113695687934860": {
       "settings": {
-        "checksum": "8c1d735eaae54257f313f421f581264f7d95127e0da2bb1d6ffd14b75f3d0e3d_1_1_1_0__1",
+        "checksum": "21776b513b2464fa6daeac48823e9b4f78a886f24fc73d0345bc7e95fbfe81c7_1_1_1_0__1",
         "ggP1vnpXKn-_text": "Blogs",
-        "ggYGyTff273_text": "<strong>Hat Engineering: Beyond Size, Guaranteeing The Perfect...</strong>",
-        "ggaaSZEzXw5_text": "<strong>The Art of Gifting a Hat: How to Choose the Rig...</strong>",
-        "ggkqXwxZrUL_text": "<strong>Why the Liner and Sweatband are the Beating Heart of...</strong>"
+        "ggYGyTff273_text": "<strong>Can You Wash a Felt Hat? Expert Techniques...</strong>",
+        "ggaaSZEzXw5_text": "<strong>The 7 Sins of Style: Why Your Hat Looks...</strong>",
+        "ggkqXwxZrUL_text": "<strong>Why the Liner and Sweatband are the Beating...</strong>"
       },
       "type": "gp-section-597113695687934860"
     }
