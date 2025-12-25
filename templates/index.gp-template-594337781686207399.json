@@ -33,19 +33,6 @@
       },
       "type": "gp-section-594337781904311207"
     },
-    "gp_section_594337781904573351": {
-      "settings": {
-        "checksum": "c23637a370b466ae1c837f6c96fc2bc13cc48698474b4b835abebcb8eea19a63_1_1_1_0__1",
-        "ggEnH_OQS-v_label": "Add to cart",
-        "ggEnH_OQS-v_outOfStockLabel": "Out of stocks",
-        "ggEnH_OQS-v_unavailableLabel": "Unavailable",
-        "ggEnH_OQS-v_variantSelectionRequiredMessage": "Please select a variant to add product to cart",
-        "ggZmfzY3yQc_customContent_suffix": "off",
-        "ggdvimNhP9R_text": "Our Best-Sellers ",
-        "section_preload": "true"
-      },
-      "type": "gp-section-594337781904573351"
-    },
     "gp_section_594337781904704423": {
       "settings": {
         "checksum": "abd76c7ccdf43f2842aac3922006e43751ebdc9cccd295ef052d1f8062757cb1_1_1_1_0__1",
@@ -124,7 +111,6 @@
   },
   "order": [
     "gp_section_594337781904704423",
-    "gp_section_594337781904573351",
     "gp_section_594337781904311207",
     "gp_section_596210905373475820",
     "gp_section_595952142200603409",
