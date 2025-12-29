@@ -18,7 +18,7 @@
     },
     "gp_section_569598931776963808": {
       "settings": {
-        "checksum": "dc1a20d0054455603d1043f8098bd2dd3906626dc9f02783615fb0ba1692d46a_1_1_1_0__1",
+        "checksum": "43b630a62461b6f86ad19532e4c3f0c731a4dea74bfa9df210ec91b31240be93_1_1_1_0__1",
         "section_preload": "true"
       },
       "type": "gp-section-569598931776963808"
@@ -28,19 +28,6 @@
         "checksum": "1b0ee23e64b479088acf199d217001433a5e711afdfc2bb95c444c031787adbe_1_1_1_0__1"
       },
       "type": "gp-section-569598931777029344"
-    },
-    "gp_section_569598931777094880": {
-      "settings": {
-        "checksum": "d52322e6558f36602bc26f3be384daf36b27033c50fea64f7bba3650bb2aaa09_1_1_1_0__1",
-        "gg1gJfnhA43_defaultLabel": "Copy",
-        "ggCd0TudAnX_text": "<p><span style=\"font-size:16px;\">$40 off $200 &nbsp;</span></p><p><span style=\"font-size:16px;\">Code：LBChristmas40</span></p>",
-        "ggKRgc3Jyrj_defaultLabel": "Copy",
-        "ggUjYk4WldP_text": "<p><span style=\"font-size:16px;\">$15 off $100&nbsp;</span></p><p><span style=\"font-size:16px;\">&nbsp;Code：LBChristmas15</span></p>",
-        "ggYXAk3RGiM_text": "<p><span style=\"font-size:16px;\">$60 off $300&nbsp;</span></p><p><span style=\"font-size:16px;\">Code：LBChristmas60</span></p>",
-        "ggdc6wxsort_defaultLabel": "Copy",
-        "section_preload": "true"
-      },
-      "type": "gp-section-569598931777094880"
     },
     "gp_section_597267438152713100": {
       "settings": {
@@ -56,11 +43,13 @@
     },
     "gp_section_597267699894059609": {
       "settings": {
-        "checksum": "66ae2178bede24c2f849f291df24d702ef0b4696d19dfb51372865ac4d1854bd_1_1_1_0__1",
+        "checksum": "e40cc73fefd91748624076fe9bfcf26302b83bb85c52ee64b246afc43a04aeef_1_1_1_0__1",
         "gg5c2BNIq4p_label": "Add to cart",
         "gg5c2BNIq4p_outOfStockLabel": "Out Of Stock",
         "gg5c2BNIq4p_unavailableLabel": "Unavailable",
+        "ggUjYk4WldP_text": "<p><span style=\"font-size:16px;\">Code：winterresort10%</span></p>",
         "ggbnArdqJ1F_customContent_suffix": "off",
+        "ggdc6wxsort_defaultLabel": "Copy",
         "ggwKuXxLQJ1_text": "<strong>Women's Felt Hats</strong>",
         "section_preload": "true"
       },
@@ -80,7 +69,6 @@
   },
   "order": [
     "gp_section_569598931776963808",
-    "gp_section_569598931777094880",
     "gp_section_597267699894059609",
     "gp_section_597267438152713100",
     "gp_section_597268220709175863",
