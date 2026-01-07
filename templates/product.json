@@ -25,6 +25,7 @@
     "gp_section_596680498156143134": {
       "type": "gp-section-596680498156143134",
       "settings": {
+        "section_preload": "true",
         "checksum": "9ee828c3f4385fa198151aaaee63053717da58a9197c2a3e950c3d120dbc2aa1_1_1_1_0__1",
         "ggWsx2RdOpM_text": "Handcrafted in the Western Tradition",
         "ggb1zKYq5Wt_text": "<p>Every Lbora hat is meticulously hand-woven, steam-shaped, and hand-finished by skilled artisans. We carry forward the craftsmanship of Western artisans, combining traditional techniques with modern design to create classic headwear for those who seek quality.</p><p><br>Here, tradition meets innovation, and craftsmanship merges with fashion. Lbora—carrying forward the Western spirit, honoring masterful craftsmanship.</p>",
@@ -37,6 +38,7 @@
     "gp_section_596680498374246942": {
       "type": "gp-section-596680498374246942",
       "settings": {
+        "section_preload": "true",
         "checksum": "53054daadcd424e57016f7535a80194a632001f3e7f78aab719e51c24471dad9_1_1_1_0__1",
         "ggSVdZAU4b5_text": "<strong>Traditional Craft, Modern Quality</strong>",
         "ggqwr0rCnZQ_text": "1. <strong>Crafted with Traditional Excellence</strong>",
@@ -116,7 +118,7 @@
     "gp_section_598420585902506585": {
       "type": "gp-section-598420585902506585",
       "settings": {
-        "checksum": "a1cbfafafe68d5e3b5cb4ac9f818b78440cfcbed9a039a52431b047c80b41858_1_1_1_0__1",
+        "checksum": "017c5e3f0d3caf44473896f3e12b59fcce01ae9e57a79494e83e288a1f25b55a_1_1_1_0__1",
         "ggCn_Xpxq1C_text": "You may also like",
         "ggT8GBA06KF_label": "Add To Cart",
         "ggT8GBA06KF_outOfStockLabel": "Out Of Stock",
