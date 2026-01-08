@@ -10,6 +10,21 @@
   src: url(https://fonts.gstatic.com/s/lora/v37/0QI6MX1D_JOuGQbT0gvTJPa787weuyJG.ttf) format('truetype');
 }
 @font-face {
+  font-family: 'Lora';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/lora/v37/0QI6MX1D_JOuGQbT0gvTJPa787z5vCJG.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Merriweather';
+  font-style: normal;
+  font-weight: 400;
+  font-stretch: normal;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/merriweather/v33/u-4D0qyriQwlOrhSvowK_l5UcA6zuSYEqOzpPe3HOZJ5eX1WtLaQwmYiScCmDxhtNOKl8yDr3icqEw.ttf) format('truetype');
+}
+@font-face {
   font-family: 'Merriweather';
   font-style: normal;
   font-weight: 700;
@@ -57,13 +72,6 @@
   font-weight: 400;
   font-display: swap;
   src: url(https://fonts.gstatic.com/s/aronesans/v6/TUZezwhrmbFp0Srr_tH6fv6RcUejHO_u7GF5aXfv-U2QzBLF6gslWn_9DW0.ttf) format('truetype');
-}
-@font-face {
-  font-family: 'Abhaya Libre';
-  font-style: normal;
-  font-weight: 400;
-  font-display: swap;
-  src: url(https://fonts.gstatic.com/s/abhayalibre/v18/e3tmeuGtX-Co5MNzeAOqinEgew.ttf) format('truetype');
 }
 
 
@@ -914,7 +922,27 @@
     </gp-product-images>
     <script {% if section.settings.section_preload == "false" %}class="gps-link" delay {% else %}src{% endif %}="https://assets.gemcommerce.com/assets-v2/gp-product-images-v7-5.js?v={{ shop.metafields.GEMPAGES.ASSETS_VERSION }}" defer="defer"></script>
   
-    </div>{% render 'gp-section-596938197737407462-2', product: product, variant: variant, product_form_id: product_form_id, productSelectedVariant: productSelectedVariant, form: form  %}
+    </div><div
+      data-same-height-display-contents
+      style="--jc:start"
+      class="ggXB2-xvHk gp-relative gp-flex gp-flex-col"
+    >
+      
+    
+
+    
+
+    
+    <gp-row gp-data='{"background":{"desktop":{"attachment":"scroll","color":"transparent","image":{"height":0,"src":"","width":0},"position":{"x":50,"y":50},"repeat":"no-repeat","size":"cover","type":"color"}},"uid":"gvr32pTWn_"}' data-id="gvr32pTWn_" id="gvr32pTWn_" data-same-height-subgrid-container class="gvr32pTWn_ gp-relative gp-mx-auto gp-mb-0 gp-grid gp-max-w-full gp-transition-colors gp-duration-200 gp-ease-in-out [&_*]:gp-max-w-full gp-grid-rows-[1fr]" style="--bs:solid;--bw:0px;--bc:#121212;--shadow:none;--d:grid;--d-mobile:grid;--d-tablet:grid;--op:100%;--pageType:GP_PRODUCT;--bblr:0px;--bbrr:0px;--btlr:0px;--btrr:0px;--pl:56px;--pl-mobile:0px;--pl-tablet:0px;--cg:32px;--gtc:minmax(0, 12fr);--w:100%;--w-tablet:100%;--w-mobile:100%;--bgc:transparent;--bgi:url();--bgp:50% 50%;--bgs:cover;--bgr:no-repeat;--bga:scroll;--pc:start">
+      
+
+      {% render 'gp-section-596938197737407462-1', product: product, variant: variant, product_form_id: product_form_id, productSelectedVariant: productSelectedVariant, form: form  %}
+
+      
+    </gp-row>
+  
+  
+    </div>
 
       
     </gp-row>

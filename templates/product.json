@@ -37,7 +37,6 @@
     "gp_section_596680498374246942": {
       "type": "gp-section-596680498374246942",
       "settings": {
-        "section_preload": "true",
         "checksum": "53054daadcd424e57016f7535a80194a632001f3e7f78aab719e51c24471dad9_1_1_1_0__1",
         "ggSVdZAU4b5_text": "<strong>Traditional Craft, Modern Quality</strong>",
         "ggqwr0rCnZQ_text": "1. <strong>Crafted with Traditional Excellence</strong>",
@@ -74,18 +73,9 @@
     },
     "gp_section_596938197737407462": {
       "type": "gp-section-596938197737407462",
-      "blocks": {
-        "gp_app_selleasy_gCPG9osPzR": {
-          "type": "shopify://apps/selleasy/blocks/lb-upsell-widget-bl/790c1a03-a71f-4bc1-9869-00dad526d3c2",
-          "settings": {}
-        }
-      },
-      "block_order": [
-        "gp_app_selleasy_gCPG9osPzR"
-      ],
       "settings": {
         "section_preload": "true",
-        "checksum": "3919504c785d9a5f0bd470f16e240ddb341b67dc7e25368bb4a271a92a8d1e00_1_1_1_0__1",
+        "checksum": "7073f7426b667e99bf10077d1d61ba70722b650a06a353b8a607ddb3ffd0b99d_1_1_1_0__1",
         "ggN4VeA-MvV_text": "<p><span style=\"font-size:16px;\">New Customer 10$ Off | Code: <strong>$10Off-LBORA</strong></span></p>",
         "ggXfb772EcP_defaultLabel": "Copy",
         "ggp_rof59Bh_text": "Quantity",
