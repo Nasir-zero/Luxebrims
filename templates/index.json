@@ -9,190 +9,6 @@
  */
 {
   "sections": {
-    "gp_section_594337781904704423": {
-      "type": "gp-section-594337781904704423",
-      "settings": {
-        "section_preload": "true",
-        "checksum": "e975f2b5f20b2d605458bc9c1b9b1fa5f90c283277385f59dd1c7ef25c4eb4d0_1_1_1_0__1",
-        "ggQx7e0-SUW_label": "<p>Shop Now</p>"
-      }
-    },
-    "1768470618f9e29c68": {
-      "type": "apps",
-      "blocks": {
-        "boost_ai_search_filter_recommendation_ssr_tw6LJh": {
-          "type": "shopify://apps/boost-ai-search-filter/blocks/recommendation-ssr/7fc998ae-a150-4367-bab8-505d8a4503f7",
-          "settings": {
-            "widgetId": "homepage-783263",
-            "additional_classes": "",
-            "custom_css": ""
-          }
-        }
-      },
-      "block_order": [
-        "boost_ai_search_filter_recommendation_ssr_tw6LJh"
-      ],
-      "settings": {
-        "display_id": false,
-        "include_margins": true
-      }
-    },
-    "gp_section_594337781904311207": {
-      "type": "gp-section-594337781904311207",
-      "settings": {
-        "section_preload": "true",
-        "checksum": "a7e288729a0cf7fac12ec322b41b39c0eadff3f3a4d39c9b1e00acc0b931f75d_1_1_1_0__1",
-        "ggXLCUbIfTG_text": "Featured Collection",
-        "ggjLyFTa6PJ_text": "<p>Discover our latest collection of hats and beanies, featuring fresh and refined tones inspired by the season's renewal. Find the piece that resonates with your individual style and carry a touch of timeless elegance with you.</p>",
-        "ggw30Kr_iJh_label": "<p>Shop Felt Hats</p>",
-        "ggSmOnKtQZO_label": "<p>Shop Winter Hats </p>",
-        "ggR-5PuaUiV_label": "<p>Shop Travel Hats </p>",
-        "gg1-B3kSI1U_label": "<p>Shop Western Hat</p>",
-        "ggvJD5-1MDF_label": "<p>Shop Felt Hats</p>",
-        "ggzmOSHviOI_label": "<p>Shop Winter Hats</p>",
-        "ggU6_82Uauu_label": "<p>Shop Travel Hats</p>",
-        "ggx1we8AT1P_label": "<p>Shop Western Hat</p>"
-      }
-    },
-    "gp_section_596210905373475820": {
-      "type": "gp-section-596210905373475820",
-      "settings": {
-        "section_preload": "true",
-        "checksum": "9f1c5004bfb877f09e7f4767de403f418ac8dd68c77a85a2abf1070964740631_1_1_1_0__1",
-        "ggcK_2yHiiq_text": "<p>After</p>",
-        "ggP18Q8yiQf_text": "Western Craftsmanship for Him",
-        "ggI3T0lwsD8_text": "<p>Skyline 7242 Cowboy Hat</p>",
-        "gg2pxl7aK8A_label": "<p>Shop Men's Collection</p>",
-        "ggDwlQwSRUv_text": "El Amo Black Fur Felt Hat",
-        "ggwA6nMzAR__text": "Range Felt Cowboy Hat"
-      }
-    },
-    "gp_section_595952142200603409": {
-      "type": "gp-section-595952142200603409",
-      "settings": {
-        "section_preload": "false",
-        "checksum": "ecc3bf0a0fbb974a007ee4f00c11b5767ae8853e0f23ee0c448747281cefd456_1_1_1_0__1",
-        "ggPxStlBmY1_text": "<p>Small-Batch</p><p>Craftsmanship</p>",
-        "ggmql0U5l4e_text": "<p>Small-Batch</p><p>Craftsmanship</p>",
-        "ggkufRZ8tYV_text": "<p>Premium</p><p>Felt &amp; Raffia</p>",
-        "ggrACTx5juw_text": "<p>Premium</p><p>Felt &amp; Raffia</p>",
-        "ggYY1zgW2dH_text": "<p>Fit-Perfect Crown...</p>",
-        "gg7vl-5qhFK_text": "<p>Fit-Perfect Crown</p><p>&amp; Brim Design</p>",
-        "ggKPj8QC8wI_text": "<p>30-Day Free</p><p>Return ...</p>",
-        "ggpVM09pLAC_text": "<p>30-Day Free</p><p>Return + Shape Care</p>"
-      }
-    },
-    "gp_section_595084411871953506": {
-      "type": "gp-section-595084411871953506",
-      "settings": {
-        "section_preload": "false",
-        "checksum": "90d24515ebe4839443cd1a20a2bd2439c27ba88fb2e88d27d627b2274c5392ef_1_1_1_0__1",
-        "ggM5QhDqrbi_text": "Customer Show",
-        "ggHe_hykNub_text": "<p>100+ reviews</p>",
-        "ggwvoeu5MVG_label": "<p>Purchased</p>",
-        "ggMybb_Izol_text": "Emily C.",
-        "ggEKXSlbpkX_text": "<p>Santa Fe, NM</p>",
-        "ggJz5zshQCT_text": "Great for weekend getaways — breathable wool, stays comfy all day.",
-        "gg8PjDCqVtk_label": "<p>Purchased</p>",
-        "ggoxb4OWF8I_text": "Olivia M.",
-        "gg8ss_P2uzZ_text": "<p>San Francisco, CA</p>",
-        "gg8leF09kGc_text": "Hugs my head without squeezing. Looks effortless — got compliments right away.",
-        "ggzzjhYQOLb_label": "<p>Purchased</p>",
-        "gg75fgHImmb_text": "James W.",
-        "ggxvjFIn91g_text": "<p>Jackson Hole, WY</p>",
-        "ggq5WK7KPgt_text": "Lovely craftsmanship; came two days late but packaging was solid — still worth it.",
-        "ggI_G84dF1V_label": "<p>Purchased</p>",
-        "gg1K9f55QYN_text": "<a href=\"https://www.google.com/search?sca_esv=d6706571e7d76b47&amp;sxsrf=ANbL-n76fCq-oflGM-a9_D9fFRFX4Meuww%3A1768383638023&amp;q=Lucas&amp;sa=X&amp;ved=2ahUKEwizuMi03oqSAxVth68BHbvgFYQQxccNegUIiwEQAQ&amp;mstk=AUtExfDWVeZpN57KG175xBH2FlHM-btjS0FzYowChahF2YnHd7GdBbjdvS7svqIFSbWZ9jwXphpxztKIy_nrvHdVbpCoxXocOb9JXWdgnriAEFPp7EDdLUCENEqzQOijZw1HCVkTQnDEpQ9DztjBdg_5iaro5eqzHjk2JwU8kmxOsNZawcibOAxwIH9khA1OPiv-Gz-THPJhu8ymPAQ5sKo_4gmSDNefpJsdsFvhQuK_3GhxRRLNc76K7EEg-bIyad5EFfPqnrI-quVuvGFyye6BIuiC&amp;csui=3\">Lucas</a> Z.",
-        "gg0ECeeFDkN_text": "<p>Scottsdale, AZ</p>",
-        "gg7HK9m20rc_text": "Great for sunny outings — breathable wool, snug flattering fit, instantly cool.",
-        "ggJHnL9bAyn_label": "<p>Purchased</p>",
-        "ggEppkDQ8CH_text": "William H.",
-        "ggjB-gxJkz6_text": "<p>Denver, CO</p>",
-        "ggyrX29RSA-_text": "Fit hugs my head without pressure. Wool has that lived-in look immediately.",
-        "ggCBsvfR43u_label": "<p>Purchased</p>",
-        "ggs6A5HAOrg_text": "Chloe M.",
-        "ggNhWhw7ryf_text": "<p>Boulder, CO</p>",
-        "ggoRTvTgAEy_text": "Feels premium — dense wool, clean finish. Fit is comfortable, not tight.",
-        "gg5m_ZzB4Pd_label": "<p>Purchased</p>",
-        "ggcsa5Wom2m_text": "Charlotte N.",
-        "ggBqBYt6J8x_text": "<p>Portland, OR</p>",
-        "gg5xlAmGHm7_text": "Crown shape and balance are spot on. Wool weight feels just right — would buy again.",
-        "ggnClbKq8Mp_label": "<p>Purchased</p>",
-        "ggEbVFpJCtv_text": "Aaron P.",
-        "ggtOOXEjaBt_text": "<p>Seattle, WA</p>",
-        "ggqdlzgtkj1_text": "Unboxed with a smile. Wool hand is rich and weighty; wearability is spot on.",
-        "gg1eCCIroI1_label": "<p>Purchased</p>",
-        "ggTjOj_4C93_text": "Marcus L.",
-        "ggd-Oe3B8bE_text": "<p>Chicago, IL</p>",
-        "ggTxU9hoCHZ_text": "Weight and drape are lovely. Packaging made unboxing feel premium."
-      }
-    },
-    "gp_section_596832866432713708": {
-      "type": "gp-section-596832866432713708",
-      "settings": {
-        "section_preload": "false",
-        "checksum": "0e6fffc45151e502924ccc821edb81dd0ae69f2cda6032178b17d789006a2948_1_1_1_0__1",
-        "ggGQKHxTEHs_text": "Customer Show",
-        "ggfJJ13dVDi_label": "<p>Purchased</p>",
-        "gg8O-V4-qCS_text": "Emily C.",
-        "gg9eMg1PRol_text": "<p>Santa Fe, NM</p>",
-        "ggnwDpshJEq_text": "Great for weekend getaways — breathable wool, stays comfy all day.",
-        "ggvqloNrFnY_label": "<p>Purchased</p>",
-        "ggYAGVrio_I_text": "Olivia M",
-        "gguiR9r_0rP_text": "<p>San Francisco, CA</p>",
-        "ggHohglp-SK_text": "Hugs my head without squeezing. Looks effortless — got compliments right away.",
-        "ggQUSYx_lUn_label": "<p>Purchased</p>",
-        "gg2LzbQZD1Q_text": "James W.",
-        "ggb-wWlMaES_text": "<p>Jackson Hole, WY</p>",
-        "ggzwwBom9wc_text": "Lovely craftsmanship; came two days late but packaging was solid — still worth it.",
-        "ggVIQBdrVu2_label": "<p>Purchased</p>",
-        "ggDKYbTMa6o_text": "<a href=\"https://www.google.com/search?sca_esv=d6706571e7d76b47&amp;sxsrf=ANbL-n76fCq-oflGM-a9_D9fFRFX4Meuww%3A1768383638023&amp;q=Lucas&amp;sa=X&amp;ved=2ahUKEwizuMi03oqSAxVth68BHbvgFYQQxccNegUIiwEQAQ&amp;mstk=AUtExfDWVeZpN57KG175xBH2FlHM-btjS0FzYowChahF2YnHd7GdBbjdvS7svqIFSbWZ9jwXphpxztKIy_nrvHdVbpCoxXocOb9JXWdgnriAEFPp7EDdLUCENEqzQOijZw1HCVkTQnDEpQ9DztjBdg_5iaro5eqzHjk2JwU8kmxOsNZawcibOAxwIH9khA1OPiv-Gz-THPJhu8ymPAQ5sKo_4gmSDNefpJsdsFvhQuK_3GhxRRLNc76K7EEg-bIyad5EFfPqnrI-quVuvGFyye6BIuiC&amp;csui=3\">Lucas</a> Z.",
-        "ggdwsyi2IXm_text": "<p>Scottsdale, AZ</p>",
-        "ggcm3r6Bum6_text": "Great for sunny outings — breathable wool, snug flattering fit, instantly cool.",
-        "ggoGgJooo26_label": "<p>Purchased</p>",
-        "ggvUhdvWrWP_text": "William H.",
-        "ggIS4Ukt5vL_text": "<p>Denver, CO</p>",
-        "ggx0VQl8xL__text": "Fit hugs my head without pressure. Wool has that lived-in look immediately.",
-        "ggYPCQRCQ-b_label": "<p>Purchased</p>",
-        "gg4TMNaVfCC_text": "Chloe M.",
-        "gghMf-T12Lj_text": "<p>Boulder, CO</p>",
-        "ggLwd09mc17_text": "Feels premium — dense wool, clean finish. Fit is comfortable, not tight.",
-        "gg5SE_qSun0_label": "<p>Purchased</p>",
-        "ggN2cEP3eiP_text": "Charlotte N",
-        "gg8gXmDsMrN_text": "<p>Portland, OR</p>",
-        "ggUu_DG4sOb_text": "Crown shape and balance are spot on. Wool weight feels just right — would buy again.",
-        "ggPTppY-LSN_label": "<p>Purchased</p>",
-        "gg1zFArVH_M_text": "Aaron P.",
-        "ggPcNmDMzHs_text": "<p>Seattle, WA</p>",
-        "ggoI1_N3qoA_text": "Unboxed with a smile. Wool hand is rich and weighty; wearability is spot on.",
-        "ggZDPvBHfIz_label": "<p>Purchased</p>",
-        "gg3sQ0_QYzt_text": "Marcus L.",
-        "ggJyIRXk05d_text": "<p>Chicago, IL</p>",
-        "ggRf60jgwZ6_text": "Weight and drape are lovely. Packaging made unboxing feel premium."
-      }
-    },
-    "gp_section_596823460722770924": {
-      "type": "gp-section-596823460722770924",
-      "settings": {
-        "section_preload": "false",
-        "checksum": "5cbc11dc58eebf79a531d9719bf551858c605c3294a8db898d9fceceeef56a98_1_1_1_0__1",
-        "ggLcNiKzuaw_text": "Blogs",
-        "ggde0uZ6zGU_text": "<strong>5 Stylish Fall Hats for Teenage Girls</strong>",
-        "ggz32OJIKzZ_text": "<strong>Can City People Wear Cowboy Hats?</strong>",
-        "ggnj5iiudNE_text": "<strong>Top Felt Hat Trends for Fall 2025 You’ll See...</strong>"
-      }
-    },
-    "gp_section_597113695687934860": {
-      "type": "gp-section-597113695687934860",
-      "settings": {
-        "section_preload": "false",
-        "checksum": "e4df54b835c4ba14e74851a040680ea3ed693b326d35e54876ee26ba4d56ad8b_1_1_1_0__1",
-        "ggP1vnpXKn-_text": "Blogs",
-        "ggaaSZEzXw5_text": "<strong>5 Stylish Fall Hats for </strong><br><strong>Teenage Girls</strong>",
-        "ggkqXwxZrUL_text": "<strong>Can City People Wear </strong><br><strong>Cowboy Hats?</strong>",
-        "ggYGyTff273_text": "<strong>Top Felt Hat Trends for Fall </strong><br><strong>2025 You’ll See...</strong>"
-      }
-    },
     "gp_global_section_561765491551503340-1": {
       "type": "gp-global-section-561765491551503340",
       "settings": {
@@ -248,11 +64,169 @@
         "ggHeQJnGgmZ_label": "<p>Hat Bar</p>",
         "ggZDbeJHTED_label": "<p>Hat Care Guide</p>"
       }
+    },
+    "gp_section_594337781904311207": {
+      "type": "gp-section-594337781904311207",
+      "settings": {
+        "section_preload": "true",
+        "checksum": "a7e288729a0cf7fac12ec322b41b39c0eadff3f3a4d39c9b1e00acc0b931f75d_1_1_1_0__1",
+        "ggXLCUbIfTG_text": "Featured Collection",
+        "ggjLyFTa6PJ_text": "<p>Discover our latest collection of hats and beanies, featuring fresh and refined tones inspired by the season's renewal. Find the piece that resonates with your individual style and carry a touch of timeless elegance with you.</p>",
+        "ggw30Kr_iJh_label": "<p>Shop Felt Hats</p>",
+        "ggSmOnKtQZO_label": "<p>Shop Winter Hats </p>",
+        "ggR-5PuaUiV_label": "<p>Shop Travel Hats </p>",
+        "gg1-B3kSI1U_label": "<p>Shop Western Hat</p>",
+        "ggvJD5-1MDF_label": "<p>Shop Felt Hats</p>",
+        "ggzmOSHviOI_label": "<p>Shop Winter Hats</p>",
+        "ggU6_82Uauu_label": "<p>Shop Travel Hats</p>",
+        "ggx1we8AT1P_label": "<p>Shop Western Hat</p>"
+      }
+    },
+    "gp_section_594337781904704423": {
+      "type": "gp-section-594337781904704423",
+      "settings": {
+        "section_preload": "true",
+        "checksum": "e975f2b5f20b2d605458bc9c1b9b1fa5f90c283277385f59dd1c7ef25c4eb4d0_1_1_1_0__1",
+        "ggQx7e0-SUW_label": "<p>Shop Now</p>"
+      }
+    },
+    "gp_section_595084411871953506": {
+      "type": "gp-section-595084411871953506",
+      "settings": {
+        "checksum": "4fd7a9bb811308bdbeecb3ef9f24de6ebc650604c2fc457251fa3591e06cf594_1_1_1_0__1",
+        "ggM5QhDqrbi_text": "Customer Show",
+        "ggHe_hykNub_text": "<p>100+ reviews</p>",
+        "ggwvoeu5MVG_label": "<p>Purchased</p>",
+        "ggMybb_Izol_text": "Emily C.",
+        "ggEKXSlbpkX_text": "<p>Santa Fe, NM</p>",
+        "ggJz5zshQCT_text": "Great for weekend getaways — breathable wool, stays comfy all day.",
+        "gg8PjDCqVtk_label": "<p>Purchased</p>",
+        "ggoxb4OWF8I_text": "Olivia M.",
+        "gg8ss_P2uzZ_text": "<p>San Francisco, CA</p>",
+        "gg8leF09kGc_text": "Hugs my head without squeezing. Looks effortless — got compliments right away.",
+        "ggzzjhYQOLb_label": "<p>Purchased</p>",
+        "gg75fgHImmb_text": "James W.",
+        "ggxvjFIn91g_text": "<p>Jackson Hole, WY</p>",
+        "ggq5WK7KPgt_text": "Lovely craftsmanship; came two days late but packaging was solid — still worth it.",
+        "ggI_G84dF1V_label": "<p>Purchased</p>",
+        "gg1K9f55QYN_text": "<a href=\"https://www.google.com/search?sca_esv=d6706571e7d76b47&amp;sxsrf=ANbL-n76fCq-oflGM-a9_D9fFRFX4Meuww%3A1768383638023&amp;q=Lucas&amp;sa=X&amp;ved=2ahUKEwizuMi03oqSAxVth68BHbvgFYQQxccNegUIiwEQAQ&amp;mstk=AUtExfDWVeZpN57KG175xBH2FlHM-btjS0FzYowChahF2YnHd7GdBbjdvS7svqIFSbWZ9jwXphpxztKIy_nrvHdVbpCoxXocOb9JXWdgnriAEFPp7EDdLUCENEqzQOijZw1HCVkTQnDEpQ9DztjBdg_5iaro5eqzHjk2JwU8kmxOsNZawcibOAxwIH9khA1OPiv-Gz-THPJhu8ymPAQ5sKo_4gmSDNefpJsdsFvhQuK_3GhxRRLNc76K7EEg-bIyad5EFfPqnrI-quVuvGFyye6BIuiC&amp;csui=3\">Lucas</a> Z.",
+        "gg0ECeeFDkN_text": "<p>Scottsdale, AZ</p>",
+        "gg7HK9m20rc_text": "Great for sunny outings — breathable wool, snug flattering fit, instantly cool.",
+        "ggJHnL9bAyn_label": "<p>Purchased</p>",
+        "ggEppkDQ8CH_text": "William H.",
+        "ggjB-gxJkz6_text": "<p>Denver, CO</p>",
+        "ggyrX29RSA-_text": "Fit hugs my head without pressure. Wool has that lived-in look immediately.",
+        "ggCBsvfR43u_label": "<p>Purchased</p>",
+        "ggs6A5HAOrg_text": "Chloe M.",
+        "ggNhWhw7ryf_text": "<p>Boulder, CO</p>",
+        "ggoRTvTgAEy_text": "Feels premium — dense wool, clean finish. Fit is comfortable, not tight.",
+        "gg5m_ZzB4Pd_label": "<p>Purchased</p>",
+        "ggcsa5Wom2m_text": "Charlotte N.",
+        "ggBqBYt6J8x_text": "<p>Portland, OR</p>",
+        "gg5xlAmGHm7_text": "Crown shape and balance are spot on. Wool weight feels just right — would buy again.",
+        "ggnClbKq8Mp_label": "<p>Purchased</p>",
+        "ggEbVFpJCtv_text": "Aaron P.",
+        "ggtOOXEjaBt_text": "<p>Seattle, WA</p>",
+        "ggqdlzgtkj1_text": "Unboxed with a smile. Wool hand is rich and weighty; wearability is spot on.",
+        "gg1eCCIroI1_label": "<p>Purchased</p>",
+        "ggTjOj_4C93_text": "Marcus L.",
+        "ggd-Oe3B8bE_text": "<p>Chicago, IL</p>",
+        "ggTxU9hoCHZ_text": "Weight and drape are lovely. Packaging made unboxing feel premium."
+      }
+    },
+    "gp_section_595952142200603409": {
+      "type": "gp-section-595952142200603409",
+      "settings": {
+        "checksum": "ecc3bf0a0fbb974a007ee4f00c11b5767ae8853e0f23ee0c448747281cefd456_1_1_1_0__1",
+        "ggPxStlBmY1_text": "<p>Small-Batch</p><p>Craftsmanship</p>",
+        "ggmql0U5l4e_text": "<p>Small-Batch</p><p>Craftsmanship</p>",
+        "ggkufRZ8tYV_text": "<p>Premium</p><p>Felt &amp; Raffia</p>",
+        "ggrACTx5juw_text": "<p>Premium</p><p>Felt &amp; Raffia</p>",
+        "ggYY1zgW2dH_text": "<p>Fit-Perfect Crown...</p>",
+        "gg7vl-5qhFK_text": "<p>Fit-Perfect Crown</p><p>&amp; Brim Design</p>",
+        "ggKPj8QC8wI_text": "<p>30-Day Free</p><p>Return ...</p>",
+        "ggpVM09pLAC_text": "<p>30-Day Free</p><p>Return + Shape Care</p>"
+      }
+    },
+    "gp_section_596210905373475820": {
+      "type": "gp-section-596210905373475820",
+      "settings": {
+        "section_preload": "true",
+        "checksum": "9f1c5004bfb877f09e7f4767de403f418ac8dd68c77a85a2abf1070964740631_1_1_1_0__1",
+        "ggcK_2yHiiq_text": "<p>After</p>",
+        "ggP18Q8yiQf_text": "Western Craftsmanship for Him",
+        "ggI3T0lwsD8_text": "<p>Skyline 7242 Cowboy Hat</p>",
+        "gg2pxl7aK8A_label": "<p>Shop Men's Collection</p>",
+        "ggDwlQwSRUv_text": "El Amo Black Fur Felt Hat",
+        "ggwA6nMzAR__text": "Range Felt Cowboy Hat"
+      }
+    },
+    "gp_section_596823460722770924": {
+      "type": "gp-section-596823460722770924",
+      "settings": {
+        "checksum": "5cbc11dc58eebf79a531d9719bf551858c605c3294a8db898d9fceceeef56a98_1_1_1_0__1",
+        "ggLcNiKzuaw_text": "Blogs",
+        "ggde0uZ6zGU_text": "<strong>5 Stylish Fall Hats for Teenage Girls</strong>",
+        "ggz32OJIKzZ_text": "<strong>Can City People Wear Cowboy Hats?</strong>",
+        "ggnj5iiudNE_text": "<strong>Top Felt Hat Trends for Fall 2025 You’ll See...</strong>"
+      }
+    },
+    "gp_section_596832866432713708": {
+      "type": "gp-section-596832866432713708",
+      "settings": {
+        "checksum": "0e6fffc45151e502924ccc821edb81dd0ae69f2cda6032178b17d789006a2948_1_1_1_0__1",
+        "ggGQKHxTEHs_text": "Customer Show",
+        "ggfJJ13dVDi_label": "<p>Purchased</p>",
+        "gg8O-V4-qCS_text": "Emily C.",
+        "gg9eMg1PRol_text": "<p>Santa Fe, NM</p>",
+        "ggnwDpshJEq_text": "Great for weekend getaways — breathable wool, stays comfy all day.",
+        "ggvqloNrFnY_label": "<p>Purchased</p>",
+        "ggYAGVrio_I_text": "Olivia M",
+        "gguiR9r_0rP_text": "<p>San Francisco, CA</p>",
+        "ggHohglp-SK_text": "Hugs my head without squeezing. Looks effortless — got compliments right away.",
+        "ggQUSYx_lUn_label": "<p>Purchased</p>",
+        "gg2LzbQZD1Q_text": "James W.",
+        "ggb-wWlMaES_text": "<p>Jackson Hole, WY</p>",
+        "ggzwwBom9wc_text": "Lovely craftsmanship; came two days late but packaging was solid — still worth it.",
+        "ggVIQBdrVu2_label": "<p>Purchased</p>",
+        "ggDKYbTMa6o_text": "<a href=\"https://www.google.com/search?sca_esv=d6706571e7d76b47&amp;sxsrf=ANbL-n76fCq-oflGM-a9_D9fFRFX4Meuww%3A1768383638023&amp;q=Lucas&amp;sa=X&amp;ved=2ahUKEwizuMi03oqSAxVth68BHbvgFYQQxccNegUIiwEQAQ&amp;mstk=AUtExfDWVeZpN57KG175xBH2FlHM-btjS0FzYowChahF2YnHd7GdBbjdvS7svqIFSbWZ9jwXphpxztKIy_nrvHdVbpCoxXocOb9JXWdgnriAEFPp7EDdLUCENEqzQOijZw1HCVkTQnDEpQ9DztjBdg_5iaro5eqzHjk2JwU8kmxOsNZawcibOAxwIH9khA1OPiv-Gz-THPJhu8ymPAQ5sKo_4gmSDNefpJsdsFvhQuK_3GhxRRLNc76K7EEg-bIyad5EFfPqnrI-quVuvGFyye6BIuiC&amp;csui=3\">Lucas</a> Z.",
+        "ggdwsyi2IXm_text": "<p>Scottsdale, AZ</p>",
+        "ggcm3r6Bum6_text": "Great for sunny outings — breathable wool, snug flattering fit, instantly cool.",
+        "ggoGgJooo26_label": "<p>Purchased</p>",
+        "ggvUhdvWrWP_text": "William H.",
+        "ggIS4Ukt5vL_text": "<p>Denver, CO</p>",
+        "ggx0VQl8xL__text": "Fit hugs my head without pressure. Wool has that lived-in look immediately.",
+        "ggYPCQRCQ-b_label": "<p>Purchased</p>",
+        "gg4TMNaVfCC_text": "Chloe M.",
+        "gghMf-T12Lj_text": "<p>Boulder, CO</p>",
+        "ggLwd09mc17_text": "Feels premium — dense wool, clean finish. Fit is comfortable, not tight.",
+        "gg5SE_qSun0_label": "<p>Purchased</p>",
+        "ggN2cEP3eiP_text": "Charlotte N",
+        "gg8gXmDsMrN_text": "<p>Portland, OR</p>",
+        "ggUu_DG4sOb_text": "Crown shape and balance are spot on. Wool weight feels just right — would buy again.",
+        "ggPTppY-LSN_label": "<p>Purchased</p>",
+        "gg1zFArVH_M_text": "Aaron P.",
+        "ggPcNmDMzHs_text": "<p>Seattle, WA</p>",
+        "ggoI1_N3qoA_text": "Unboxed with a smile. Wool hand is rich and weighty; wearability is spot on.",
+        "ggZDPvBHfIz_label": "<p>Purchased</p>",
+        "gg3sQ0_QYzt_text": "Marcus L.",
+        "ggJyIRXk05d_text": "<p>Chicago, IL</p>",
+        "ggRf60jgwZ6_text": "Weight and drape are lovely. Packaging made unboxing feel premium."
+      }
+    },
+    "gp_section_597113695687934860": {
+      "type": "gp-section-597113695687934860",
+      "settings": {
+        "checksum": "e4df54b835c4ba14e74851a040680ea3ed693b326d35e54876ee26ba4d56ad8b_1_1_1_0__1",
+        "ggP1vnpXKn-_text": "Blogs",
+        "ggaaSZEzXw5_text": "<strong>5 Stylish Fall Hats for </strong><br><strong>Teenage Girls</strong>",
+        "ggkqXwxZrUL_text": "<strong>Can City People Wear </strong><br><strong>Cowboy Hats?</strong>",
+        "ggYGyTff273_text": "<strong>Top Felt Hat Trends for Fall </strong><br><strong>2025 You’ll See...</strong>"
+      }
     }
   },
   "order": [
     "gp_section_594337781904704423",
-    "1768470618f9e29c68",
     "gp_section_594337781904311207",
     "gp_section_596210905373475820",
     "gp_section_595952142200603409",
