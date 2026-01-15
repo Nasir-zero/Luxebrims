@@ -18,7 +18,7 @@
     },
     "gp_section_569598931776963808": {
       "settings": {
-        "checksum": "43b630a62461b6f86ad19532e4c3f0c731a4dea74bfa9df210ec91b31240be93_1_1_1_0__1",
+        "checksum": "2b5884f9ad62fcf76c01ed2fc1c81b606a2b21a23c6e8165f434ae10989fcf52_1_1_1_0__1",
         "section_preload": "true"
       },
       "type": "gp-section-569598931776963808"
@@ -31,7 +31,7 @@
     },
     "gp_section_597267438152713100": {
       "settings": {
-        "checksum": "927ab2e7712d5248dc2dfb6d0e7ee037cc8e3110ae3674d5ae52720e2d651666_1_1_1_0__1",
+        "checksum": "70e50ca65cde5df21f38c7218ac9b7aec6ef9beaddd66638040334c310fd2468_1_1_1_0__1",
         "gg-uqqU7neh_customContent_suffix": "off",
         "ggVqKsBeu6a_label": "Add to cart",
         "ggVqKsBeu6a_outOfStockLabel": "Out Of Stock",
@@ -43,21 +43,25 @@
     },
     "gp_section_597267699894059609": {
       "settings": {
-        "checksum": "6ac176609aabda62ba0b4b0617e197c5161c4d4f6d6f86f19bce351ea6a7c1ab_1_1_1_0__1",
+        "checksum": "fe5919b1899d4da9834a6011af19fa823ba458d7fef3082e36cba5a04d44b5e0_1_1_1_0__1",
+        "gg-jxOoJlYG_defaultLabel": "Copy",
         "gg5c2BNIq4p_label": "Add to cart",
         "gg5c2BNIq4p_outOfStockLabel": "Out Of Stock",
         "gg5c2BNIq4p_unavailableLabel": "Unavailable",
-        "ggUjYk4WldP_text": "<p><span style=\"font-size:16px;\">Code：winterresort10%</span></p>",
+        "ggC2H5V2dxx_text": "<p><span style=\"font-size:16px;\">Code：newyear$50</span></p>",
+        "ggUjYk4WldP_text": "<p><span style=\"font-size:16px;\">Code：newyear$10</span></p>",
         "ggbnArdqJ1F_customContent_suffix": "off",
+        "ggdGOg2OHQ7_text": "<p><span style=\"font-size:16px;\">Code：newyear$25</span></p>",
         "ggdc6wxsort_defaultLabel": "Copy",
         "ggwKuXxLQJ1_text": "<strong>Women's Felt Hats</strong>",
+        "ggxUY15Hhb-_defaultLabel": "Copy",
         "section_preload": "true"
       },
       "type": "gp-section-597267699894059609"
     },
     "gp_section_597268220709175863": {
       "settings": {
-        "checksum": "0ba2ce96be2bbffa1c4169b3c0aaa11049aeaecbd46598ac1f6066d31cf8933e_1_1_1_0__1",
+        "checksum": "2a1244a7dbc6a8495a6a4dc73385f8adf75e840281d212753ba361771bb482fa_1_1_1_0__1",
         "ggAezwiLxXJ_text": "<strong>Women's Felt Hats</strong>",
         "ggTdcOa4VI2_text": "Men's &amp; Women's Hats",
         "ggtbC0hZYEf_text": "<strong>Men's Felt Hats</strong>",
