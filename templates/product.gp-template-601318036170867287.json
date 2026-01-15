@@ -11,7 +11,7 @@
   "sections": {
     "gp_section_601318036288307799": {
       "settings": {
-        "checksum": "a8aee3ace554a2444e87ed18053ebcc7b9b2e8a27e40112418a6bf034fd36f58_1_1_1_0__1",
+        "checksum": "3d058b85a265e70043e138bf6d1847ec50ab6aaceb4503ffed546dcec7adcfd7_1_1_1_0__1",
         "gg-Vwvq42Vj_text": "Payment Security",
         "gg0062YpiqU_text": "Efficient and Safe Logitics",
         "gg1elQw0vld_text": "<p>Customer Service</p>",
@@ -87,7 +87,8 @@
         "ggKxaMhOa0e_text": "<p>Recommendations by over<br>50 safety experts</p>",
         "ggWRwH8tskX_text": "<p>30,942+</p>",
         "ggdFt2qNRXS_text": "<p>Products have<br>reached consumers</p>",
-        "ggfWshANpwu_text": "<p>98.5%</p>"
+        "ggfWshANpwu_text": "<p>98.5%</p>",
+        "section_preload": "true"
       },
       "type": "gp-section-601318036288569943"
     },
@@ -114,7 +115,7 @@
     },
     "gp_section_601869130135503823": {
       "settings": {
-        "checksum": "f517bd06df0d03c2f87d453b38111278adfb15c2f2a57a0d33c2e1f2acefda82_1_1_1_0__1",
+        "checksum": "3f6506f607fafe343ed81f5af8d83e5724b08975b6792903be1e749e515d3440_1_1_1_0__1",
         "gg-C2YbXqO0_text": "<p>Throughout finishing, hats undergo multiple procedures and continuous inspection to catch any flaws before delivery.</p><p>After trimming, each hat receives a final brim pressing (flanging), then the brim is buffed and the hat is either polished or brushed depending on the finish.</p><p>&nbsp;</p><p>The hat is gently steamed, given a final inspection, and then packed into its hat box—every detail checked one last time.</p><p>As an optional finishing touch, many clients request a feather, usually tucked into the center of the bow. LBORA uses only natural, undyed feathers, hand‑assembled and tied in‑house.</p>",
         "gg0rSsgaM8I_text": "<strong>Trimming</strong>",
         "gg39uY6SBh1_text": "<p>As an optional finishing touch, many clients request a feather, usually tucked into the center of the bow. LBORA uses only natural, undyed feathers, hand‑assembled and tied in‑house.</p>",
