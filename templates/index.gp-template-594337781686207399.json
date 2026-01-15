@@ -151,6 +151,7 @@
     "gp_section_596210905373475820": {
       "type": "gp-section-596210905373475820",
       "settings": {
+        "section_preload": "true",
         "checksum": "9f1c5004bfb877f09e7f4767de403f418ac8dd68c77a85a2abf1070964740631_1_1_1_0__1",
         "ggcK_2yHiiq_text": "<p>After</p>",
         "ggP18Q8yiQf_text": "Western Craftsmanship for Him",
@@ -218,9 +219,9 @@
       "settings": {
         "checksum": "e4df54b835c4ba14e74851a040680ea3ed693b326d35e54876ee26ba4d56ad8b_1_1_1_0__1",
         "ggP1vnpXKn-_text": "Blogs",
-        "ggaaSZEzXw5_text": "<strong>5 Stylish Fall Hats for&nbsp;</strong><br><strong>Teenage Girls</strong>",
-        "ggkqXwxZrUL_text": "<strong>Can City People Wear&nbsp;</strong><br><strong>Cowboy Hats?</strong>",
-        "ggYGyTff273_text": "<strong>Top Felt Hat Trends for Fall&nbsp;</strong><br><strong>2025 You’ll See...</strong>"
+        "ggaaSZEzXw5_text": "<strong>5 Stylish Fall Hats for </strong><br><strong>Teenage Girls</strong>",
+        "ggkqXwxZrUL_text": "<strong>Can City People Wear </strong><br><strong>Cowboy Hats?</strong>",
+        "ggYGyTff273_text": "<strong>Top Felt Hat Trends for Fall </strong><br><strong>2025 You’ll See...</strong>"
       }
     }
   },
