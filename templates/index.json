@@ -17,26 +17,6 @@
         "ggQx7e0-SUW_label": "<p>Shop Now</p>"
       }
     },
-    "1768470618f9e29c68": {
-      "type": "apps",
-      "blocks": {
-        "boost_ai_search_filter_recommendation_ssr_DkfBp4": {
-          "type": "shopify://apps/boost-ai-search-filter/blocks/recommendation-ssr/7fc998ae-a150-4367-bab8-505d8a4503f7",
-          "settings": {
-            "widgetId": "homepage-783263",
-            "additional_classes": "",
-            "custom_css": ""
-          }
-        }
-      },
-      "block_order": [
-        "boost_ai_search_filter_recommendation_ssr_DkfBp4"
-      ],
-      "settings": {
-        "display_id": false,
-        "include_margins": true
-      }
-    },
     "gp_section_594337781904311207": {
       "type": "gp-section-594337781904311207",
       "settings": {
@@ -252,7 +232,6 @@
   },
   "order": [
     "gp_section_594337781904704423",
-    "1768470618f9e29c68",
     "gp_section_594337781904311207",
     "gp_section_596210905373475820",
     "gp_section_595952142200603409",
