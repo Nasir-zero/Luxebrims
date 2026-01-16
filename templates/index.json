@@ -228,10 +228,31 @@
         "ggHeQJnGgmZ_label": "<p>Hat Bar</p>",
         "ggZDbeJHTED_label": "<p>Hat Care Guide</p>"
       }
+    },
+    "1768559276e16f8fdf": {
+      "type": "apps",
+      "blocks": {
+        "boost_ai_search_filter_recommendation_ssr_Cphn3a": {
+          "type": "shopify://apps/boost-ai-search-filter/blocks/recommendation-ssr/7fc998ae-a150-4367-bab8-505d8a4503f7",
+          "settings": {
+            "widgetId": "homepage-783263",
+            "additional_classes": "",
+            "custom_css": ""
+          }
+        }
+      },
+      "block_order": [
+        "boost_ai_search_filter_recommendation_ssr_Cphn3a"
+      ],
+      "settings": {
+        "display_id": false,
+        "include_margins": true
+      }
     }
   },
   "order": [
     "gp_section_594337781904704423",
+    "1768559276e16f8fdf",
     "gp_section_594337781904311207",
     "gp_section_596210905373475820",
     "gp_section_595952142200603409",
