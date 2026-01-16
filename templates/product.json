@@ -46,17 +46,6 @@
       },
       "type": "gp-section-601318036288307799"
     },
-    "gp_section_601318036288373335": {
-      "settings": {
-        "checksum": "bfbc2fd55cc172555db8fbe31750d2f848a90c796abaa45b349d26069c97ed0b_1_1_1_0__1",
-        "ggCn_Xpxq1C_text": "You may also like",
-        "ggT8GBA06KF_label": "Add To Cart",
-        "ggT8GBA06KF_outOfStockLabel": "Out Of Stock",
-        "ggT8GBA06KF_unavailableLabel": "Unavailable",
-        "ggT8GBA06KF_variantSelectionRequiredMessage": "Please select a variant to add product to cart"
-      },
-      "type": "gp-section-601318036288373335"
-    },
     "gp_section_601318036288569943": {
       "settings": {
         "checksum": "e48b915669cf76c7ce0b7358d1955eea6d11357dc677c9c419abf6642ad2db53_1_1_1_0__1",
@@ -142,7 +131,6 @@
     "gp_section_601318036288569943",
     "gp_section_601318036288635479",
     "gp_section_601869130135503823",
-    "gp_section_601318036288373335",
     "gp_section_601318036288701015"
   ]
 }
