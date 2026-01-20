@@ -25,13 +25,13 @@
     },
     "gp_section_569598931777029344": {
       "settings": {
-        "checksum": "1b0ee23e64b479088acf199d217001433a5e711afdfc2bb95c444c031787adbe_1_1_1_0__1"
+        "checksum": "f6abc866ff8e23ef89a29a8e134eb464d7e9c1bd25e0a6cb453393a380708e2b_1_1_1_0__1"
       },
       "type": "gp-section-569598931777029344"
     },
     "gp_section_597267438152713100": {
       "settings": {
-        "checksum": "70e50ca65cde5df21f38c7218ac9b7aec6ef9beaddd66638040334c310fd2468_1_1_1_0__1",
+        "checksum": "3fe27983784a7dcb446c0d0c9f97befff7eb93999363fdac240dd7ee70e04acc_1_1_1_0__1",
         "gg-uqqU7neh_customContent_suffix": "off",
         "ggVqKsBeu6a_label": "Add to cart",
         "ggVqKsBeu6a_outOfStockLabel": "Out Of Stock",
@@ -43,18 +43,12 @@
     },
     "gp_section_597267699894059609": {
       "settings": {
-        "checksum": "fe5919b1899d4da9834a6011af19fa823ba458d7fef3082e36cba5a04d44b5e0_1_1_1_0__1",
-        "gg-jxOoJlYG_defaultLabel": "Copy",
+        "checksum": "0acd25906ed761a563485551050c8b63ca678b9c162a7ba2dc07fba26ab031c0_1_1_1_0__1",
         "gg5c2BNIq4p_label": "Add to cart",
         "gg5c2BNIq4p_outOfStockLabel": "Out Of Stock",
         "gg5c2BNIq4p_unavailableLabel": "Unavailable",
-        "ggC2H5V2dxx_text": "<p><span style=\"font-size:16px;\">Code：newyear$50</span></p>",
-        "ggUjYk4WldP_text": "<p><span style=\"font-size:16px;\">Code：newyear$10</span></p>",
         "ggbnArdqJ1F_customContent_suffix": "off",
-        "ggdGOg2OHQ7_text": "<p><span style=\"font-size:16px;\">Code：newyear$25</span></p>",
-        "ggdc6wxsort_defaultLabel": "Copy",
         "ggwKuXxLQJ1_text": "<strong>Women's Felt Hats</strong>",
-        "ggxUY15Hhb-_defaultLabel": "Copy",
         "section_preload": "true"
       },
       "type": "gp-section-597267699894059609"
@@ -66,13 +60,28 @@
         "ggTdcOa4VI2_text": "Men's &amp; Women's Hats",
         "ggtbC0hZYEf_text": "<strong>Men's Felt Hats</strong>",
         "ggx2GyIHcP6_label": "<p><strong>Shop Now</strong></p>",
-        "ggx9nIKRorS_label": "<p><strong>Shop Now</strong></p>"
+        "ggx9nIKRorS_label": "<p><strong>Shop Now</strong></p>",
+        "section_preload": "true"
       },
       "type": "gp-section-597268220709175863"
+    },
+    "gp_section_602906083383575514": {
+      "settings": {
+        "checksum": "1b9428f8178e467f7a7778bf599bee03b4e4c5c83dd6fc67fb4fba7a8b8e45bd_1_1_1_0__1",
+        "gg-jxOoJlYG_defaultLabel": "Copy",
+        "ggC2H5V2dxx_text": "<p><span style=\"font-size:16px;\">Code：newyear$50</span></p>",
+        "ggUjYk4WldP_text": "<p><span style=\"font-size:16px;\">Code：newyear$10</span></p>",
+        "ggdGOg2OHQ7_text": "<p><span style=\"font-size:16px;\">Code：newyear$25</span></p>",
+        "ggdc6wxsort_defaultLabel": "Copy",
+        "ggxUY15Hhb-_defaultLabel": "Copy",
+        "section_preload": "true"
+      },
+      "type": "gp-section-602906083383575514"
     }
   },
   "order": [
     "gp_section_569598931776963808",
+    "gp_section_602906083383575514",
     "gp_section_597267699894059609",
     "gp_section_597267438152713100",
     "gp_section_597268220709175863",
