@@ -11,7 +11,7 @@
   "sections": {
     "gp_section_601318036288307799": {
       "settings": {
-        "checksum": "f747af0f2f2e648140bf1618b06ad7d8035040f6cfc2e5635fbdb996f42176f1_1_1_1_0__1",
+        "checksum": "1b868ca96135022a2ce06b8bc528b9260cceeaa3b8234e7bb02d24a65751d172_1_1_1_0__1",
         "gg-Vwvq42Vj_text": "Payment Security",
         "gg0062YpiqU_text": "Efficient and Safe Logitics",
         "gg1elQw0vld_text": "<p>Customer Service</p>",
@@ -45,7 +45,7 @@
         "ggoBqigMSJW_text": "<p>Payment Security</p>",
         "ggp_rof59Bh_text": "Quantity",
         "ggrjBheTtwl_text": "<p>We're here to help. If you encounter any problems during or after shopping, Lbora's customer service team is ready to assist you.</p>",
-        "ggxe35HLyxt_text": "<p><span style=\"font-size:16px;\">Over $100</span><br><span style=\"font-size:16px;\">Code: <strong>newyear$10</strong></span></p>",
+        "ggxe35HLyxt_text": "<p><span style=\"font-size:16px;\">Over $100&nbsp;</span></p><p><span style=\"font-size:16px;\">Code: <strong>newyear$10</strong></span></p>",
         "section_preload": "true"
       },
       "type": "gp-section-601318036288307799"
