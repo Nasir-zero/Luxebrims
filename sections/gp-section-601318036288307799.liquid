@@ -18,22 +18,6 @@
   font-display: swap;
   src: url(https://fonts.gstatic.com/s/lora/v37/0QI6MX1D_JOuGQbT0gvTJPa787zAvCJG.ttf) format('truetype');
 }
-@font-face {
-  font-family: 'Lora';
-  font-style: normal;
-  font-weight: 700;
-  font-display: swap;
-  src: url(https://fonts.gstatic.com/s/lora/v37/0QI6MX1D_JOuGQbT0gvTJPa787z5vCJG.ttf) format('truetype');
-}
-
-
-@font-face {
-  font-family: 'Lora';
-  font-style: normal;
-  font-weight: 500;
-  font-display: swap;
-  src: url(https://fonts.gstatic.com/s/lora/v37/0QI6MX1D_JOuGQbT0gvTJPa787wsuyJG.ttf) format('truetype');
-}
 
 
 @font-face {
@@ -80,8 +64,8 @@
       
       {%- liquid
         if request.page_type != 'product'
-          assign product = all_products['luna-classic-wool-wide-brim-fedora-brown']
-          assign productId = '8580988010654' | times: 1
+          assign product = all_products['']
+          assign productId = 'latest' | times: 1
           if product == empty or product == null
             paginate collections.all.products by 100000
               for item in collections.all.products
@@ -113,7 +97,7 @@
         data-id="gnnfXHeQLt"
         
         
-        gp-context='{"productId": {{ product.id }}, "preSelectedOptionIds": [], "isSyncProduct": "", "hasPreSelected": true, "variantSelected": {{ variant | json | escape }},  "inventory_management": {{ variant.inventory_management | json | escape  }}, "inventory_policy": {{ variant.inventory_policy | json | escape }}, "inventoryQuantity": {{ variant.inventory_quantity }}, "quantity": 1, "formId": "{{ product_form_id }}" }'
+        gp-context='{"productId": {{ product.id }}, "preSelectedOptionIds": [], "isSyncProduct": "", "hasPreSelected": false, "variantSelected": {{ variant | json | escape }},  "inventory_management": {{ variant.inventory_management | json | escape  }}, "inventory_policy": {{ variant.inventory_policy | json | escape }}, "inventoryQuantity": {{ variant.inventory_quantity }}, "quantity": 1, "formId": "{{ product_form_id }}" }'
         gp-data='{"variantSelected": {{ variant | json | escape }}, "quantity": 1, "productUrl":{{ product.url | json | escape }}, "productHandle":{{ product.handle | json | escape }}, "collectionUrl": {{ collection.url | json | escape }}, "collectionHandle": {{ collection.handle | json | escape }}}'
       >
         <product-form class="product-form">
