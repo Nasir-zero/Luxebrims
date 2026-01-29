@@ -17,6 +17,26 @@
         "ggQx7e0-SUW_label": "<p>Shop Now</p>"
       }
     },
+    "17686430038f456744": {
+      "type": "apps",
+      "blocks": {
+        "boost_ai_search_filter_recommendation_ssr_LbVKbm": {
+          "type": "shopify://apps/boost-ai-search-filter/blocks/recommendation-ssr/7fc998ae-a150-4367-bab8-505d8a4503f7",
+          "settings": {
+            "widgetId": "homepage-783263",
+            "additional_classes": "",
+            "custom_css": ""
+          }
+        }
+      },
+      "block_order": [
+        "boost_ai_search_filter_recommendation_ssr_LbVKbm"
+      ],
+      "settings": {
+        "display_id": false,
+        "include_margins": true
+      }
+    },
     "gp_section_594337781904311207": {
       "type": "gp-section-594337781904311207",
       "settings": {
@@ -64,6 +84,7 @@
     },
     "gp_section_595084411871953506": {
       "type": "gp-section-595084411871953506",
+      "disabled": true,
       "settings": {
         "section_preload": "false",
         "checksum": "98908b49dcc4c62e3002ecf149cdfa7d4061800318632fb7eb595997b7f50443_1_1_1_0__1",
@@ -109,6 +130,7 @@
     },
     "gp_section_596832866432713708": {
       "type": "gp-section-596832866432713708",
+      "disabled": true,
       "settings": {
         "section_preload": "false",
         "checksum": "71164a7620878dc944d15f1e6f87d6f7b34835677dbba1cde444cf5c8440d505_1_1_1_0__1",
@@ -227,26 +249,6 @@
         "ggP6YloH123_text": "<p>Support</p>",
         "ggHeQJnGgmZ_label": "<p>Hat Bar</p>",
         "ggZDbeJHTED_label": "<p>Hat Care Guide</p>"
-      }
-    },
-    "17686430038f456744": {
-      "type": "apps",
-      "blocks": {
-        "boost_ai_search_filter_recommendation_ssr_LbVKbm": {
-          "type": "shopify://apps/boost-ai-search-filter/blocks/recommendation-ssr/7fc998ae-a150-4367-bab8-505d8a4503f7",
-          "settings": {
-            "widgetId": "homepage-783263",
-            "additional_classes": "",
-            "custom_css": ""
-          }
-        }
-      },
-      "block_order": [
-        "boost_ai_search_filter_recommendation_ssr_LbVKbm"
-      ],
-      "settings": {
-        "display_id": false,
-        "include_margins": true
       }
     }
   },
