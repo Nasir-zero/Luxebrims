@@ -252,7 +252,7 @@
           "display_after": 400,
           "color_scheme": "inverse",
           "position": "bottom-right",
-          "offset_x": 0,
+          "offset_x": 20,
           "offset_y": 150
         }
       },
