@@ -9,188 +9,172 @@
  */
 {
   "sections": {
-    "gp_section_604074325057864391": {
-      "type": "gp-section-604074325057864391",
+    "gp_section_604074325057733319": {
       "settings": {
-        "section_preload": "true",
-        "checksum": "3ed6e2b57b517d6522f2d0562131997d66619e557011054d9997264207c3ba3e_1_1_1_0__1",
-        "ggxe35HLyxt_text": "<p><span style=\"font-size:16px;\">Over $100</span><br><span style=\"font-size:16px;\">Code: <strong>newyear$10</strong></span></p>",
-        "gghQPf78ptW_defaultLabel": "Copy",
-        "ggKfDbOCncB_text": "<p><span style=\"font-size:16px;\">Over $200</span><br><span style=\"font-size:16px;\">Code: <strong>newyear$25</strong></span></p>",
-        "ggmch5BN0sT_defaultLabel": "Copy",
-        "gg7axHH65tC_text": "<p><span style=\"font-size:16px;\">Over $300</span><br><span style=\"font-size:16px;\">Code: <strong>newyear$50</strong></span></p>",
-        "ggAsqWGvPKQ_defaultLabel": "Copy",
-        "ggp_rof59Bh_text": "Quantity",
-        "gghu8zcgiHE_text": "<p><a href=\"https://luxebrims.com/pages/hat-size-guide\"><u>Size Guide</u></a></p>",
-        "ggVvbjlTt1G_label": "Add To cart",
-        "ggVvbjlTt1G_outOfStockLabel": "Out of stock",
-        "ggVvbjlTt1G_unavailableLabel": "Unavailable",
-        "gg9jJ0g7br-_label": "Buy Now",
-        "gg9jJ0g7br-_outOfStockLabel": "Out of stock",
-        "gg9jJ0g7br-_unavailableLabel": "Unavailable",
-        "ggL85oxCgCt_childItem_0": "<p>Discription</p>",
-        "ggL85oxCgCt_childItem_1": "<p>Size+fit</p>",
-        "ggL85oxCgCt_childItem_2": "<p>Free Shipping</p>",
-        "ggWccoCWPlH_viewMoreText": "Show more",
-        "ggWccoCWPlH_viewLessText": "Show less",
-        "ggagGj567_n_text": "<p>At <span style=\"color:#3B3B3B;\">Lbora</span>, our hats are crafted with precision to ensure a tailored and flattering fit.</p><p> </p><p><strong>True to Size:</strong><br>Each style is designed to fit true to size, following standard international headwear measurements. Simply select your usual hat size for the most comfortable fit.</p><p> </p><p><strong>Between Sizes:</strong><br>If you find yourself between sizes, we recommend using one of our premium hat fillers. Designed for subtle comfort, they provide a secure fit without compromising the hat’s shape or style.</p><p> </p><p><strong>Need Assistance</strong>:<br>Not sure of your size? Visit our <a href=\"https://luxebrims.com/pages/hat-size-guide\"><u>Hat Size Guide</u></a> or reach out to our support team — we're here to help you find your perfect fit.</p>",
-        "ggRa1qdeaB__text": "<p><span style=\"color:#3B3B3B;\">Lbora delivers to customers around the world — with free shipping and estimated delivery in 15–20 business days.</span><br><span style=\"color:#3B3B3B;\">Note: Delivery times may vary slightly depending on your location.</span></p>",
-        "ggODL_QU1nu_childItem_0": "<p>Security and Service</p>",
-        "ggoBqigMSJW_text": "<p>Payment Security</p>",
-        "ggA-bjY31sD_text": "<p>Your payment security matters to us. Lbora partners exclusively with certified payment service providers who are committed to protecting and maintaining the confidentiality of your payment information.</p>",
-        "ggSjQVgOFCb_text": "<p>Privacy Protection  </p>",
-        "ggGHGvQgckX_text": "<p>At Lbora, we protect your privacy with industry-standard encryption. Your shipping address, payment information, and purchase details are secured throughout your entire shopping experience. Shop with confidence.</p>",
-        "ggUWHchKLTN_text": "<p>Efficient and Safe Logitics</p>",
-        "ggdwBSWcPdo_text": "<p>At Lbora, we deliver with security and efficiency. Track your order in real-time, and protect your purchase with our optional Shipping Protection—covering delays, damage, or loss during transit.<a href=\"https://www.shipsurance.com/surecircle/terms\" target=\"_blank\"><span style=\"color:#3393CC;\"><strong><u>learn more</u></strong></span></a></p>",
-        "gg1elQw0vld_text": "<p>Customer Service</p>",
-        "ggrjBheTtwl_text": "<p>We're here to help. If you encounter any problems during or after shopping, Lbora's customer service team is ready to assist you.</p>",
-        "gg-Vwvq42Vj_text": "Payment Security",
-        "ggk9tSva9R-_text": "Privacy Protection",
-        "gg0062YpiqU_text": "Efficient and Safe Logitics",
-        "ggTTJpRkYts_text": "Customer Service"
-      }
-    },
-    "gp_section_604188654956446407": {
-      "type": "gp-section-604188654956446407",
-      "settings": {
-        "section_preload": "true",
-        "checksum": "394bb385eefb4748df97ec6d3d7538211d2b01fc6c0879a1c2ac2117b297abed_1_1_1_0__1",
-        "ggmDRD0ev3D_text": "<p>Pure Natural</p>",
-        "gg1AbPH7t5B_text": "<p>Hand Crafted </p>",
-        "ggakOQ9-WyB_text": "<p>Premium Quality</p>",
-        "gglog8dZIys_text": "<p>Easy Returns</p>",
-        "ggZTz8rSbVJ_text": "<p>Pure Natural</p>",
-        "ggd5X9TgBLk_text": "<p>Hand Crafted </p>",
-        "ggglEyiD4RQ_text": "<p>Premium Quality</p>",
-        "ggOwdxjU5az_text": "<p>Easy Returns</p>"
-      }
-    },
-    "gp_section_604074325058060999": {
-      "type": "gp-section-604074325058060999",
-      "settings": {
-        "section_preload": "false",
-        "checksum": "74330941d78f9765ff3a4015977b3e8a4a03ddacd03ad6edd66706e0659f8678_1_1_1_0__1",
-        "ggj2_TwgRWc_text": "Product Details",
-        "ggwCqwdY0wb_text": "<p>Material</p>",
-        "ggHYducBtfk_text": "<p>wool</p>",
-        "ggo21kj-0CV_text": "<p>Product Dimensions</p>",
-        "ggMrsxtvc7a_text": "<p>5.1/3.3in“  </p><p>Hat height/hat brim</p>",
-        "ggGiD8aMNaV_text": "<p>Size</p>",
-        "gg8j6h18gEK_text": "<p>S/M 55/57 CM</p><p>L/XL 59/61 CM</p>",
-        "ggnU61L-GMW_text": "<p>weight</p>",
-        "gg1yZKhc1Wu_text": "<p>180g</p>",
-        "gg1UPofPE2x_text": "<p>Applicable Scenarios</p>",
-        "ggnbz8SBEJg_text": "<p>Outdoor City/Affordable luxury casual</p>",
-        "gg4U6aZupoz_text": "<p>Applicable Scenarios</p>",
-        "ggo2vKh0ZMn_text": "<p>autumn/winter</p>"
-      }
+        "checksum": "590ea4d7df3298893e932520bc48961d85ad04973e582df856cd561f1b25bfba_1_1_1_0__1",
+        "ggMw7z6hQIG_text": "4. <strong>Handcrafted Excellence Guaranteed</strong>",
+        "ggQvdzxEHis_text": "2. <strong>Handwoven with Precision</strong>",
+        "ggSVdZAU4b5_text": "<strong>Traditional Craft, Modern Quality</strong>",
+        "ggTa4RDjTpO_text": "<p>Each hat undergoes complete hand-weaving, steam shaping, and precision pressing processes</p>",
+        "ggUwnhmzIWq_text": "1. <strong>Crafted with Traditional Excellence</strong>",
+        "ggZPmkMo54x_text": "3. <strong>From Material to Masterpiece</strong>",
+        "ggermCtFM_J_text": "3. <strong>From Material to Masterpiece</strong>",
+        "ggkw6qOEmEf_text": "<p>Using traditional weaving techniques, every hat is carefully crafted and meticulously finished</p>",
+        "gglGJiLpKC7_text": "2. <strong>Handwoven with Precision</strong>",
+        "ggovYFTG4uR_text": "4. <strong>Handcrafted Excellence Guaranteed</strong>",
+        "ggqleqfOR5n_text": "<p>From hand-woven materials to steam shaping, each step reflects master craftsmanship</p>",
+        "ggqwr0rCnZQ_text": "1. <strong>Crafted with Traditional Excellence</strong>",
+        "ggyjxogdMqu_text": "<p>Selected natural materials go through weaving, shaping, and precision pressing to achieve perfect quality</p>"
+      },
+      "type": "gp-section-604074325057733319"
     },
     "gp_section_604074325057798855": {
-      "type": "gp-section-604074325057798855",
       "settings": {
-        "section_preload": "false",
         "checksum": "ab1b611bacf9e1ff5841a2d4ee4bcb691b678b4459327cdaf898a9c80f7965ca_1_1_1_0__1",
         "ggof_ph4cYH_text": "Hat Size Guide",
         "ggrwvV0rtFq_text": "<p>Quick Measuring Options</p><ul>\n<li>Option 1: Measuring Tape</li>\n<li>Measure as described above, then use the chart to select your size. Between sizes? Size up and add padding if needed.</li>\n<li>Option 2: Snapback Trick</li>\n<li>Adjust a snapback to your most comfortable fit, note its labeled size/setting, and map it to our chart. If between sizes, size up and pad.</li>\n</ul>"
-      }
+      },
+      "type": "gp-section-604074325057798855"
     },
-    "gp_section_604074325058192071": {
-      "type": "gp-section-604074325058192071",
+    "gp_section_604074325057864391": {
       "settings": {
-        "section_preload": "false",
-        "checksum": "98b097c65079b1fed072e1e4a72631eb579cd1a84dce178986ab65c9f5c07b9e_1_1_1_0__1",
-        "gggHuB5kZCF_text": "Model Showcase"
-      }
-    },
-    "gp_section_604074325057733319": {
-      "type": "gp-section-604074325057733319",
-      "settings": {
-        "section_preload": "false",
-        "checksum": "590ea4d7df3298893e932520bc48961d85ad04973e582df856cd561f1b25bfba_1_1_1_0__1",
-        "ggSVdZAU4b5_text": "<strong>Traditional Craft, Modern Quality</strong>",
-        "ggUwnhmzIWq_text": "1. <strong>Crafted with Traditional Excellence</strong>",
-        "ggQvdzxEHis_text": "2. <strong>Handwoven with Precision</strong>",
-        "ggermCtFM_J_text": "3. <strong>From Material to Masterpiece</strong>",
-        "ggMw7z6hQIG_text": "4. <strong>Handcrafted Excellence Guaranteed</strong>",
-        "ggqwr0rCnZQ_text": "1. <strong>Crafted with Traditional Excellence</strong>",
-        "ggqleqfOR5n_text": "<p>From hand-woven materials to steam shaping, each step reflects master craftsmanship</p>",
-        "gglGJiLpKC7_text": "2. <strong>Handwoven with Precision</strong>",
-        "ggkw6qOEmEf_text": "<p>Using traditional weaving techniques, every hat is carefully crafted and meticulously finished</p>",
-        "ggZPmkMo54x_text": "3. <strong>From Material to Masterpiece</strong>",
-        "ggTa4RDjTpO_text": "<p>Each hat undergoes complete hand-weaving, steam shaping, and precision pressing processes</p>",
-        "ggovYFTG4uR_text": "4. <strong>Handcrafted Excellence Guaranteed</strong>",
-        "ggyjxogdMqu_text": "<p>Selected natural materials go through weaving, shaping, and precision pressing to achieve perfect quality</p>"
-      }
-    },
-    "gp_section_604074325058126535": {
-      "type": "gp-section-604074325058126535",
-      "settings": {
-        "section_preload": "false",
-        "checksum": "0c42ba20303904b7aec4a280b7599b60beffcce33606f75ac12f9f274ae99c8f_1_1_1_0__1",
-        "ggnu8oQnaih_text": "<strong>Material Preparation</strong>",
-        "ggo5x-PzxyP_text": "<p>From the finest straw weavers in South America to our felt-makers in Europe, Lbora partners with artisans across the globe to source materials of exceptional quality, crafted exclusively for Lbora.</p><p> </p><p>Every material is selected with a commitment to social responsibility, the preservation of traditional craftsmanship, and environmental sustainability.</p><p> </p><p>When hat bodies arrive at our workshop, they are stored in a climate-controlled cellar. Production begins by choosing the perfect hat body in the correct size and color; it then undergoes a meticulous quality-control inspection before moving on to the blocking stage.</p>",
-        "ggDlypN8RmX_text": "<p>From the finest straw weavers in South America to our felt-makers in Europe, Lbora partners with artisans across the globe to source materials of exceptional quality, crafted exclusively for Lbora.</p>",
-        "ggZM-pE77U__text": "<p>Every material is selected with a commitment to social responsibility, the preservation of traditional craftsmanship, and environmental sustainability.</p><p>When hat bodies arrive at our workshop, they are stored in a climate-controlled cellar. Production begins by choosing the perfect hat body in the correct size and color; it then undergoes a meticulous quality-control inspection before moving on to the blocking stage.</p>",
-        "ggOs9DKWlHX_text": "<p>Show more</p>",
-        "ggUVxfdsyoE_text": "<strong>Blocking</strong>",
-        "gg3i-WzTUnT_text": "<p>The hat body then moves to the blocking stage, where the raw form is transformed into its primary silhouette. This critical step must be performed precisely to establish an accurate foundational structure.</p><p> </p><p>During blocking, the hat body is clamped, steamed, stretched, and a specially shaped crown mold is gently pressed into the warm, pliable material.</p><p> </p><p>The amount of steam, the degree of stretch, and the required time vary with the weight and type of felt; these parameters are determined by experience.</p><p> </p><p>Next is decatizing, a slow, gentle process in which the hat bodies are “baked” in a chamber with steam and circulating hot air. This secondary treatment stabilizes and refines the shape and size, making them more exact and permanent.</p><p> </p><p>After blocking and decatizing, the hat rests for several days so the fibers can relax and reach the appropriate humidity for surface finishing — even small differences in humidity can affect fine finishing work.</p><p> </p><p>At this stage the piece graduates from a “hat body” to a finished “hat.”</p>",
-        "gg6Dfq-nBTb_text": "<p>The hat body then moves to the blocking stage, where the raw form is transformed into its primary silhouette. This critical step must be performed precisely to establish an accurate foundational structure.</p>",
-        "ggHDbkTVYA__text": "<p>During blocking, the hat body is clamped, steamed, stretched, and a specially shaped crown mold is gently pressed into the warm, pliable material.</p><p>The amount of steam, the degree of stretch, and the required time vary with the weight and type of felt; these parameters are determined by experience.</p><p>Next is decatizing, a slow, gentle process in which the hat bodies are “baked” in a chamber with steam and circulating hot air. This secondary treatment stabilizes and refines the shape and size, making them more exact and permanent.</p><p>After blocking and decatizing, the hat rests for several days so the fibers can relax and reach the appropriate humidity for surface finishing — even small differences in humidity can affect fine finishing work.</p><p>At this stage the piece graduates from a “hat body” to a finished “hat.”</p>",
-        "ggL8smYfTyA_text": "<p>Show more</p>",
-        "ggkbpXBgsfO_text": "<strong>Surface Finishing</strong>",
-        "ggKvl6oLKC5_text": "<p>Much of the hatmaker’s art takes place in the surface‑finishing room. Lbora’s skilled craftsmen use rare vintage tools and machines to pounce (shave), condition, and polish both the crown and brim of every smooth‑finish hat.</p><p> </p><p>Other exotic finishes are achieved with specialized tools and processes tailored to produce unique textures and effects.</p><p> </p><p>Different colors and weights of felt often require distinct treatments, even when the desired finish is the same.</p><p> </p><p>A powerful dust‑extraction system removes most felt particles from the work area; all abrasive and dusty operations are performed in the surface‑finishing room.</p><p> </p><p>After finishing, each hat is deep‑vacuumed using a purpose‑built machine from the 1940s that extracts minute felt residues from the hat’s pores.</p><p> </p><p>Fine particles of dust can cause staining and can damage finely tuned sewing machines. To produce hats of Lbora’s quality, the workshop must remain immaculate.</p><p> </p><p>Finally, every hat undergoes a thorough quality inspection before moving on to the next stage.</p>",
-        "ggZZ2cq80Ek_text": "<p>Much of the hatmaker’s art takes place in the surface‑finishing room. Lbora’s skilled craftsmen use rare vintage tools and machines to pounce (shave), condition, and polish both the crown and brim of every smooth‑finish hat.</p>",
-        "ggnZ8yXz-Si_text": "<p>Other exotic finishes are achieved with specialized tools and processes tailored to produce unique textures and effects.</p><p>Different colors and weights of felt often require distinct treatments, even when the desired finish is the same.</p><p>A powerful dust‑extraction system removes most felt particles from the work area; all abrasive and dusty operations are performed in the surface‑finishing room.</p><p>After finishing, each hat is deep‑vacuumed using a purpose‑built machine from the 1940s that extracts minute felt residues from the hat’s pores.</p><p>Fine particles of dust can cause staining and can damage finely tuned sewing machines. To produce hats of Lbora’s quality, the workshop must remain immaculate.</p><p>Finally, every hat undergoes a thorough quality inspection before moving on to the next stage.</p>",
-        "ggOQ7smjb-E_text": "<p>Show more</p>",
-        "gg0rSsgaM8I_text": "<strong>Trimming</strong>",
-        "gguiGJCvLdG_text": "<p>Trimming includes installing the sweatband, lining, ribbon, and edge treatments.</p><p> </p><p>After the sweatband is fitted and the brim trimmed, a fine grosgrain ribbon is formed into a bow and hand-sewn onto the hat. The inner lining, made of bridal satin, is also hand-stitched for both decoration and protection.</p><p> </p><p>LBORA’s small team of trimmers has decades of combined experience and works closely with Graham on design and trimming. Their trained eyes and skilled hands produce exceptionally formed bows and precise edge stitching—the work of an experienced trimmer is clearly superior.</p><p> </p><p>The workshop’s small scale balances output with artistry and gives the team full oversight of every production step. Bespoke orders allow clients to request unique ribbons and trims.</p><p> </p><p>After trimming, the brims are shaped in a process called flanging.</p>",
-        "ggel5VgIcww_text": "<p>Trimming includes installing the sweatband, lining, ribbon, and edge treatments.</p>",
-        "ggrheVSSxwl_text": "<p>After the sweatband is fitted and the brim trimmed, a fine grosgrain ribbon is formed into a bow and hand-sewn onto the hat. The inner lining, made of bridal satin, is also hand-stitched for both decoration and protection.</p><p>LBORA’s small team of trimmers has decades of combined experience and works closely with Graham on design and trimming. Their trained eyes and skilled hands produce exceptionally formed bows and precise edge stitching—the work of an experienced trimmer is clearly superior.</p><p>The workshop’s small scale balances output with artistry and gives the team full oversight of every production step. Bespoke orders allow clients to request unique ribbons and trims.</p><p>After trimming, the brims are shaped in a process called flanging.</p>",
-        "ggAyBWvPH8C_text": "<p>Show more</p>",
-        "ggjlBWjvD_w_text": "<strong>Material Preparation</strong>",
-        "gg-C2YbXqO0_text": "<p>Throughout finishing, hats undergo multiple procedures and continuous inspection to catch any flaws before delivery.</p><p>After trimming, each hat receives a final brim pressing (flanging), then the brim is buffed and the hat is either polished or brushed depending on the finish.</p><p> </p><p>The hat is gently steamed, given a final inspection, and then packed into its hat box—every detail checked one last time.</p><p>As an optional finishing touch, many clients request a feather, usually tucked into the center of the bow. LBORA uses only natural, undyed feathers, hand‑assembled and tied in‑house.</p>",
-        "gg80jWRas9R_text": "<p>Throughout finishing, hats undergo multiple procedures and continuous inspection to catch any flaws before delivery.</p>",
-        "gglMWKEZckU_text": "<p>After trimming, each hat receives a final brim pressing (flanging), then the brim is buffed and the hat is either polished or brushed depending on the finish.</p><p>The hat is gently steamed, given a final inspection, and then packed into its hat box—every detail checked one last time.</p><p>As an optional finishing touch, many clients request a feather, usually tucked into the center of the bow. LBORA uses only natural, undyed feathers, hand‑assembled and tied in‑house.</p>",
-        "ggcjd36jcJe_text": "<p>Show more</p>"
-      }
+        "checksum": "e1e2ac3d6ad45e4607db4ba0122b040c82a10e19e7fc1afe0df08b38ff5cee51_1_1_1_0__1",
+        "gg-Vwvq42Vj_text": "Payment Security",
+        "gg0062YpiqU_text": "Efficient and Safe Logitics",
+        "gg1elQw0vld_text": "<p>Customer Service</p>",
+        "gg4PNAi7soe_text": "<p><u>Size Guide</u></p>",
+        "gg7axHH65tC_text": "<p><span style=\"font-size:16px;\">Over $300</span><br><span style=\"font-size:16px;\">Code: <strong>newyear$50</strong></span></p>",
+        "ggA-bjY31sD_text": "<p>Your payment security matters to us. Lbora partners exclusively with certified payment service providers who are committed to protecting and maintaining the confidentiality of your payment information.</p>",
+        "ggAsqWGvPKQ_defaultLabel": "Copy",
+        "ggGHGvQgckX_text": "<p>At Lbora, we protect your privacy with industry-standard encryption. Your shipping address, payment information, and purchase details are secured throughout your entire shopping experience. Shop with confidence.</p>",
+        "ggGmf16r7qA_label": "Add To cart",
+        "ggGmf16r7qA_outOfStockLabel": "Out of stock",
+        "ggGmf16r7qA_unavailableLabel": "Unavailable",
+        "ggKfDbOCncB_text": "<p><span style=\"font-size:16px;\">Over $200</span><br><span style=\"font-size:16px;\">Code: <strong>newyear$25</strong></span></p>",
+        "ggL85oxCgCt_childItem_0": "<p>Discription</p>",
+        "ggL85oxCgCt_childItem_1": "<p>Size+fit</p>",
+        "ggL85oxCgCt_childItem_2": "<p>Free Shipping</p>",
+        "ggODL_QU1nu_childItem_0": "<p>Security and Service</p>",
+        "ggRa1qdeaB__text": "<p><span style=\"color:#3B3B3B;\">Lbora delivers to customers around the world — with free shipping and estimated delivery in 15–20 business days.</span><br><span style=\"color:#3B3B3B;\">Note: Delivery times may vary slightly depending on your location.</span></p>",
+        "ggSjQVgOFCb_text": "<p>Privacy Protection &nbsp;</p>",
+        "ggTTJpRkYts_text": "Customer Service",
+        "ggUWHchKLTN_text": "<p>Efficient and Safe Logitics</p>",
+        "ggWccoCWPlH_viewLessText": "Show less",
+        "ggWccoCWPlH_viewMoreText": "Show more",
+        "ggYaozV6nT0_text": "Quantity",
+        "ggagGj567_n_text": "<p>At <span style=\"color:#3B3B3B;\">Lbora</span>, our hats are crafted with precision to ensure a tailored and flattering fit.</p><p>&nbsp;</p><p><strong>True to Size:</strong><br>Each style is designed to fit true to size, following standard international headwear measurements. Simply select your usual hat size for the most comfortable fit.</p><p>&nbsp;</p><p><strong>Between Sizes:</strong><br>If you find yourself between sizes, we recommend using one of our premium hat fillers. Designed for subtle comfort, they provide a secure fit without compromising the hat’s shape or style.</p><p>&nbsp;</p><p><strong>Need Assistance</strong>:<br>Not sure of your size? Visit our <a href=\"https://luxebrims.com/pages/hat-size-guide\"><u>Hat Size Guide</u></a> or reach out to our support team — we're here to help you find your perfect fit.</p>",
+        "ggdrRa5su4C_label": "Buy Now",
+        "ggdrRa5su4C_outOfStockLabel": "Out of stock",
+        "ggdrRa5su4C_unavailableLabel": "Unavailable",
+        "ggdwBSWcPdo_text": "<p>At Lbora, we deliver with security and efficiency. Track your order in real-time, and protect your purchase with our optional Shipping Protection—covering delays, damage, or loss during transit.<a href=\"https://www.shipsurance.com/surecircle/terms\" target=\"_blank\"><span style=\"color:#3393CC;\"><strong><u>learn more</u></strong></span></a></p>",
+        "gghQPf78ptW_defaultLabel": "Copy",
+        "ggk9tSva9R-_text": "Privacy Protection",
+        "ggmch5BN0sT_defaultLabel": "Copy",
+        "ggoBqigMSJW_text": "<p>Payment Security</p>",
+        "ggrjBheTtwl_text": "<p>We're here to help. If you encounter any problems during or after shopping, Lbora's customer service team is ready to assist you.</p>",
+        "ggxe35HLyxt_text": "<p><span style=\"font-size:16px;\">Over $100</span><br><span style=\"font-size:16px;\">Code: <strong>newyear$10</strong></span></p>",
+        "section_preload": "true"
+      },
+      "type": "gp-section-604074325057864391"
     },
     "gp_section_604074325057929927": {
-      "type": "gp-section-604074325057929927",
       "settings": {
-        "section_preload": "false",
         "checksum": "1d8f712a4a8dfdd4ca634ee59cd78efff3bb81addd15085a8fa7ae62fd027672_1_1_1_0__1"
-      }
-    },
-    "17696707800d9a3c21": {
-      "type": "apps",
-      "blocks": {
-        "boost_ai_search_filter_recommendation_ssr_3rzpVz": {
-          "type": "shopify://apps/boost-ai-search-filter/blocks/recommendation-ssr/7fc998ae-a150-4367-bab8-505d8a4503f7",
-          "settings": {
-            "widgetId": "productpage-738186",
-            "additional_classes": "",
-            "custom_css": ""
-          }
-        }
       },
-      "block_order": [
-        "boost_ai_search_filter_recommendation_ssr_3rzpVz"
-      ],
+      "type": "gp-section-604074325057929927"
+    },
+    "gp_section_604074325058060999": {
       "settings": {
-        "display_id": false,
-        "include_margins": true
-      }
+        "checksum": "74330941d78f9765ff3a4015977b3e8a4a03ddacd03ad6edd66706e0659f8678_1_1_1_0__1",
+        "gg1UPofPE2x_text": "<p>Applicable Scenarios</p>",
+        "gg1yZKhc1Wu_text": "<p>180g</p>",
+        "gg4U6aZupoz_text": "<p>Applicable Scenarios</p>",
+        "gg8j6h18gEK_text": "<p>S/M 55/57 CM</p><p>L/XL 59/61 CM</p>",
+        "ggGiD8aMNaV_text": "<p>Size</p>",
+        "ggHYducBtfk_text": "<p>wool</p>",
+        "ggMrsxtvc7a_text": "<p>5.1/3.3in“  </p><p>Hat height/hat brim</p>",
+        "ggj2_TwgRWc_text": "Product Details",
+        "ggnU61L-GMW_text": "<p>weight</p>",
+        "ggnbz8SBEJg_text": "<p>Outdoor City/Affordable luxury casual</p>",
+        "ggo21kj-0CV_text": "<p>Product Dimensions</p>",
+        "ggo2vKh0ZMn_text": "<p>autumn/winter</p>",
+        "ggwCqwdY0wb_text": "<p>Material</p>"
+      },
+      "type": "gp-section-604074325058060999"
+    },
+    "gp_section_604074325058126535": {
+      "settings": {
+        "checksum": "0c42ba20303904b7aec4a280b7599b60beffcce33606f75ac12f9f274ae99c8f_1_1_1_0__1",
+        "gg-C2YbXqO0_text": "<p>Throughout finishing, hats undergo multiple procedures and continuous inspection to catch any flaws before delivery.</p><p>After trimming, each hat receives a final brim pressing (flanging), then the brim is buffed and the hat is either polished or brushed depending on the finish.</p><p> </p><p>The hat is gently steamed, given a final inspection, and then packed into its hat box—every detail checked one last time.</p><p>As an optional finishing touch, many clients request a feather, usually tucked into the center of the bow. LBORA uses only natural, undyed feathers, hand‑assembled and tied in‑house.</p>",
+        "gg0rSsgaM8I_text": "<strong>Trimming</strong>",
+        "gg3i-WzTUnT_text": "<p>The hat body then moves to the blocking stage, where the raw form is transformed into its primary silhouette. This critical step must be performed precisely to establish an accurate foundational structure.</p><p> </p><p>During blocking, the hat body is clamped, steamed, stretched, and a specially shaped crown mold is gently pressed into the warm, pliable material.</p><p> </p><p>The amount of steam, the degree of stretch, and the required time vary with the weight and type of felt; these parameters are determined by experience.</p><p> </p><p>Next is decatizing, a slow, gentle process in which the hat bodies are “baked” in a chamber with steam and circulating hot air. This secondary treatment stabilizes and refines the shape and size, making them more exact and permanent.</p><p> </p><p>After blocking and decatizing, the hat rests for several days so the fibers can relax and reach the appropriate humidity for surface finishing — even small differences in humidity can affect fine finishing work.</p><p> </p><p>At this stage the piece graduates from a “hat body” to a finished “hat.”</p>",
+        "gg6Dfq-nBTb_text": "<p>The hat body then moves to the blocking stage, where the raw form is transformed into its primary silhouette. This critical step must be performed precisely to establish an accurate foundational structure.</p>",
+        "gg80jWRas9R_text": "<p>Throughout finishing, hats undergo multiple procedures and continuous inspection to catch any flaws before delivery.</p>",
+        "ggAyBWvPH8C_text": "<p>Show more</p>",
+        "ggDlypN8RmX_text": "<p>From the finest straw weavers in South America to our felt-makers in Europe, Lbora partners with artisans across the globe to source materials of exceptional quality, crafted exclusively for Lbora.</p>",
+        "ggHDbkTVYA__text": "<p>During blocking, the hat body is clamped, steamed, stretched, and a specially shaped crown mold is gently pressed into the warm, pliable material.</p><p>The amount of steam, the degree of stretch, and the required time vary with the weight and type of felt; these parameters are determined by experience.</p><p>Next is decatizing, a slow, gentle process in which the hat bodies are “baked” in a chamber with steam and circulating hot air. This secondary treatment stabilizes and refines the shape and size, making them more exact and permanent.</p><p>After blocking and decatizing, the hat rests for several days so the fibers can relax and reach the appropriate humidity for surface finishing — even small differences in humidity can affect fine finishing work.</p><p>At this stage the piece graduates from a “hat body” to a finished “hat.”</p>",
+        "ggKvl6oLKC5_text": "<p>Much of the hatmaker’s art takes place in the surface‑finishing room. Lbora’s skilled craftsmen use rare vintage tools and machines to pounce (shave), condition, and polish both the crown and brim of every smooth‑finish hat.</p><p> </p><p>Other exotic finishes are achieved with specialized tools and processes tailored to produce unique textures and effects.</p><p> </p><p>Different colors and weights of felt often require distinct treatments, even when the desired finish is the same.</p><p> </p><p>A powerful dust‑extraction system removes most felt particles from the work area; all abrasive and dusty operations are performed in the surface‑finishing room.</p><p> </p><p>After finishing, each hat is deep‑vacuumed using a purpose‑built machine from the 1940s that extracts minute felt residues from the hat’s pores.</p><p> </p><p>Fine particles of dust can cause staining and can damage finely tuned sewing machines. To produce hats of Lbora’s quality, the workshop must remain immaculate.</p><p> </p><p>Finally, every hat undergoes a thorough quality inspection before moving on to the next stage.</p>",
+        "ggL8smYfTyA_text": "<p>Show more</p>",
+        "ggOQ7smjb-E_text": "<p>Show more</p>",
+        "ggOs9DKWlHX_text": "<p>Show more</p>",
+        "ggUVxfdsyoE_text": "<strong>Blocking</strong>",
+        "ggZM-pE77U__text": "<p>Every material is selected with a commitment to social responsibility, the preservation of traditional craftsmanship, and environmental sustainability.</p><p>When hat bodies arrive at our workshop, they are stored in a climate-controlled cellar. Production begins by choosing the perfect hat body in the correct size and color; it then undergoes a meticulous quality-control inspection before moving on to the blocking stage.</p>",
+        "ggZZ2cq80Ek_text": "<p>Much of the hatmaker’s art takes place in the surface‑finishing room. Lbora’s skilled craftsmen use rare vintage tools and machines to pounce (shave), condition, and polish both the crown and brim of every smooth‑finish hat.</p>",
+        "ggcjd36jcJe_text": "<p>Show more</p>",
+        "ggel5VgIcww_text": "<p>Trimming includes installing the sweatband, lining, ribbon, and edge treatments.</p>",
+        "ggjlBWjvD_w_text": "<strong>Material Preparation</strong>",
+        "ggkbpXBgsfO_text": "<strong>Surface Finishing</strong>",
+        "gglMWKEZckU_text": "<p>After trimming, each hat receives a final brim pressing (flanging), then the brim is buffed and the hat is either polished or brushed depending on the finish.</p><p>The hat is gently steamed, given a final inspection, and then packed into its hat box—every detail checked one last time.</p><p>As an optional finishing touch, many clients request a feather, usually tucked into the center of the bow. LBORA uses only natural, undyed feathers, hand‑assembled and tied in‑house.</p>",
+        "ggnZ8yXz-Si_text": "<p>Other exotic finishes are achieved with specialized tools and processes tailored to produce unique textures and effects.</p><p>Different colors and weights of felt often require distinct treatments, even when the desired finish is the same.</p><p>A powerful dust‑extraction system removes most felt particles from the work area; all abrasive and dusty operations are performed in the surface‑finishing room.</p><p>After finishing, each hat is deep‑vacuumed using a purpose‑built machine from the 1940s that extracts minute felt residues from the hat’s pores.</p><p>Fine particles of dust can cause staining and can damage finely tuned sewing machines. To produce hats of Lbora’s quality, the workshop must remain immaculate.</p><p>Finally, every hat undergoes a thorough quality inspection before moving on to the next stage.</p>",
+        "ggnu8oQnaih_text": "<strong>Material Preparation</strong>",
+        "ggo5x-PzxyP_text": "<p>From the finest straw weavers in South America to our felt-makers in Europe, Lbora partners with artisans across the globe to source materials of exceptional quality, crafted exclusively for Lbora.</p><p> </p><p>Every material is selected with a commitment to social responsibility, the preservation of traditional craftsmanship, and environmental sustainability.</p><p> </p><p>When hat bodies arrive at our workshop, they are stored in a climate-controlled cellar. Production begins by choosing the perfect hat body in the correct size and color; it then undergoes a meticulous quality-control inspection before moving on to the blocking stage.</p>",
+        "ggrheVSSxwl_text": "<p>After the sweatband is fitted and the brim trimmed, a fine grosgrain ribbon is formed into a bow and hand-sewn onto the hat. The inner lining, made of bridal satin, is also hand-stitched for both decoration and protection.</p><p>LBORA’s small team of trimmers has decades of combined experience and works closely with Graham on design and trimming. Their trained eyes and skilled hands produce exceptionally formed bows and precise edge stitching—the work of an experienced trimmer is clearly superior.</p><p>The workshop’s small scale balances output with artistry and gives the team full oversight of every production step. Bespoke orders allow clients to request unique ribbons and trims.</p><p>After trimming, the brims are shaped in a process called flanging.</p>",
+        "gguiGJCvLdG_text": "<p>Trimming includes installing the sweatband, lining, ribbon, and edge treatments.</p><p> </p><p>After the sweatband is fitted and the brim trimmed, a fine grosgrain ribbon is formed into a bow and hand-sewn onto the hat. The inner lining, made of bridal satin, is also hand-stitched for both decoration and protection.</p><p> </p><p>LBORA’s small team of trimmers has decades of combined experience and works closely with Graham on design and trimming. Their trained eyes and skilled hands produce exceptionally formed bows and precise edge stitching—the work of an experienced trimmer is clearly superior.</p><p> </p><p>The workshop’s small scale balances output with artistry and gives the team full oversight of every production step. Bespoke orders allow clients to request unique ribbons and trims.</p><p> </p><p>After trimming, the brims are shaped in a process called flanging.</p>"
+      },
+      "type": "gp-section-604074325058126535"
+    },
+    "gp_section_604074325058192071": {
+      "settings": {
+        "checksum": "98b097c65079b1fed072e1e4a72631eb579cd1a84dce178986ab65c9f5c07b9e_1_1_1_0__1",
+        "gggHuB5kZCF_text": "Model Showcase"
+      },
+      "type": "gp-section-604074325058192071"
+    },
+    "gp_section_604775907831317309": {
+      "settings": {
+        "checksum": "b1773fd2f4474000a137048566a4aeadc65f6fa835a9c5d87b5aab854d7e0fd0_1_1_1_0__1",
+        "ggN4TTG4sl3_text": "<p>Pure Natural</p>",
+        "ggOJDMNKYS__text": "<p>Premium Quality</p>",
+        "ggUHZE84BcT_text": "<p>Easy Returns</p>",
+        "gg_tR6JWSXP_text": "<p>Pure Natural</p>",
+        "ggipHem5Q4g_text": "<p>Easy Returns</p>",
+        "ggtEp5p07vi_text": "<p>Hand Crafted&nbsp;</p>",
+        "gguwWNF_ybM_text": "<p>Hand Crafted&nbsp;</p>",
+        "ggvvlCImQ_P_text": "<p>Premium Quality</p>",
+        "section_preload": "true"
+      },
+      "type": "gp-section-604775907831317309"
+    },
+    "gp_section_604775944405648189": {
+      "settings": {
+        "checksum": "e2ba55691f397f6cf1173dca576e25b80fa3a689c3bf5f1ccc59302c6ef975bd_1_1_1_0__1",
+        "gg10kqog1Jo_text": "<p>How to Determine Your Size</p><p>If you already have a well‑fitting hat: check the size on its tag and use the conversion chart below to match it to a head measurement.</p>",
+        "ggCNEvdIJUx_text": "<p><strong>Quick Measuring Options</strong></p><ul><li>Option 1: Measuring Tape</li><li>Measure as described above, then use the chart to select your size. Between sizes? Size up and add padding if needed.</li><li>Option 2: Snapback Trick</li><li>Adjust a snapback to your most comfortable fit, note its labeled size/setting, and map it to our chart. If between sizes, size up and pad.</li></ul><p><strong>Sizing</strong></p><ul><li>S / 55 CM</li><li>Our smallest standard size. Best if your head measures 53–54 cm.</li><li>M / 57 CM</li><li>Ideal for the average head size; our recommended “standard” fit.</li><li>L / 59 CM</li><li>Great for larger heads; the go‑to large size.</li><li>XL / 61 CM</li><li>Available in most styles and sold exclusively online; extra room when you need it.</li><li>XXL / 63 CM</li><li>Our largest size, available in select styles and sold exclusively online.</li></ul><p><strong>Fit Tips</strong></p><ul><li>Fit is personal—choose how you want your hat to sit and feel.</li><li>For extended wear (4+ hours), a slightly looser fit that sits lower can be more comfortable.</li><li>Shape and style affect fit. Always check each product’s size and fit notes to ensure the best choice.</li></ul>",
+        "ggY_vMVzD5r_text": "Hat Size Guide",
+        "ggqwIs8eVQl_text": "<p>Find your perfect fit in two steps: measure your head or use a hat you already own, then convert the result with our size chart.</p>"
+      },
+      "type": "gp-section-604775944405648189"
     }
   },
   "order": [
     "gp_section_604074325057864391",
-    "gp_section_604188654956446407",
+    "gp_section_604775907831317309",
     "gp_section_604074325058060999",
     "gp_section_604074325057798855",
     "gp_section_604074325058192071",
     "gp_section_604074325057733319",
     "gp_section_604074325058126535",
-    "17696707800d9a3c21",
-    "gp_section_604074325057929927"
+    "gp_section_604074325057929927",
+    "gp_section_604775944405648189"
   ]
 }
