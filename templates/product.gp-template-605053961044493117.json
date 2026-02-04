@@ -161,17 +161,6 @@
         "checksum": "853eec725ab975ff88afb017be7ee0fd9daebf663f5b1ed89f8b334230ce9c52_1_1_1_0__1"
       }
     },
-    "gp_section_605053961229108029": {
-      "type": "gp-section-605053961229108029",
-      "settings": {
-        "section_preload": "false",
-        "checksum": "2bc4481c9f726ca25752a6e3ad6c7f882c8cda2dc56755cf29e904e8f3d57433_1_1_1_0__1",
-        "ggY_vMVzD5r_text": "Hat Size Guide",
-        "ggqwIs8eVQl_text": "<p>Find your perfect fit in two steps: measure your head or use a hat you already own, then convert the result with our size chart.</p>",
-        "gg10kqog1Jo_text": "<p>How to Determine Your Size</p><p>If you already have a well‑fitting hat: check the size on its tag and use the conversion chart below to match it to a head measurement.</p>",
-        "ggCNEvdIJUx_text": "<p><strong>Quick Measuring Options</strong></p><ul>\n<li>Option 1: Measuring Tape</li>\n<li>Measure as described above, then use the chart to select your size. Between sizes? Size up and add padding if needed.</li>\n<li>Option 2: Snapback Trick</li>\n<li>Adjust a snapback to your most comfortable fit, note its labeled size/setting, and map it to our chart. If between sizes, size up and pad.</li>\n</ul><p><strong>Sizing</strong></p><ul>\n<li>S / 55 CM</li>\n<li>Our smallest standard size. Best if your head measures 53–54 cm.</li>\n<li>M / 57 CM</li>\n<li>Ideal for the average head size; our recommended “standard” fit.</li>\n<li>L / 59 CM</li>\n<li>Great for larger heads; the go‑to large size.</li>\n<li>XL / 61 CM</li>\n<li>Available in most styles and sold exclusively online; extra room when you need it.</li>\n<li>XXL / 63 CM</li>\n<li>Our largest size, available in select styles and sold exclusively online.</li>\n</ul><p><strong>Fit Tips</strong></p><ul>\n<li>Fit is personal—choose how you want your hat to sit and feel.</li>\n<li>For extended wear (4+ hours), a slightly looser fit that sits lower can be more comfortable.</li>\n<li>Shape and style affect fit. Always check each product’s size and fit notes to ensure the best choice.</li>\n</ul>"
-      }
-    },
     "1770193443e38c8de7": {
       "type": "apps",
       "blocks": {
@@ -190,6 +179,17 @@
       "settings": {
         "display_id": false,
         "include_margins": true
+      }
+    },
+    "gp_section_605053961229108029": {
+      "type": "gp-section-605053961229108029",
+      "settings": {
+        "section_preload": "false",
+        "checksum": "2bc4481c9f726ca25752a6e3ad6c7f882c8cda2dc56755cf29e904e8f3d57433_1_1_1_0__1",
+        "ggY_vMVzD5r_text": "Hat Size Guide",
+        "ggqwIs8eVQl_text": "<p>Find your perfect fit in two steps: measure your head or use a hat you already own, then convert the result with our size chart.</p>",
+        "gg10kqog1Jo_text": "<p>How to Determine Your Size</p><p>If you already have a well‑fitting hat: check the size on its tag and use the conversion chart below to match it to a head measurement.</p>",
+        "ggCNEvdIJUx_text": "<p><strong>Quick Measuring Options</strong></p><ul>\n<li>Option 1: Measuring Tape</li>\n<li>Measure as described above, then use the chart to select your size. Between sizes? Size up and add padding if needed.</li>\n<li>Option 2: Snapback Trick</li>\n<li>Adjust a snapback to your most comfortable fit, note its labeled size/setting, and map it to our chart. If between sizes, size up and pad.</li>\n</ul><p><strong>Sizing</strong></p><ul>\n<li>S / 55 CM</li>\n<li>Our smallest standard size. Best if your head measures 53–54 cm.</li>\n<li>M / 57 CM</li>\n<li>Ideal for the average head size; our recommended “standard” fit.</li>\n<li>L / 59 CM</li>\n<li>Great for larger heads; the go‑to large size.</li>\n<li>XL / 61 CM</li>\n<li>Available in most styles and sold exclusively online; extra room when you need it.</li>\n<li>XXL / 63 CM</li>\n<li>Our largest size, available in select styles and sold exclusively online.</li>\n</ul><p><strong>Fit Tips</strong></p><ul>\n<li>Fit is personal—choose how you want your hat to sit and feel.</li>\n<li>For extended wear (4+ hours), a slightly looser fit that sits lower can be more comfortable.</li>\n<li>Shape and style affect fit. Always check each product’s size and fit notes to ensure the best choice.</li>\n</ul>"
       }
     }
   },
