@@ -78,7 +78,7 @@
     "gp_section_605214507559617195": {
       "type": "gp-section-605214507559617195",
       "settings": {
-        "checksum": "3064f3d6916ed70cb2a2c971efae6baa9124ab1dc5172d7376cbffcadd5bfa7d_1_1_1_0__1",
+        "checksum": "523ae7afdaa3fc682ee603b04883612a7f7dadebe9a7da1a75f763619b5d7106_1_1_1_0__1",
         "gg1BBi8KPHs_text": "Belong to Our <span style=\"color:#242424;\">Passionate</span> Community",
         "gg0V732247n_text": "<p>25+</p>",
         "ggwtqw7lZTK_text": "<p>Thousands of views</p>",
@@ -176,6 +176,44 @@
         "ggDwlQwSRUv_text": "El Amo Black Fur Felt Hat",
         "ggwA6nMzAR__text": "Range Felt Cowboy Hat"
       }
+    },
+    "gp_section_605214882882650941": {
+      "type": "gp-section-605214882882650941",
+      "settings": {
+        "checksum": "f57b3259c6711f0147e771a79725b0d33a05357481271333c3783f69dd363719_1_1_1_0__1",
+        "ggqh0LZXp-2_text": "Belong to Our <span style=\"color:#242424;\">Passionate</span> Community",
+        "ggjkVQsvJ-L_text": "<p>25+</p>",
+        "ggAcU3uLHgC_text": "<p>Thousands of views</p>",
+        "ggKdzVe8fNi_text": "<p><strong>2.1k</strong> Followers</p>",
+        "gg_gxQDqNfE_text": "<p>50+</p>",
+        "ggJ-m7cs98S_text": "<p>Thousands of views</p>",
+        "gg2d5fM0NZv_text": "<p><strong>2.4k</strong> Followers</p>",
+        "gg1U1KngNBM_text": "<p>@hoori_ugc</p>",
+        "gg0q9IHLu77_text": "<p>@<a href=\"https://www.tiktok.com/@elrancherochacharero911\">elrancherochacharero911</a></p>",
+        "gg2eAWOwNRC_text": "<p>@aysha_huseyn</p>",
+        "gggBiez3lvr_text": "<p>@byashleylorraine</p>",
+        "ggGB0UjG_GS_text": "<p>@<a href=\"https://www.tiktok.com/@carriekujawinski\">carriekujawinski</a></p>",
+        "ggbw5Rnmjf4_text": "<p>@olesia_stavnichuk</p>",
+        "ggomQov5ozY_text": "<p>@<a href=\"https://www.tiktok.com/@jess.d.neal\">jess.d.neal</a></p>",
+        "ggdoOBjIq8J_text": "<p>@connectdasriyanshi</p>",
+        "ggEROvO9pC4_text": "<p>@herafery.gasimova</p>",
+        "ggmSE5kj2BG_text": "<p>25+</p>",
+        "ggQYNR91zak_text": "<p>Thousands of views</p>",
+        "ggZNbPIxH4R_text": "<p><strong>2.1k</strong> Followers</p>",
+        "ggDiG1TvSJd_text": "<p>50+</p>",
+        "ggeCy9QV0Lk_text": "<p>Thousands of views</p>",
+        "gg0dnv_WejS_text": "<p><strong>2.4k</strong> Followers</p>",
+        "gg492VvFwyU_text": "<p>@<a href=\"https://www.tiktok.com/@djkaraokelucero\">djkaraokelucero</a></p>",
+        "ggpxG74gWbc_text": "<p>@<a href=\"https://www.tiktok.com/@mui_life_style\">mui_life_style</a></p>",
+        "ggAXjGUoLza_text": "<p>@<a href=\"https://www.tiktok.com/@carriekujawinski\">carriekujawinski</a></p>",
+        "ggNd3P9l5Oc_text": "<p>@olesia_stavnichuk</p>",
+        "gg93CzDLInM_text": "<p>@<a href=\"https://www.tiktok.com/@jess.d.neal\">jess.d.neal</a></p>",
+        "ggMUQ3ZaLTj_text": "<p>@connectdasriyanshi</p>",
+        "ggVJgldvOt5_text": "<p>@herafery.gasimova</p>",
+        "ggDbAPrnI6v_text": "<p>@paradise_dreams2</p>",
+        "gg4yLLGRf1n_text": "<p>@<a href=\"https://www.tiktok.com/@djkaraokelucero\">djkaraokelucero</a></p>",
+        "gg8Ed0V2ifn_text": "<p>@<a href=\"https://www.tiktok.com/@mui_life_style\">mui_life_style</a></p>"
+      }
     }
   },
   "order": [
@@ -185,6 +223,7 @@
     "gp_section_605214507559879339",
     "gp_section_605214507559748267",
     "gp_section_605214507559617195",
+    "gp_section_605214882882650941",
     "gp_section_605214507559551659",
     "gp_global_section_561765491551503340-1"
   ]
