@@ -9,12 +9,14 @@
   font-display: swap;
   src: url(https://fonts.gstatic.com/s/lora/v37/0QI6MX1D_JOuGQbT0gvTJPa787weuyJG.ttf) format('truetype');
 }
+
+
 @font-face {
-  font-family: 'Trirong';
+  font-family: 'Lora';
   font-style: normal;
-  font-weight: 400;
+  font-weight: 600;
   font-display: swap;
-  src: url(https://fonts.gstatic.com/s/trirong/v17/7r3GqXNgp8wxdOdOr4w.ttf) format('truetype');
+  src: url(https://fonts.gstatic.com/s/lora/v37/0QI6MX1D_JOuGQbT0gvTJPa787zAvCJG.ttf) format('truetype');
 }
 
 
@@ -35,18 +37,11 @@
   src: url(https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuLyfMZg.ttf) format('truetype');
 }
 @font-face {
-  font-family: 'Poppins';
-  font-style: normal;
-  font-weight: 400;
-  font-display: swap;
-  src: url(https://fonts.gstatic.com/s/poppins/v24/pxiEyp8kv8JHgFVrFJA.ttf) format('truetype');
-}
-@font-face {
-  font-family: 'Poppins';
+  font-family: 'Inter';
   font-style: normal;
   font-weight: 700;
   font-display: swap;
-  src: url(https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLCz7V1s.ttf) format('truetype');
+  src: url(https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuFuYMZg.ttf) format('truetype');
 }
 
 
@@ -91,43 +86,17 @@
       {%- assign gpBkProduct = product -%}
       
       {%- liquid
-        if request.page_type == 'product'
-          if 'static' == 'static'
-            if '8278080061598' == 'latest'
-              paginate collections.all.products by 100000
-                assign product = collections.all.products | sort: 'created_at' | reverse | first
-              endpaginate
-            else
-              assign product = all_products['stetson-style-inspired-mens-palm-leaf-straw-cowboy-hat-gus-crown']
-              assign productId = '8278080061598' | times: 1
-              if product == empty or product == null
-                paginate collections.all.products by 100000
-                  for item in collections.all.products
-                    if item.id == productId
-                      assign product = item
-                    endif
-                  endfor
-                endpaginate
-              endif
-            endif
-          endif
-        else
-          if '8278080061598' == 'latest'
+        if request.page_type != 'product'
+          assign product = all_products['stetson-style-inspired-mens-palm-leaf-straw-cowboy-hat-gus-crown']
+          assign productId = '8278080061598' | times: 1
+          if product == empty or product == null
             paginate collections.all.products by 100000
-              assign product = collections.all.products | sort: 'created_at'| reverse | first
+              for item in collections.all.products
+                if item.id == productId
+                  assign product = item
+                endif
+              endfor
             endpaginate
-          else
-            assign product = all_products['stetson-style-inspired-mens-palm-leaf-straw-cowboy-hat-gus-crown']
-            assign productId = '8278080061598' | times: 1
-            if product == empty or product == null
-              paginate collections.all.products by 100000
-                for item in collections.all.products
-                  if item.id == productId
-                    assign product = item
-                  endif
-                endfor
-              endpaginate
-            endif
           endif
         endif
       -%}
@@ -151,7 +120,7 @@
         data-id="gnnfXHeQLt"
         
         
-        gp-context='{"productId": {{ product.id }}, "preSelectedOptionIds": [], "isSyncProduct": "", "hasPreSelected": false, "variantSelected": {{ variant | json | escape }},  "inventory_management": {{ variant.inventory_management | json | escape  }}, "inventory_policy": {{ variant.inventory_policy | json | escape }}, "inventoryQuantity": {{ variant.inventory_quantity }}, "quantity": 1, "formId": "{{ product_form_id }}" }'
+        gp-context='{"productId": {{ product.id }}, "preSelectedOptionIds": [], "isSyncProduct": "", "hasPreSelected": true, "variantSelected": {{ variant | json | escape }},  "inventory_management": {{ variant.inventory_management | json | escape  }}, "inventory_policy": {{ variant.inventory_policy | json | escape }}, "inventoryQuantity": {{ variant.inventory_quantity }}, "quantity": 1, "formId": "{{ product_form_id }}" }'
         gp-data='{"variantSelected": {{ variant | json | escape }}, "quantity": 1, "productUrl":{{ product.url | json | escape }}, "productHandle":{{ product.handle | json | escape }}, "collectionUrl": {{ collection.url | json | escape }}, "collectionHandle": {{ collection.handle | json | escape }}}'
       >
         <product-form class="product-form">
