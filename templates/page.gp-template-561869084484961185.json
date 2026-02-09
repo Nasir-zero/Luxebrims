@@ -21,7 +21,7 @@
     },
     "gp_section_561869099769005036": {
       "settings": {
-        "checksum": "bddcb9da497ce40397e5cd2e93dc69c18edee21b312923e6e060117d3c6c4dcc_1_1_1_0__1",
+        "checksum": "8d32e691126eeecad2085ed57882a10f2496b2fd6bba8051e2d26de6dae498cb_1_1_1_0__1",
         "gg0NuidudqD_text": "<p>Do you offer installment payment options?</p>",
         "gg0epiE3ri7_text": "<p>How much does shipping cost?</p>",
         "gg1VMGVKse__text": "<p>What size should I order?</p>",
@@ -66,7 +66,7 @@
         "ggqlNhB0nTq_text": "<p>3. Payment Questions</p>",
         "ggrHpY5N2lv_text": "<p>You can reach our customer service team by emailing <span style=\"color:hsl(0,0%,0%);\"><strong>support@shoplbora.com</strong></span></p>",
         "ggwVBMDLFmd_text": "<p>Yes, we offer installment payment options for certain purchases. Please check our website or contact our customer service for more information.</p>",
-        "ggxsk8imQ9q_text": "<p>We accept a variety of payment methods including credit cards (Visa, MasterCard, American Express), PayPal, and Apple Pay.</p>",
+        "ggxsk8imQ9q_text": "<p>We accept a variety of payment methods including credit cards Visa, Googlepay, Applepay, Klarna, Diners, JCB, Discover, America Express, Maestro, Master card, PayPal.</p>",
         "ggzHfIiVDGy_label": "2. Product Questions",
         "section_preload": "true"
       },
