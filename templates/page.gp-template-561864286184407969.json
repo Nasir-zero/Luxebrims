@@ -11,7 +11,7 @@
   "sections": {
     "gp_section_561864300579259372": {
       "settings": {
-        "checksum": "34a18db66b83d53836a5b97ae1acde6fec84865f361393ae0e63d4114c3a0b16_1_1_1_0__1",
+        "checksum": "2a14ed12bd98c4c7c6fee074a2aaabf0e61acab62a1134d0ca0ebb20e8fe84e7_1_1_1_0__1",
         "gg0fmj5IY13_text": "Shipping Policy",
         "ggK6gULJ49K_text": "<p>2-4 Day Shipping</p>",
         "ggK8V_TD7rP_text": "<p>Price</p>",
@@ -42,17 +42,15 @@
     },
     "gp_section_561864301116130496": {
       "settings": {
-        "checksum": "373f02eb1f22730e8975de0ca621568dd0ab8eca99e55974f97fc3347cd2d2f3_1_1_1_0__1",
+        "checksum": "6fcf5a5e9e552470783534dc1eb35a7e8c24f8cc3b167bcbfff40ec5d2eba2ce_1_1_1_0__1",
         "gg2sbWDIC_c_text": "<p>Based on total order weight</p>",
         "gg4yAvyxXye_text": "<p>NOTE: We are not responsible for shipping carrier delays.</p>",
         "gg5eLj3u-wz_text": "<p>Based on total order weight</p>",
         "ggAUFoFUYQT_text": "<p>30-45 Day Shipping</p>",
         "ggFrO530l3k_text": "<p>Alibaba Express</p>",
-        "ggGMTvuE_Dl_text": "<p>Refunds Policy<br>We accept returns up to 07 days after delivery, if the item is unused and in its original condition, and we will refund the full order amount minus the shipping costs for the return.&nbsp;<br><br>In the event that your order arrives damaged in any way, please email us as soon as possible at gemthemes@gmail.com with your order number and a photo of the item’s condition. We address these on a case-by-case basis but will try our best to work towards a satisfactory solution.<br><br>We will send you an email once your return has been received and inspected to advise you that we have received your returned item. We will also notify you if your refund has been approved or rejected. If you are authorized, your refund will be processed and a credit will be made to your credit card or original mode of payment within a certain amount of days.</p>",
         "ggIQiopvZKf_text": "<p>DHL Express</p>",
         "ggQ2YWsyECN_text": "<p>Shipping Options</p>",
         "ggTo9oHMO--_text": "<p>International Shipping Policy</p>",
-        "ggYwFoX00BN_text": "<p>Refunds Policy</p>",
         "gg_-BGRDoYy_text": "<p>Price</p>",
         "ggam6wbWT_G_text": "<p>Estimated delivery time</p>",
         "ggcavnwnCs2_text": "<p>Alibaba Express</p>",
@@ -84,7 +82,7 @@
     },
     "gp_section_561864301317456801": {
       "settings": {
-        "checksum": "fa2bdab7465806161f8eeec8e3ba5cd62f0ed251bd96ace280532cf128d353f8_1_1_1_0__1",
+        "checksum": "f90c8d0b0c3766c13d83e487ab87afcdb4ab1d6200fa148cf3b4681e1b930bec_1_1_1_0__1",
         "gg5ERZrbNa4_text": "<p>If you have any questions about your order, please contact us right away at <strong>support@shoplbora.com</strong>. We will be unable to make changes to your order once it has been shipped.</p>",
         "gg5JQriG7qX_text": "<p>04.</p>",
         "gg6-39AsGHT_text": "<p>03.</p>",
@@ -99,7 +97,7 @@
     },
     "gp_section_561864301351011233": {
       "settings": {
-        "checksum": "c39e5a2724cff5dbdcb7a447bfe2cedb87e31c68aceccea6681c8a044200d135_1_1_1_0__1",
+        "checksum": "9f4e08b70a58ad423dc313f0159d723e174769a8748555efe05b0677bb75bcee_1_1_1_0__1",
         "gg1sQ_qmMst_label": "Submit",
         "gg4kVVp74rV_text": "<p>Contact Us</p>",
         "ggH2P4ywhTp_text": "<p>Web:</p>",
@@ -107,7 +105,6 @@
         "ggQHc9-8Ujc_text": "<p>support@shoplbora.com</p>",
         "gg_1z0j2ZCj_placeholder": "Message",
         "ggaqGUDEnoQ_text": "<p>Email:</p>",
-        "ggcbg91Z0Sk_text": "<p>GemThemes Candid Enthusiasm from the Summer</p>",
         "gghD9vzkMGL_placeholder": "Email",
         "ggjFl57Zxjc_text": "<p>Eight Avenue 487, London</p>",
         "ggk3BHz9F5y_text": "<p>Phone:</p>",
@@ -116,12 +113,6 @@
         "ggxVsNxv8qN_placeholder": "Name"
       },
       "type": "gp-section-561864301351011233"
-    },
-    "gp_section_561864301351011308": {
-      "settings": {
-        "checksum": "455b7fa29a79719168775634c3dfedacc17cad034bcdaffae4fe77a23866e96c_1_1_1_0__1"
-      },
-      "type": "gp-section-561864301351011308"
     }
   },
   "order": [
@@ -130,7 +121,6 @@
     "gp_section_561864301116130496",
     "gp_section_561864301317456801",
     "gp_section_561864301283902444",
-    "gp_section_561864301351011233",
-    "gp_section_561864301351011308"
+    "gp_section_561864301351011233"
   ]
 }
