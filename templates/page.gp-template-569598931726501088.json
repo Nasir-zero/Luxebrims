@@ -18,7 +18,7 @@
     },
     "gp_section_569598931776963808": {
       "settings": {
-        "checksum": "c4dc5d56d783286b0d6eb55d06c59f55326040337f29bdc8416aa7d8929d8ae4_1_1_1_0__1",
+        "checksum": "55637652fc698325923d274a4c4f57e577d7fcb88522a691346fcd3973be0888_1_1_1_0__1",
         "section_preload": "true"
       },
       "type": "gp-section-569598931776963808"
@@ -60,28 +60,13 @@
         "ggTdcOa4VI2_text": "Men's &amp; Women's Hats",
         "ggtbC0hZYEf_text": "<strong>Men's Felt Hats</strong>",
         "ggx2GyIHcP6_label": "<p><strong>Shop Now</strong></p>",
-        "ggx9nIKRorS_label": "<p><strong>Shop Now</strong></p>",
-        "section_preload": "true"
+        "ggx9nIKRorS_label": "<p><strong>Shop Now</strong></p>"
       },
       "type": "gp-section-597268220709175863"
-    },
-    "gp_section_602906083383575514": {
-      "settings": {
-        "checksum": "1b9428f8178e467f7a7778bf599bee03b4e4c5c83dd6fc67fb4fba7a8b8e45bd_1_1_1_0__1",
-        "gg-jxOoJlYG_defaultLabel": "Copy",
-        "ggC2H5V2dxx_text": "<p><span style=\"font-size:16px;\">Code：newyear$50</span></p>",
-        "ggUjYk4WldP_text": "<p><span style=\"font-size:16px;\">Code：newyear$10</span></p>",
-        "ggdGOg2OHQ7_text": "<p><span style=\"font-size:16px;\">Code：newyear$25</span></p>",
-        "ggdc6wxsort_defaultLabel": "Copy",
-        "ggxUY15Hhb-_defaultLabel": "Copy",
-        "section_preload": "true"
-      },
-      "type": "gp-section-602906083383575514"
     }
   },
   "order": [
     "gp_section_569598931776963808",
-    "gp_section_602906083383575514",
     "gp_section_597267699894059609",
     "gp_section_597267438152713100",
     "gp_section_597268220709175863",
