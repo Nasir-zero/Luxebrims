@@ -71,34 +71,10 @@
         "section_preload": "true"
       },
       "type": "gp-section-561869099769005036"
-    },
-    "gp_section_563388455673922725": {
-      "settings": {
-        "checksum": "d21f3e7dca638643697b328f5052b8e1a97754abd16b742c68d990e9f255a3f6_1_1_1_0__1",
-        "gg17OpZpS8m_text": "<p>How To Prepare A Successful Website For Black Friday</p>",
-        "gg9hT4Ll5ce_text": "<p>Optimizing Shopify Landing Page: Secrets to A High...</p>",
-        "ggLSMcM5e4r_text": "<p>We invited two successful businesswomen to share their insights and advice on employment. Let's listen ....</p>",
-        "ggLwAlmnAa3_text": "<p>Landing page is a vital aspect of any Shopify stores. It is often the very first place for new customers...</p>",
-        "ggMElluyHFA_text": "<p>By <span style=\"color:hsl(0,0%,30%);\"><strong>Robin</strong></span></p>",
-        "ggRoIBlB2VG_text": "<p>May 29,2022</p>",
-        "ggS6IniKiyL_text": "<p>Black Friday and Cyber Monday are just around the corner. Yester-year, around 40% of shoppers made an...</p>",
-        "ggULZtnlhGm_text": "Most Popular Blog Posts",
-        "ggabQ7MhkLn_text": "<p>By <span style=\"color:hsl(0,0%,30%);\"><strong>Luffy</strong></span></p>",
-        "ggkKGtUSWFM_text": "<p>May 29,2022</p>",
-        "ggnojpoICkA_text": "<p>Optimizing Shopify Landing Page: Secrets to A High...</p>",
-        "ggolCSjlA5Q_text": "<p>7 Keys to Shopify Success, Shared by Inspiring Women...</p>",
-        "ggtsViAzdT5_text": "<p>How To Prepare A Successful Website For Black Friday</p>",
-        "ggu_IYg_I0k_text": "<p>7 Keys to Shopify Success, Shared by Inspiring Women...</p>",
-        "ggwSDfm11VY_text": "<p>May 29,2022</p>",
-        "ggwm-jbGJAL_text": "<p>By <span style=\"color:hsl(0, 0%, 30%);\"><strong>Zoro</strong></span></p>",
-        "section_preload": "true"
-      },
-      "type": "gp-section-563388455673922725"
     }
   },
   "order": [
     "gp_section_561869099181802688",
-    "gp_section_561869099769005036",
-    "gp_section_563388455673922725"
+    "gp_section_561869099769005036"
   ]
 }
