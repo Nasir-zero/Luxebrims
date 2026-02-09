@@ -1348,7 +1348,7 @@
     </gp-button>
   
     <gp-button
-      gp-data='{"btnLink":{"link":"/pages/legal-page-apr-12-11-00-04","selectedTab":"pages","target":"_self","title":"Shipping Policy"}}'
+      gp-data='{"btnLink":{"link":"/pages/shippingpolicy","selectedTab":"pages","target":"_self","type":"open-page"}}'
       
       class="gp-flex gp-flex-col"
     >
@@ -1379,7 +1379,7 @@
         <a
           data-id="gltiEFo3ji" dataId="gltiEFo3ji" data-state="idle" aria-label="<p>Shipping</p>"
           
-          href="{{ request.origin }}{{ routes.root_url | split: '/' | join: '/' }}/pages/legal-page-apr-12-11-00-04" target="_self"
+          href="{{ request.origin }}{{ routes.root_url | split: '/' | join: '/' }}/pages/shippingpolicy" target="_self"
           style="--w:Auto;--w-tablet:Auto;--w-mobile:Auto;--h:Auto;--h-tablet:Auto;--h-mobile:Auto;--radius:var(--g-radius-small);--hvr-radius:var(--g-radius-small);--bgi:;--hvr-bgi:;--hvr-bg:transparent;--bg:transparent;--c:#191918;--ff:var(--g-font-PlayfairDisplay-VariableFont_wght, 'PlayfairDisplay-VariableFont_wght'), var(--g-font-body, body);--weight:400;--size:16px;--size-tablet:16px;--size-mobile:14px;--lh:180%;--lh-tablet:180%;--lh-mobile:180%"
           class="gltiEFo3ji gp-text-center gp-button-base gp-group gp-relative gp-inline-flex gp-max-w-full gp-items-center gp-justify-center gp-no-underline gp-transition-colors gp-duration-200 disabled:gp-btn-disabled disabled:gp-opacity-30 "
         >
@@ -1510,7 +1510,7 @@
     </gp-button>
   
     <gp-button
-      gp-data='{"btnLink":{"link":"","selectedTab":"products","target":"_self","type":"open-page"}}'
+      gp-data='{"btnLink":{"link":"/pages/hat-size-guide","selectedTab":"products","target":"_self","type":"open-page"}}'
       
       class="gp-flex gp-flex-col"
     >
@@ -1538,12 +1538,12 @@
     
   }</style>
         
-        <button
+        <a
           data-id="gouQm_9Eld" dataId="gouQm_9Eld" data-state="idle" aria-label="<p>Gift Cards</p>"
           
-          type="button"
+          href="{{ request.origin }}{{ routes.root_url | split: '/' | join: '/' }}/pages/hat-size-guide" target="_self"
           style="--w:Auto;--w-tablet:Auto;--w-mobile:Auto;--h:Auto;--h-tablet:Auto;--h-mobile:Auto;--radius:var(--g-radius-small);--hvr-radius:var(--g-radius-small);--bgi:;--hvr-bgi:;--hvr-bg:transparent;--bg:transparent;--c:#191918;--ff:var(--g-font-PlayfairDisplay-VariableFont_wght, 'PlayfairDisplay-VariableFont_wght'), var(--g-font-body, body);--weight:400;--size:16px;--size-tablet:16px;--size-mobile:14px;--lh:180%;--lh-tablet:180%;--lh-mobile:180%"
-          class="gouQm_9Eld gp-button-base gp-group gp-relative gp-inline-flex gp-max-w-full gp-items-center gp-justify-center gp-no-underline gp-transition-colors gp-duration-200 disabled:gp-btn-disabled disabled:gp-opacity-30 "
+          class="gouQm_9Eld gp-text-center gp-button-base gp-group gp-relative gp-inline-flex gp-max-w-full gp-items-center gp-justify-center gp-no-underline gp-transition-colors gp-duration-200 disabled:gp-btn-disabled disabled:gp-opacity-30 "
         >
         
         <div class="gp-inline-flex">
@@ -1558,7 +1558,7 @@
     </span>
         </div>
         
-        </button>
+        </a>
       </div>
       <script {% if section.settings.section_preload == "false" %}class="gps-link" delay {% else %}src{% endif %}="https://assets.gemcommerce.com/assets-v2/gp-button-v7-5.js?v={{ shop.metafields.GEMPAGES.ASSETS_VERSION }}" defer="defer"></script>
     </gp-button>
@@ -2371,7 +2371,7 @@
       role="presentation"
       data-id="g7937CS7vE"
       style="--bs:none;--bw:0px;--bc:transparent;--shadow:none;--d:block;--d-mobile:block;--d-tablet:block;--op:100%;--radius:var(--g-radius-small);--mb:0px;--ta:left"
-      class="gp-group/image gp-relative force-publish-1769681873743 gp-flex-none gp-h-auto mobile:gp-flex-none mobile:gp-h-auto tablet:gp-flex-none tablet:gp-h-auto g7937CS7vE"
+      class="gp-group/image gp-relative force-publish-1770624880854 gp-flex-none gp-h-auto mobile:gp-flex-none mobile:gp-h-auto tablet:gp-flex-none tablet:gp-h-auto g7937CS7vE"
     >
       <a
         href="https://www.facebook.com/luxebrims.official/" target title="Image Title"
@@ -2386,7 +2386,7 @@
     
       
       <img
-        base-src="{{ "facebook_2.svg" | file_url }}" quality-type="{}" quality-percent="{}"
+        title="Image Title" base-src="{{ "facebook_2.svg" | file_url }}" quality-type="{}" quality-percent="{}"
         src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjU2IiBoZWlnaHQ9IjI1NiIgdmVyc2lvbj0iMS4xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIj4KICAgIDxkZWZzPgogICAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImctMjU2LTI1NiI+CiAgICAgICAgPHN0b3Agc3RvcC1jb2xvcj0icmdiYSg1MSwgNTEsIDUxLCAwKSIgb2Zmc2V0PSIyMCUiIC8+CiAgICAgICAgPHN0b3Agc3RvcC1jb2xvcj0icmdiYSg1MSwgNTEsIDUxLCAwKSIgb2Zmc2V0PSI1MCUiIC8+CiAgICAgICAgPHN0b3Agc3RvcC1jb2xvcj0icmdiYSg1MSwgNTEsIDUxLCAwKSIgb2Zmc2V0PSI3MCUiIC8+CiAgICAgIDwvbGluZWFyR3JhZGllbnQ+CiAgICA8L2RlZnM+CiAgICA8cmVjdCB3aWR0aD0iMjU2IiBoZWlnaHQ9IjI1NiIgZmlsbD0icmdiYSg1MSwgNTEsIDUxLCAwKSIgLz4KICAgIDxyZWN0IGlkPSJyIiB3aWR0aD0iMjU2IiBoZWlnaHQ9IjI1NiIgZmlsbD0idXJsKCNnLTI1Ni0yNTYpIiAvPgogICAgPGFuaW1hdGUgeGxpbms6aHJlZj0iI3IiIGF0dHJpYnV0ZU5hbWU9IngiIGZyb209Ii0yNTYiIHRvPSIyNTYiIGR1cj0iMXMiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIiAgLz4KICA8L3N2Zz4=" data-src="{{ "facebook_2.svg" | file_url }}"
         alt="Alt Image"
         width="100%"
@@ -2409,7 +2409,7 @@
       role="presentation"
       data-id="guY-eCsVZM"
       style="--bs:none;--bw:0px;--bc:transparent;--shadow:none;--d:block;--d-mobile:block;--d-tablet:block;--op:100%;--radius:var(--g-radius-small);--mb:0px;--ta:left"
-      class="gp-group/image gp-relative force-publish-1769681873744 gp-flex-none gp-h-auto mobile:gp-flex-none mobile:gp-h-auto tablet:gp-flex-none tablet:gp-h-auto guY-eCsVZM"
+      class="gp-group/image gp-relative force-publish-1770624880854 gp-flex-none gp-h-auto mobile:gp-flex-none mobile:gp-h-auto tablet:gp-flex-none tablet:gp-h-auto guY-eCsVZM"
     >
       <a
         href="https://x.com/LBORA_" target="_self" title="Image Title"
@@ -2424,7 +2424,7 @@
     
       
       <img
-        base-src="{{ "gempages_560307868822144090-bd017066-76b7-420f-9a91-5f9c33534f70.png" | file_url }}" quality-type="{}" quality-percent="{}"
+        title="Image Title" base-src="{{ "gempages_560307868822144090-bd017066-76b7-420f-9a91-5f9c33534f70.png" | file_url }}" quality-type="{}" quality-percent="{}"
         src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNTAwIiBoZWlnaHQ9IjUwMCIgdmVyc2lvbj0iMS4xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIj4KICAgIDxkZWZzPgogICAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImctNTAwLTUwMCI+CiAgICAgICAgPHN0b3Agc3RvcC1jb2xvcj0icmdiYSg1MSwgNTEsIDUxLCAwKSIgb2Zmc2V0PSIyMCUiIC8+CiAgICAgICAgPHN0b3Agc3RvcC1jb2xvcj0icmdiYSg1MSwgNTEsIDUxLCAwKSIgb2Zmc2V0PSI1MCUiIC8+CiAgICAgICAgPHN0b3Agc3RvcC1jb2xvcj0icmdiYSg1MSwgNTEsIDUxLCAwKSIgb2Zmc2V0PSI3MCUiIC8+CiAgICAgIDwvbGluZWFyR3JhZGllbnQ+CiAgICA8L2RlZnM+CiAgICA8cmVjdCB3aWR0aD0iNTAwIiBoZWlnaHQ9IjUwMCIgZmlsbD0icmdiYSg1MSwgNTEsIDUxLCAwKSIgLz4KICAgIDxyZWN0IGlkPSJyIiB3aWR0aD0iNTAwIiBoZWlnaHQ9IjUwMCIgZmlsbD0idXJsKCNnLTUwMC01MDApIiAvPgogICAgPGFuaW1hdGUgeGxpbms6aHJlZj0iI3IiIGF0dHJpYnV0ZU5hbWU9IngiIGZyb209Ii01MDAiIHRvPSI1MDAiIGR1cj0iMXMiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIiAgLz4KICA8L3N2Zz4=" data-src="{{ "gempages_560307868822144090-bd017066-76b7-420f-9a91-5f9c33534f70.png" | file_url }}"
         alt="Alt Image"
         width="100%"
@@ -2447,7 +2447,7 @@
       role="presentation"
       data-id="gTTEQbATo3"
       style="--bs:none;--bw:0px;--bc:transparent;--shadow:none;--d:block;--d-mobile:block;--d-tablet:block;--op:100%;--radius:var(--g-radius-small);--mb:0px;--ta:center"
-      class="gp-group/image gp-relative force-publish-1769681873744 gp-flex-none gp-h-auto mobile:gp-flex-none mobile:gp-h-auto tablet:gp-flex-none tablet:gp-h-auto gTTEQbATo3"
+      class="gp-group/image gp-relative force-publish-1770624880854 gp-flex-none gp-h-auto mobile:gp-flex-none mobile:gp-h-auto tablet:gp-flex-none tablet:gp-h-auto gTTEQbATo3"
     >
       <a
         href="https://www.instagram.com/lborawear/" target="_self" title="Image Title"
@@ -2462,7 +2462,7 @@
     
       
       <img
-        base-src="{{ "gempages_560307868822144090-2196bc91-5928-49b4-bdd4-1958980659e0.png" | file_url }}" quality-type="{}" quality-percent="{}"
+        title="Image Title" base-src="{{ "gempages_560307868822144090-2196bc91-5928-49b4-bdd4-1958980659e0.png" | file_url }}" quality-type="{}" quality-percent="{}"
         src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjAwIiBoZWlnaHQ9IjIwMCIgdmVyc2lvbj0iMS4xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIj4KICAgIDxkZWZzPgogICAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImctMjAwLTIwMCI+CiAgICAgICAgPHN0b3Agc3RvcC1jb2xvcj0icmdiYSg1MSwgNTEsIDUxLCAwKSIgb2Zmc2V0PSIyMCUiIC8+CiAgICAgICAgPHN0b3Agc3RvcC1jb2xvcj0icmdiYSg1MSwgNTEsIDUxLCAwKSIgb2Zmc2V0PSI1MCUiIC8+CiAgICAgICAgPHN0b3Agc3RvcC1jb2xvcj0icmdiYSg1MSwgNTEsIDUxLCAwKSIgb2Zmc2V0PSI3MCUiIC8+CiAgICAgIDwvbGluZWFyR3JhZGllbnQ+CiAgICA8L2RlZnM+CiAgICA8cmVjdCB3aWR0aD0iMjAwIiBoZWlnaHQ9IjIwMCIgZmlsbD0icmdiYSg1MSwgNTEsIDUxLCAwKSIgLz4KICAgIDxyZWN0IGlkPSJyIiB3aWR0aD0iMjAwIiBoZWlnaHQ9IjIwMCIgZmlsbD0idXJsKCNnLTIwMC0yMDApIiAvPgogICAgPGFuaW1hdGUgeGxpbms6aHJlZj0iI3IiIGF0dHJpYnV0ZU5hbWU9IngiIGZyb209Ii0yMDAiIHRvPSIyMDAiIGR1cj0iMXMiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIiAgLz4KICA8L3N2Zz4=" data-src="{{ "gempages_560307868822144090-2196bc91-5928-49b4-bdd4-1958980659e0.png" | file_url }}"
         alt="Alt Image"
         width="100%"
@@ -2485,7 +2485,7 @@
       role="presentation"
       data-id="g3W0hhqnmi"
       style="--bs:none;--bw:0px;--bc:transparent;--shadow:none;--d:block;--d-mobile:block;--d-tablet:block;--op:100%;--radius:var(--g-radius-small);--ta:left"
-      class="gp-group/image gp-relative force-publish-1769681873745 gp-flex-none gp-h-auto mobile:gp-flex-none mobile:gp-h-auto tablet:gp-flex-none tablet:gp-h-auto g3W0hhqnmi"
+      class="gp-group/image gp-relative force-publish-1770624880855 gp-flex-none gp-h-auto mobile:gp-flex-none mobile:gp-h-auto tablet:gp-flex-none tablet:gp-h-auto g3W0hhqnmi"
     >
       <a
         href="https://www.pinterest.com/ShopLBORA/" target="_self" title="Image Title"
@@ -2500,7 +2500,7 @@
     
       
       <img
-        base-src="{{ "gempages_560307868822144090-dbb3f6fc-8821-4dfb-9fd4-a78a78a5bdd7.png" | file_url }}" quality-type="{}" quality-percent="{}"
+        title="Image Title" base-src="{{ "gempages_560307868822144090-dbb3f6fc-8821-4dfb-9fd4-a78a78a5bdd7.png" | file_url }}" quality-type="{}" quality-percent="{}"
         src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNTEyIiBoZWlnaHQ9IjUxMiIgdmVyc2lvbj0iMS4xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIj4KICAgIDxkZWZzPgogICAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImctNTEyLTUxMiI+CiAgICAgICAgPHN0b3Agc3RvcC1jb2xvcj0icmdiYSg1MSwgNTEsIDUxLCAwKSIgb2Zmc2V0PSIyMCUiIC8+CiAgICAgICAgPHN0b3Agc3RvcC1jb2xvcj0icmdiYSg1MSwgNTEsIDUxLCAwKSIgb2Zmc2V0PSI1MCUiIC8+CiAgICAgICAgPHN0b3Agc3RvcC1jb2xvcj0icmdiYSg1MSwgNTEsIDUxLCAwKSIgb2Zmc2V0PSI3MCUiIC8+CiAgICAgIDwvbGluZWFyR3JhZGllbnQ+CiAgICA8L2RlZnM+CiAgICA8cmVjdCB3aWR0aD0iNTEyIiBoZWlnaHQ9IjUxMiIgZmlsbD0icmdiYSg1MSwgNTEsIDUxLCAwKSIgLz4KICAgIDxyZWN0IGlkPSJyIiB3aWR0aD0iNTEyIiBoZWlnaHQ9IjUxMiIgZmlsbD0idXJsKCNnLTUxMi01MTIpIiAvPgogICAgPGFuaW1hdGUgeGxpbms6aHJlZj0iI3IiIGF0dHJpYnV0ZU5hbWU9IngiIGZyb209Ii01MTIiIHRvPSI1MTIiIGR1cj0iMXMiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIiAgLz4KICA8L3N2Zz4=" data-src="{{ "gempages_560307868822144090-dbb3f6fc-8821-4dfb-9fd4-a78a78a5bdd7.png" | file_url }}"
         alt="Alt Image"
         width="100%"
@@ -2523,7 +2523,7 @@
       role="presentation"
       data-id="glBxgC6cfv"
       style="--bs:none;--bw:0px;--bc:transparent;--shadow:none;--d:block;--d-mobile:block;--d-tablet:block;--op:100%;--radius:var(--g-radius-small);--mb-mobile:0px;--ta:left"
-      class="gp-group/image gp-relative force-publish-1769681873745 gp-flex-none gp-h-auto mobile:gp-flex-none mobile:gp-h-auto tablet:gp-flex-none tablet:gp-h-auto glBxgC6cfv"
+      class="gp-group/image gp-relative force-publish-1770624880855 gp-flex-none gp-h-auto mobile:gp-flex-none mobile:gp-h-auto tablet:gp-flex-none tablet:gp-h-auto glBxgC6cfv"
     >
       <a
         href="https://www.tiktok.com/@lbora2" target="_self" title="Image Title"
@@ -2538,7 +2538,7 @@
     
       
       <img
-        base-src="{{ "gempages_560307868822144090-4a9459f6-6820-4daa-9c51-317f4ab45b4f.png" | file_url }}" quality-type="{}" quality-percent="{}"
+        title="Image Title" base-src="{{ "gempages_560307868822144090-4a9459f6-6820-4daa-9c51-317f4ab45b4f.png" | file_url }}" quality-type="{}" quality-percent="{}"
         src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNTEyIiBoZWlnaHQ9IjUxMiIgdmVyc2lvbj0iMS4xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIj4KICAgIDxkZWZzPgogICAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImctNTEyLTUxMiI+CiAgICAgICAgPHN0b3Agc3RvcC1jb2xvcj0icmdiYSg1MSwgNTEsIDUxLCAwKSIgb2Zmc2V0PSIyMCUiIC8+CiAgICAgICAgPHN0b3Agc3RvcC1jb2xvcj0icmdiYSg1MSwgNTEsIDUxLCAwKSIgb2Zmc2V0PSI1MCUiIC8+CiAgICAgICAgPHN0b3Agc3RvcC1jb2xvcj0icmdiYSg1MSwgNTEsIDUxLCAwKSIgb2Zmc2V0PSI3MCUiIC8+CiAgICAgIDwvbGluZWFyR3JhZGllbnQ+CiAgICA8L2RlZnM+CiAgICA8cmVjdCB3aWR0aD0iNTEyIiBoZWlnaHQ9IjUxMiIgZmlsbD0icmdiYSg1MSwgNTEsIDUxLCAwKSIgLz4KICAgIDxyZWN0IGlkPSJyIiB3aWR0aD0iNTEyIiBoZWlnaHQ9IjUxMiIgZmlsbD0idXJsKCNnLTUxMi01MTIpIiAvPgogICAgPGFuaW1hdGUgeGxpbms6aHJlZj0iI3IiIGF0dHJpYnV0ZU5hbWU9IngiIGZyb209Ii01MTIiIHRvPSI1MTIiIGR1cj0iMXMiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIiAgLz4KICA8L3N2Zz4=" data-src="{{ "gempages_560307868822144090-4a9459f6-6820-4daa-9c51-317f4ab45b4f.png" | file_url }}"
         alt="Alt Image"
         width="100%"
@@ -2581,7 +2581,7 @@
       role="presentation"
       data-id="gBjiOGORmf"
       style="--bs:none;--bw:0px;--bc:transparent;--shadow:none;--d:block;--d-mobile:block;--d-tablet:block;--op:100%;--radius:var(--g-radius-small);--mb:0px;--mb-mobile:0px;--ta:center"
-      class="gp-group/image gp-relative force-publish-1769681873748 gp-flex-none gp-h-auto mobile:gp-flex-none mobile:gp-h-auto tablet:gp-flex-none tablet:gp-h-auto gBjiOGORmf"
+      class="gp-group/image gp-relative force-publish-1770624880857 gp-flex-none gp-h-auto mobile:gp-flex-none mobile:gp-h-auto tablet:gp-flex-none tablet:gp-h-auto gBjiOGORmf"
     >
       <a
         href="https://www.facebook.com/luxebrims.official/" target title="Image Title"
@@ -2596,7 +2596,7 @@
     
       
       <img
-        base-src="{{ "gempages_560307868822144090-bc974331-a8c5-4e6f-854b-0b0a9ab25fb7.png" | file_url }}" quality-type="{}" quality-percent="{}"
+        title="Image Title" base-src="{{ "gempages_560307868822144090-bc974331-a8c5-4e6f-854b-0b0a9ab25fb7.png" | file_url }}" quality-type="{}" quality-percent="{}"
         src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjUwIiBoZWlnaHQ9IjIwMCIgdmVyc2lvbj0iMS4xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIj4KICAgIDxkZWZzPgogICAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImctMjUwLTIwMCI+CiAgICAgICAgPHN0b3Agc3RvcC1jb2xvcj0icmdiYSg1MSwgNTEsIDUxLCAwKSIgb2Zmc2V0PSIyMCUiIC8+CiAgICAgICAgPHN0b3Agc3RvcC1jb2xvcj0icmdiYSg1MSwgNTEsIDUxLCAwKSIgb2Zmc2V0PSI1MCUiIC8+CiAgICAgICAgPHN0b3Agc3RvcC1jb2xvcj0icmdiYSg1MSwgNTEsIDUxLCAwKSIgb2Zmc2V0PSI3MCUiIC8+CiAgICAgIDwvbGluZWFyR3JhZGllbnQ+CiAgICA8L2RlZnM+CiAgICA8cmVjdCB3aWR0aD0iMjUwIiBoZWlnaHQ9IjIwMCIgZmlsbD0icmdiYSg1MSwgNTEsIDUxLCAwKSIgLz4KICAgIDxyZWN0IGlkPSJyIiB3aWR0aD0iMjUwIiBoZWlnaHQ9IjIwMCIgZmlsbD0idXJsKCNnLTI1MC0yMDApIiAvPgogICAgPGFuaW1hdGUgeGxpbms6aHJlZj0iI3IiIGF0dHJpYnV0ZU5hbWU9IngiIGZyb209Ii0yNTAiIHRvPSIyNTAiIGR1cj0iMXMiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIiAgLz4KICA8L3N2Zz4=" data-src="{{ "gempages_560307868822144090-bc974331-a8c5-4e6f-854b-0b0a9ab25fb7.png" | file_url }}"
         alt="Alt Image"
         width="100%"
@@ -2619,7 +2619,7 @@
       role="presentation"
       data-id="g-yv6LsUe0"
       style="--bs:none;--bw:0px;--bc:transparent;--shadow:none;--d:block;--d-mobile:block;--d-tablet:block;--op:100%;--radius:var(--g-radius-small);--mb:4px;--ta:left"
-      class="gp-group/image gp-relative force-publish-1769681873748 gp-flex-none gp-h-auto mobile:gp-flex-none mobile:gp-h-auto tablet:gp-flex-none tablet:gp-h-auto g-yv6LsUe0"
+      class="gp-group/image gp-relative force-publish-1770624880857 gp-flex-none gp-h-auto mobile:gp-flex-none mobile:gp-h-auto tablet:gp-flex-none tablet:gp-h-auto g-yv6LsUe0"
     >
       <a
         href="https://x.com/LuxeBrims?fbclid=IwY2xjawJkTxtleHRuA2FlbQIxMAABHiUUlCV79_cnFTUB4o2xlnfjxnPYwyAV81Ehs_hSVi7ob8FnIjPE15upVOmt_aem_FtAtNtSsvR_TQg8Su6Evgw" target="_self" title="Image Title"
@@ -2634,7 +2634,7 @@
     
       
       <img
-        base-src="{{ "gempages_560307868822144090-bd017066-76b7-420f-9a91-5f9c33534f70.png" | file_url }}" quality-type="{}" quality-percent="{}"
+        title="Image Title" base-src="{{ "gempages_560307868822144090-bd017066-76b7-420f-9a91-5f9c33534f70.png" | file_url }}" quality-type="{}" quality-percent="{}"
         src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNTAwIiBoZWlnaHQ9IjUwMCIgdmVyc2lvbj0iMS4xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIj4KICAgIDxkZWZzPgogICAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImctNTAwLTUwMCI+CiAgICAgICAgPHN0b3Agc3RvcC1jb2xvcj0icmdiYSg1MSwgNTEsIDUxLCAwKSIgb2Zmc2V0PSIyMCUiIC8+CiAgICAgICAgPHN0b3Agc3RvcC1jb2xvcj0icmdiYSg1MSwgNTEsIDUxLCAwKSIgb2Zmc2V0PSI1MCUiIC8+CiAgICAgICAgPHN0b3Agc3RvcC1jb2xvcj0icmdiYSg1MSwgNTEsIDUxLCAwKSIgb2Zmc2V0PSI3MCUiIC8+CiAgICAgIDwvbGluZWFyR3JhZGllbnQ+CiAgICA8L2RlZnM+CiAgICA8cmVjdCB3aWR0aD0iNTAwIiBoZWlnaHQ9IjUwMCIgZmlsbD0icmdiYSg1MSwgNTEsIDUxLCAwKSIgLz4KICAgIDxyZWN0IGlkPSJyIiB3aWR0aD0iNTAwIiBoZWlnaHQ9IjUwMCIgZmlsbD0idXJsKCNnLTUwMC01MDApIiAvPgogICAgPGFuaW1hdGUgeGxpbms6aHJlZj0iI3IiIGF0dHJpYnV0ZU5hbWU9IngiIGZyb209Ii01MDAiIHRvPSI1MDAiIGR1cj0iMXMiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIiAgLz4KICA8L3N2Zz4=" data-src="{{ "gempages_560307868822144090-bd017066-76b7-420f-9a91-5f9c33534f70.png" | file_url }}"
         alt="Alt Image"
         width="100%"
@@ -2657,7 +2657,7 @@
       role="presentation"
       data-id="gxVOHK2iRq"
       style="--bs:none;--bw:0px;--bc:transparent;--shadow:none;--d:block;--d-mobile:block;--d-tablet:block;--op:100%;--radius:var(--g-radius-small);--mb:0px;--ta:center"
-      class="gp-group/image gp-relative force-publish-1769681873749 gp-flex-none gp-h-auto mobile:gp-flex-none mobile:gp-h-auto tablet:gp-flex-none tablet:gp-h-auto gxVOHK2iRq"
+      class="gp-group/image gp-relative force-publish-1770624880858 gp-flex-none gp-h-auto mobile:gp-flex-none mobile:gp-h-auto tablet:gp-flex-none tablet:gp-h-auto gxVOHK2iRq"
     >
       <a
         href="https://www.instagram.com/luxebrims?igsh=MTU1ZWl3Y2p5OGExNQ==" target="_self" title="Image Title"
@@ -2672,7 +2672,7 @@
     
       
       <img
-        base-src="{{ "gempages_560307868822144090-2196bc91-5928-49b4-bdd4-1958980659e0.png" | file_url }}" quality-type="{}" quality-percent="{}"
+        title="Image Title" base-src="{{ "gempages_560307868822144090-2196bc91-5928-49b4-bdd4-1958980659e0.png" | file_url }}" quality-type="{}" quality-percent="{}"
         src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjAwIiBoZWlnaHQ9IjIwMCIgdmVyc2lvbj0iMS4xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIj4KICAgIDxkZWZzPgogICAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImctMjAwLTIwMCI+CiAgICAgICAgPHN0b3Agc3RvcC1jb2xvcj0icmdiYSg1MSwgNTEsIDUxLCAwKSIgb2Zmc2V0PSIyMCUiIC8+CiAgICAgICAgPHN0b3Agc3RvcC1jb2xvcj0icmdiYSg1MSwgNTEsIDUxLCAwKSIgb2Zmc2V0PSI1MCUiIC8+CiAgICAgICAgPHN0b3Agc3RvcC1jb2xvcj0icmdiYSg1MSwgNTEsIDUxLCAwKSIgb2Zmc2V0PSI3MCUiIC8+CiAgICAgIDwvbGluZWFyR3JhZGllbnQ+CiAgICA8L2RlZnM+CiAgICA8cmVjdCB3aWR0aD0iMjAwIiBoZWlnaHQ9IjIwMCIgZmlsbD0icmdiYSg1MSwgNTEsIDUxLCAwKSIgLz4KICAgIDxyZWN0IGlkPSJyIiB3aWR0aD0iMjAwIiBoZWlnaHQ9IjIwMCIgZmlsbD0idXJsKCNnLTIwMC0yMDApIiAvPgogICAgPGFuaW1hdGUgeGxpbms6aHJlZj0iI3IiIGF0dHJpYnV0ZU5hbWU9IngiIGZyb209Ii0yMDAiIHRvPSIyMDAiIGR1cj0iMXMiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIiAgLz4KICA8L3N2Zz4=" data-src="{{ "gempages_560307868822144090-2196bc91-5928-49b4-bdd4-1958980659e0.png" | file_url }}"
         alt="Alt Image"
         width="100%"
@@ -2695,7 +2695,7 @@
       role="presentation"
       data-id="gUxgB_GmHz"
       style="--bs:none;--bw:0px;--bc:transparent;--shadow:none;--d:block;--d-mobile:block;--d-tablet:block;--op:100%;--radius:var(--g-radius-small);--ta:left"
-      class="gp-group/image gp-relative force-publish-1769681873750 gp-flex-none gp-h-auto mobile:gp-flex-none mobile:gp-h-auto tablet:gp-flex-none tablet:gp-h-auto gUxgB_GmHz"
+      class="gp-group/image gp-relative force-publish-1770624880858 gp-flex-none gp-h-auto mobile:gp-flex-none mobile:gp-h-auto tablet:gp-flex-none tablet:gp-h-auto gUxgB_GmHz"
     >
       <a
         href="https://www.pinterest.com/settings/#profile" target="_self" title="Image Title"
@@ -2710,7 +2710,7 @@
     
       
       <img
-        base-src="{{ "gempages_560307868822144090-dbb3f6fc-8821-4dfb-9fd4-a78a78a5bdd7.png" | file_url }}" quality-type="{}" quality-percent="{}"
+        title="Image Title" base-src="{{ "gempages_560307868822144090-dbb3f6fc-8821-4dfb-9fd4-a78a78a5bdd7.png" | file_url }}" quality-type="{}" quality-percent="{}"
         src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNTEyIiBoZWlnaHQ9IjUxMiIgdmVyc2lvbj0iMS4xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIj4KICAgIDxkZWZzPgogICAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImctNTEyLTUxMiI+CiAgICAgICAgPHN0b3Agc3RvcC1jb2xvcj0icmdiYSg1MSwgNTEsIDUxLCAwKSIgb2Zmc2V0PSIyMCUiIC8+CiAgICAgICAgPHN0b3Agc3RvcC1jb2xvcj0icmdiYSg1MSwgNTEsIDUxLCAwKSIgb2Zmc2V0PSI1MCUiIC8+CiAgICAgICAgPHN0b3Agc3RvcC1jb2xvcj0icmdiYSg1MSwgNTEsIDUxLCAwKSIgb2Zmc2V0PSI3MCUiIC8+CiAgICAgIDwvbGluZWFyR3JhZGllbnQ+CiAgICA8L2RlZnM+CiAgICA8cmVjdCB3aWR0aD0iNTEyIiBoZWlnaHQ9IjUxMiIgZmlsbD0icmdiYSg1MSwgNTEsIDUxLCAwKSIgLz4KICAgIDxyZWN0IGlkPSJyIiB3aWR0aD0iNTEyIiBoZWlnaHQ9IjUxMiIgZmlsbD0idXJsKCNnLTUxMi01MTIpIiAvPgogICAgPGFuaW1hdGUgeGxpbms6aHJlZj0iI3IiIGF0dHJpYnV0ZU5hbWU9IngiIGZyb209Ii01MTIiIHRvPSI1MTIiIGR1cj0iMXMiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIiAgLz4KICA8L3N2Zz4=" data-src="{{ "gempages_560307868822144090-dbb3f6fc-8821-4dfb-9fd4-a78a78a5bdd7.png" | file_url }}"
         alt="Alt Image"
         width="100%"
@@ -2733,7 +2733,7 @@
       role="presentation"
       data-id="gh5vvXkZ7k"
       style="--bs:none;--bw:0px;--bc:transparent;--shadow:none;--d:block;--d-mobile:block;--d-tablet:block;--op:100%;--radius:var(--g-radius-small);--mb-mobile:0px;--ta:left"
-      class="gp-group/image gp-relative force-publish-1769681873750 gp-flex-none gp-h-auto mobile:gp-flex-none mobile:gp-h-auto tablet:gp-flex-none tablet:gp-h-auto gh5vvXkZ7k"
+      class="gp-group/image gp-relative force-publish-1770624880858 gp-flex-none gp-h-auto mobile:gp-flex-none mobile:gp-h-auto tablet:gp-flex-none tablet:gp-h-auto gh5vvXkZ7k"
     >
       <a
         href="https://www.tiktok.com/@luxebrims?is_from_webapp=1&sender_device=pc" target="_self" title="Image Title"
@@ -2748,7 +2748,7 @@
     
       
       <img
-        base-src="{{ "gempages_560307868822144090-4a9459f6-6820-4daa-9c51-317f4ab45b4f.png" | file_url }}" quality-type="{}" quality-percent="{}"
+        title="Image Title" base-src="{{ "gempages_560307868822144090-4a9459f6-6820-4daa-9c51-317f4ab45b4f.png" | file_url }}" quality-type="{}" quality-percent="{}"
         src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNTEyIiBoZWlnaHQ9IjUxMiIgdmVyc2lvbj0iMS4xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIj4KICAgIDxkZWZzPgogICAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImctNTEyLTUxMiI+CiAgICAgICAgPHN0b3Agc3RvcC1jb2xvcj0icmdiYSg1MSwgNTEsIDUxLCAwKSIgb2Zmc2V0PSIyMCUiIC8+CiAgICAgICAgPHN0b3Agc3RvcC1jb2xvcj0icmdiYSg1MSwgNTEsIDUxLCAwKSIgb2Zmc2V0PSI1MCUiIC8+CiAgICAgICAgPHN0b3Agc3RvcC1jb2xvcj0icmdiYSg1MSwgNTEsIDUxLCAwKSIgb2Zmc2V0PSI3MCUiIC8+CiAgICAgIDwvbGluZWFyR3JhZGllbnQ+CiAgICA8L2RlZnM+CiAgICA8cmVjdCB3aWR0aD0iNTEyIiBoZWlnaHQ9IjUxMiIgZmlsbD0icmdiYSg1MSwgNTEsIDUxLCAwKSIgLz4KICAgIDxyZWN0IGlkPSJyIiB3aWR0aD0iNTEyIiBoZWlnaHQ9IjUxMiIgZmlsbD0idXJsKCNnLTUxMi01MTIpIiAvPgogICAgPGFuaW1hdGUgeGxpbms6aHJlZj0iI3IiIGF0dHJpYnV0ZU5hbWU9IngiIGZyb209Ii01MTIiIHRvPSI1MTIiIGR1cj0iMXMiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIiAgLz4KICA8L3N2Zz4=" data-src="{{ "gempages_560307868822144090-4a9459f6-6820-4daa-9c51-317f4ab45b4f.png" | file_url }}"
         alt="Alt Image"
         width="100%"
@@ -2791,7 +2791,7 @@
       role="presentation"
       data-id="g91Yl2R9e_"
       style="--bs:none;--bw:1px 1px 1px 1px;--bc:#121212;--shadow:none;--d:block;--d-mobile:block;--d-tablet:block;--op:100%;--bblr:0px;--bbrr:0px;--btlr:0px;--btrr:0px;--pt:0px;--pl:0px;--pb:0px;--pr:0px;--pt-mobile:0px;--pl-mobile:0px;--pb-mobile:0px;--pr-mobile:0px;--pt-tablet:0px;--pl-tablet:0px;--pb-tablet:0px;--pr-tablet:0px;--ta:right"
-      class="gp-group/image gp-relative force-publish-1769681873751 gp-flex-none gp-h-auto mobile:gp-flex-none mobile:gp-h-auto tablet:gp-flex-none tablet:gp-h-auto g91Yl2R9e_"
+      class="gp-group/image gp-relative force-publish-1770624880859 gp-flex-none gp-h-auto mobile:gp-flex-none mobile:gp-h-auto tablet:gp-flex-none tablet:gp-h-auto g91Yl2R9e_"
     >
       <div
         
