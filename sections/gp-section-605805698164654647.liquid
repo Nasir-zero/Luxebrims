@@ -12,15 +12,6 @@
 
 
 @font-face {
-  font-family: 'Lora';
-  font-style: normal;
-  font-weight: 600;
-  font-display: swap;
-  src: url(https://fonts.gstatic.com/s/lora/v37/0QI6MX1D_JOuGQbT0gvTJPa787zAvCJG.ttf) format('truetype');
-}
-
-
-@font-face {
   font-family: 'Inter';
   font-style: normal;
   font-weight: 400;
@@ -30,26 +21,26 @@
 @font-face {
   font-family: 'Inter';
   font-style: normal;
-  font-weight: 500;
-  font-display: swap;
-  src: url(https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuI6fMZg.ttf) format('truetype');
-}
-@font-face {
-  font-family: 'Inter';
-  font-style: normal;
   font-weight: 600;
   font-display: swap;
   src: url(https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuGKYMZg.ttf) format('truetype');
 }
+
+
 @font-face {
-  font-family: 'Inter';
+  font-family: 'Akshar';
   font-style: normal;
   font-weight: 700;
   font-display: swap;
-  src: url(https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuFuYMZg.ttf) format('truetype');
+  src: url(https://fonts.gstatic.com/s/akshar/v17/Yq6I-LyHWTfz9rGoqDaUbHvhkAUsSZECy9A.ttf) format('truetype');
 }
-
-
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuOKfMZg.ttf) format('truetype');
+}
 @font-face {
   font-family: 'Inter';
   font-style: normal;
@@ -149,7 +140,7 @@
     
     {% if product != empty and product != null %}
       
-      {%- assign initVariantId = 46016478838942 -%}
+      {%- assign initVariantId = 46016479101086 -%}
       {%- assign product_form_id = 'product-form-' | append: "gnnfXHeQLt" -%}
       {%- assign variant = product.variants | where: 'id', initVariantId | first -%}
       {%- assign productSelectedVariant = product.variants | where: 'id', initVariantId | first -%}
@@ -165,7 +156,7 @@
         data-id="gnnfXHeQLt"
         
         
-        gp-context='{"productId": {{ product.id }}, "preSelectedOptionIds": [4765174268062,4765174431902], "isSyncProduct": "", "hasPreSelected": false, "variantSelected": {{ variant | json | escape }},  "inventory_management": {{ variant.inventory_management | json | escape  }}, "inventory_policy": {{ variant.inventory_policy | json | escape }}, "inventoryQuantity": {{ variant.inventory_quantity }}, "quantity": 1, "formId": "{{ product_form_id }}" }'
+        gp-context='{"productId": {{ product.id }}, "preSelectedOptionIds": [4765174333598,4765174431902], "isSyncProduct": "", "hasPreSelected": true, "variantSelected": {{ variant | json | escape }},  "inventory_management": {{ variant.inventory_management | json | escape  }}, "inventory_policy": {{ variant.inventory_policy | json | escape }}, "inventoryQuantity": {{ variant.inventory_quantity }}, "quantity": 1, "formId": "{{ product_form_id }}" }'
         gp-data='{"variantSelected": {{ variant | json | escape }}, "quantity": 1, "productUrl":{{ product.url | json | escape }}, "productHandle":{{ product.handle | json | escape }}, "collectionUrl": {{ collection.url | json | escape }}, "collectionHandle": {{ collection.handle | json | escape }}}'
       >
         <product-form class="product-form">
