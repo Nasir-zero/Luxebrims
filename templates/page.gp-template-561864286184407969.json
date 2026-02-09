@@ -11,7 +11,7 @@
   "sections": {
     "gp_section_561864300579259372": {
       "settings": {
-        "checksum": "2a14ed12bd98c4c7c6fee074a2aaabf0e61acab62a1134d0ca0ebb20e8fe84e7_1_1_1_0__1",
+        "checksum": "06421d42af0f60e5966dc4000c179eb3904920898537fd3661b3882ae7adb05d_1_1_1_0__1",
         "gg0fmj5IY13_text": "Shipping Policy",
         "ggK6gULJ49K_text": "<p>2-4 Day Shipping</p>",
         "ggK8V_TD7rP_text": "<p>Price</p>",
@@ -20,7 +20,7 @@
         "ggj_HlygMjC_text": "<p>2-10 Day Shipping (Order under $99)</p>",
         "ggkYbmnIzbx_text": "<p>1-2 Day Shipping</p>",
         "ggrofG-odw1_text": "<p>Shipping Options</p>",
-        "ggsMV8jVH_5_text": "<p>NOTE: We are not responsible for shipping carrier delays.</p>",
+        "ggsMV8jVH_5_text": "<p>NOTE: While we do our best to ensure timely delivery, shipping times are estimates and may be affected by carrier delays.</p>",
         "ggtY3SUuMXK_text": "<p>Free</p>",
         "ggu4F2WV5wZ_text": "<p>Free Shipping</p>",
         "ggyd7_h7sC6_text": "<p>Free</p>",
@@ -42,9 +42,9 @@
     },
     "gp_section_561864301116130496": {
       "settings": {
-        "checksum": "6fcf5a5e9e552470783534dc1eb35a7e8c24f8cc3b167bcbfff40ec5d2eba2ce_1_1_1_0__1",
+        "checksum": "7b2288c420153362f8fb572520a629be771ec9b90585f389e7ddb452beb0ce1e_1_1_1_0__1",
         "gg2sbWDIC_c_text": "<p>Based on total order weight</p>",
-        "gg4yAvyxXye_text": "<p>NOTE: We are not responsible for shipping carrier delays.</p>",
+        "gg4yAvyxXye_text": "<p>NOTE: While we do our best to ensure timely delivery, shipping times are estimates and may be affected by carrier delays.</p>",
         "gg5eLj3u-wz_text": "<p>Based on total order weight</p>",
         "ggAUFoFUYQT_text": "<p>30-45 Day Shipping</p>",
         "ggFrO530l3k_text": "<p>Alibaba Express</p>",
@@ -66,13 +66,13 @@
     },
     "gp_section_561864301283902444": {
       "settings": {
-        "checksum": "6c4c491956f4da871f20a73ebb2c463b1477aee922c443f64afc7a7d31b21a66_1_1_1_0__1",
+        "checksum": "3bfd1f9dad45389e2c1212f023853958d316fbf66ba48ac6047ecb5257f45dd9_1_1_1_0__1",
         "gg9Xj1XzVRN_text": "<p>Orders will be processed within 1-2 business days (Monday to Friday, excluding holidays). If your order contains any Archives item(s), please allow an additional 2-3 business days to process. Archives items will be shipped separately from regular items</p>",
         "ggA2FjxJ1lF_text": "<p>Our shipping costs differ depending on where the order is shipping to and how fast it’s getting there.<br><br>Our shipping costs differ depending on where the order is shipping to and how fast it’s getting there. You can check out our&nbsp;<br>delivery options table.</p>",
-        "ggC5BEHs1fy_text": "<p>All orders in our store enjoy free shipping worldwide. However, due to high demand during promotional periods, some items may temporarily go out of stock. When this happens, we source products globally to fulfill your order, which may result in slightly longer delivery times. We appreciate your patience and understanding as we work to get your items to you as soon as possible.</p>",
+        "ggC5BEHs1fy_text": "<p>All orders in our store enjoy free shipping USA. However, due to high demand during promotional periods, some items may temporarily go out of stock. When this happens, we source products globally to fulfill your order, which may result in slightly longer delivery times. We appreciate your patience and understanding as we work to get your items to you as soon as possible.<br>本店所有订单均享全球免邮。但促销期间需求量大，部分商品可能会暂时缺货。届时，我们将从全球范围内调货以完成您的订单，这可能会导致配送时间略有延长。感谢您的耐心和理解，我们将尽力尽快将商品送达。</p>",
         "ggLIhC_TFil_childItem_0": "Is it free shipping? ",
         "ggLIhC_TFil_childItem_1": "How long does it take to receive my order?",
-        "ggjKRrIfuuT_text": "<p>Your order will be shipped by one of these courier services, depending on your shipping address:<br>Worldwide: FedEx, DHL<br>China: DHL, SF Express<br>Hong Kong SAR: Local Express Courier, SF Express<br>Macau SAR: SF Express<br>Japan: FedEx, Sagawa, Yamato<br>Korea: FedEx, Lotte<br>Singapore: FedEx, Crane</p>",
+        "ggjKRrIfuuT_text": "<p>Your order will be shipped by one of these courier services, depending on your shipping address:<br>您的订单将根据您的收货地址，由以下快递公司之一进行配送：<br>USA: FedEx, DHL&nbsp; 全球：联邦快递、DHL<br>China: DHL, SF Express&nbsp; 中国：DHL、顺丰速运<br>Hong Kong SAR: Local Express Courier, SF Express<br>香港特别行政区：本地快递、顺丰速运<br>Macau SAR: SF Express&nbsp; 澳门特别行政区：顺丰速运<br>Japan: FedEx, Sagawa, Yamato<br>日本：联邦快递、佐川、大和<br>Korea: FedEx, Lotte&nbsp; 韩国：联邦快递、乐天<br>Singapore: FedEx, Crane&nbsp; 新加坡：联邦快递，起重机</p>",
         "ggofMCCZafy_text": "<p>Please contact us as soon as possible if you need to change your address.<br><br>Please contact us as soon as possible if you need to change your address. Keep in mind that a rerouting fee may be charged by the courier to change your address.</p>",
         "ggxDzFvGzqB_childItem_0": "How will my order be shipped?",
         "ggxDzFvGzqB_childItem_1": "What are your shipping costs?",
