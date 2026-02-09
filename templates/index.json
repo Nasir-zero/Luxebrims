@@ -17,6 +17,26 @@
         "ggQx7e0-SUW_label": "<p>Shop Now</p>"
       }
     },
+    "17702735634e571269": {
+      "type": "apps",
+      "blocks": {
+        "boost_ai_search_filter_recommendation_ssr_3QeA4C": {
+          "type": "shopify://apps/boost-ai-search-filter/blocks/recommendation-ssr/7fc998ae-a150-4367-bab8-505d8a4503f7",
+          "settings": {
+            "widgetId": "homepage-783263",
+            "additional_classes": "",
+            "custom_css": ""
+          }
+        }
+      },
+      "block_order": [
+        "boost_ai_search_filter_recommendation_ssr_3QeA4C"
+      ],
+      "settings": {
+        "display_id": false,
+        "include_margins": true
+      }
+    },
     "gp_section_594337781904311207": {
       "type": "gp-section-594337781904311207",
       "settings": {
@@ -159,7 +179,8 @@
         "ggSZGMhwJu-_label": "<p>Rewards</p>",
         "gg2JUDDvxQT_label": "<p>Hat Bar</p>",
         "ggt1zEhp7kn_text": "<p>Customer Care</p>",
-        "ggUiLGHx7YN_label": "<p>Contact Us</p>",
+        "gg-W3_Yn8Dh_label": "<p>About Us</p>",
+        "gg7bRbn3o4h_label": "<p>Contact Us</p>",
         "ggltiEFo3ji_label": "<p>Shipping</p>",
         "ggyAVoNY6Vb_label": "<p>Return &amp; Exchanges</p>",
         "ggdACuRJuqv_label": "<p>Order Status</p>",
@@ -168,6 +189,7 @@
         "ggaf9t8Xtm9_label": "<p>Privacy policy</p>",
         "ggx7y35YqdE_label": "<p>Conditions of sale</p>",
         "gg61uZNV2PA_label": "<p>Cookie</p>",
+        "ggaKY1A-HjK_label": "<p>Terms&amp;Conditions</p>",
         "ggFL3ea2YcY_text": "<p>Shop</p>",
         "ggkzBP8GMEo_label": "<p>Men</p>",
         "ggJwWwXoQzL_label": "<p>Women</p>",
@@ -181,26 +203,6 @@
         "ggP6YloH123_text": "<p>Support</p>",
         "ggHeQJnGgmZ_label": "<p>Hat Bar</p>",
         "ggZDbeJHTED_label": "<p>Hat Care Guide</p>"
-      }
-    },
-    "17702735634e571269": {
-      "type": "apps",
-      "blocks": {
-        "boost_ai_search_filter_recommendation_ssr_3QeA4C": {
-          "type": "shopify://apps/boost-ai-search-filter/blocks/recommendation-ssr/7fc998ae-a150-4367-bab8-505d8a4503f7",
-          "settings": {
-            "widgetId": "homepage-783263",
-            "additional_classes": "",
-            "custom_css": ""
-          }
-        }
-      },
-      "block_order": [
-        "boost_ai_search_filter_recommendation_ssr_3QeA4C"
-      ],
-      "settings": {
-        "display_id": false,
-        "include_margins": true
       }
     }
   },
