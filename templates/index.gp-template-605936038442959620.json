@@ -1,0 +1,193 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "gp_global_section_561765491551503340-1": {
+      "type": "gp-global-section-561765491551503340",
+      "settings": {
+        "section_preload": "false",
+        "checksum": "",
+        "ggxSk5qY1XZ_text": "SUBSCRIBE TO OUR EMAIL",
+        "ggdNTX310LO_successMessage": "Thanks for contacting us. We'll get back to you as soon as possible.",
+        "ggdNTX310LO_errorMessage": "Can’t send email. Please try again later.",
+        "ggHZXfm37An_placeholder": "Enter your email",
+        "ggAYov1ZqQ__label": "Subscribe",
+        "ggUoIxYQtxa_text": "<p>BY PROVIDING YOUR EMAIL ADDRESS, YOU AGREE TO OUR PRIVACY POLICY &amp; TERMS &amp; CONDITIONS.</p>",
+        "ggw3UK5YlSk_text": "<p>Customer Care</p>",
+        "gg2FU3d1q7T_label": "<p>New Arrival</p>",
+        "gg1Fvx1BK6w_label": "<p>Accessories</p>",
+        "ggo3b5hiJQ5_label": "<p>Hat Care Guide</p>",
+        "ggdKWunv3kY_label": "<p>Conditions of sale</p>",
+        "ggfiaYibXf__label": "<p>Privacy policy</p>",
+        "ggK0VJZC4T7_label": "<p>Cookie</p>",
+        "ggStjw0ZcKa_label": "<p>Men</p>",
+        "ggv-7zOJClL_label": "<p>Women</p>",
+        "ggEe3ZqX1v2_label": "<p>Best Seller</p>",
+        "ggAfsdKRe_i_text": "<p>Support</p>",
+        "ggaraKa7Jb7_label": "<p>Contact Us</p>",
+        "ggdJfx0EXW4_label": "<p>Shipping</p>",
+        "ggxLpnc0vTU_label": "<p>Return &amp; Exchanges</p>",
+        "ggmMdZr3xBy_label": "<p>Order Status</p>",
+        "ggLKaOYwcL7_label": "<p>FAQ</p>",
+        "gghDoUANZ-9_label": "<p>Size Guide</p>",
+        "ggDeAFq4_5a_label": "<p>Face Shape Guide</p>",
+        "ggSZGMhwJu-_label": "<p>Rewards</p>",
+        "gg2JUDDvxQT_label": "<p>Hat Bar</p>",
+        "ggt1zEhp7kn_text": "<p>Customer Care</p>",
+        "gg-W3_Yn8Dh_label": "<p>About Us</p>",
+        "gg7bRbn3o4h_label": "<p>Contact Us</p>",
+        "ggltiEFo3ji_label": "<p>Shipping</p>",
+        "ggyAVoNY6Vb_label": "<p>Return &amp; Exchanges</p>",
+        "ggdACuRJuqv_label": "<p>Order Status</p>",
+        "ggouQm_9Eld_label": "<p>Gift Cards</p>",
+        "ggfiLsmGZym_text": "<p>LEGAL AREA</p>",
+        "ggaf9t8Xtm9_label": "<p>Privacy policy</p>",
+        "ggx7y35YqdE_label": "<p>Conditions of sale</p>",
+        "gg61uZNV2PA_label": "<p>Cookie</p>",
+        "ggaKY1A-HjK_label": "<p>Terms Of Service</p>",
+        "ggFL3ea2YcY_text": "<p>Shop</p>",
+        "ggkzBP8GMEo_label": "<p>Men</p>",
+        "ggJwWwXoQzL_label": "<p>Women</p>",
+        "ggrjJME19oN_label": "<p>Best Seller</p>",
+        "gg6VMhgOzES_label": "<p>New Arrival</p>",
+        "gg8UZRrbup__label": "<p>Accessories</p>",
+        "gg_PwdCLVGG_text": "<p>Size Guide</p>",
+        "gg9j-SUEIU-_label": "<p>Face Shape Guide</p>",
+        "ggp3--R9xHo_label": "<p>Rewards</p>",
+        "ggzTqm9EWZH_label": "<p>FAQ</p>",
+        "ggP6YloH123_text": "<p>Support</p>",
+        "ggHeQJnGgmZ_label": "<p>Hat Bar</p>",
+        "ggZDbeJHTED_label": "<p>Hat Care Guide</p>"
+      }
+    },
+    "gp_section_605936038627508996": {
+      "type": "gp-section-605936038627508996",
+      "settings": {
+        "checksum": "9aa552508128d4985f65334c428eb220302e02e6708665e926a64f368c3f9588_1_1_1_0__1",
+        "ggP1vnpXKn-_text": "Blogs",
+        "ggaaSZEzXw5_text": "<strong>5 Stylish Fall Hats for&nbsp;</strong><br><strong>Teenage Girls</strong>",
+        "ggkqXwxZrUL_text": "<strong>Can City People Wear&nbsp;</strong><br><strong>Cowboy Hats?</strong>",
+        "ggYGyTff273_text": "<strong>Top Felt Hat Trends for Fall&nbsp;</strong><br><strong>2025 You’ll See...</strong>"
+      }
+    },
+    "gp_section_605936038627574532": {
+      "type": "gp-section-605936038627574532",
+      "settings": {
+        "checksum": "51a571798606305b5721a761064954b4ebf8c2a706db711f0922f71de08600d7_1_1_1_0__1",
+        "gg1BBi8KPHs_text": "Belong to Our <span style=\"color:#242424;\">Passionate</span> Community",
+        "gg0V732247n_text": "<p>25+</p>",
+        "ggwtqw7lZTK_text": "<p>Thousands of views</p>",
+        "ggyc5cLqYZR_text": "<p><strong>2.4k</strong> Followers</p>",
+        "ggEHQIVr82y_text": "<p>50+</p>",
+        "ggbZP158_Af_text": "<p>Thousands of views</p>",
+        "gg029gwt4BC_text": "<p><strong>2.1k</strong> Followers</p>",
+        "ggfDT_cSili_text": "<p>@hoori_ugc</p>",
+        "ggPuPaPTvZ4_text": "<p>@<a href=\"https://www.tiktok.com/@elrancherochacharero911\">elrancherochacharero911</a></p>",
+        "ggfUTrXYo-e_text": "<p>@aysha_huseyn</p>",
+        "ggVX4Z25oN9_text": "<p>@byashleylorraine</p>",
+        "gghqu2oe0PW_text": "<p>@<a href=\"https://www.tiktok.com/@carriekujawinski\">carriekujawinski</a></p>",
+        "ggSRSUPlboJ_text": "<p>@olesia_stavnichuk</p>",
+        "ggofPKvM5gx_text": "<p>@<a href=\"https://www.tiktok.com/@jess.d.neal\">jess.d.neal</a></p>",
+        "ggQPF0utMwI_text": "<p>@connectdasriyanshi</p>",
+        "gg4EtJXeHlY_text": "<p>@herafery.gasimova</p>",
+        "gg3mJGXJbKB_text": "<p>25+</p>",
+        "ggy23Q-hMsf_text": "<p>Thousands of views</p>",
+        "ggblKP0HZ3l_text": "<p><strong>2.4k</strong> Followers</p>",
+        "ggTE-QDKmuc_text": "<p>50+</p>",
+        "ggaK0gXHyNG_text": "<p>Thousands of views</p>",
+        "gglb7QMVDt2_text": "<p><strong>2.1k</strong> Followers</p>",
+        "ggh06pFp_Eb_text": "<p>@<a href=\"https://www.tiktok.com/@djkaraokelucero\">djkaraokelucero</a></p>",
+        "gg80P0TKIwC_text": "<p>@<a href=\"https://www.tiktok.com/@mui_life_style\">mui_life_style</a></p>",
+        "ggNcE0tTWsn_text": "<p>@hoori_ugc</p>",
+        "ggcyMmQ3REi_text": "<p>@<a href=\"https://www.tiktok.com/@elrancherochacharero911\">elrancherochacharero911</a></p>",
+        "ggKRsNTBQQy_text": "<p>@aysha_huseyn</p>",
+        "gg8w476LwG3_text": "<p>@byashleylorraine</p>",
+        "ggFxhZtVStj_text": "<p>@<a href=\"https://www.tiktok.com/@carriekujawinski\">carriekujawinski</a></p>",
+        "ggefNnoBOHl_text": "<p>@olesia_stavnichuk</p>",
+        "ggsquSXjzzT_text": "<p>@<a href=\"https://www.tiktok.com/@jess.d.neal\">jess.d.neal</a></p>",
+        "ggzk6OA6wma_text": "<p>@connectdasriyanshi</p>",
+        "ggzFpCTULO0_text": "<p>@herafery.gasimova</p>",
+        "ggy5wuMvJYE_text": "<p>@paradise_dreams2</p>",
+        "ggv0W0tBf-6_text": "<p>@<a href=\"https://www.tiktok.com/@djkaraokelucero\">djkaraokelucero</a></p>",
+        "gganxEbTBvi_text": "<p>@<a href=\"https://www.tiktok.com/@mui_life_style\">mui_life_style</a></p>"
+      }
+    },
+    "gp_section_605936038627640068": {
+      "type": "gp-section-605936038627640068",
+      "settings": {
+        "section_preload": "true",
+        "checksum": "300e7e72a425050a739b594f24a38f0cabe319a7b0e9068a5761eeba0520d086_1_1_1_0__1",
+        "ggQx7e0-SUW_label": "<p>Shop Now</p>"
+      }
+    },
+    "gp_section_605936038627705604": {
+      "type": "gp-section-605936038627705604",
+      "settings": {
+        "checksum": "a9afd41d8d6fd6bffd63cc53acac37d0a553cb07ad02ba006e90f9f301c3bfe6_1_1_1_0__1",
+        "ggLcNiKzuaw_text": "Blogs",
+        "ggufmH1iZ7U_text": "<p><strong>5 Stylish Fall Hats for Teenage Girls</strong></p>",
+        "ggERRAOulMU_text": "<p><strong>Can City People Wear Cowboy Hats?</strong></p>",
+        "ggx7hMH7FPR_text": "<p><strong>Top Felt Hat Trends for Fall 2025 You’ll&nbsp;</strong></p>"
+      }
+    },
+    "gp_section_605936038627771140": {
+      "type": "gp-section-605936038627771140",
+      "settings": {
+        "checksum": "0dde98f6a52a92aaa7e98c866d0ac9f2eef01ff546c1fb7470915ad00d341c19_1_1_1_0__1",
+        "ggXLCUbIfTG_text": "Featured Collection",
+        "ggjLyFTa6PJ_text": "<p>Discover our latest collection of hats and beanies, featuring fresh and refined tones inspired by the season's renewal. Find the piece that resonates with your individual style and carry a touch of timeless elegance with you.</p>",
+        "ggw30Kr_iJh_label": "<p>Shop Felt Hats</p>",
+        "ggSmOnKtQZO_label": "<p>Shop Winter Hats&nbsp;</p>",
+        "ggR-5PuaUiV_label": "<p>Shop Travel Hats&nbsp;</p>",
+        "gg1-B3kSI1U_label": "<p>Shop Western Hat</p>",
+        "ggvJD5-1MDF_label": "<p>Shop Felt Hats</p>",
+        "ggzmOSHviOI_label": "<p>Shop Winter Hats</p>",
+        "ggU6_82Uauu_label": "<p>Shop Travel Hats</p>",
+        "ggx1we8AT1P_label": "<p>Shop Western Hat</p>"
+      }
+    },
+    "gp_section_605936038627836676": {
+      "type": "gp-section-605936038627836676",
+      "settings": {
+        "checksum": "f57df409f4ea5ac0632cad891064a716ba2dae83c341764ee69f78979e2cc267_1_1_1_0__1",
+        "ggPxStlBmY1_text": "<p>Small-Batch</p><p>Craftsmanship</p>",
+        "ggmql0U5l4e_text": "<p>Small-Batch</p><p>Craftsmanship</p>",
+        "ggkufRZ8tYV_text": "<p>Premium</p><p>Felt &amp; Raffia</p>",
+        "ggrACTx5juw_text": "<p>Premium</p><p>Felt &amp; Raffia</p>",
+        "ggYY1zgW2dH_text": "<p>Fit-Perfect Crown...</p>",
+        "gg7vl-5qhFK_text": "<p>Fit-Perfect Crown</p><p>&amp; Brim Design</p>",
+        "ggKPj8QC8wI_text": "<p>30-Day Free</p><p>Return ...</p>",
+        "ggpVM09pLAC_text": "<p>30-Day Free</p><p>Return + Shape Care</p>"
+      }
+    },
+    "gp_section_605936038627902212": {
+      "type": "gp-section-605936038627902212",
+      "settings": {
+        "checksum": "6c3bcd316a78fd05ead41ecee26af5db2866fb58a54c0a6cb0ca509846d01008_1_1_1_0__1",
+        "ggcK_2yHiiq_text": "<p>After</p>",
+        "ggP18Q8yiQf_text": "Western Craftsmanship for Him",
+        "ggI3T0lwsD8_text": "<p>Skyline 7242 Cowboy Hat</p>",
+        "gg2pxl7aK8A_label": "<p>Shop Men's Collection</p>",
+        "ggDwlQwSRUv_text": "El Amo Black Fur Felt Hat",
+        "ggwA6nMzAR__text": "Range Felt Cowboy Hat"
+      }
+    }
+  },
+  "order": [
+    "gp_section_605936038627640068",
+    "gp_section_605936038627771140",
+    "gp_section_605936038627902212",
+    "gp_section_605936038627836676",
+    "gp_section_605936038627574532",
+    "gp_section_605936038627705604",
+    "gp_section_605936038627508996",
+    "gp_global_section_561765491551503340-1"
+  ]
+}
