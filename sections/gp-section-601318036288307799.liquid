@@ -9,6 +9,8 @@
   font-display: swap;
   src: url(https://fonts.gstatic.com/s/lora/v37/0QI6MX1D_JOuGQbT0gvTJPa787weuyJG.ttf) format('truetype');
 }
+
+
 @font-face {
   font-family: 'Lora';
   font-style: normal;
@@ -17,44 +19,23 @@
   src: url(https://fonts.gstatic.com/s/lora/v37/0QI6MX1D_JOuGQbT0gvTJPa787zAvCJG.ttf) format('truetype');
 }
 @font-face {
-  font-family: 'Lora';
-  font-style: normal;
-  font-weight: 700;
-  font-display: swap;
-  src: url(https://fonts.gstatic.com/s/lora/v37/0QI6MX1D_JOuGQbT0gvTJPa787z5vCJG.ttf) format('truetype');
-}
-
-
-@font-face {
-  font-family: 'Lora';
+  font-family: 'Merriweather';
   font-style: normal;
   font-weight: 400;
+  font-stretch: normal;
   font-display: swap;
-  src: url(https://fonts.gstatic.com/s/lora/v37/0QI6MX1D_JOuGQbT0gvTJPa787weuyJG.ttf) format('truetype');
+  src: url(https://fonts.gstatic.com/s/merriweather/v33/u-4D0qyriQwlOrhSvowK_l5UcA6zuSYEqOzpPe3HOZJ5eX1WtLaQwmYiScCmDxhtNOKl8yDr3icqEw.ttf) format('truetype');
 }
 @font-face {
-  font-family: 'Lora';
-  font-style: normal;
-  font-weight: 600;
-  font-display: swap;
-  src: url(https://fonts.gstatic.com/s/lora/v37/0QI6MX1D_JOuGQbT0gvTJPa787zAvCJG.ttf) format('truetype');
-}
-@font-face {
-  font-family: 'Lora';
+  font-family: 'Merriweather';
   font-style: normal;
   font-weight: 700;
+  font-stretch: normal;
   font-display: swap;
-  src: url(https://fonts.gstatic.com/s/lora/v37/0QI6MX1D_JOuGQbT0gvTJPa787z5vCJG.ttf) format('truetype');
+  src: url(https://fonts.gstatic.com/s/merriweather/v33/u-4D0qyriQwlOrhSvowK_l5UcA6zuSYEqOzpPe3HOZJ5eX1WtLaQwmYiScCmDxhtNOKl8yDrOSAqEw.ttf) format('truetype');
 }
 
 
-@font-face {
-  font-family: 'Assistant';
-  font-style: normal;
-  font-weight: 400;
-  font-display: swap;
-  src: url(https://fonts.gstatic.com/s/assistant/v24/2sDPZGJYnIjSi6H75xkZZE1I0yCmYzzQtuZnEGE.ttf) format('truetype');
-}
 @font-face {
   font-family: 'Inter';
   font-style: normal;
@@ -62,14 +43,42 @@
   font-display: swap;
   src: url(https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuLyfMZg.ttf) format('truetype');
 }
-
-
 @font-face {
   font-family: 'Inter';
   font-style: normal;
   font-weight: 700;
   font-display: swap;
   src: url(https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuFuYMZg.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLEj6V1s.ttf) format('truetype');
+}
+
+
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuLyfMZg.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuFuYMZg.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLEj6V1s.ttf) format('truetype');
 }
 </style>
   
@@ -98,43 +107,17 @@
       {%- assign gpBkProduct = product -%}
       
       {%- liquid
-        if request.page_type == 'product'
-          if 'static' == 'static'
-            if '8574381392030' == 'latest'
-              paginate collections.all.products by 100000
-                assign product = collections.all.products | sort: 'created_at' | reverse | first
-              endpaginate
-            else
-              assign product = all_products['luna-classic-wool-wide-brim-fedora']
-              assign productId = '8574381392030' | times: 1
-              if product == empty or product == null
-                paginate collections.all.products by 100000
-                  for item in collections.all.products
-                    if item.id == productId
-                      assign product = item
-                    endif
-                  endfor
-                endpaginate
-              endif
-            endif
-          endif
-        else
-          if '8574381392030' == 'latest'
+        if request.page_type != 'product'
+          assign product = all_products['wyatt-mens-classic-western-hat-brown']
+          assign productId = '8580984078494' | times: 1
+          if product == empty or product == null
             paginate collections.all.products by 100000
-              assign product = collections.all.products | sort: 'created_at'| reverse | first
+              for item in collections.all.products
+                if item.id == productId
+                  assign product = item
+                endif
+              endfor
             endpaginate
-          else
-            assign product = all_products['luna-classic-wool-wide-brim-fedora']
-            assign productId = '8574381392030' | times: 1
-            if product == empty or product == null
-              paginate collections.all.products by 100000
-                for item in collections.all.products
-                  if item.id == productId
-                    assign product = item
-                  endif
-                endfor
-              endpaginate
-            endif
           endif
         endif
       -%}
@@ -158,7 +141,7 @@
         data-id="gnnfXHeQLt"
         
         
-        gp-context='{"productId": {{ product.id }}, "preSelectedOptionIds": [], "isSyncProduct": "", "hasPreSelected": true, "variantSelected": {{ variant | json | escape }},  "inventory_management": {{ variant.inventory_management | json | escape  }}, "inventory_policy": {{ variant.inventory_policy | json | escape }}, "inventoryQuantity": {{ variant.inventory_quantity }}, "quantity": 1, "formId": "{{ product_form_id }}" }'
+        gp-context='{"productId": {{ product.id }}, "preSelectedOptionIds": [], "isSyncProduct": "", "hasPreSelected": false, "variantSelected": {{ variant | json | escape }},  "inventory_management": {{ variant.inventory_management | json | escape  }}, "inventory_policy": {{ variant.inventory_policy | json | escape }}, "inventoryQuantity": {{ variant.inventory_quantity }}, "quantity": 1, "formId": "{{ product_form_id }}" }'
         gp-data='{"variantSelected": {{ variant | json | escape }}, "quantity": 1, "productUrl":{{ product.url | json | escape }}, "productHandle":{{ product.handle | json | escape }}, "collectionUrl": {{ collection.url | json | escape }}, "collectionHandle": {{ collection.handle | json | escape }}}'
       >
         <product-form class="product-form">
