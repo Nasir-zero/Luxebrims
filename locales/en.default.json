@@ -466,7 +466,7 @@
       "update": "Update",
       "login": {
         "title": "Have an account?",
-        "paragraph_html": "Log in to check out faster."
+       "paragraph_html": "<a href=\"{{ link }}\" class=\"link underlined-link\">Log in</a> to check out faster."
       }
     },
     "footer": {
