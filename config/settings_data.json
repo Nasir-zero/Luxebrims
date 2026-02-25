@@ -717,15 +717,6 @@
           "greeting_message": ""
         }
       },
-      "10757484608650040377": {
-        "type": "shopify://apps/surecircle/blocks/app-embed-block/019b2b05-0150-7638-9440-9cf2013b18da",
-        "disabled": false,
-        "settings": {
-          "target_class": ".your-class",
-          "target_btn_class": ".class",
-          "target_btn_position": "up"
-        }
-      },
       "3b75a401-13c5-4050-b5d0-2374bf8f3cfe": {
         "type": "shopify://apps/boost-ai-search-filter/blocks/boost-sd-ssr/7fc998ae-a150-4367-bab8-505d8a4503f7",
         "disabled": false,
@@ -738,6 +729,15 @@
         "type": "shopify://apps/boost-ai-search-filter/blocks/instant-search-app-embedded/7fc998ae-a150-4367-bab8-505d8a4503f7",
         "disabled": false,
         "settings": {}
+      },
+      "10757484608650040377": {
+        "type": "shopify://apps/surecircle/blocks/app-embed-block/019b2b05-0150-7638-9440-9cf2013b18da",
+        "disabled": false,
+        "settings": {
+          "target_class": ".cart-drawer .cart__ctas",
+          "target_btn_class": ".class",
+          "target_btn_position": "up"
+        }
       }
     }
   },
