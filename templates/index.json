@@ -9,12 +9,62 @@
  */
 {
   "sections": {
-    "gp_section_594337781904704423": {
-      "type": "gp-section-594337781904704423",
+    "gp_global_section_561765491551503340-1": {
+      "type": "gp-global-section-561765491551503340",
       "settings": {
-        "section_preload": "true",
-        "checksum": "1fe29d7a53ed00a25ea9fd57b5775e5db8b71739ceb5eb62d6d344ea032e4d4a_1_1_1_0__1",
-        "ggQx7e0-SUW_label": "<p>Shop Now</p>"
+        "section_preload": "false",
+        "checksum": "",
+        "ggxSk5qY1XZ_text": "SUBSCRIBE TO OUR EMAIL",
+        "ggdNTX310LO_successMessage": "Thanks for contacting us. We'll get back to you as soon as possible.",
+        "ggdNTX310LO_errorMessage": "Can’t send email. Please try again later.",
+        "ggHZXfm37An_placeholder": "Enter your email",
+        "ggAYov1ZqQ__label": "Subscribe",
+        "ggUoIxYQtxa_text": "BY PROVIDING YOUR EMAIL ADDRESS, YOU AGREE TO OUR PRIVACY POLICY &amp; TERMS &amp; CONDITIONS.",
+        "ggw3UK5YlSk_text": "Customer Care",
+        "gg2FU3d1q7T_label": "New Arrival",
+        "gg1Fvx1BK6w_label": "Accessories",
+        "ggo3b5hiJQ5_label": "Hat Care Guide",
+        "ggdKWunv3kY_label": "Conditions of sale",
+        "ggfiaYibXf__label": "Privacy policy",
+        "ggK0VJZC4T7_label": "Cookie",
+        "ggStjw0ZcKa_label": "Men",
+        "ggv-7zOJClL_label": "Women",
+        "ggEe3ZqX1v2_label": "Best Seller",
+        "ggAfsdKRe_i_text": "Support",
+        "ggaraKa7Jb7_label": "Contact Us",
+        "ggdJfx0EXW4_label": "Shipping",
+        "ggxLpnc0vTU_label": "Return &amp; Exchanges",
+        "ggmMdZr3xBy_label": "Order Status",
+        "ggLKaOYwcL7_label": "FAQ",
+        "gghDoUANZ-9_label": "Size Guide",
+        "ggDeAFq4_5a_label": "Face Shape Guide",
+        "ggSZGMhwJu-_label": "Rewards",
+        "gg2JUDDvxQT_label": "Hat Bar",
+        "ggt1zEhp7kn_text": "Customer Care",
+        "gg-W3_Yn8Dh_label": "About Us",
+        "gg7bRbn3o4h_label": "Contact Us",
+        "ggltiEFo3ji_label": "Shipping",
+        "ggyAVoNY6Vb_label": "Return &amp; Exchanges",
+        "ggdACuRJuqv_label": "Order Status",
+        "ggouQm_9Eld_label": "Gift Cards",
+        "ggfiLsmGZym_text": "LEGAL AREA",
+        "ggaf9t8Xtm9_label": "Privacy policy",
+        "ggx7y35YqdE_label": "Conditions of sale",
+        "gg61uZNV2PA_label": "Cookie",
+        "ggaKY1A-HjK_label": "Terms Of Service",
+        "ggFL3ea2YcY_text": "Shop",
+        "ggkzBP8GMEo_label": "Men",
+        "ggJwWwXoQzL_label": "Women",
+        "ggrjJME19oN_label": "Best Seller",
+        "gg6VMhgOzES_label": "New Arrival",
+        "gg8UZRrbup__label": "Accessories",
+        "gg_PwdCLVGG_text": "Size Guide",
+        "gg9j-SUEIU-_label": "Face Shape Guide",
+        "ggp3--R9xHo_label": "Rewards",
+        "ggzTqm9EWZH_label": "FAQ",
+        "ggP6YloH123_text": "Support",
+        "ggHeQJnGgmZ_label": "Hat Bar",
+        "ggZDbeJHTED_label": "Hat Care Guide"
       }
     },
     "gp_section_594337781904311207": {
@@ -34,6 +84,28 @@
         "ggx1we8AT1P_label": "<p>Shop Western Hat</p>"
       }
     },
+    "gp_section_594337781904704423": {
+      "type": "gp-section-594337781904704423",
+      "settings": {
+        "section_preload": "true",
+        "checksum": "1fe29d7a53ed00a25ea9fd57b5775e5db8b71739ceb5eb62d6d344ea032e4d4a_1_1_1_0__1",
+        "ggQx7e0-SUW_label": "<p>Shop Now</p>"
+      }
+    },
+    "gp_section_595952142200603409": {
+      "type": "gp-section-595952142200603409",
+      "settings": {
+        "checksum": "6c4bca454599f824218e55c3d658168f98a6741240aa58a3750fd8bfeb5945a6_1_1_1_0__1",
+        "ggPxStlBmY1_text": "<p>Small-Batch</p><p>Craftsmanship</p>",
+        "ggmql0U5l4e_text": "<p>Small-Batch</p><p>Craftsmanship</p>",
+        "ggkufRZ8tYV_text": "<p>Premium</p><p>Felt &amp; Raffia</p>",
+        "ggrACTx5juw_text": "<p>Premium</p><p>Felt &amp; Raffia</p>",
+        "ggYY1zgW2dH_text": "<p>Fit-Perfect Crown...</p>",
+        "gg7vl-5qhFK_text": "<p>Fit-Perfect Crown</p><p>&amp; Brim Design</p>",
+        "ggKPj8QC8wI_text": "<p>30-Day Free</p><p>Return ...</p>",
+        "ggpVM09pLAC_text": "<p>30-Day Free</p><p>Return + Shape Care</p>"
+      }
+    },
     "gp_section_596210905373475820": {
       "type": "gp-section-596210905373475820",
       "settings": {
@@ -47,25 +119,29 @@
         "ggwA6nMzAR__text": "Range Felt Cowboy Hat"
       }
     },
-    "gp_section_595952142200603409": {
-      "type": "gp-section-595952142200603409",
+    "gp_section_596823460722770924": {
+      "type": "gp-section-596823460722770924",
       "settings": {
-        "section_preload": "false",
-        "checksum": "6c4bca454599f824218e55c3d658168f98a6741240aa58a3750fd8bfeb5945a6_1_1_1_0__1",
-        "ggPxStlBmY1_text": "<p>Small-Batch</p><p>Craftsmanship</p>",
-        "ggmql0U5l4e_text": "<p>Small-Batch</p><p>Craftsmanship</p>",
-        "ggkufRZ8tYV_text": "<p>Premium</p><p>Felt &amp; Raffia</p>",
-        "ggrACTx5juw_text": "<p>Premium</p><p>Felt &amp; Raffia</p>",
-        "ggYY1zgW2dH_text": "<p>Fit-Perfect Crown...</p>",
-        "gg7vl-5qhFK_text": "<p>Fit-Perfect Crown</p><p>&amp; Brim Design</p>",
-        "ggKPj8QC8wI_text": "<p>30-Day Free</p><p>Return ...</p>",
-        "ggpVM09pLAC_text": "<p>30-Day Free</p><p>Return + Shape Care</p>"
+        "checksum": "74da122db4750b4f84544b17d6551f199682e3481ff69dfa5ccce1b0ec56b733_1_1_1_0__1",
+        "ggLcNiKzuaw_text": "Blogs",
+        "ggufmH1iZ7U_text": "<p><strong>5 Stylish Fall Hats for Teenage Girls</strong></p>",
+        "ggERRAOulMU_text": "<p><strong>Can City People Wear Cowboy Hats?</strong></p>",
+        "ggx7hMH7FPR_text": "<p><strong>Top Felt Hat Trends for Fall 2025 You’ll </strong></p>"
+      }
+    },
+    "gp_section_597113695687934860": {
+      "type": "gp-section-597113695687934860",
+      "settings": {
+        "checksum": "ef0446503a6cd0b125c44c15d024883e6dc708a3b036f691f0c52264269857f4_1_1_1_0__1",
+        "ggP1vnpXKn-_text": "Blogs",
+        "ggaaSZEzXw5_text": "<strong>5 Stylish Fall Hats for&nbsp;</strong><br><strong>Teenage Girls</strong>",
+        "ggkqXwxZrUL_text": "<strong>Can City People Wear&nbsp;</strong><br><strong>Cowboy Hats?</strong>",
+        "ggYGyTff273_text": "<strong>Top Felt Hat Trends for Fall&nbsp;</strong><br><strong>2025 You’ll See...</strong>"
       }
     },
     "gp_section_604959723036345313": {
       "type": "gp-section-604959723036345313",
       "settings": {
-        "section_preload": "false",
         "checksum": "ca7cbee8ad5d35438759c07f74b61198ef3059757f67815675b67b491954a761_1_1_1_0__1",
         "gg1BBi8KPHs_text": "Belong to Our <span style=\"color:#242424;\">Passionate</span> Community",
         "gg0V732247n_text": "<p>25+</p>",
@@ -104,111 +180,10 @@
         "ggv0W0tBf-6_text": "<p>@<a href=\"https://www.tiktok.com/@djkaraokelucero\">djkaraokelucero</a></p>",
         "gganxEbTBvi_text": "<p>@<a href=\"https://www.tiktok.com/@mui_life_style\">mui_life_style</a></p>"
       }
-    },
-    "gp_section_596823460722770924": {
-      "type": "gp-section-596823460722770924",
-      "settings": {
-        "section_preload": "false",
-        "checksum": "74da122db4750b4f84544b17d6551f199682e3481ff69dfa5ccce1b0ec56b733_1_1_1_0__1",
-        "ggLcNiKzuaw_text": "Blogs",
-        "ggufmH1iZ7U_text": "<p><strong>5 Stylish Fall Hats for Teenage Girls</strong></p>",
-        "ggERRAOulMU_text": "<p><strong>Can City People Wear Cowboy Hats?</strong></p>",
-        "ggx7hMH7FPR_text": "<p><strong>Top Felt Hat Trends for Fall 2025 You’ll </strong></p>"
-      }
-    },
-    "gp_section_597113695687934860": {
-      "type": "gp-section-597113695687934860",
-      "settings": {
-        "section_preload": "false",
-        "checksum": "1c76527a25ed6a81f9d5c2339df8d54a4e7cc4da813250870e945e13218a5c2d_1_1_1_0__1",
-        "ggP1vnpXKn-_text": "Blogs",
-        "ggaaSZEzXw5_text": "<strong>5 Stylish Fall Hats for </strong><br><strong>Teenage Girls</strong>",
-        "ggkqXwxZrUL_text": "<strong>Can City People Wear </strong><br><strong>Cowboy Hats?</strong>",
-        "ggYGyTff273_text": "<strong>Top Felt Hat Trends for Fall </strong><br><strong>2025 You’ll See...</strong>"
-      }
-    },
-    "gp_global_section_561765491551503340-1": {
-      "type": "gp-global-section-561765491551503340",
-      "settings": {
-        "section_preload": "false",
-        "checksum": "",
-        "ggxSk5qY1XZ_text": "SUBSCRIBE TO OUR EMAIL",
-        "ggdNTX310LO_successMessage": "Thanks for contacting us. We'll get back to you as soon as possible.",
-        "ggdNTX310LO_errorMessage": "Can’t send email. Please try again later.",
-        "ggHZXfm37An_placeholder": "Enter your email",
-        "ggAYov1ZqQ__label": "Subscribe",
-        "ggUoIxYQtxa_text": "<p>BY PROVIDING YOUR EMAIL ADDRESS, YOU AGREE TO OUR PRIVACY POLICY &amp; TERMS &amp; CONDITIONS.</p>",
-        "ggw3UK5YlSk_text": "<p>Customer Care</p>",
-        "gg2FU3d1q7T_label": "<p>New Arrival</p>",
-        "gg1Fvx1BK6w_label": "<p>Accessories</p>",
-        "ggo3b5hiJQ5_label": "<p>Hat Care Guide</p>",
-        "ggdKWunv3kY_label": "<p>Conditions of sale</p>",
-        "ggfiaYibXf__label": "<p>Privacy policy</p>",
-        "ggK0VJZC4T7_label": "<p>Cookie</p>",
-        "ggStjw0ZcKa_label": "<p>Men</p>",
-        "ggv-7zOJClL_label": "<p>Women</p>",
-        "ggEe3ZqX1v2_label": "<p>Best Seller</p>",
-        "ggAfsdKRe_i_text": "<p>Support</p>",
-        "ggaraKa7Jb7_label": "<p>Contact Us</p>",
-        "ggdJfx0EXW4_label": "<p>Shipping</p>",
-        "ggxLpnc0vTU_label": "<p>Return &amp; Exchanges</p>",
-        "ggmMdZr3xBy_label": "<p>Order Status</p>",
-        "ggLKaOYwcL7_label": "<p>FAQ</p>",
-        "gghDoUANZ-9_label": "<p>Size Guide</p>",
-        "ggDeAFq4_5a_label": "<p>Face Shape Guide</p>",
-        "ggSZGMhwJu-_label": "<p>Rewards</p>",
-        "gg2JUDDvxQT_label": "<p>Hat Bar</p>",
-        "ggt1zEhp7kn_text": "<p>Customer Care</p>",
-        "gg-W3_Yn8Dh_label": "<p>About Us</p>",
-        "gg7bRbn3o4h_label": "<p>Contact Us</p>",
-        "ggltiEFo3ji_label": "<p>Shipping</p>",
-        "ggyAVoNY6Vb_label": "<p>Return &amp; Exchanges</p>",
-        "ggdACuRJuqv_label": "<p>Order Status</p>",
-        "ggouQm_9Eld_label": "<p>Gift Cards</p>",
-        "ggfiLsmGZym_text": "<p>LEGAL AREA</p>",
-        "ggaf9t8Xtm9_label": "<p>Privacy policy</p>",
-        "ggx7y35YqdE_label": "<p>Conditions of sale</p>",
-        "gg61uZNV2PA_label": "<p>Cookie</p>",
-        "ggaKY1A-HjK_label": "<p>Terms Of Service</p>",
-        "ggFL3ea2YcY_text": "<p>Shop</p>",
-        "ggkzBP8GMEo_label": "<p>Men</p>",
-        "ggJwWwXoQzL_label": "<p>Women</p>",
-        "ggrjJME19oN_label": "<p>Best Seller</p>",
-        "gg6VMhgOzES_label": "<p>New Arrival</p>",
-        "gg8UZRrbup__label": "<p>Accessories</p>",
-        "gg_PwdCLVGG_text": "<p>Size Guide</p>",
-        "gg9j-SUEIU-_label": "<p>Face Shape Guide</p>",
-        "ggp3--R9xHo_label": "<p>Rewards</p>",
-        "ggzTqm9EWZH_label": "<p>FAQ</p>",
-        "ggP6YloH123_text": "<p>Support</p>",
-        "ggHeQJnGgmZ_label": "<p>Hat Bar</p>",
-        "ggZDbeJHTED_label": "<p>Hat Care Guide</p>"
-      }
-    },
-    "1770633744cdd6790c": {
-      "type": "apps",
-      "blocks": {
-        "boost_ai_search_filter_recommendation_ssr_TygB4D": {
-          "type": "shopify://apps/boost-ai-search-filter/blocks/recommendation-ssr/7fc998ae-a150-4367-bab8-505d8a4503f7",
-          "settings": {
-            "widgetId": "homepage-783263",
-            "additional_classes": "",
-            "custom_css": ""
-          }
-        }
-      },
-      "block_order": [
-        "boost_ai_search_filter_recommendation_ssr_TygB4D"
-      ],
-      "settings": {
-        "display_id": false,
-        "include_margins": true
-      }
     }
   },
   "order": [
     "gp_section_594337781904704423",
-    "1770633744cdd6790c",
     "gp_section_594337781904311207",
     "gp_section_596210905373475820",
     "gp_section_595952142200603409",
