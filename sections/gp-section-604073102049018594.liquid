@@ -19,35 +19,30 @@
 
 
 @font-face {
-  font-family: 'Inter';
-  font-style: normal;
-  font-weight: 300;
-  font-display: swap;
-  src: url(https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuOKfMZg.ttf) format('truetype');
-}
-@font-face {
-  font-family: 'Inter';
+  font-family: 'Archivo';
   font-style: normal;
   font-weight: 400;
+  font-stretch: normal;
   font-display: swap;
-  src: url(https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuLyfMZg.ttf) format('truetype');
+  src: url(https://fonts.gstatic.com/s/archivo/v25/k3k6o8UDI-1M0wlSV9XAw6lQkqWY8Q82sJaRE-NWIDdgffTTNDNp8A.ttf) format('truetype');
 }
 @font-face {
-  font-family: 'Inter';
+  font-family: 'Archivo';
   font-style: normal;
   font-weight: 700;
+  font-stretch: normal;
   font-display: swap;
-  src: url(https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuFuYMZg.ttf) format('truetype');
+  src: url(https://fonts.gstatic.com/s/archivo/v25/k3k6o8UDI-1M0wlSV9XAw6lQkqWY8Q82sJaRE-NWIDdgffTT0zRp8A.ttf) format('truetype');
 }
-
-
 @font-face {
-  font-family: 'Inter';
+  font-family: 'Lora';
   font-style: normal;
-  font-weight: 300;
+  font-weight: 600;
   font-display: swap;
-  src: url(https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuOKfMZg.ttf) format('truetype');
+  src: url(https://fonts.gstatic.com/s/lora/v37/0QI6MX1D_JOuGQbT0gvTJPa787zAvCJG.ttf) format('truetype');
 }
+
+
 @font-face {
   font-family: 'Inter';
   font-style: normal;
@@ -55,6 +50,15 @@
   font-display: swap;
   src: url(https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuLyfMZg.ttf) format('truetype');
 }
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 900;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuBWYMZg.ttf) format('truetype');
+}
+
+
 @font-face {
   font-family: 'Inter';
   font-style: normal;
@@ -149,7 +153,7 @@
         data-id="gnnfXHeQLt"
         
         
-        gp-context='{"productId": {{ product.id }}, "preSelectedOptionIds": [], "isSyncProduct": "", "hasPreSelected": true, "variantSelected": {{ variant | json | escape }},  "inventory_management": {{ variant.inventory_management | json | escape  }}, "inventory_policy": {{ variant.inventory_policy | json | escape }}, "inventoryQuantity": {{ variant.inventory_quantity }}, "quantity": 1, "formId": "{{ product_form_id }}" }'
+        gp-context='{"productId": {{ product.id }}, "preSelectedOptionIds": [], "isSyncProduct": "", "hasPreSelected": true, "variantSelected": {{ variant | json | escape }},  "inventory_management": {{ variant.inventory_management | json | escape  }}, "inventory_policy": {{ variant.inventory_policy | json | escape }}, "inventoryQuantity": {{ variant.inventory_quantity | default: 0 }}, "quantity": 1, "formId": "{{ product_form_id }}" }'
         gp-data='{"variantSelected": {{ variant | json | escape }}, "quantity": 1, "productUrl":{{ product.url | json | escape }}, "productHandle":{{ product.handle | json | escape }}, "collectionUrl": {{ collection.url | json | escape }}, "collectionHandle": {{ collection.handle | json | escape }}}'
       >
         <product-form class="product-form">
@@ -943,7 +947,7 @@
     </gp-product-images>
     <script {% if section.settings.section_preload == "false" %}class="gps-link" delay {% else %}src{% endif %}="https://assets.gemcommerce.com/assets-v2/gp-product-images-v7-5.js?v={{ shop.metafields.GEMPAGES.ASSETS_VERSION }}" defer="defer"></script>
   
-    </div>{% render 'gp-section-604073102049018594-3', product: product, variant: variant, product_form_id: product_form_id, productSelectedVariant: productSelectedVariant, form: form  %}
+    </div>{% render 'gp-section-604073102049018594-2', product: product, variant: variant, product_form_id: product_form_id, productSelectedVariant: productSelectedVariant, form: form  %}
 
       
     </gp-row>
@@ -973,7 +977,7 @@
     "name": "Section 1",
     "tag": "section",
     "class": "gps-604073102049018594 gps gpsil",
-    "settings": [{"type":"paragraph","content":"Section design by GemPages. [Click here to start design](https://admin.shopify.com/store/ipwhmw-sc/apps/gempages-cro/app/shopify/edit?pageType=GP_PRODUCT&editorId=604073101881246434&sectionId=604073102049018594)"},{"type":"select","label":"Section Preload","id":"section_preload","options":[{"label":"On","value":"true"},{"label":"Off","value":"false"},{"label":"Off Lazy Script","value":"off_lazy_script"}],"default":"false"},{"type":"text","label":"Checksum","id":"checksum"},{"type":"html","id":"ggxe35HLyxt_text","label":"ggxe35HLyxt_text","default":"<p><span style=\"font-size:16px;\">Over $100</span><br><span style=\"font-size:16px;\">Code: <strong>newyear$10</strong></span></p>"},{"type":"html","id":"gghQPf78ptW_defaultLabel","label":"gghQPf78ptW_defaultLabel","default":"Copy"},{"type":"html","id":"ggKfDbOCncB_text","label":"ggKfDbOCncB_text","default":"<p><span style=\"font-size:16px;\">Over $200</span><br><span style=\"font-size:16px;\">Code: <strong>newyear$25</strong></span></p>"},{"type":"html","id":"ggmch5BN0sT_defaultLabel","label":"ggmch5BN0sT_defaultLabel","default":"Copy"},{"type":"html","id":"gg7axHH65tC_text","label":"gg7axHH65tC_text","default":"<p><span style=\"font-size:16px;\">Over $300</span><br><span style=\"font-size:16px;\">Code: <strong>newyear$50</strong></span></p>"},{"type":"html","id":"ggAsqWGvPKQ_defaultLabel","label":"ggAsqWGvPKQ_defaultLabel","default":"Copy"},{"type":"html","id":"ggawHtnzRwJ_text","label":"ggawHtnzRwJ_text","default":"Quantity"},{"type":"html","id":"gg7qHYAo8z3_text","label":"gg7qHYAo8z3_text","default":"<p><u>Size Guide</u></p>"},{"type":"html","id":"ggrD9BPIqRF_label","label":"ggrD9BPIqRF_label","default":"Add To cart"},{"type":"html","id":"ggrD9BPIqRF_outOfStockLabel","label":"ggrD9BPIqRF_outOfStockLabel","default":"Out of stock"},{"type":"html","id":"ggrD9BPIqRF_unavailableLabel","label":"ggrD9BPIqRF_unavailableLabel","default":"Unavailable"},{"type":"html","id":"ggkwA76V4k9_label","label":"ggkwA76V4k9_label","default":"Buy Now"},{"type":"html","id":"ggkwA76V4k9_outOfStockLabel","label":"ggkwA76V4k9_outOfStockLabel","default":"Out of stock"},{"type":"html","id":"ggkwA76V4k9_unavailableLabel","label":"ggkwA76V4k9_unavailableLabel","default":"Unavailable"},{"type":"html","id":"ggL85oxCgCt_childItem_0","label":"ggL85oxCgCt_childItem_0","default":"<p>Discription</p>"},{"type":"html","id":"ggL85oxCgCt_childItem_1","label":"ggL85oxCgCt_childItem_1","default":"<p>Size+fit</p>"},{"type":"html","id":"ggL85oxCgCt_childItem_2","label":"ggL85oxCgCt_childItem_2","default":"<p>Free Shipping</p>"},{"type":"html","id":"ggWccoCWPlH_viewMoreText","label":"ggWccoCWPlH_viewMoreText","default":"Show more"},{"type":"html","id":"ggWccoCWPlH_viewLessText","label":"ggWccoCWPlH_viewLessText","default":"Show less"},{"type":"html","id":"ggagGj567_n_text","label":"ggagGj567_n_text","default":"<p>At <span style=\"color:#3B3B3B;\">Lbora</span>, our hats are crafted with precision to ensure a tailored and flattering fit.</p><p>&nbsp;</p><p><strong>True to Size:</strong><br>Each style is designed to fit true to size, following standard international headwear measurements. Simply select your usual hat size for the most comfortable fit.</p><p>&nbsp;</p><p><strong>Between Sizes:</strong><br>If you find yourself between sizes, we recommend using one of our premium hat fillers. Designed for subtle comfort, they provide a secure fit without compromising the hat’s shape or style.</p><p>&nbsp;</p><p><strong>Need Assistance</strong>:<br>Not sure of your size? Visit our <a href=\"https://luxebrims.com/pages/hat-size-guide\"><u>Hat Size Guide</u></a> or reach out to our support team — we're here to help you find your perfect fit.</p>"},{"type":"html","id":"ggRa1qdeaB__text","label":"ggRa1qdeaB__text","default":"<p><span style=\"color:#3B3B3B;\">Lbora delivers to customers around the world — with free shipping and estimated delivery in 20-25 business days.</span><br><span style=\"color:#3B3B3B;\">Note: Delivery times may vary slightly depending on your location.</span></p>"},{"type":"html","id":"ggODL_QU1nu_childItem_0","label":"ggODL_QU1nu_childItem_0","default":"<p>Security and Service</p>"},{"type":"html","id":"ggoBqigMSJW_text","label":"ggoBqigMSJW_text","default":"<p>Payment Security</p>"},{"type":"html","id":"ggA-bjY31sD_text","label":"ggA-bjY31sD_text","default":"<p>Your payment security matters to us. Lbora partners exclusively with certified payment service providers who are committed to protecting and maintaining the confidentiality of your payment information.</p>"},{"type":"html","id":"ggSjQVgOFCb_text","label":"ggSjQVgOFCb_text","default":"<p>Privacy Protection &nbsp;</p>"},{"type":"html","id":"ggGHGvQgckX_text","label":"ggGHGvQgckX_text","default":"<p>At Lbora, we protect your privacy with industry-standard encryption. Your shipping address, payment information, and purchase details are secured throughout your entire shopping experience. Shop with confidence.</p>"},{"type":"html","id":"ggUWHchKLTN_text","label":"ggUWHchKLTN_text","default":"<p>Efficient and Safe Logitics</p>"},{"type":"html","id":"ggdwBSWcPdo_text","label":"ggdwBSWcPdo_text","default":"<p>At Lbora, we deliver with security and efficiency. Track your order in real-time, and protect your purchase with our optional Shipping Protection—covering delays, damage, or loss during transit.<a href=\"https://www.shipsurance.com/surecircle/terms\" target=\"_blank\"><span style=\"color:#3393CC;\"><strong><u>learn more</u></strong></span></a></p>"},{"type":"html","id":"gg1elQw0vld_text","label":"gg1elQw0vld_text","default":"<p>Customer Service</p>"},{"type":"html","id":"ggrjBheTtwl_text","label":"ggrjBheTtwl_text","default":"<p>We're here to help. If you encounter any problems during or after shopping, Lbora's customer service team is ready to assist you.</p>"},{"type":"html","id":"gg-Vwvq42Vj_text","label":"gg-Vwvq42Vj_text","default":"Payment Security"},{"type":"html","id":"ggk9tSva9R-_text","label":"ggk9tSva9R-_text","default":"Privacy Protection"},{"type":"html","id":"gg0062YpiqU_text","label":"gg0062YpiqU_text","default":"Efficient and Safe Logitics"},{"type":"html","id":"ggTTJpRkYts_text","label":"ggTTJpRkYts_text","default":"Customer Service"}],
+    "settings": [{"type":"paragraph","content":"Section design by GemPages. [Click here to start design](https://admin.shopify.com/store/ipwhmw-sc/apps/gempages-cro/app/shopify/edit?pageType=GP_PRODUCT&editorId=604073101881246434&sectionId=604073102049018594)"},{"type":"select","label":"Section Preload","id":"section_preload","options":[{"label":"On","value":"true"},{"label":"Off","value":"false"},{"label":"Off Lazy Script","value":"off_lazy_script"}],"default":"false"},{"type":"text","label":"Checksum","id":"checksum"},{"type":"html","id":"ggvKXZpMZy3_text","label":"ggvKXZpMZy3_text","default":"<p><span style=\"font-size:16px;\">Over $10&nbsp;</span></p><p><span style=\"font-size:16px;\">Code: <strong>$10Off-LBORA</strong></span></p>"},{"type":"html","id":"ggqX6qCsXfD_defaultLabel","label":"ggqX6qCsXfD_defaultLabel","default":"Copy"},{"type":"html","id":"ggawHtnzRwJ_text","label":"ggawHtnzRwJ_text","default":"Quantity"},{"type":"html","id":"gg7qHYAo8z3_text","label":"gg7qHYAo8z3_text","default":"<p><u>Size Guide</u></p>"},{"type":"html","id":"ggrD9BPIqRF_label","label":"ggrD9BPIqRF_label","default":"Add To cart"},{"type":"html","id":"ggrD9BPIqRF_outOfStockLabel","label":"ggrD9BPIqRF_outOfStockLabel","default":"Out of stock"},{"type":"html","id":"ggrD9BPIqRF_unavailableLabel","label":"ggrD9BPIqRF_unavailableLabel","default":"Unavailable"},{"type":"html","id":"ggkwA76V4k9_label","label":"ggkwA76V4k9_label","default":"Buy Now"},{"type":"html","id":"ggkwA76V4k9_outOfStockLabel","label":"ggkwA76V4k9_outOfStockLabel","default":"Out of stock"},{"type":"html","id":"ggkwA76V4k9_unavailableLabel","label":"ggkwA76V4k9_unavailableLabel","default":"Unavailable"},{"type":"html","id":"ggL85oxCgCt_childItem_0","label":"ggL85oxCgCt_childItem_0","default":"<p>Discription</p>"},{"type":"html","id":"ggL85oxCgCt_childItem_1","label":"ggL85oxCgCt_childItem_1","default":"<p>Size+fit</p>"},{"type":"html","id":"ggL85oxCgCt_childItem_2","label":"ggL85oxCgCt_childItem_2","default":"<p>Free Shipping</p>"},{"type":"html","id":"ggWccoCWPlH_viewMoreText","label":"ggWccoCWPlH_viewMoreText","default":"Show more"},{"type":"html","id":"ggWccoCWPlH_viewLessText","label":"ggWccoCWPlH_viewLessText","default":"Show less"},{"type":"html","id":"ggagGj567_n_text","label":"ggagGj567_n_text","default":"<p>At <span style=\"color:#3B3B3B;\">Lbora</span>, our hats are crafted with precision to ensure a tailored and flattering fit.</p><p>&nbsp;</p><p><strong>True to Size:</strong><br>Each style is designed to fit true to size, following standard international headwear measurements. Simply select your usual hat size for the most comfortable fit.</p><p>&nbsp;</p><p><strong>Between Sizes:</strong><br>If you find yourself between sizes, we recommend using one of our premium hat fillers. Designed for subtle comfort, they provide a secure fit without compromising the hat’s shape or style.</p><p>&nbsp;</p><p><strong>Need Assistance</strong>:<br>Not sure of your size? Visit our <a href=\"https://luxebrims.com/pages/hat-size-guide\"><u>Hat Size Guide</u></a> or reach out to our support team — we're here to help you find your perfect fit.</p>"},{"type":"html","id":"ggRa1qdeaB__text","label":"ggRa1qdeaB__text","default":"<p><span style=\"color:#3B3B3B;\">Lbora delivers to customers around the world — with free shipping and estimated delivery in 20-25 business days.</span><br><span style=\"color:#3B3B3B;\">Note: Delivery times may vary slightly depending on your location.</span></p>"},{"type":"html","id":"ggODL_QU1nu_childItem_0","label":"ggODL_QU1nu_childItem_0","default":"<p>Security and Service</p>"},{"type":"html","id":"ggoBqigMSJW_text","label":"ggoBqigMSJW_text","default":"<p>Payment Security</p>"},{"type":"html","id":"ggA-bjY31sD_text","label":"ggA-bjY31sD_text","default":"<p>Your payment security matters to us. Lbora partners exclusively with certified payment service providers who are committed to protecting and maintaining the confidentiality of your payment information.</p>"},{"type":"html","id":"ggSjQVgOFCb_text","label":"ggSjQVgOFCb_text","default":"<p>Privacy Protection &nbsp;</p>"},{"type":"html","id":"ggGHGvQgckX_text","label":"ggGHGvQgckX_text","default":"<p>At Lbora, we protect your privacy with industry-standard encryption. Your shipping address, payment information, and purchase details are secured throughout your entire shopping experience. Shop with confidence.</p>"},{"type":"html","id":"ggUWHchKLTN_text","label":"ggUWHchKLTN_text","default":"<p>Efficient and Safe Logitics</p>"},{"type":"html","id":"ggdwBSWcPdo_text","label":"ggdwBSWcPdo_text","default":"<p>At Lbora, we deliver with security and efficiency. Track your order in real-time, and protect your purchase with our optional Shipping Protection—covering delays, damage, or loss during transit.<a href=\"https://www.shipsurance.com/surecircle/terms\" target=\"_blank\"><span style=\"color:#3393CC;\"><strong><u>learn more</u></strong></span></a></p>"},{"type":"html","id":"gg1elQw0vld_text","label":"gg1elQw0vld_text","default":"<p>Customer Service</p>"},{"type":"html","id":"ggrjBheTtwl_text","label":"ggrjBheTtwl_text","default":"<p>We're here to help. If you encounter any problems during or after shopping, Lbora's customer service team is ready to assist you.</p>"},{"type":"html","id":"gg-Vwvq42Vj_text","label":"gg-Vwvq42Vj_text","default":"Payment Security"},{"type":"html","id":"ggk9tSva9R-_text","label":"ggk9tSva9R-_text","default":"Privacy Protection"},{"type":"html","id":"gg0062YpiqU_text","label":"gg0062YpiqU_text","default":"Efficient and Safe Logitics"},{"type":"html","id":"ggTTJpRkYts_text","label":"ggTTJpRkYts_text","default":"Customer Service"}],
     "blocks": [{"type": "@app"}],
     "locales": {}
   }
