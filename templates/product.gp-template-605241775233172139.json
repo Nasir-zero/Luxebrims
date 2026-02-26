@@ -86,8 +86,9 @@
     },
     "gp_section_605241775401337515": {
       "settings": {
-        "checksum": "a3fbf9d73852ab55570e7d5e544fa9c85b7eb536dd80294ce57eb6da6ebbb135_1_1_1_0__1",
+        "checksum": "ab8d85d03ac03feb93d4811294623484263fb5bb0fffcc444a7ac0f4600c134e_1_1_1_0__1",
         "gg-Vwvq42Vj_text": "Payment Security",
+        "gg-XuQAqOZZ_defaultLabel": "Copy",
         "gg0062YpiqU_text": "Efficient and Safe Logitics",
         "gg1elQw0vld_text": "<p>Customer Service</p>",
         "gg4PNAi7soe_text": "<p><u>Size Guide</u></p>",
@@ -104,12 +105,10 @@
         "ggSjQVgOFCb_text": "<p>Privacy Protection &nbsp;</p>",
         "ggTTJpRkYts_text": "Customer Service",
         "ggUWHchKLTN_text": "<p>Efficient and Safe Logitics</p>",
-        "ggVUP2KXt_0_text": "<p><span style=\"font-size:16px;\">Over $10&nbsp;</span></p><p><span style=\"font-size:16px;\">Code: <strong>$10Off-LBORA</strong></span></p>",
         "ggWccoCWPlH_viewLessText": "Show less",
         "ggWccoCWPlH_viewMoreText": "Show more",
         "ggYaozV6nT0_text": "Quantity",
         "ggagGj567_n_text": "<p>At <span style=\"color:#3B3B3B;\">Lbora</span>, our hats are crafted with precision to ensure a tailored and flattering fit.</p><p>&nbsp;</p><p><strong>True to Size:</strong><br>Each style is designed to fit true to size, following standard international headwear measurements. Simply select your usual hat size for the most comfortable fit.</p><p>&nbsp;</p><p><strong>Between Sizes:</strong><br>If you find yourself between sizes, we recommend using one of our premium hat fillers. Designed for subtle comfort, they provide a secure fit without compromising the hat’s shape or style.</p><p>&nbsp;</p><p><strong>Need Assistance</strong>:<br>Not sure of your size? Visit our <a href=\"https://luxebrims.com/pages/hat-size-guide\"><u>Hat Size Guide</u></a> or reach out to our support team — we're here to help you find your perfect fit.</p>",
-        "ggchTgL1RC9_defaultLabel": "Copy",
         "ggdrRa5su4C_label": "Buy Now",
         "ggdrRa5su4C_outOfStockLabel": "Out of stock",
         "ggdrRa5su4C_unavailableLabel": "Unavailable",
@@ -117,6 +116,7 @@
         "ggk9tSva9R-_text": "Privacy Protection",
         "ggoBqigMSJW_text": "<p>Payment Security</p>",
         "ggrjBheTtwl_text": "<p>We're here to help. If you encounter any problems during or after shopping, Lbora's customer service team is ready to assist you.</p>",
+        "ggry98ct8Cr_text": "<p><span style=\"font-size:16px;\">Over $10&nbsp;</span></p><p><span style=\"font-size:16px;\">Code: <strong>$10Off-LBORA</strong></span></p>",
         "section_preload": "true"
       },
       "type": "gp-section-605241775401337515"
