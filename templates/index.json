@@ -17,6 +17,26 @@
         "ggQx7e0-SUW_label": "<p>Shop Now</p>"
       }
     },
+    "1772000748338f7463": {
+      "type": "apps",
+      "blocks": {
+        "boost_ai_search_filter_recommendation_ssr_U9BTkb": {
+          "type": "shopify://apps/boost-ai-search-filter/blocks/recommendation-ssr/7fc998ae-a150-4367-bab8-505d8a4503f7",
+          "settings": {
+            "widgetId": "homepage-783263",
+            "additional_classes": "",
+            "custom_css": ""
+          }
+        }
+      },
+      "block_order": [
+        "boost_ai_search_filter_recommendation_ssr_U9BTkb"
+      ],
+      "settings": {
+        "display_id": false,
+        "include_margins": true
+      }
+    },
     "gp_section_594337781904311207": {
       "type": "gp-section-594337781904311207",
       "settings": {
@@ -185,20 +205,20 @@
         "ggZDbeJHTED_label": "Hat Care Guide"
       }
     },
-    "1772000748338f7463": {
+    "1772185929ec5aa1a3": {
       "type": "apps",
       "blocks": {
-        "boost_ai_search_filter_recommendation_ssr_U9BTkb": {
+        "boost_ai_search_filter_recommendation_ssr_JycDcr": {
           "type": "shopify://apps/boost-ai-search-filter/blocks/recommendation-ssr/7fc998ae-a150-4367-bab8-505d8a4503f7",
           "settings": {
-            "widgetId": "homepage-783263",
+            "widgetId": "homepage-026357",
             "additional_classes": "",
             "custom_css": ""
           }
         }
       },
       "block_order": [
-        "boost_ai_search_filter_recommendation_ssr_U9BTkb"
+        "boost_ai_search_filter_recommendation_ssr_JycDcr"
       ],
       "settings": {
         "display_id": false,
@@ -211,6 +231,7 @@
     "1772000748338f7463",
     "gp_section_594337781904311207",
     "gp_section_596210905373475820",
+    "1772185929ec5aa1a3",
     "gp_section_595952142200603409",
     "gp_section_604959723036345313",
     "gp_section_596823460722770924",
