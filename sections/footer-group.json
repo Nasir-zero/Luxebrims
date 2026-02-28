@@ -13,6 +13,7 @@
   "sections": {
     "gp_global_section_561765491551503340_NqD3kC": {
       "type": "gp-global-section-561765491551503340",
+      "disabled": true,
       "settings": {
         "section_preload": "off_lazy_script",
         "checksum": "",
@@ -43,7 +44,8 @@
         "ggSZGMhwJu-_label": "<p>Rewards</p>",
         "gg2JUDDvxQT_label": "<p>Hat Bar</p>",
         "ggt1zEhp7kn_text": "<p>Customer Care</p>",
-        "ggUiLGHx7YN_label": "<p>Contact Us</p>",
+        "gg-W3_Yn8Dh_label": "<p>About Us</p>",
+        "gg7bRbn3o4h_label": "<p>Contact Us</p>",
         "ggltiEFo3ji_label": "<p>Shipping</p>",
         "ggyAVoNY6Vb_label": "<p>Return &amp; Exchanges</p>",
         "ggdACuRJuqv_label": "<p>Order Status</p>",
@@ -52,6 +54,7 @@
         "ggaf9t8Xtm9_label": "<p>Privacy policy</p>",
         "ggx7y35YqdE_label": "<p>Conditions of sale</p>",
         "gg61uZNV2PA_label": "<p>Cookie</p>",
+        "ggaKY1A-HjK_label": "<p>Terms Of Service</p>",
         "ggFL3ea2YcY_text": "<p>Shop</p>",
         "ggkzBP8GMEo_label": "<p>Men</p>",
         "ggJwWwXoQzL_label": "<p>Women</p>",
