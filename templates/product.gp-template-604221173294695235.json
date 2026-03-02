@@ -138,7 +138,7 @@
     },
     "gp_section_604769047476699965": {
       "settings": {
-        "checksum": "ff19b49d9d810f1f67d21ccc35873aa7ea05755cfef49537ca65cb8c878af5e3_1_1_1_0__1",
+        "checksum": "25ac07db6b87b36fadb2424c9501ab98b4e778890ceedec0fb071d2876846fac_1_1_1_0__1",
         "gg3A8puHtRI_text": "<p>Find your perfect fit in two steps: measure your head or use a hat you already own, then convert the result with our size chart.</p>",
         "ggJPD6X-3OH_text": "<p>How to Determine Your Size</p><p>If you already have a well‑fitting hat: check the size on its tag and use the conversion chart below to match it to a head measurement.</p>",
         "ggRm63iei9R_text": "Hat Size Guide",
@@ -156,8 +156,7 @@
         "ggelis-qat5_text": "<p>Hand Crafted </p>",
         "ggfne5_ehw0_text": "<p>Hand Crafted </p>",
         "ggmoSw9Z65R_text": "<p>Premium Quality</p>",
-        "ggtLZ5GKW7A_text": "<p>Pure Natural</p>",
-        "section_preload": "true"
+        "ggtLZ5GKW7A_text": "<p>Pure Natural</p>"
       },
       "type": "gp-section-604769772185322155"
     }
