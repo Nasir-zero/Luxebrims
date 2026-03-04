@@ -17,6 +17,26 @@
         "ggQx7e0-SUW_label": "<p>Shop Now</p>"
       }
     },
+    "177260964459c04baf": {
+      "type": "apps",
+      "blocks": {
+        "boost_ai_search_filter_recommendation_ssr_PEzyFU": {
+          "type": "shopify://apps/boost-ai-search-filter/blocks/recommendation-ssr/7fc998ae-a150-4367-bab8-505d8a4503f7",
+          "settings": {
+            "widgetId": "homepage-783263",
+            "additional_classes": "",
+            "custom_css": ""
+          }
+        }
+      },
+      "block_order": [
+        "boost_ai_search_filter_recommendation_ssr_PEzyFU"
+      ],
+      "settings": {
+        "display_id": false,
+        "include_margins": true
+      }
+    },
     "gp_section_608426311232520759": {
       "type": "gp-section-608426311232520759",
       "settings": {
@@ -75,6 +95,26 @@
         "ggy5wuMvJYE_text": "<p>@paradise_dreams2</p>",
         "ggv0W0tBf-6_text": "<p>@<a href=\"https://www.tiktok.com/@djkaraokelucero\">djkaraokelucero</a></p>",
         "gganxEbTBvi_text": "<p>@<a href=\"https://www.tiktok.com/@mui_life_style\">mui_life_style</a></p>"
+      }
+    },
+    "177260965690c257a4": {
+      "type": "apps",
+      "blocks": {
+        "boost_ai_search_filter_recommendation_ssr_yYedMw": {
+          "type": "shopify://apps/boost-ai-search-filter/blocks/recommendation-ssr/7fc998ae-a150-4367-bab8-505d8a4503f7",
+          "settings": {
+            "widgetId": "homepage-026357",
+            "additional_classes": "",
+            "custom_css": ""
+          }
+        }
+      },
+      "block_order": [
+        "boost_ai_search_filter_recommendation_ssr_yYedMw"
+      ],
+      "settings": {
+        "display_id": false,
+        "include_margins": true
       }
     },
     "gp_section_608426514639225430": {
@@ -136,6 +176,7 @@
     },
     "gp_global_section_561765491551503340-1": {
       "type": "gp-global-section-561765491551503340",
+      "disabled": true,
       "settings": {
         "section_preload": "false",
         "checksum": "",
@@ -190,46 +231,6 @@
         "ggP6YloH123_text": "Support",
         "ggHeQJnGgmZ_label": "Hat Bar",
         "ggZDbeJHTED_label": "Hat Care Guide"
-      }
-    },
-    "177260964459c04baf": {
-      "type": "apps",
-      "blocks": {
-        "boost_ai_search_filter_recommendation_ssr_PEzyFU": {
-          "type": "shopify://apps/boost-ai-search-filter/blocks/recommendation-ssr/7fc998ae-a150-4367-bab8-505d8a4503f7",
-          "settings": {
-            "widgetId": "homepage-783263",
-            "additional_classes": "",
-            "custom_css": ""
-          }
-        }
-      },
-      "block_order": [
-        "boost_ai_search_filter_recommendation_ssr_PEzyFU"
-      ],
-      "settings": {
-        "display_id": false,
-        "include_margins": true
-      }
-    },
-    "177260965690c257a4": {
-      "type": "apps",
-      "blocks": {
-        "boost_ai_search_filter_recommendation_ssr_yYedMw": {
-          "type": "shopify://apps/boost-ai-search-filter/blocks/recommendation-ssr/7fc998ae-a150-4367-bab8-505d8a4503f7",
-          "settings": {
-            "widgetId": "homepage-026357",
-            "additional_classes": "",
-            "custom_css": ""
-          }
-        }
-      },
-      "block_order": [
-        "boost_ai_search_filter_recommendation_ssr_yYedMw"
-      ],
-      "settings": {
-        "display_id": false,
-        "include_margins": true
       }
     }
   },
