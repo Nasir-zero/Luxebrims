@@ -187,14 +187,6 @@
         "ggV4WdxgNTt_text": "Mens New Arrival",
         "ggqmWJxOs1L_label": "<p><strong>Shop Now</strong></p>"
       }
-    },
-    "gp_section_609295800467456614": {
-      "type": "gp-section-609295800467456614",
-      "settings": {
-        "checksum": "b2b9e6ac51a5458874d679e0a050e3049dbaac85a3ea951114c2a07fc93de189_1_1_1_0__1",
-        "gg21APVVzpw_text": "Your heading text goes here",
-        "ggD44V5LGFu_text": "<p>Replace&nbsp;</p>"
-      }
     }
   },
   "order": [
@@ -205,7 +197,6 @@
     "gp_section_608426311232586295",
     "gp_section_608426311232455223",
     "gp_section_608426311232258615",
-    "gp_section_609295800467456614",
     "gp_global_section_561765491551503340-1"
   ]
 }
