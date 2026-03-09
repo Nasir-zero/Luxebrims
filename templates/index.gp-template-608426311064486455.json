@@ -46,7 +46,6 @@
         "ggltiEFo3ji_label": "Shipping",
         "ggyAVoNY6Vb_label": "Return &amp; Exchanges",
         "ggdACuRJuqv_label": "Order Status",
-        "ggouQm_9Eld_label": "Gift Cards",
         "ggfiLsmGZym_text": "LEGAL AREA",
         "ggaf9t8Xtm9_label": "Privacy policy",
         "ggx7y35YqdE_label": "Conditions of sale",
@@ -60,6 +59,7 @@
         "gg8UZRrbup__label": "Accessories",
         "gg_PwdCLVGG_text": "Size Guide",
         "gg9j-SUEIU-_label": "Face Shape Guide",
+        "ggouQm_9Eld_label_392307066": "Find Your Size",
         "ggp3--R9xHo_label": "Rewards",
         "ggzTqm9EWZH_label": "FAQ",
         "ggP6YloH123_text": "Support",
@@ -124,7 +124,7 @@
       "type": "gp-section-608426311232389687",
       "settings": {
         "section_preload": "true",
-        "checksum": "eb7ae2f309030e03c93af38a5ab31446430508b6c41b76435f179efdc4afda12_1_1_1_0__1",
+        "checksum": "cbc89c6917cbaea0759993d306c6059d182876e5736fcc4913c0f7045697fc77_1_1_1_0__1",
         "ggQx7e0-SUW_label": "<p>Shop Now</p>"
       }
     },
