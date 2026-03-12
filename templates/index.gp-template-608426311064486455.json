@@ -192,9 +192,17 @@
       "type": "gp-section-610173014134227671",
       "settings": {
         "section_preload": "true",
-        "checksum": "3de73e3fcc86b0b24ddf280189230b834637e3f89def66aaf49b35132212b4bb_1_1_1_0__1",
+        "checksum": "65e50a1f2aa8f85fe07d0d24130a543245a34e0d0cc1734a860010b5d8af501b_1_1_1_0__1",
         "ggChlORlcfn_text": "<span style=\"background-color:rgb(252,250,247);color:rgb(36,36,36);font-size:33px;\"><strong>Our Best-Sellers</strong></span>",
         "gggfVLQRylM_label": "<p>Explore more</p>"
+      }
+    },
+    "gp_section_610277579911332409": {
+      "type": "gp-section-610277579911332409",
+      "settings": {
+        "checksum": "739dd1f5e75b2e845b07a0585cd018daedad1f6e16d13c4c60f97e49a8feaf38_1_1_1_0__1",
+        "ggrITM9Ie2w_text": "Just In",
+        "ggT1ahlZTIM_label": "<p>Explore more</p>"
       }
     }
   },
@@ -203,6 +211,7 @@
     "gp_section_610173014134227671",
     "gp_section_608426311232520759",
     "gp_section_608426311232324151",
+    "gp_section_610277579911332409",
     "gp_section_608426514639225430",
     "gp_section_608426311232586295",
     "gp_section_608426311232455223",
