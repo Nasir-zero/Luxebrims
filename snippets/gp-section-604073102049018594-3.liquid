@@ -644,9 +644,9 @@
     -%}
     {% assign option_disabled = false %}
     <label
-      id="{{option.name | escape}}-{{value | escape}}"
+      id="{{option.name | escape | handleize}}-{{value | escape | handleize}}"
       for="{{product.id}}-gV10jc8qGx-{{option.name | escape}}-{{option.position}}-{{ forloop.index }}"
-      class="option-item gp-group gp-relative gp-child-item-gV10jc8qGx"
+      class="option-item gp-group gp-relative !gp-block gp-child-item-gV10jc8qGx"
       
     >
       <div class="gp-hidden !gp-max-w-[150px] gp-left-[50%] gp-translate-x-[-50%] gp-translate-y-0 gp-absolute gp-bottom-[calc(100%+20px)] gp-text-[12px] group-hover:gp-block gp-w-max gp-bg-[#333333] gp-text-[#F9F9F9] gp-px-[8px] gp-py-[4px] gp-rounded-[8px] gp-mb-[-10px] after:gp-content-[''] after:gp-absolute after:gp-p-[7px] after:gp-left-0 after:gp-w-full after:gp-bottom-[-10px]">
@@ -672,7 +672,7 @@
       {% when "rectangle_list" %}
       
     <div
-      id="value-wrapper-{{option.name | escape | strip}}-{{value | escape | strip}}" option-data="{{option.name | escape}}" option-value="{{value | escape}}" option-position="{{option.position}}" data-gp-option-available="{{value.available}}" option-type="rectangle_list" data-disabled="{%- if option_disabled == true -%} disabled  {%- endif -%}" data-hidden="true"
+      id="value-wrapper-{{option.name | escape | strip | handleize}}-{{value | escape | strip | handleize}}" option-data="{{option.name | escape}}" option-value="{{value | escape}}" option-position="{{option.position}}" data-gp-option-available="{{value.available}}" option-type="rectangle_list" data-disabled="{%- if option_disabled == true -%} disabled  {%- endif -%}" data-hidden="true"
       class="gp-relative gp-flex gp-cursor-pointer gp-items-center gp-justify-center gp-text-center option-value-wrapper gp-overflow-hidden gp-w-full gp-h-full data-[disabled='disabled']:gp-pointer-events-none data-[disabled='disabled']:!gp-cursor-not-allowed
   data-[hidden='false']:gp-flex {{option.name | escape}}-{{option.position}}-{{ forloop.index }}"
       style="{% if selectedValue == value %}--ff: var(--g-font-Lora, 'Lora'), var(--g-font-body, body);--size: 12px;--size-tablet: 14px;--size-mobile: 12px;--lh: 180%;--lh-tablet: 180%;--lh-mobile: 180%;--weight: bold;--c: #3B3B3B;--d: flex;--jc: center;	--ai: center;--w: 100%;--h: 100%;--of: hidden;--hvr-c: unset;--bs: none;--bw: 1px 1px 1px 1px;--hvr-bw: 1px 1px 1px 1px;--bc: #E6E9EB;--hvr-bc: #E6E9EB;{% else %}--ff: var(--g-font-Lora, 'Lora'), var(--g-font-body, body);--size: 12px;--size-tablet: 14px;--size-mobile: 12px;--lh: 180%;--lh-tablet: 180%;--lh-mobile: 180%;--weight: bold;--d: flex;--jc: center;	--ai: center;--w: 100%;--h: 100%;--of: hidden;--hvr-c: unset;--bs: solid;--hvr-bs: solid;--bw: 1px 1px 1px 1px;--hvr-bw: 1px 1px 1px 1px;--bc: #E6E9EB;--hvr-bc: #E6E9EB;{% endif %}">
@@ -699,7 +699,7 @@
     {% endif %}
     
     <div
-      id="value-wrapper-{{option.name | escape | strip}}-{{value | escape | strip}}" option-data="{{option.name | escape}}" option-value="{{value | escape}}" option-position="{{option.position}}" data-gp-option-available="{{value.available}}" option-type="color" data-disabled="{%- if option_disabled == true -%} disabled  {%- endif -%}" data-hidden="true"
+      id="value-wrapper-{{option.name | escape | strip | handleize}}-{{value | escape | strip | handleize}}" option-data="{{option.name | escape}}" option-value="{{value | escape}}" option-position="{{option.position}}" data-gp-option-available="{{value.available}}" option-type="color" data-disabled="{%- if option_disabled == true -%} disabled  {%- endif -%}" data-hidden="true"
       class="gp-relative gp-flex gp-cursor-pointer gp-items-center gp-justify-center gp-text-center option-value-wrapper gp-overflow-hidden gp-w-full gp-h-full data-[disabled='disabled']:gp-pointer-events-none data-[disabled='disabled']:!gp-cursor-not-allowed
   data-[hidden='false']:gp-flex {{option.name | escape}}-{{option.position}}-{{ forloop.index }} gp-p-[4px]"
       style="{% if selectedValue == value %}--ff: var(--g-font-Lora, 'Lora'), var(--g-font-body, body);--size: 12px;--size-tablet: 14px;--size-mobile: 12px;--lh: 180%;--lh-tablet: 180%;--lh-mobile: 180%;--weight: bold;--c: #3B3B3B;--minw: 32px;--d: flex;--jc: center;	--ai: center;--w: 100%;--h: 100%;--of: hidden;--hvr-c: unset;--bs: none;--bw: 1px 1px 1px 1px;--hvr-bw: 1px 1px 1px 1px;--bc: #E6E9EB;--hvr-bc: #E6E9EB;--bblr: 999999px;--bbrr: 999999px;--btlr: 999999px;--btrr: 999999px;--hvr-bblr: 999999px;--hvr-bbrr: 999999px;--hvr-btlr: 999999px;--hvr-btrr: 999999px;--focus-bblr: 999999px;--focus-bbrr: 999999px;--focus-btlr: 999999px;--focus-btrr: 999999px;-undefined-bblr: 999999px;-undefined-bbrr: 999999px;-undefined-btlr: 999999px;-undefined-btrr: 999999px;{% else %}--ff: var(--g-font-Lora, 'Lora'), var(--g-font-body, body);--size: 12px;--size-tablet: 14px;--size-mobile: 12px;--lh: 180%;--lh-tablet: 180%;--lh-mobile: 180%;--weight: bold;--minw: 32px;--d: flex;--jc: center;	--ai: center;--w: 100%;--h: 100%;--of: hidden;--hvr-c: unset;--bs: solid;--hvr-bs: solid;--bw: 1px 1px 1px 1px;--hvr-bw: 1px 1px 1px 1px;--bc: #E6E9EB;--hvr-bc: #E6E9EB;--bblr: 999999px;--bbrr: 999999px;--btlr: 999999px;--btrr: 999999px;--hvr-bblr: 999999px;--hvr-bbrr: 999999px;--hvr-btlr: 999999px;--hvr-btrr: 999999px;--focus-bblr: 999999px;--focus-bbrr: 999999px;--focus-btlr: 999999px;--focus-btrr: 999999px;-undefined-bblr: 999999px;-undefined-bbrr: 999999px;-undefined-btlr: 999999px;-undefined-btrr: 999999px;{% endif %}">
@@ -744,7 +744,7 @@
       {% endfor %}
       
     <div
-      id="value-wrapper-{{option.name | escape | strip}}-{{value | escape | strip}}" option-data="{{option.name | escape}}" option-value="{{value | escape}}" option-position="{{option.position}}" data-gp-option-available="{{value.available}}" option-type="image_shopify" data-disabled="{%- if option_disabled == true -%} disabled  {%- endif -%}" data-hidden="true"
+      id="value-wrapper-{{option.name | escape | strip | handleize}}-{{value | escape | strip | handleize}}" option-data="{{option.name | escape}}" option-value="{{value | escape}}" option-position="{{option.position}}" data-gp-option-available="{{value.available}}" option-type="image_shopify" data-disabled="{%- if option_disabled == true -%} disabled  {%- endif -%}" data-hidden="true"
       class="gp-relative gp-flex gp-cursor-pointer gp-items-center gp-justify-center gp-text-center option-value-wrapper gp-overflow-hidden gp-w-full gp-h-full data-[disabled='disabled']:gp-pointer-events-none data-[disabled='disabled']:!gp-cursor-not-allowed
   data-[hidden='false']:gp-flex {{option.name | escape}}-{{option.position}}-{{ forloop.index }}"
       style="{% if selectedValue == value %}--ff: var(--g-font-Lora, 'Lora'), var(--g-font-body, body);--size: 12px;--size-tablet: 14px;--size-mobile: 12px;--lh: 180%;--lh-tablet: 180%;--lh-mobile: 180%;--weight: bold;--c: #3B3B3B;--d: flex;--jc: center;	--ai: center;--w: 100%;--h: 100%;--of: hidden;--hvr-c: unset;--bs: none;--bw: 1px 1px 1px 1px;--hvr-bw: 1px 1px 1px 1px;--bc: #E6E9EB;--hvr-bc: #E6E9EB;{% else %}--ff: var(--g-font-Lora, 'Lora'), var(--g-font-body, body);--size: 12px;--size-tablet: 14px;--size-mobile: 12px;--lh: 180%;--lh-tablet: 180%;--lh-mobile: 180%;--weight: bold;--d: flex;--jc: center;	--ai: center;--w: 100%;--h: 100%;--of: hidden;--hvr-c: unset;--bs: solid;--hvr-bs: solid;--bw: 1px 1px 1px 1px;--hvr-bw: 1px 1px 1px 1px;--bc: #E6E9EB;--hvr-bc: #E6E9EB;{% endif %}">
@@ -770,7 +770,7 @@
     {% endfor %}
     
     <div
-      id="value-wrapper-{{option.name | escape | strip}}-{{value | escape | strip}}" option-data="{{option.name | escape}}" option-value="{{value | escape}}" option-position="{{option.position}}" data-gp-option-available="{{value.available}}" option-type="image" data-disabled="{%- if option_disabled == true -%} disabled  {%- endif -%}" data-hidden="true"
+      id="value-wrapper-{{option.name | escape | strip | handleize}}-{{value | escape | strip | handleize}}" option-data="{{option.name | escape}}" option-value="{{value | escape}}" option-position="{{option.position}}" data-gp-option-available="{{value.available}}" option-type="image" data-disabled="{%- if option_disabled == true -%} disabled  {%- endif -%}" data-hidden="true"
       class="gp-relative gp-flex gp-cursor-pointer gp-items-center gp-justify-center gp-text-center option-value-wrapper gp-overflow-hidden gp-w-full gp-h-full data-[disabled='disabled']:gp-pointer-events-none data-[disabled='disabled']:!gp-cursor-not-allowed
   data-[hidden='false']:gp-flex {{option.name | escape}}-{{option.position}}-{{ forloop.index }}"
       style="{% if selectedValue == value %}--ff: var(--g-font-Lora, 'Lora'), var(--g-font-body, body);--size: 12px;--size-tablet: 14px;--size-mobile: 12px;--lh: 180%;--lh-tablet: 180%;--lh-mobile: 180%;--weight: bold;--c: #3B3B3B;--d: flex;--jc: center;	--ai: center;--w: 100%;--h: 100%;--of: hidden;--hvr-c: unset;--bs: none;--bw: 1px 1px 1px 1px;--hvr-bw: 1px 1px 1px 1px;--bc: #E6E9EB;--hvr-bc: #E6E9EB;{% else %}--ff: var(--g-font-Lora, 'Lora'), var(--g-font-body, body);--size: 12px;--size-tablet: 14px;--size-mobile: 12px;--lh: 180%;--lh-tablet: 180%;--lh-mobile: 180%;--weight: bold;--d: flex;--jc: center;	--ai: center;--w: 100%;--h: 100%;--of: hidden;--hvr-c: unset;--bs: solid;--hvr-bs: solid;--bw: 1px 1px 1px 1px;--hvr-bw: 1px 1px 1px 1px;--bc: #E6E9EB;--hvr-bc: #E6E9EB;{% endif %}">
@@ -861,9 +861,9 @@
     -%}
     {% assign option_disabled = false %}
     <label
-      id="{{option.name | escape}}-{{value | escape}}"
+      id="{{option.name | escape | handleize}}-{{value | escape | handleize}}"
       for="{{product.id}}-gV10jc8qGx-{{option.name | escape}}-{{option.position}}-{{ forloop.index }}"
-      class="option-item gp-group gp-relative gp-child-item-gV10jc8qGx"
+      class="option-item gp-group gp-relative !gp-block gp-child-item-gV10jc8qGx"
       
     >
       <div class="gp-hidden !gp-max-w-[150px] gp-left-[50%] gp-translate-x-[-50%] gp-translate-y-0 gp-absolute gp-bottom-[calc(100%+20px)] gp-text-[12px] group-hover:gp-block gp-w-max gp-bg-[#333333] gp-text-[#F9F9F9] gp-px-[8px] gp-py-[4px] gp-rounded-[8px] gp-mb-[-10px] after:gp-content-[''] after:gp-absolute after:gp-p-[7px] after:gp-left-0 after:gp-w-full after:gp-bottom-[-10px]">
@@ -887,7 +887,7 @@
         
     
     <div
-      id="value-wrapper-{{option.name | escape | strip}}-{{value | escape | strip}}" option-data="{{option.name | escape}}" option-value="{{value | escape}}" option-position="{{option.position}}" data-gp-option-available="{{value.available}}" option-type="optionType" data-disabled="{%- if option_disabled == true -%} disabled  {%- endif -%}" data-hidden="true"
+      id="value-wrapper-{{option.name | escape | strip | handleize}}-{{value | escape | strip | handleize}}" option-data="{{option.name | escape}}" option-value="{{value | escape}}" option-position="{{option.position}}" data-gp-option-available="{{value.available}}" option-type="optionType" data-disabled="{%- if option_disabled == true -%} disabled  {%- endif -%}" data-hidden="true"
       class="gp-relative gp-flex gp-cursor-pointer gp-items-center gp-justify-center gp-text-center option-value-wrapper gp-overflow-hidden gp-w-full gp-h-full data-[disabled='disabled']:gp-pointer-events-none data-[disabled='disabled']:!gp-cursor-not-allowed
   data-[hidden='false']:gp-flex {{option.name | escape}}-{{option.position}}-{{ forloop.index }}"
       style="{% if selectedValue == value %}--ff: var(--g-font-Lora, 'Lora'), var(--g-font-body, body);--size: 12px;--size-tablet: 14px;--size-mobile: 12px;--lh: 180%;--lh-tablet: 180%;--lh-mobile: 180%;--weight: bold;--c: #3B3B3B;--d: flex;--jc: center;	--ai: center;--w: 100%;--h: 100%;--of: hidden;--hvr-c: unset;--bs: none;--bw: 1px 1px 1px 1px;--hvr-bw: 1px 1px 1px 1px;--bc: #E6E9EB;--hvr-bc: #E6E9EB;{% else %}--ff: var(--g-font-Lora, 'Lora'), var(--g-font-body, body);--size: 12px;--size-tablet: 14px;--size-mobile: 12px;--lh: 180%;--lh-tablet: 180%;--lh-mobile: 180%;--weight: bold;--d: flex;--jc: center;	--ai: center;--w: 100%;--h: 100%;--of: hidden;--hvr-c: unset;--bs: solid;--hvr-bs: solid;--bw: 1px 1px 1px 1px;--hvr-bw: 1px 1px 1px 1px;--bc: #E6E9EB;--hvr-bc: #E6E9EB;{% endif %}">
@@ -1030,9 +1030,9 @@
     -%}
     {% assign option_disabled = false %}
     <label
-      id="{{option.name | escape}}-{{value | escape}}"
+      id="{{option.name | escape | handleize}}-{{value | escape | handleize}}"
       for="{{product.id}}-gV10jc8qGx-{{option.name | escape}}-{{option.position}}-{{ forloop.index }}"
-      class="option-item gp-group gp-relative gp-child-item-gV10jc8qGx"
+      class="option-item gp-group gp-relative !gp-block gp-child-item-gV10jc8qGx"
       
     >
       <div class="gp-hidden !gp-max-w-[150px] gp-left-[50%] gp-translate-x-[-50%] gp-translate-y-0 gp-absolute gp-bottom-[calc(100%+20px)] gp-text-[12px] group-hover:gp-block gp-w-max gp-bg-[#333333] gp-text-[#F9F9F9] gp-px-[8px] gp-py-[4px] gp-rounded-[8px] gp-mb-[-10px] after:gp-content-[''] after:gp-absolute after:gp-p-[7px] after:gp-left-0 after:gp-w-full after:gp-bottom-[-10px]">
@@ -1058,7 +1058,7 @@
       {% when "rectangle_list" %}
       
     <div
-      id="value-wrapper-{{option.name | escape | strip}}-{{value | escape | strip}}" option-data="{{option.name | escape}}" option-value="{{value | escape}}" option-position="{{option.position}}" data-gp-option-available="{{value.available}}" option-type="rectangle_list" data-disabled="{%- if option_disabled == true -%} disabled  {%- endif -%}" data-hidden="true"
+      id="value-wrapper-{{option.name | escape | strip | handleize}}-{{value | escape | strip | handleize}}" option-data="{{option.name | escape}}" option-value="{{value | escape}}" option-position="{{option.position}}" data-gp-option-available="{{value.available}}" option-type="rectangle_list" data-disabled="{%- if option_disabled == true -%} disabled  {%- endif -%}" data-hidden="true"
       class="gp-relative gp-flex gp-cursor-pointer gp-items-center gp-justify-center gp-text-center option-value-wrapper gp-overflow-hidden gp-w-full gp-h-full data-[disabled='disabled']:gp-pointer-events-none data-[disabled='disabled']:!gp-cursor-not-allowed
   data-[hidden='false']:gp-flex {{option.name | escape}}-{{option.position}}-{{ forloop.index }}"
       style="{% if selectedValue == value %}--ff: var(--g-font-Lora, 'Lora'), var(--g-font-body, body);--size: 12px;--size-tablet: 14px;--size-mobile: 12px;--lh: 180%;--lh-tablet: 180%;--lh-mobile: 180%;--weight: bold;--c: #3B3B3B;--d: flex;--jc: center;	--ai: center;--w: 100%;--h: 100%;--of: hidden;--hvr-c: unset;--bs: none;--bw: 1px 1px 1px 1px;--hvr-bw: 1px 1px 1px 1px;--bc: #E6E9EB;--hvr-bc: #E6E9EB;{% else %}--ff: var(--g-font-Lora, 'Lora'), var(--g-font-body, body);--size: 12px;--size-tablet: 14px;--size-mobile: 12px;--lh: 180%;--lh-tablet: 180%;--lh-mobile: 180%;--weight: bold;--d: flex;--jc: center;	--ai: center;--w: 100%;--h: 100%;--of: hidden;--hvr-c: unset;--bs: solid;--hvr-bs: solid;--bw: 1px 1px 1px 1px;--hvr-bw: 1px 1px 1px 1px;--bc: #E6E9EB;--hvr-bc: #E6E9EB;{% endif %}">
@@ -1085,7 +1085,7 @@
     {% endif %}
     
     <div
-      id="value-wrapper-{{option.name | escape | strip}}-{{value | escape | strip}}" option-data="{{option.name | escape}}" option-value="{{value | escape}}" option-position="{{option.position}}" data-gp-option-available="{{value.available}}" option-type="color" data-disabled="{%- if option_disabled == true -%} disabled  {%- endif -%}" data-hidden="true"
+      id="value-wrapper-{{option.name | escape | strip | handleize}}-{{value | escape | strip | handleize}}" option-data="{{option.name | escape}}" option-value="{{value | escape}}" option-position="{{option.position}}" data-gp-option-available="{{value.available}}" option-type="color" data-disabled="{%- if option_disabled == true -%} disabled  {%- endif -%}" data-hidden="true"
       class="gp-relative gp-flex gp-cursor-pointer gp-items-center gp-justify-center gp-text-center option-value-wrapper gp-overflow-hidden gp-w-full gp-h-full data-[disabled='disabled']:gp-pointer-events-none data-[disabled='disabled']:!gp-cursor-not-allowed
   data-[hidden='false']:gp-flex {{option.name | escape}}-{{option.position}}-{{ forloop.index }} gp-p-[4px]"
       style="{% if selectedValue == value %}--ff: var(--g-font-Lora, 'Lora'), var(--g-font-body, body);--size: 12px;--size-tablet: 14px;--size-mobile: 12px;--lh: 180%;--lh-tablet: 180%;--lh-mobile: 180%;--weight: bold;--c: #3B3B3B;--minw: 32px;--d: flex;--jc: center;	--ai: center;--w: 100%;--h: 100%;--of: hidden;--hvr-c: unset;--bs: none;--bw: 1px 1px 1px 1px;--hvr-bw: 1px 1px 1px 1px;--bc: #E6E9EB;--hvr-bc: #E6E9EB;--bblr: 999999px;--bbrr: 999999px;--btlr: 999999px;--btrr: 999999px;--hvr-bblr: 999999px;--hvr-bbrr: 999999px;--hvr-btlr: 999999px;--hvr-btrr: 999999px;--focus-bblr: 999999px;--focus-bbrr: 999999px;--focus-btlr: 999999px;--focus-btrr: 999999px;-undefined-bblr: 999999px;-undefined-bbrr: 999999px;-undefined-btlr: 999999px;-undefined-btrr: 999999px;{% else %}--ff: var(--g-font-Lora, 'Lora'), var(--g-font-body, body);--size: 12px;--size-tablet: 14px;--size-mobile: 12px;--lh: 180%;--lh-tablet: 180%;--lh-mobile: 180%;--weight: bold;--minw: 32px;--d: flex;--jc: center;	--ai: center;--w: 100%;--h: 100%;--of: hidden;--hvr-c: unset;--bs: solid;--hvr-bs: solid;--bw: 1px 1px 1px 1px;--hvr-bw: 1px 1px 1px 1px;--bc: #E6E9EB;--hvr-bc: #E6E9EB;--bblr: 999999px;--bbrr: 999999px;--btlr: 999999px;--btrr: 999999px;--hvr-bblr: 999999px;--hvr-bbrr: 999999px;--hvr-btlr: 999999px;--hvr-btrr: 999999px;--focus-bblr: 999999px;--focus-bbrr: 999999px;--focus-btlr: 999999px;--focus-btrr: 999999px;-undefined-bblr: 999999px;-undefined-bbrr: 999999px;-undefined-btlr: 999999px;-undefined-btrr: 999999px;{% endif %}">
@@ -1130,7 +1130,7 @@
       {% endfor %}
       
     <div
-      id="value-wrapper-{{option.name | escape | strip}}-{{value | escape | strip}}" option-data="{{option.name | escape}}" option-value="{{value | escape}}" option-position="{{option.position}}" data-gp-option-available="{{value.available}}" option-type="image_shopify" data-disabled="{%- if option_disabled == true -%} disabled  {%- endif -%}" data-hidden="true"
+      id="value-wrapper-{{option.name | escape | strip | handleize}}-{{value | escape | strip | handleize}}" option-data="{{option.name | escape}}" option-value="{{value | escape}}" option-position="{{option.position}}" data-gp-option-available="{{value.available}}" option-type="image_shopify" data-disabled="{%- if option_disabled == true -%} disabled  {%- endif -%}" data-hidden="true"
       class="gp-relative gp-flex gp-cursor-pointer gp-items-center gp-justify-center gp-text-center option-value-wrapper gp-overflow-hidden gp-w-full gp-h-full data-[disabled='disabled']:gp-pointer-events-none data-[disabled='disabled']:!gp-cursor-not-allowed
   data-[hidden='false']:gp-flex {{option.name | escape}}-{{option.position}}-{{ forloop.index }}"
       style="{% if selectedValue == value %}--ff: var(--g-font-Lora, 'Lora'), var(--g-font-body, body);--size: 12px;--size-tablet: 14px;--size-mobile: 12px;--lh: 180%;--lh-tablet: 180%;--lh-mobile: 180%;--weight: bold;--c: #3B3B3B;--d: flex;--jc: center;	--ai: center;--w: 100%;--h: 100%;--of: hidden;--hvr-c: unset;--bs: none;--bw: 1px 1px 1px 1px;--hvr-bw: 1px 1px 1px 1px;--bc: #E6E9EB;--hvr-bc: #E6E9EB;{% else %}--ff: var(--g-font-Lora, 'Lora'), var(--g-font-body, body);--size: 12px;--size-tablet: 14px;--size-mobile: 12px;--lh: 180%;--lh-tablet: 180%;--lh-mobile: 180%;--weight: bold;--d: flex;--jc: center;	--ai: center;--w: 100%;--h: 100%;--of: hidden;--hvr-c: unset;--bs: solid;--hvr-bs: solid;--bw: 1px 1px 1px 1px;--hvr-bw: 1px 1px 1px 1px;--bc: #E6E9EB;--hvr-bc: #E6E9EB;{% endif %}">
@@ -1156,7 +1156,7 @@
     {% endfor %}
     
     <div
-      id="value-wrapper-{{option.name | escape | strip}}-{{value | escape | strip}}" option-data="{{option.name | escape}}" option-value="{{value | escape}}" option-position="{{option.position}}" data-gp-option-available="{{value.available}}" option-type="image" data-disabled="{%- if option_disabled == true -%} disabled  {%- endif -%}" data-hidden="true"
+      id="value-wrapper-{{option.name | escape | strip | handleize}}-{{value | escape | strip | handleize}}" option-data="{{option.name | escape}}" option-value="{{value | escape}}" option-position="{{option.position}}" data-gp-option-available="{{value.available}}" option-type="image" data-disabled="{%- if option_disabled == true -%} disabled  {%- endif -%}" data-hidden="true"
       class="gp-relative gp-flex gp-cursor-pointer gp-items-center gp-justify-center gp-text-center option-value-wrapper gp-overflow-hidden gp-w-full gp-h-full data-[disabled='disabled']:gp-pointer-events-none data-[disabled='disabled']:!gp-cursor-not-allowed
   data-[hidden='false']:gp-flex {{option.name | escape}}-{{option.position}}-{{ forloop.index }}"
       style="{% if selectedValue == value %}--ff: var(--g-font-Lora, 'Lora'), var(--g-font-body, body);--size: 12px;--size-tablet: 14px;--size-mobile: 12px;--lh: 180%;--lh-tablet: 180%;--lh-mobile: 180%;--weight: bold;--c: #3B3B3B;--d: flex;--jc: center;	--ai: center;--w: 100%;--h: 100%;--of: hidden;--hvr-c: unset;--bs: none;--bw: 1px 1px 1px 1px;--hvr-bw: 1px 1px 1px 1px;--bc: #E6E9EB;--hvr-bc: #E6E9EB;{% else %}--ff: var(--g-font-Lora, 'Lora'), var(--g-font-body, body);--size: 12px;--size-tablet: 14px;--size-mobile: 12px;--lh: 180%;--lh-tablet: 180%;--lh-mobile: 180%;--weight: bold;--d: flex;--jc: center;	--ai: center;--w: 100%;--h: 100%;--of: hidden;--hvr-c: unset;--bs: solid;--hvr-bs: solid;--bw: 1px 1px 1px 1px;--hvr-bw: 1px 1px 1px 1px;--bc: #E6E9EB;--hvr-bc: #E6E9EB;{% endif %}">
@@ -1247,9 +1247,9 @@
     -%}
     {% assign option_disabled = false %}
     <label
-      id="{{option.name | escape}}-{{value | escape}}"
+      id="{{option.name | escape | handleize}}-{{value | escape | handleize}}"
       for="{{product.id}}-gV10jc8qGx-{{option.name | escape}}-{{option.position}}-{{ forloop.index }}"
-      class="option-item gp-group gp-relative gp-child-item-gV10jc8qGx"
+      class="option-item gp-group gp-relative !gp-block gp-child-item-gV10jc8qGx"
       
     >
       <div class="gp-hidden !gp-max-w-[150px] gp-left-[50%] gp-translate-x-[-50%] gp-translate-y-0 gp-absolute gp-bottom-[calc(100%+20px)] gp-text-[12px] group-hover:gp-block gp-w-max gp-bg-[#333333] gp-text-[#F9F9F9] gp-px-[8px] gp-py-[4px] gp-rounded-[8px] gp-mb-[-10px] after:gp-content-[''] after:gp-absolute after:gp-p-[7px] after:gp-left-0 after:gp-w-full after:gp-bottom-[-10px]">
@@ -1273,7 +1273,7 @@
         
     
     <div
-      id="value-wrapper-{{option.name | escape | strip}}-{{value | escape | strip}}" option-data="{{option.name | escape}}" option-value="{{value | escape}}" option-position="{{option.position}}" data-gp-option-available="{{value.available}}" option-type="optionType" data-disabled="{%- if option_disabled == true -%} disabled  {%- endif -%}" data-hidden="true"
+      id="value-wrapper-{{option.name | escape | strip | handleize}}-{{value | escape | strip | handleize}}" option-data="{{option.name | escape}}" option-value="{{value | escape}}" option-position="{{option.position}}" data-gp-option-available="{{value.available}}" option-type="optionType" data-disabled="{%- if option_disabled == true -%} disabled  {%- endif -%}" data-hidden="true"
       class="gp-relative gp-flex gp-cursor-pointer gp-items-center gp-justify-center gp-text-center option-value-wrapper gp-overflow-hidden gp-w-full gp-h-full data-[disabled='disabled']:gp-pointer-events-none data-[disabled='disabled']:!gp-cursor-not-allowed
   data-[hidden='false']:gp-flex {{option.name | escape}}-{{option.position}}-{{ forloop.index }}"
       style="{% if selectedValue == value %}--ff: var(--g-font-Lora, 'Lora'), var(--g-font-body, body);--size: 12px;--size-tablet: 14px;--size-mobile: 12px;--lh: 180%;--lh-tablet: 180%;--lh-mobile: 180%;--weight: bold;--c: #3B3B3B;--d: flex;--jc: center;	--ai: center;--w: 100%;--h: 100%;--of: hidden;--hvr-c: unset;--bs: none;--bw: 1px 1px 1px 1px;--hvr-bw: 1px 1px 1px 1px;--bc: #E6E9EB;--hvr-bc: #E6E9EB;{% else %}--ff: var(--g-font-Lora, 'Lora'), var(--g-font-body, body);--size: 12px;--size-tablet: 14px;--size-mobile: 12px;--lh: 180%;--lh-tablet: 180%;--lh-mobile: 180%;--weight: bold;--d: flex;--jc: center;	--ai: center;--w: 100%;--h: 100%;--of: hidden;--hvr-c: unset;--bs: solid;--hvr-bs: solid;--bw: 1px 1px 1px 1px;--hvr-bw: 1px 1px 1px 1px;--bc: #E6E9EB;--hvr-bc: #E6E9EB;{% endif %}">
@@ -1880,7 +1880,7 @@
       role="presentation"
       data-id="gIb8XlUyJK"
       style="--bs:none;--bw:1px 1px 1px 1px;--bc:#121212;--shadow:none;--d:block;--d-mobile:block;--d-tablet:block;--op:100%;--pageType:GP_PRODUCT;--bblr:0px;--bbrr:0px;--btlr:0px;--btrr:0px;--ta:center"
-      class="gp-group/image gp-relative force-publish-1772176908127 gp-flex-none gp-h-auto mobile:gp-flex-none mobile:gp-h-auto tablet:gp-flex-none tablet:gp-h-auto gIb8XlUyJK"
+      class="gp-group/image gp-relative force-publish-1773366451725 gp-flex-none gp-h-auto mobile:gp-flex-none mobile:gp-h-auto tablet:gp-flex-none tablet:gp-h-auto gIb8XlUyJK"
     >
       <div
         
@@ -2149,8 +2149,8 @@
     >
       
     {% assign locationOrigin = request.origin | append: routes.root_url | split: '/' | join: '/' %}
-    <div data-id="gRa1qdeaB_"
-        class="gRa1qdeaB_"
+    <div data-id="gr1YqVjuq1"
+        class="gr1YqVjuq1"
         style="--ta:left;--bs:solid;--bw:1px 0px 0px 0px;--bc:#E6E9EB;--shadow:none;--d:block;--d-mobile:block;--d-tablet:block;--op:100%;--pageType:GP_PRODUCT;--bblr:0px;--bbrr:0px;--btlr:0px;--btrr:0px;--mb:var(--g-s-xl);--pt:var(--g-s-xl);--pl:var(--g-s-xl);--pr:var(--g-s-xl);--dynamic-source-color:#F4F4F4"
       >
       <div class="gp-flex" style="--jc:left">
@@ -2159,7 +2159,7 @@
           class=" gp-text-instant gp-text"
           style="--w:100%;--w-tablet:100%;--w-mobile:100%;--tdt:auto;--bblr:0px;--bbrr:0px;--btlr:0px;--btrr:0px;--ta:left;--line-clamp:unset;--line-clamp-tablet:unset;--line-clamp-mobile:unset;--fs:normal;--ff:var(--g-font-body, body);--weight:400;--size:16px;--size-tablet:16px;--size-mobile:14px;--lh:150%;--lh-tablet:150%;--lh-mobile:150%;--ls:0px;--c:#3B3B3B;word-break:break-word;overflow:hidden;--tdl:"
         >
-          {{ section.settings.ggRa1qdeaB__text | replace: '$locationOrigin', locationOrigin }}
+          {{ section.settings.ggr1YqVjuq1_text | replace: '$locationOrigin', locationOrigin }}
         </div>
       </div>
     </div>
