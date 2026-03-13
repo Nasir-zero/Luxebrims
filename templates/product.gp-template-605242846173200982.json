@@ -52,7 +52,8 @@
         "ggipHem5Q4g_text": "<p>Easy Returns</p>",
         "ggtEp5p07vi_text": "<p>Hand Crafted </p>",
         "gguwWNF_ybM_text": "<p>Hand Crafted </p>",
-        "ggvvlCImQ_P_text": "<p>Premium Quality</p>"
+        "ggvvlCImQ_P_text": "<p>Premium Quality</p>",
+        "section_preload": "true"
       },
       "type": "gp-section-605242846307615318"
     },
@@ -85,7 +86,7 @@
     },
     "gp_section_605242846307811926": {
       "settings": {
-        "checksum": "880cc23cd623f815826f5c926ec934a24f63fd7d3b8e5766a5108dd333268dfb_1_1_1_0__1",
+        "checksum": "81c9471d04c6d14064e2644f3c0d9f176461097dd60e0d3fe5bdb677524a96f6_1_1_1_0__1",
         "gg-Vwvq42Vj_text": "Payment Security",
         "gg0062YpiqU_text": "Efficient and Safe Logitics",
         "gg1elQw0vld_text": "<p>Customer Service</p>",
@@ -101,14 +102,14 @@
         "ggL85oxCgCt_childItem_1": "<p>Size+fit</p>",
         "ggL85oxCgCt_childItem_2": "<p>Free Shipping</p>",
         "ggODL_QU1nu_childItem_0": "<p>Security and Service</p>",
-        "ggRa1qdeaB__text": "<p><span style=\"color:#3B3B3B;\">Lbora delivers to customers around the world — with free shipping and estimated delivery in 20-25 business days.</span><br><span style=\"color:#3B3B3B;\">Note: Delivery times may vary slightly depending on your location.</span></p>",
-        "ggSjQVgOFCb_text": "<p>Privacy Protection  </p>",
+        "ggRa1qdeaB__text": "<p><span style=\"color:#3B3B3B;\">Lbora delivers to customers around the world — with free shipping and estimated delivery in 8-20 business days.</span><br><span style=\"color:#3B3B3B;\">Note: Delivery times may vary slightly depending on your location.</span></p>",
+        "ggSjQVgOFCb_text": "<p>Privacy Protection &nbsp;</p>",
         "ggTTJpRkYts_text": "Customer Service",
         "ggUWHchKLTN_text": "<p>Efficient and Safe Logitics</p>",
         "ggWccoCWPlH_viewLessText": "Show less",
         "ggWccoCWPlH_viewMoreText": "Show more",
         "ggYaozV6nT0_text": "Quantity",
-        "ggagGj567_n_text": "<p>At <span style=\"color:#3B3B3B;\">Lbora</span>, our hats are crafted with precision to ensure a tailored and flattering fit.</p><p> </p><p><strong>True to Size:</strong><br>Each style is designed to fit true to size, following standard international headwear measurements. Simply select your usual hat size for the most comfortable fit.</p><p> </p><p><strong>Between Sizes:</strong><br>If you find yourself between sizes, we recommend using one of our premium hat fillers. Designed for subtle comfort, they provide a secure fit without compromising the hat’s shape or style.</p><p> </p><p><strong>Need Assistance</strong>:<br>Not sure of your size? Visit our <a href=\"https://luxebrims.com/pages/hat-size-guide\"><u>Hat Size Guide</u></a> or reach out to our support team — we're here to help you find your perfect fit.</p>",
+        "ggagGj567_n_text": "<p>At <span style=\"color:#3B3B3B;\">Lbora</span>, our hats are crafted with precision to ensure a tailored and flattering fit.</p><p>&nbsp;</p><p><strong>True to Size:</strong><br>Each style is designed to fit true to size, following standard international headwear measurements. Simply select your usual hat size for the most comfortable fit.</p><p>&nbsp;</p><p><strong>Between Sizes:</strong><br>If you find yourself between sizes, we recommend using one of our premium hat fillers. Designed for subtle comfort, they provide a secure fit without compromising the hat’s shape or style.</p><p>&nbsp;</p><p><strong>Need Assistance</strong>:<br>Not sure of your size? Visit our <a href=\"https://luxebrims.com/pages/hat-size-guide\"><u>Hat Size Guide</u></a> or reach out to our support team — we're here to help you find your perfect fit.</p>",
         "ggdrRa5su4C_label": "Buy Now",
         "ggdrRa5su4C_outOfStockLabel": "Out of stock",
         "ggdrRa5su4C_unavailableLabel": "Unavailable",
