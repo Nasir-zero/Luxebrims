@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin language editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "general": {
     "password_page": {
@@ -508,6 +517,52 @@
       "signup_form_email_label": "Email",
       "signup_form_success": "We will send you an email right before we open!",
       "password_link": "Enter using password"
+    }
+  },
+  "gempages": {
+    "Carousel": {
+      "no_slider": "Sin deslizador"
+    },
+    "Newsletter": {
+      "err_msg_default": "No se puede enviar el correo electrónico. Inténtelo de nuevo más tarde.",
+      "success_msg_default": "Gracias por suscribirte"
+    },
+    "IconListV2": {
+      "icons_not_found": "Íconos no encontrados"
+    },
+    "IconList": {
+      "icons_not_found": "Íconos no encontrados"
+    },
+    "IconListHoz": {
+      "icons_not_found": "Íconos no encontrados"
+    },
+    "Product": {
+      "product_not_found": "Producto no encontrado"
+    },
+    "ProductList": {
+      "product_not_found": "¡Producto no encontrado!",
+      "no_products_found": "¡No se encontraron productos!",
+      "no_related_products": "¡No hay productos relacionados!"
+    },
+    "ProductTitle": {
+      "product_not_found": "Producto no encontrado"
+    },
+    "ProductVariants": {
+      "please_select": "Por favor, seleccione una opción"
+    },
+    "StockCounter": {
+      "let_buy_now": "<mark>¡DATE PRISA!</mark> COMPRAR AHORA"
+    },
+    "Breadcrumb": {
+      "home": "Inicio"
+    },
+    "CarouselV3": {
+      "no_slider": "Sin deslizador"
+    },
+    "ProductListV3": {
+      "product_not_found": "¡Producto no encontrado!",
+      "no_products_found": "¡No se encontraron productos!",
+      "no_related_products": "¡No hay productos relacionados!"
     }
   }
 }
