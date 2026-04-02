@@ -12,6 +12,7 @@
     "gp_section_605242846307549782": {
       "type": "gp-section-605242846307549782",
       "settings": {
+        "section_preload": "true",
         "checksum": "874a11a86ded9e339e9434541aed5add9688eab8f4b949f10579831c170de6c4_1_1_1_0__1"
       }
     },
@@ -73,27 +74,10 @@
         "gg0062YpiqU_text": "Efficient and Safe Logitics",
         "ggTTJpRkYts_text": "Customer Service"
       }
-    },
-    "gp_section_613349730121941659": {
-      "type": "gp-section-613349730121941659",
-      "blocks": {
-        "gp_app_boost-a-i-search-discovery_gulYoIdIjq": {
-          "type": "shopify://apps/boost-ai-search-filter/blocks/filter-product-list-ssr/7fc998ae-a150-4367-bab8-505d8a4503f7",
-          "settings": {}
-        }
-      },
-      "block_order": [
-        "gp_app_boost-a-i-search-discovery_gulYoIdIjq"
-      ],
-      "settings": {
-        "section_preload": "true",
-        "checksum": "e5375834bd88d2496605f8eb57c2972af9ef3d48199857ea2bf378b773bc6902_1_1_1_0__1"
-      }
     }
   },
   "order": [
     "gp_section_605242846307811926",
-    "gp_section_613349730121941659",
     "gp_section_605242846307549782",
     "gp_section_605242846307680854"
   ]
