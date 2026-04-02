@@ -9,20 +9,6 @@
  */
 {
   "sections": {
-    "gp_section_604075445322908386": {
-      "type": "gp-section-604075445322908386",
-      "settings": {
-        "checksum": "5a69bcba81f12d43f2fb2733f153a1e7cf76b72a23c707dbaee64563e714fef8_1_1_1_0__1"
-      }
-    },
-    "gp_section_604075445323039458": {
-      "type": "gp-section-604075445323039458",
-      "settings": {
-        "section_preload": "true",
-        "checksum": "f3ee0c48f3880a671e50e902a69272b92df1e17322e32850b9b05d41cbbb269e_1_1_1_0__1",
-        "gggHuB5kZCF_text": "Model Showcase"
-      }
-    },
     "gp_section_604075445323104994": {
       "type": "gp-section-604075445323104994",
       "settings": {
@@ -53,13 +39,13 @@
         "ggL85oxCgCt_childItem_2": "<p>Free Shipping</p>",
         "ggWccoCWPlH_viewMoreText": "Show more",
         "ggWccoCWPlH_viewLessText": "Show less",
-        "ggagGj567_n_text": "<p>At <span style=\"color:#3B3B3B;\">Lbora</span>, our hats are crafted with precision to ensure a tailored and flattering fit.</p><p>&nbsp;</p><p><strong>True to Size:</strong><br>Each style is designed to fit true to size, following standard international headwear measurements. Simply select your usual hat size for the most comfortable fit.</p><p>&nbsp;</p><p><strong>Between Sizes:</strong><br>If you find yourself between sizes, we recommend using one of our premium hat fillers. Designed for subtle comfort, they provide a secure fit without compromising the hat’s shape or style.</p><p>&nbsp;</p><p><strong>Need Assistance</strong>:<br>Not sure of your size? Visit our <a href=\"https://luxebrims.com/pages/hat-size-guide\"><u>Hat Size Guide</u></a> or reach out to our support team — we're here to help you find your perfect fit.</p>",
+        "ggagGj567_n_text": "<p>At <span style=\"color:#3B3B3B;\">Lbora</span>, our hats are crafted with precision to ensure a tailored and flattering fit.</p><p> </p><p><strong>True to Size:</strong><br>Each style is designed to fit true to size, following standard international headwear measurements. Simply select your usual hat size for the most comfortable fit.</p><p> </p><p><strong>Between Sizes:</strong><br>If you find yourself between sizes, we recommend using one of our premium hat fillers. Designed for subtle comfort, they provide a secure fit without compromising the hat’s shape or style.</p><p> </p><p><strong>Need Assistance</strong>:<br>Not sure of your size? Visit our <a href=\"https://luxebrims.com/pages/hat-size-guide\"><u>Hat Size Guide</u></a> or reach out to our support team — we're here to help you find your perfect fit.</p>",
         "ggRa1qdeaB__text": "<p><span style=\"color:#3B3B3B;\">Lbora delivers to customers around the world — with free shipping and estimated delivery in 8-20 business days.</span><br><span style=\"color:#3B3B3B;\">Note: Delivery times may vary slightly depending on your location.</span></p>",
         "ggODL_QU1nu_childItem_0": "<p>Security and Service</p>",
         "ggoBqigMSJW_text": "<p>Payment Security</p>",
         "ggA-bjY31sD_text": "<p>Your payment security matters to us. Lbora partners exclusively with certified payment service providers who are committed to protecting and maintaining the confidentiality of your payment information.</p>",
         "ggefszgLuAZ_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/0700/3540/7006/files/1_0acf9969-a05d-4234-bc17-aa52917933b7.webp",
-        "ggSjQVgOFCb_text": "<p>Privacy Protection &nbsp;</p>",
+        "ggSjQVgOFCb_text": "<p>Privacy Protection  </p>",
         "ggGHGvQgckX_text": "<p>At Lbora, we protect your privacy with industry-standard encryption. Your shipping address, payment information, and purchase details are secured throughout your entire shopping experience. Shop with confidence.</p>",
         "ggjR23pmRhA_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/0700/3540/7006/files/1_860e4558-0116-4da8-9fde-5f40f8344a3d.webp",
         "ggUWHchKLTN_text": "<p>Efficient and Safe Logitics</p>",
@@ -72,9 +58,45 @@
         "ggTTJpRkYts_text": "Customer Service"
       }
     },
+    "gp_section_604075445323039458": {
+      "type": "gp-section-604075445323039458",
+      "settings": {
+        "section_preload": "true",
+        "checksum": "f3ee0c48f3880a671e50e902a69272b92df1e17322e32850b9b05d41cbbb269e_1_1_1_0__1",
+        "gggHuB5kZCF_text": "Model Showcase"
+      }
+    },
+    "1775117133ab343edd": {
+      "type": "apps",
+      "blocks": {
+        "boost_ai_search_filter_recommendation_ssr_G9WLKg": {
+          "type": "shopify://apps/boost-ai-search-filter/blocks/recommendation-ssr/7fc998ae-a150-4367-bab8-505d8a4503f7",
+          "settings": {
+            "widgetId": "productpage-738186",
+            "additional_classes": "",
+            "custom_css": ""
+          }
+        }
+      },
+      "block_order": [
+        "boost_ai_search_filter_recommendation_ssr_G9WLKg"
+      ],
+      "settings": {
+        "display_id": false,
+        "include_margins": true
+      }
+    },
+    "gp_section_604075445322908386": {
+      "type": "gp-section-604075445322908386",
+      "settings": {
+        "section_preload": "false",
+        "checksum": "5a69bcba81f12d43f2fb2733f153a1e7cf76b72a23c707dbaee64563e714fef8_1_1_1_0__1"
+      }
+    },
     "gp_section_604798467935568555": {
       "type": "gp-section-604798467935568555",
       "settings": {
+        "section_preload": "false",
         "checksum": "14202802c7d9347c3560f9850ebd2edb575504afcbbb1c75f66e39fb4665d256_1_1_1_0__1",
         "ggNxwyZb67Z_text": "Hat Size Guide",
         "ggUlQq-H7cV_text": "<p>Find your perfect fit in two steps: measure your head or use a hat you already own, then convert the result with our size chart.</p>",
@@ -86,6 +108,7 @@
   "order": [
     "gp_section_604075445323104994",
     "gp_section_604075445323039458",
+    "1775117133ab343edd",
     "gp_section_604075445322908386",
     "gp_section_604798467935568555"
   ]
