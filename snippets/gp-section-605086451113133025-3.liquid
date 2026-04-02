@@ -150,10 +150,19 @@
               {{ product.metafields.judgeme.badge }}
             </div>
           {% when "review_widget" %}
-            <div style='clear:both'></div>
-            <div id='judgeme_product_reviews' class='jdgm-widget jdgm-review-widget' data-product-title='{{ product.title | escape }}' data-id='{{ product.id }}'>
-                {{ product.metafields.judgeme.widget }}
-            </div>
+            {% assign has_legacy = false %}
+            {% if product.metafields.judgeme.widget.size > 20 %}
+            {% assign has_legacy = true %}
+            {% endif %}
+              <div style='clear:both'></div>
+              <div id='judgeme_product_reviews' class='jdgm-widget jdgm-review-widget' data-product-title='{{ product.title | escape }}' data-id='{{ product.id }}' data-product-id='{{ product.id }}' data-widget='review' data-auto-install='false' data-shop-reviews-count='{{ shop.metafields.judgeme.shop_reviews_count | default: 0 | escape }}' data-entry-point='review_widget.js' data-entry-key='review-widget/main.js'>
+                {% if has_legacy %}
+                <div class='jdgm-legacy-widget-content' style='display: none;'>{{ product.metafields.judgeme.widget }}</div>
+                {% endif %}
+              </div>
+              {% if product.metafields.judgeme.review_widget_data %}
+                <script>jdgm.data ||= {}; jdgm.data.reviewWidget ||= {}; jdgm.data.reviewWidget[{{ product.id }}] = {{ product.metafields.judgeme.review_widget_data }}</script>
+              {% endif %}
           {% when "reviews_carousel" %}
             <div class='jdgm-carousel-wrapper'>
               {% assign jm_metafields = shop.metafields.judgeme %}
@@ -202,7 +211,7 @@
     
 
     
-    <gp-row gp-data='{"uid":"gBmxFumqpt"}' data-id="gBmxFumqpt" id="gBmxFumqpt" data-same-height-subgrid-container class="gBmxFumqpt gp-relative gp-mx-auto gp-mb-0 gp-grid gp-max-w-full gp-transition-colors gp-duration-200 gp-ease-in-out [&_*]:gp-max-w-full gp-grid-rows-[1fr]" style="--mb:16px;--d:grid;--d-tablet:grid;--d-mobile:grid;--bs:none;--bw:1px 1px 1px 1px;--bc:var(--g-c-line-3, line-3);--bblr:0px;--bbrr:0px;--btlr:0px;--btrr:0px;--op:100%;--cg:16px;--rg:16px;--rg-tablet:16px;--rg-mobile:16px;--gtc:minmax(0, 6fr) minmax(0, 6fr);--gtc-mobile:minmax(0, 12fr);--w:var(--g-ct-w, 1200px);--h:auto;--pc:start">
+    <gp-row gp-data='{"background":{},"uid":"gBmxFumqpt"}' data-id="gBmxFumqpt" id="gBmxFumqpt" data-same-height-subgrid-container class="gBmxFumqpt gp-relative gp-mx-auto gp-mb-0 gp-grid gp-max-w-full gp-transition-colors gp-duration-200 gp-ease-in-out [&_*]:gp-max-w-full gp-grid-rows-[1fr]" style="--mb:16px;--d:grid;--d-tablet:grid;--d-mobile:grid;--bs:none;--bw:1px 1px 1px 1px;--bc:var(--g-c-line-3, line-3);--bblr:0px;--bbrr:0px;--btlr:0px;--btrr:0px;--op:100%;--cg:16px;--rg:16px;--rg-tablet:16px;--rg-mobile:16px;--gtc:minmax(0, 6fr) minmax(0, 6fr);--gtc-mobile:minmax(0, 12fr);--w:var(--g-ct-w, 1200px);--h:auto;--pc:start">
       
 
       <div
@@ -254,7 +263,7 @@
     >
       <div gp-el-wrapper style="--bs:none;--bw:1px 1px 1px 1px;--bc:var(--g-c-line-3, line-3);--d:block;--d-mobile:block;--d-tablet:block;--op:100%;--pageType:GP_PRODUCT;--bblr:0px;--bbrr:0px;--btlr:0px;--btrr:0px" class="gu1qSE1VTP ">
       
-    <gp-coupon data-id="gu1qSE1VTP" data-active="false" gp-setting='{"defaultLabel":"Copy","clickedLabel":"Copy","copyContent":"$10Off-LBORA","uid":"gu1qSE1VTP","enableTextStyle":true}' class="gp-coupon [&_button]:data-[active=true]:!gp-bg-[#2C934E]">
+    <gp-coupon data-id="gu1qSE1VTP" data-active="false" gp-setting='{"defaultLabel":"{{ section.settings.ggu1qSE1VTP_defaultLabel }}","clickedLabel":"{{ section.settings.ggu1qSE1VTP_clickedLabel }}","copyContent":"$10Off-LBORA","uid":"gu1qSE1VTP","enableTextStyle":true}' class="gp-coupon [&_button]:data-[active=true]:!gp-bg-[#2C934E]">
     <style>.gp-coupon[data-active="true"] .gu1qSE1VTP::before {
         ;
         ;
@@ -351,23 +360,23 @@
     
 
     
-    <gp-row gp-data='{"background":{"desktop":{"attachment":"scroll","color":"#F3F3F3","image":{"height":0,"src":"","width":0},"position":{"x":50,"y":50},"preload":false,"repeat":"no-repeat","size":"cover","type":"color"}},"uid":"gXcqRHQJM3"}' data-id="gXcqRHQJM3" id="gXcqRHQJM3" data-same-height-subgrid-container class="gXcqRHQJM3 gp-relative gp-mx-auto gp-mb-0 gp-grid gp-max-w-full gp-transition-colors gp-duration-200 gp-ease-in-out [&_*]:gp-max-w-full gp-grid-rows-[1fr]" style="--bs:none;--shadow:none;--d:grid;--d-mobile:grid;--d-tablet:grid;--op:100%;--pageType:GP_PRODUCT;--bblr:15px;--bbrr:15px;--btlr:15px;--btrr:15px;--pt:var(--g-s-s);--pl:var(--g-s-s);--pb:var(--g-s-s);--pr:var(--g-s-s);--pt-mobile:4px;--pl-mobile:16px;--pb-mobile:4px;--pr-mobile:8px;--cg:0px;--cg-mobile:0px;--rg:0px;--rg-mobile:0px;--gtc:minmax(0, 9fr) minmax(0, 3fr);--gtc-tablet:minmax(0, 9fr) minmax(0, 3fr);--gtc-mobile:minmax(0, 8fr) minmax(0, 4fr);--w:var(--g-ct-w, 1200px);--h:auto;--bgc:#F3F3F3;--bgi:url();--bgp:50% 50%;--bgs:cover;--bgr:no-repeat;--bga:scroll;--pc:start">
+    <gp-row gp-data='{"background":{"desktop":{"attachment":"scroll","color":"#F3F3F3","image":{"height":0,"src":"","width":0},"position":{"x":50,"y":50},"preload":false,"repeat":"no-repeat","size":"cover","type":"color"}},"uid":"glLcIqjeH2"}' data-id="glLcIqjeH2" id="glLcIqjeH2" data-same-height-subgrid-container class="glLcIqjeH2 gp-relative gp-mx-auto gp-mb-0 gp-grid gp-max-w-full gp-transition-colors gp-duration-200 gp-ease-in-out [&_*]:gp-max-w-full gp-grid-rows-[1fr]" style="--bs:none;--shadow:none;--d:grid;--d-mobile:grid;--d-tablet:grid;--op:100%;--pageType:GP_PRODUCT;--bblr:15px;--bbrr:15px;--btlr:15px;--btrr:15px;--pt:var(--g-s-s);--pl:var(--g-s-s);--pb:var(--g-s-s);--pr:var(--g-s-s);--pt-mobile:4px;--pl-mobile:16px;--pb-mobile:4px;--pr-mobile:8px;--cg:0px;--cg-mobile:0px;--rg:0px;--rg-mobile:0px;--gtc:minmax(0, 9fr) minmax(0, 3fr);--gtc-tablet:minmax(0, 9fr) minmax(0, 3fr);--gtc-mobile:minmax(0, 8fr) minmax(0, 4fr);--w:var(--g-ct-w, 1200px);--h:auto;--bgc:#F3F3F3;--bgi:url();--bgp:50% 50%;--bgs:cover;--bgr:no-repeat;--bga:scroll;--pc:start">
       
 
       <div
       data-same-height-display-contents
       style="--jc:center"
-      class="gWlEEmnq-E gp-relative gp-flex gp-flex-col"
+      class="gowsPdMHP0 gp-relative gp-flex gp-flex-col"
     >
       <div
       data-same-height-display-contents
       
-      class="gV8QtzhRFF gp-relative gp-flex gp-flex-col"
+      class="gaEQmsAubV gp-relative gp-flex gp-flex-col"
     >
       
     {% assign locationOrigin = request.origin | append: routes.root_url | split: '/' | join: '/' %}
-    <div data-id="gGI5Xn0i5q"
-        class="gGI5Xn0i5q"
+    <div data-id="gO_w1n3-Yo"
+        class="gO_w1n3-Yo"
         style="--ta:center;--bs:none;--bw:1px 1px 1px 1px;--bc:#121212;--shadow:none;--d:block;--d-mobile:block;--d-tablet:block;--op:100%;--pageType:GP_PRODUCT;--bblr:0px;--bbrr:0px;--btlr:0px;--btrr:0px;--mt:0px;--ml:0px;--mb:0px;--mr:0px;--dynamic-source-color:#F4F4F4"
       >
       <div class="gp-flex" style="--jc:center">
@@ -376,7 +385,7 @@
           class=" gp-text-instant gp-text"
           style="--w:100%;--w-tablet:100%;--w-mobile:100%;--tdt:auto;--b:none;--bc:#121212;--bw:1px 1px 1px 1px;--bblr:0px;--bbrr:0px;--btlr:0px;--btrr:0px;--shadow:none;--ts:none;--ta:left;--ta-mobile:left;--line-clamp:unset;--line-clamp-tablet:unset;--line-clamp-mobile:unset;--fs:normal;--ff:var(--g-font-Inter, 'Inter'), var(--g-font-body, body);--weight:400;--size:16px;--size-tablet:16px;--size-mobile:12px;--lh:150%;--lh-tablet:180%;--lh-mobile:180%;--ls:normal;--c:#191919;--tt:none;word-break:break-word;--bgc:#00000000;--bgi:url();--bgp:50% 50%;--bgs:cover;--bgr:no-repeat;--bga:scroll;--pl:0px;--pr:0px;--pt:0px;--pb:0px;overflow:hidden;--tdl:"
         >
-          {{ section.settings.ggGI5Xn0i5q_text | replace: '$locationOrigin', locationOrigin }}
+          {{ section.settings.ggO_w1n3-Yo_text | replace: '$locationOrigin', locationOrigin }}
         </div>
       </div>
     </div>
@@ -385,17 +394,17 @@
     </div><div
       data-same-height-display-contents
       style="--jc:center"
-      class="gETzSxWPam gp-relative gp-flex gp-flex-col"
+      class="g72_DbhGfK gp-relative gp-flex gp-flex-col"
     >
-      <div gp-el-wrapper style="--bs:none;--bw:1px 1px 1px 1px;--bc:var(--g-c-line-3, line-3);--d:block;--d-mobile:block;--d-tablet:block;--op:100%;--pageType:GP_PRODUCT;--bblr:0px;--bbrr:0px;--btlr:0px;--btrr:0px" class="gmKx19dv52 ">
+      <div gp-el-wrapper style="--bs:none;--bw:1px 1px 1px 1px;--bc:var(--g-c-line-3, line-3);--d:block;--d-mobile:block;--d-tablet:block;--op:100%;--pageType:GP_PRODUCT;--bblr:0px;--bbrr:0px;--btlr:0px;--btrr:0px" class="gBfoKdgGrI ">
       
-    <gp-coupon data-id="gmKx19dv52" data-active="false" gp-setting='{"defaultLabel":"Copy","clickedLabel":"Copy","copyContent":"$25Off-LBORA","uid":"gmKx19dv52","enableTextStyle":true}' class="gp-coupon [&_button]:data-[active=true]:!gp-bg-[#2C934E]">
-    <style>.gp-coupon[data-active="true"] .gmKx19dv52::before {
+    <gp-coupon data-id="gBfoKdgGrI" data-active="false" gp-setting='{"defaultLabel":"{{ section.settings.ggBfoKdgGrI_defaultLabel }}","clickedLabel":"{{ section.settings.ggBfoKdgGrI_clickedLabel }}","copyContent":"Easter Sale Over$200","uid":"gBfoKdgGrI","enableTextStyle":true}' class="gp-coupon [&_button]:data-[active=true]:!gp-bg-[#2C934E]">
+    <style>.gp-coupon[data-active="true"] .gBfoKdgGrI::before {
         ;
         ;
         box-shadow:  !important;
       }
-      .gp-coupon[data-active="true"] .gmKx19dv52 {
+      .gp-coupon[data-active="true"] .gBfoKdgGrI {
         ;
         box-shadow:  !important;
       }.gp-coupon[data-active="true"] button {
@@ -408,7 +417,7 @@
       class="gp-flex gp-flex-col"
     >
       <div style="--ta:left;--ta-mobile:center" >
-        <style>[data-id="gmKx19dv52"].gp-button-base::before, [data-id="gmKx19dv52-interaction"].gp-button-base::before {
+        <style>[data-id="gBfoKdgGrI"].gp-button-base::before, [data-id="gBfoKdgGrI-interaction"].gp-button-base::before {
       
     content: "";
     height: 100%;
@@ -428,17 +437,17 @@
     }
   
       
-  [data-id="gmKx19dv52"]:hover::before, [data-id="gmKx19dv52-interaction"]:hover::before {
+  [data-id="gBfoKdgGrI"]:hover::before, [data-id="gBfoKdgGrI-interaction"]:hover::before {
     
     
   }</style>
         
         <button
-          data-id="gmKx19dv52-interaction" dataId="gmKx19dv52-interaction" data-state="idle" aria-label="Copy"
+          data-id="gBfoKdgGrI-interaction" dataId="gBfoKdgGrI-interaction" data-state="idle" aria-label="Copy"
           
           type="button"
           style="--w:Auto;--w-tablet:Auto;--w-mobile:Auto;--h:Auto;--h-tablet:Auto;--h-mobile:Auto;--pl:12px;--pr:12px;--pt:12px;--pb:12px;--bblr:15px;--bbrr:15px;--btlr:15px;--btrr:15px;--hvr-bblr:15px;--hvr-bbrr:15px;--hvr-btlr:15px;--hvr-btrr:15px;--bgi:;--hvr-bgi:;--hvr-bg:var(--g-c-highlight, highlight);--bg:var(--g-c-brand, brand);--c:var(--g-c-text-3, text-3);--ff:var(--g-font-PlayfairDisplay-VariableFont_wght, 'PlayfairDisplay-VariableFont_wght'), var(--g-font-body, body);--weight:400;--size:14px;--size-tablet:14px;--size-mobile:14px;--lh:180%;--lh-tablet:180%;--lh-mobile:180%"
-          class="gmKx19dv52 gp-button-base gp-group gp-relative gp-inline-flex gp-max-w-full gp-items-center gp-justify-center gp-no-underline gp-transition-colors gp-duration-200 disabled:gp-btn-disabled disabled:gp-opacity-30 gp-text-g-text-3 "
+          class="gBfoKdgGrI gp-button-base gp-group gp-relative gp-inline-flex gp-max-w-full gp-items-center gp-justify-center gp-no-underline gp-transition-colors gp-duration-200 disabled:gp-btn-disabled disabled:gp-opacity-30 gp-text-g-text-3 "
         >
         
         <div class="gp-inline-flex">
@@ -456,7 +465,7 @@
       style="--ff:var(--g-font-PlayfairDisplay-VariableFont_wght, 'PlayfairDisplay-VariableFont_wght'), var(--g-font-body, body);--weight:400;--size:14px;--size-tablet:14px;--size-mobile:14px;--lh:180%;--lh-tablet:180%;--lh-mobile:180%;--ts:none;word-break:break-word"
       class="gp-content-product-button group-active/button:!gp-text-inherit gp-relative gp-flex gp-h-full gp-items-center gp-overflow-hidden gp-break-words group-data-[state=loading]:gp-invisible [&_p]:gp-whitespace-pre-line gp-text button-text"
     >
-      {{ section.settings.ggmKx19dv52_defaultLabel }}
+      {{ section.settings.ggBfoKdgGrI_defaultLabel }}
     </span>
         </div>
         
@@ -1567,7 +1576,7 @@
       class="gp-product-button"
       gp-label-out-of-stock="{{ section.settings.ggGmf16r7qA_outOfStockLabel }}"
       gp-label-unavailable="{{ section.settings.ggGmf16r7qA_unavailableLabel }}"
-      gp-data='{"styles":{"errorTypo":{"attrs":{"color":"error"},"type":"paragraph-2"},"successTypo":{"attrs":{"color":"success"},"type":"paragraph-2"}},"setting":{"errorType":"built-in","actionEffect":"open-cart-drawer","enableMessage":true,"label":"Add To cart","errorMessage":"Cannot add product to cart","successMessage":"Add product to cart successfully","outOfStockLabel":"Out of stock","customURL":{"link":"/cart","target":"_self"}},"variantID":"{{variant.id}}","disabled":"{{variant.available}}","totalVariant":"{{total_combinations}}"}'
+      gp-data='{"styles":{"errorTypo":{"attrs":{"color":"error"},"type":"paragraph-2"},"successTypo":{"attrs":{"color":"success"},"type":"paragraph-2"}},"setting":{"errorType":"built-in","actionEffect":"open-cart-drawer","enableMessage":true,"label":"Add To cart","errorMessage":"{{ section.settings.ggGmf16r7qA_errorMessage }}","successMessage":"{{ section.settings.ggGmf16r7qA_successMessage }}","outOfStockLabel":"Out of stock","customURL":{"link":"/cart","target":"_self"}},"variantID":"{{variant.id}}","disabled":"{{variant.available}}","totalVariant":"{{total_combinations}}"}'
       data-variant-selection-required-message=""
       gp-enable-third-partycart="{{shop.metafields.GEMPAGES.enableThirdPartyCart}}"
     >
@@ -1737,7 +1746,7 @@
       class="gp-product-button"
       gp-label-out-of-stock="{{ section.settings.ggdrRa5su4C_outOfStockLabel }}"
       gp-label-unavailable="{{ section.settings.ggdrRa5su4C_unavailableLabel }}"
-      gp-data='{"styles":{"errorTypo":{"attrs":{"color":"error"},"type":"paragraph-2"},"successTypo":{"attrs":{"color":"success"},"type":"paragraph-2"}},"setting":{"errorType":"built-in","actionEffect":"buy-now","enableMessage":true,"label":"Buy Now","errorMessage":"Cannot add product to cart","successMessage":"Add product to cart successfully","outOfStockLabel":"Out of stock","customURL":{"link":"/cart","target":"_self"}},"variantID":"{{variant.id}}","disabled":"{{variant.available}}","totalVariant":"{{total_combinations}}"}'
+      gp-data='{"styles":{"errorTypo":{"attrs":{"color":"error"},"type":"paragraph-2"},"successTypo":{"attrs":{"color":"success"},"type":"paragraph-2"}},"setting":{"errorType":"built-in","actionEffect":"buy-now","enableMessage":true,"label":"Buy Now","errorMessage":"{{ section.settings.ggdrRa5su4C_errorMessage }}","successMessage":"{{ section.settings.ggdrRa5su4C_successMessage }}","outOfStockLabel":"Out of stock","customURL":{"link":"/cart","target":"_self"}},"variantID":"{{variant.id}}","disabled":"{{variant.available}}","totalVariant":"{{total_combinations}}"}'
       data-variant-selection-required-message=""
       gp-enable-third-partycart="{{shop.metafields.GEMPAGES.enableThirdPartyCart}}"
     >
@@ -1931,7 +1940,7 @@
       role="presentation"
       data-id="gIb8XlUyJK"
       style="--bs:none;--bw:1px 1px 1px 1px;--bc:#121212;--shadow:none;--d:block;--d-mobile:block;--d-tablet:block;--op:100%;--pageType:GP_PRODUCT;--bblr:0px;--bbrr:0px;--btlr:0px;--btrr:0px;--ta:center"
-      class="gp-group/image gp-relative force-publish-1773367042297 gp-flex-none gp-h-auto mobile:gp-flex-none mobile:gp-h-auto tablet:gp-flex-none tablet:gp-h-auto gIb8XlUyJK"
+      class="gp-group/image gp-relative force-publish-1775116701889 gp-flex-none gp-h-auto mobile:gp-flex-none mobile:gp-h-auto tablet:gp-flex-none tablet:gp-h-auto gIb8XlUyJK"
     >
       <div
         
@@ -1941,13 +1950,13 @@
         
     <picture style="border-radius:inherit" class="gp-contents">
       
-      <source media="(max-width: 767px)" data-srcSet="{{ "1_0acf9969-a05d-4234-bc17-aa52917933b7.webp" | file_url }}" srcset="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTQwMCIgaGVpZ2h0PSI5MyIgdmVyc2lvbj0iMS4xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIj4KICAgIDxkZWZzPgogICAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImctMTQwMC05MyI+CiAgICAgICAgPHN0b3Agc3RvcC1jb2xvcj0icmdiYSg1MSwgNTEsIDUxLCAwKSIgb2Zmc2V0PSIyMCUiIC8+CiAgICAgICAgPHN0b3Agc3RvcC1jb2xvcj0icmdiYSg1MSwgNTEsIDUxLCAwKSIgb2Zmc2V0PSI1MCUiIC8+CiAgICAgICAgPHN0b3Agc3RvcC1jb2xvcj0icmdiYSg1MSwgNTEsIDUxLCAwKSIgb2Zmc2V0PSI3MCUiIC8+CiAgICAgIDwvbGluZWFyR3JhZGllbnQ+CiAgICA8L2RlZnM+CiAgICA8cmVjdCB3aWR0aD0iMTQwMCIgaGVpZ2h0PSI5MyIgZmlsbD0icmdiYSg1MSwgNTEsIDUxLCAwKSIgLz4KICAgIDxyZWN0IGlkPSJyIiB3aWR0aD0iMTQwMCIgaGVpZ2h0PSI5MyIgZmlsbD0idXJsKCNnLTE0MDAtOTMpIiAvPgogICAgPGFuaW1hdGUgeGxpbms6aHJlZj0iI3IiIGF0dHJpYnV0ZU5hbWU9IngiIGZyb209Ii0xNDAwIiB0bz0iMTQwMCIgZHVyPSIxcyIgcmVwZWF0Q291bnQ9ImluZGVmaW5pdGUiICAvPgogIDwvc3ZnPg==" />
-      <source media="(max-width: 1024px)" data-srcSet="{{ "1_0acf9969-a05d-4234-bc17-aa52917933b7.webp" | file_url }}" srcset="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTQwMCIgaGVpZ2h0PSI5MyIgdmVyc2lvbj0iMS4xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIj4KICAgIDxkZWZzPgogICAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImctMTQwMC05MyI+CiAgICAgICAgPHN0b3Agc3RvcC1jb2xvcj0icmdiYSg1MSwgNTEsIDUxLCAwKSIgb2Zmc2V0PSIyMCUiIC8+CiAgICAgICAgPHN0b3Agc3RvcC1jb2xvcj0icmdiYSg1MSwgNTEsIDUxLCAwKSIgb2Zmc2V0PSI1MCUiIC8+CiAgICAgICAgPHN0b3Agc3RvcC1jb2xvcj0icmdiYSg1MSwgNTEsIDUxLCAwKSIgb2Zmc2V0PSI3MCUiIC8+CiAgICAgIDwvbGluZWFyR3JhZGllbnQ+CiAgICA8L2RlZnM+CiAgICA8cmVjdCB3aWR0aD0iMTQwMCIgaGVpZ2h0PSI5MyIgZmlsbD0icmdiYSg1MSwgNTEsIDUxLCAwKSIgLz4KICAgIDxyZWN0IGlkPSJyIiB3aWR0aD0iMTQwMCIgaGVpZ2h0PSI5MyIgZmlsbD0idXJsKCNnLTE0MDAtOTMpIiAvPgogICAgPGFuaW1hdGUgeGxpbms6aHJlZj0iI3IiIGF0dHJpYnV0ZU5hbWU9IngiIGZyb209Ii0xNDAwIiB0bz0iMTQwMCIgZHVyPSIxcyIgcmVwZWF0Q291bnQ9ImluZGVmaW5pdGUiICAvPgogIDwvc3ZnPg==" />
+      <source media="(max-width: 767px)" data-srcSet="{{ section.settings.ggIb8XlUyJK_srcSet_desktop_src }}" srcset="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTQwMCIgaGVpZ2h0PSI5MyIgdmVyc2lvbj0iMS4xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIj4KICAgIDxkZWZzPgogICAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImctMTQwMC05MyI+CiAgICAgICAgPHN0b3Agc3RvcC1jb2xvcj0icmdiYSg1MSwgNTEsIDUxLCAwKSIgb2Zmc2V0PSIyMCUiIC8+CiAgICAgICAgPHN0b3Agc3RvcC1jb2xvcj0icmdiYSg1MSwgNTEsIDUxLCAwKSIgb2Zmc2V0PSI1MCUiIC8+CiAgICAgICAgPHN0b3Agc3RvcC1jb2xvcj0icmdiYSg1MSwgNTEsIDUxLCAwKSIgb2Zmc2V0PSI3MCUiIC8+CiAgICAgIDwvbGluZWFyR3JhZGllbnQ+CiAgICA8L2RlZnM+CiAgICA8cmVjdCB3aWR0aD0iMTQwMCIgaGVpZ2h0PSI5MyIgZmlsbD0icmdiYSg1MSwgNTEsIDUxLCAwKSIgLz4KICAgIDxyZWN0IGlkPSJyIiB3aWR0aD0iMTQwMCIgaGVpZ2h0PSI5MyIgZmlsbD0idXJsKCNnLTE0MDAtOTMpIiAvPgogICAgPGFuaW1hdGUgeGxpbms6aHJlZj0iI3IiIGF0dHJpYnV0ZU5hbWU9IngiIGZyb209Ii0xNDAwIiB0bz0iMTQwMCIgZHVyPSIxcyIgcmVwZWF0Q291bnQ9ImluZGVmaW5pdGUiICAvPgogIDwvc3ZnPg==" />
+      <source media="(max-width: 1024px)" data-srcSet="{{ section.settings.ggIb8XlUyJK_srcSet_desktop_src }}" srcset="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTQwMCIgaGVpZ2h0PSI5MyIgdmVyc2lvbj0iMS4xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIj4KICAgIDxkZWZzPgogICAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImctMTQwMC05MyI+CiAgICAgICAgPHN0b3Agc3RvcC1jb2xvcj0icmdiYSg1MSwgNTEsIDUxLCAwKSIgb2Zmc2V0PSIyMCUiIC8+CiAgICAgICAgPHN0b3Agc3RvcC1jb2xvcj0icmdiYSg1MSwgNTEsIDUxLCAwKSIgb2Zmc2V0PSI1MCUiIC8+CiAgICAgICAgPHN0b3Agc3RvcC1jb2xvcj0icmdiYSg1MSwgNTEsIDUxLCAwKSIgb2Zmc2V0PSI3MCUiIC8+CiAgICAgIDwvbGluZWFyR3JhZGllbnQ+CiAgICA8L2RlZnM+CiAgICA8cmVjdCB3aWR0aD0iMTQwMCIgaGVpZ2h0PSI5MyIgZmlsbD0icmdiYSg1MSwgNTEsIDUxLCAwKSIgLz4KICAgIDxyZWN0IGlkPSJyIiB3aWR0aD0iMTQwMCIgaGVpZ2h0PSI5MyIgZmlsbD0idXJsKCNnLTE0MDAtOTMpIiAvPgogICAgPGFuaW1hdGUgeGxpbms6aHJlZj0iI3IiIGF0dHJpYnV0ZU5hbWU9IngiIGZyb209Ii0xNDAwIiB0bz0iMTQwMCIgZHVyPSIxcyIgcmVwZWF0Q291bnQ9ImluZGVmaW5pdGUiICAvPgogIDwvc3ZnPg==" />
     
       
       <img
-        base-src="{{ "1_0acf9969-a05d-4234-bc17-aa52917933b7.webp" | file_url }}" quality-type="{}" quality-percent="{}"
-        src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTQwMCIgaGVpZ2h0PSI5MyIgdmVyc2lvbj0iMS4xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIj4KICAgIDxkZWZzPgogICAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImctMTQwMC05MyI+CiAgICAgICAgPHN0b3Agc3RvcC1jb2xvcj0icmdiYSg1MSwgNTEsIDUxLCAwKSIgb2Zmc2V0PSIyMCUiIC8+CiAgICAgICAgPHN0b3Agc3RvcC1jb2xvcj0icmdiYSg1MSwgNTEsIDUxLCAwKSIgb2Zmc2V0PSI1MCUiIC8+CiAgICAgICAgPHN0b3Agc3RvcC1jb2xvcj0icmdiYSg1MSwgNTEsIDUxLCAwKSIgb2Zmc2V0PSI3MCUiIC8+CiAgICAgIDwvbGluZWFyR3JhZGllbnQ+CiAgICA8L2RlZnM+CiAgICA8cmVjdCB3aWR0aD0iMTQwMCIgaGVpZ2h0PSI5MyIgZmlsbD0icmdiYSg1MSwgNTEsIDUxLCAwKSIgLz4KICAgIDxyZWN0IGlkPSJyIiB3aWR0aD0iMTQwMCIgaGVpZ2h0PSI5MyIgZmlsbD0idXJsKCNnLTE0MDAtOTMpIiAvPgogICAgPGFuaW1hdGUgeGxpbms6aHJlZj0iI3IiIGF0dHJpYnV0ZU5hbWU9IngiIGZyb209Ii0xNDAwIiB0bz0iMTQwMCIgZHVyPSIxcyIgcmVwZWF0Q291bnQ9ImluZGVmaW5pdGUiICAvPgogIDwvc3ZnPg==" data-src="{{ "1_0acf9969-a05d-4234-bc17-aa52917933b7.webp" | file_url }}"
+        base-src="{{ section.settings.ggIb8XlUyJK_srcSet_desktop_src }}" quality-type="{}" quality-percent="{}"
+        src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTQwMCIgaGVpZ2h0PSI5MyIgdmVyc2lvbj0iMS4xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIj4KICAgIDxkZWZzPgogICAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImctMTQwMC05MyI+CiAgICAgICAgPHN0b3Agc3RvcC1jb2xvcj0icmdiYSg1MSwgNTEsIDUxLCAwKSIgb2Zmc2V0PSIyMCUiIC8+CiAgICAgICAgPHN0b3Agc3RvcC1jb2xvcj0icmdiYSg1MSwgNTEsIDUxLCAwKSIgb2Zmc2V0PSI1MCUiIC8+CiAgICAgICAgPHN0b3Agc3RvcC1jb2xvcj0icmdiYSg1MSwgNTEsIDUxLCAwKSIgb2Zmc2V0PSI3MCUiIC8+CiAgICAgIDwvbGluZWFyR3JhZGllbnQ+CiAgICA8L2RlZnM+CiAgICA8cmVjdCB3aWR0aD0iMTQwMCIgaGVpZ2h0PSI5MyIgZmlsbD0icmdiYSg1MSwgNTEsIDUxLCAwKSIgLz4KICAgIDxyZWN0IGlkPSJyIiB3aWR0aD0iMTQwMCIgaGVpZ2h0PSI5MyIgZmlsbD0idXJsKCNnLTE0MDAtOTMpIiAvPgogICAgPGFuaW1hdGUgeGxpbms6aHJlZj0iI3IiIGF0dHJpYnV0ZU5hbWU9IngiIGZyb209Ii0xNDAwIiB0bz0iMTQwMCIgZHVyPSIxcyIgcmVwZWF0Q291bnQ9ImluZGVmaW5pdGUiICAvPgogIDwvc3ZnPg==" data-src="{{ section.settings.ggIb8XlUyJK_srcSet_desktop_src }}"
         alt=""
         width="100%"
         style="--aspect:auto;--aspect-tablet:auto;--aspect-mobile:auto;--objf:cover;--h:auto;--h-tablet:auto;--h-mobile:auto;--b:none;--bc:#000000;--bw:1px 1px 1px 1px;--radiusType:none;--shadow:none"
