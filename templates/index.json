@@ -9,74 +9,19 @@
  */
 {
   "sections": {
-    "gp_section_604919354924073953": {
-      "type": "gp-section-604919354924073953",
+    "gp_section_604919354923942881": {
+      "type": "gp-section-604919354923942881",
       "settings": {
-        "section_preload": "true",
-        "checksum": "03337a189cb79af411784ca225156539c1f4166d14f812d078a3449d53f22ca4_1_1_1_0__1",
-        "ggQx7e0-SUW_label": "<p>Shop Now</p>"
-      }
-    },
-    "gp_section_610902812208923155": {
-      "type": "gp-section-610902812208923155",
-      "settings": {
-        "section_preload": "true",
-        "checksum": "475d4b4d4e6cde289b3813d9590f9786bb3b7e2f551c990ee7733a63754b9f81_1_1_1_0__1",
-        "gggz0-dq4ER_text": "<span style=\"background-color:rgb(252,250,247);color:rgb(36,36,36);font-size:33px;\"><strong>Our Best-Sellers</strong></span>",
-        "ggp-0Ty0E25_label": "<p>Explore more</p>"
-      }
-    },
-    "gp_section_604919354924205025": {
-      "type": "gp-section-604919354924205025",
-      "settings": {
-        "section_preload": "true",
-        "checksum": "62aeaa350e540bd189b9b69e39b14a0de8f72cf4534d1803b46bef500a7053d5_1_1_1_0__1",
-        "ggXLCUbIfTG_text": "Featured Collection",
-        "ggjLyFTa6PJ_text": "<p>Discover our latest collection of hats and beanies, featuring fresh and refined tones inspired by the season's renewal. Find the piece that resonates with your individual style and carry a touch of timeless elegance with you.</p>",
-        "ggTzgDUiP_u_label": "<p>Shop Felt Hats</p>",
-        "ggrndbuQ-fl_label": "<p>Shop Western Hats</p>",
-        "gg8I1c2K1XG_label": "<p>Shop Straw Hats</p>",
-        "ggduiBdDFgt_label": "<p>Shop Cowboy Hat</p>",
-        "ggvJD5-1MDF_label": "<p>Shop Felt Hats</p>",
-        "ggzmOSHviOI_label": "<p>Shop Western Hats</p>",
-        "ggU6_82Uauu_label": "<p>Shop Straw Hats</p>",
-        "ggxdD5lfZOT_label": "<p>Shop Cowboy Hat</p>",
-        "ggx1we8AT1P_label": "<p>Shop Western Hat</p>"
-      }
-    },
-    "gp_section_604919354924401633": {
-      "type": "gp-section-604919354924401633",
-      "settings": {
-        "section_preload": "true",
-        "checksum": "35a18fd9e1f3f44e0ea1d042ed82c36c0a81a41c657a9dd51a5bf422bec1f2b0_1_1_1_0__1",
-        "ggACIGf-g9T_text": "Jimmy Stewart Hat",
-        "ggcK_2yHiiq_text": "<p>After</p>",
-        "ggP18Q8yiQf_text": "Western Craftsmanship for Him",
-        "gg2pxl7aK8A_label": "<p>Shop Men's Collection</p>",
-        "ggDwlQwSRUv_text": "\"The Son\" TV Series Hat",
-        "gg69ZbDG6nJ_text": "Jimmy Stewart Hat",
-        "ggwA6nMzAR__text": "Dwight Yoakam Hat"
-      }
-    },
-    "gp_section_604919354924336097": {
-      "type": "gp-section-604919354924336097",
-      "settings": {
-        "section_preload": "false",
-        "checksum": "9ca37329c92e82558125bd69147d976cff74f5243ba452524f6a7193e4ef30d3_1_1_1_0__1",
-        "ggPxStlBmY1_text": "<p>Small-Batch</p><p>Craftsmanship</p>",
-        "ggmql0U5l4e_text": "<p>Small-Batch</p><p>Craftsmanship</p>",
-        "ggkufRZ8tYV_text": "<p>Premium</p><p>Felt &amp; Raffia</p>",
-        "ggrACTx5juw_text": "<p>Premium</p><p>Felt &amp; Raffia</p>",
-        "ggYY1zgW2dH_text": "<p>Fit-Perfect Crown...</p>",
-        "gg7vl-5qhFK_text": "<p>Fit-Perfect Crown</p><p>&amp; Brim Design</p>",
-        "ggKPj8QC8wI_text": "<p>30-Day Free</p><p>Return ...</p>",
-        "ggpVM09pLAC_text": "<p>14-Day Free</p><p>Return + Shape Care</p>"
+        "checksum": "b35dec844bc680ff5f666cc52255824779483122051c8aa2c03db3b00b4c85f9_1_1_1_0__1",
+        "ggP1vnpXKn-_text": "Blogs",
+        "ggaaSZEzXw5_text": "<strong>3 Packable Straw Hats for...</strong>",
+        "ggkqXwxZrUL_text": "<strong>6 Statement Felt Hats for...</strong>",
+        "ggYGyTff273_text": "<strong>The 5 Best Transitional Hats...</strong>"
       }
     },
     "gp_section_604919354924008417": {
       "type": "gp-section-604919354924008417",
       "settings": {
-        "section_preload": "false",
         "checksum": "80ed284967f20277c43e9eb0df0d32c0b2da6d56b58d3242e292881b26184276_1_1_1_0__1",
         "ggM5QhDqrbi_text": "Customer Show",
         "ggHe_hykNub_text": "<p>100+ reviews</p>",
@@ -118,10 +63,50 @@
         "gggkF714Zqe_text": "Weight and drape are lovely. Packaging made unboxing feel premium."
       }
     },
+    "gp_section_604919354924073953": {
+      "type": "gp-section-604919354924073953",
+      "settings": {
+        "section_preload": "true",
+        "checksum": "2442fcd31e2028594fe355f00be0c8bc84fb3cd9eab1fea0fd2a67e4e73e9aa9_1_1_1_0__1",
+        "ggA-T0eTm20_background_desktop_image_src": "https://cdn.shopify.com/s/files/1/0700/3540/7006/files/lbora_easter_desktop_1920x800_1.webp",
+        "ggA-T0eTm20_background_mobile_image_src": "https://cdn.shopify.com/s/files/1/0700/3540/7006/files/lbora_easter_mobile_780x1200_2b141102-6d4b-4d16-9585-acdf531b7500.webp",
+        "ggQx7e0-SUW_label": "<p>Shop Now</p>"
+      }
+    },
+    "gp_section_604919354924139489": {
+      "type": "gp-section-604919354924139489",
+      "settings": {
+        "checksum": "7aac5071c03865911b7ba91f4f9bbd46216db180bf476b76de62b102bf59ccd8_1_1_1_0__1",
+        "ggLcNiKzuaw_text": "Blogs",
+        "ggHAO7vjJwz_text": "<p><strong>5 Stylish Fall Hats for Teenage Girls</strong></p>",
+        "gguyrY42Ag4_text": "<p><strong>Can City People Wear Cowboy Hats?</strong></p>",
+        "gg2Z36hwcz5_text": "<p><strong>Top Felt Hat Trends for Fall 2025 You’ll </strong></p>",
+        "ggESZKocvDO_text": "<p><strong>3 Packable Straw Hats for...</strong></p>",
+        "ggN-RSTtiZa_text": "<p><strong>6 Statement Felt Hats for...</strong></p>",
+        "gg3ffnlGgFi_text": "<p><strong>The 5 Best Transitional Hats...</strong></p>"
+      }
+    },
+    "gp_section_604919354924205025": {
+      "type": "gp-section-604919354924205025",
+      "settings": {
+        "section_preload": "true",
+        "checksum": "62aeaa350e540bd189b9b69e39b14a0de8f72cf4534d1803b46bef500a7053d5_1_1_1_0__1",
+        "ggXLCUbIfTG_text": "Featured Collection",
+        "ggjLyFTa6PJ_text": "<p>Discover our latest collection of hats and beanies, featuring fresh and refined tones inspired by the season's renewal. Find the piece that resonates with your individual style and carry a touch of timeless elegance with you.</p>",
+        "ggTzgDUiP_u_label": "<p>Shop Felt Hats</p>",
+        "ggrndbuQ-fl_label": "<p>Shop Western Hats</p>",
+        "gg8I1c2K1XG_label": "<p>Shop Straw Hats</p>",
+        "ggduiBdDFgt_label": "<p>Shop Cowboy Hat</p>",
+        "ggvJD5-1MDF_label": "<p>Shop Felt Hats</p>",
+        "ggzmOSHviOI_label": "<p>Shop Western Hats</p>",
+        "ggU6_82Uauu_label": "<p>Shop Straw Hats</p>",
+        "ggxdD5lfZOT_label": "<p>Shop Cowboy Hat</p>",
+        "ggx1we8AT1P_label": "<p>Shop Western Hat</p>"
+      }
+    },
     "gp_section_604919354924270561": {
       "type": "gp-section-604919354924270561",
       "settings": {
-        "section_preload": "false",
         "checksum": "fc771eccf9132dc925e2eecedb197fdb81a6a9f833b0b46e95876e819270cb14_1_1_1_0__1",
         "ggGQKHxTEHs_text": "Customer Show",
         "ggfJJ13dVDi_label": "<p>Purchased</p>",
@@ -162,56 +147,47 @@
         "ggRf60jgwZ6_text": "Weight and drape are lovely. Packaging made unboxing feel premium."
       }
     },
-    "gp_section_604919354924139489": {
-      "type": "gp-section-604919354924139489",
+    "gp_section_604919354924336097": {
+      "type": "gp-section-604919354924336097",
       "settings": {
-        "section_preload": "false",
-        "checksum": "7aac5071c03865911b7ba91f4f9bbd46216db180bf476b76de62b102bf59ccd8_1_1_1_0__1",
-        "ggLcNiKzuaw_text": "Blogs",
-        "ggHAO7vjJwz_text": "<p><strong>5 Stylish Fall Hats for Teenage Girls</strong></p>",
-        "gguyrY42Ag4_text": "<p><strong>Can City People Wear Cowboy Hats?</strong></p>",
-        "gg2Z36hwcz5_text": "<p><strong>Top Felt Hat Trends for Fall 2025 You’ll </strong></p>",
-        "ggESZKocvDO_text": "<p><strong>3 Packable Straw Hats for...</strong></p>",
-        "ggN-RSTtiZa_text": "<p><strong>6 Statement Felt Hats for...</strong></p>",
-        "gg3ffnlGgFi_text": "<p><strong>The 5 Best Transitional Hats...</strong></p>"
+        "checksum": "9ca37329c92e82558125bd69147d976cff74f5243ba452524f6a7193e4ef30d3_1_1_1_0__1",
+        "ggPxStlBmY1_text": "<p>Small-Batch</p><p>Craftsmanship</p>",
+        "ggmql0U5l4e_text": "<p>Small-Batch</p><p>Craftsmanship</p>",
+        "ggkufRZ8tYV_text": "<p>Premium</p><p>Felt &amp; Raffia</p>",
+        "ggrACTx5juw_text": "<p>Premium</p><p>Felt &amp; Raffia</p>",
+        "ggYY1zgW2dH_text": "<p>Fit-Perfect Crown...</p>",
+        "gg7vl-5qhFK_text": "<p>Fit-Perfect Crown</p><p>&amp; Brim Design</p>",
+        "ggKPj8QC8wI_text": "<p>30-Day Free</p><p>Return ...</p>",
+        "ggpVM09pLAC_text": "<p>14-Day Free</p><p>Return + Shape Care</p>"
       }
     },
-    "gp_section_604919354923942881": {
-      "type": "gp-section-604919354923942881",
+    "gp_section_604919354924401633": {
+      "type": "gp-section-604919354924401633",
       "settings": {
-        "section_preload": "false",
-        "checksum": "b35dec844bc680ff5f666cc52255824779483122051c8aa2c03db3b00b4c85f9_1_1_1_0__1",
-        "ggP1vnpXKn-_text": "Blogs",
-        "ggaaSZEzXw5_text": "<strong>3 Packable Straw Hats for...</strong>",
-        "ggkqXwxZrUL_text": "<strong>6 Statement Felt Hats for...</strong>",
-        "ggYGyTff273_text": "<strong>The 5 Best Transitional Hats...</strong>"
+        "section_preload": "true",
+        "checksum": "35a18fd9e1f3f44e0ea1d042ed82c36c0a81a41c657a9dd51a5bf422bec1f2b0_1_1_1_0__1",
+        "ggACIGf-g9T_text": "Jimmy Stewart Hat",
+        "ggcK_2yHiiq_text": "<p>After</p>",
+        "ggP18Q8yiQf_text": "Western Craftsmanship for Him",
+        "gg2pxl7aK8A_label": "<p>Shop Men's Collection</p>",
+        "ggDwlQwSRUv_text": "\"The Son\" TV Series Hat",
+        "gg69ZbDG6nJ_text": "Jimmy Stewart Hat",
+        "ggwA6nMzAR__text": "Dwight Yoakam Hat"
       }
     },
-    "1774520340a6339579": {
-      "type": "apps",
-      "blocks": {
-        "boost_ai_search_filter_recommendation_ssr_YRicLa": {
-          "type": "shopify://apps/boost-ai-search-filter/blocks/recommendation-ssr/7fc998ae-a150-4367-bab8-505d8a4503f7",
-          "settings": {
-            "widgetId": "homepage-783263",
-            "additional_classes": "",
-            "custom_css": ""
-          }
-        }
-      },
-      "block_order": [
-        "boost_ai_search_filter_recommendation_ssr_YRicLa"
-      ],
+    "gp_section_610902812208923155": {
+      "type": "gp-section-610902812208923155",
       "settings": {
-        "display_id": false,
-        "include_margins": true
+        "section_preload": "true",
+        "checksum": "475d4b4d4e6cde289b3813d9590f9786bb3b7e2f551c990ee7733a63754b9f81_1_1_1_0__1",
+        "gggz0-dq4ER_text": "<span style=\"background-color:rgb(252,250,247);color:rgb(36,36,36);font-size:33px;\"><strong>Our Best-Sellers</strong></span>",
+        "ggp-0Ty0E25_label": "<p>Explore more</p>"
       }
     }
   },
   "order": [
     "gp_section_604919354924073953",
     "gp_section_610902812208923155",
-    "1774520340a6339579",
     "gp_section_604919354924205025",
     "gp_section_604919354924401633",
     "gp_section_604919354924336097",
