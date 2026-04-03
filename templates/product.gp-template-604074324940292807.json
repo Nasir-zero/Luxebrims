@@ -13,13 +13,13 @@
       "type": "gp-section-604074325057864391",
       "settings": {
         "section_preload": "true",
-        "checksum": "72f7f15b7dfd7546a438534bc0aaa1f4c852a87caac6371e0ebd452b45a8fbb4_1_1_1_0__1",
-        "ggVQS4T7yUC_text": "<p><span style=\"font-size:16px;\">New Customers Only</span></p><p><span style=\"font-size:16px;\">Code: <strong>$10Off-LBORA</strong></span></p>",
-        "ggvoDFHbkwj_defaultLabel": "Copy",
-        "ggvoDFHbkwj_clickedLabel": "Copy",
-        "ggdc0Ry9GI4_text": "<p><span style=\"font-size:16px;\">Over $200</span></p><p><span style=\"font-size:16px;\">Code: <strong>Easter Sale Over$200</strong></span></p>",
-        "ggrIsJLVw-2_defaultLabel": "Copy",
-        "ggrIsJLVw-2_clickedLabel": "Copy",
+        "checksum": "24e61591b0de9141edf7064823a008cc3ae6fa21dc6d6d85649af6ce0ec23a0f_1_1_1_0__1",
+        "gg_oc4jlglg_text": "<p><span style=\"font-size:16px;\">New Customers Only</span></p><p><span style=\"font-size:16px;\">Code: <strong>$10Off-LBORA</strong></span></p>",
+        "ggARjeXM8R3_defaultLabel": "Copy",
+        "ggARjeXM8R3_clickedLabel": "Copy",
+        "ggxb5UTc6zu_text": "<p><span style=\"font-size:16px;\">Easter Sale Over$200</span></p><p><span style=\"font-size:16px;\">Code:&nbsp;<strong> $25Off-LBORA</strong></span></p>",
+        "ggzBpm29QtM_defaultLabel": "Copy",
+        "ggzBpm29QtM_clickedLabel": "Copy",
         "ggYaozV6nT0_text": "Quantity",
         "gg4PNAi7soe_text": "<p><u>Size Guide</u></p>",
         "ggzr09BNnRW_text": "<p><a href=\"https://shoplbora.com/pages/process-flow\" target=\"_blank\"><u>Process Flow</u></a></p>",
@@ -39,13 +39,13 @@
         "ggL85oxCgCt_childItem_2": "<p>Free Shipping</p>",
         "ggWccoCWPlH_viewMoreText": "Show more",
         "ggWccoCWPlH_viewLessText": "Show less",
-        "ggagGj567_n_text": "<p>At <span style=\"color:#3B3B3B;\">Lbora</span>, our hats are crafted with precision to ensure a tailored and flattering fit.</p><p> </p><p><strong>True to Size:</strong><br>Each style is designed to fit true to size, following standard international headwear measurements. Simply select your usual hat size for the most comfortable fit.</p><p> </p><p><strong>Between Sizes:</strong><br>If you find yourself between sizes, we recommend using one of our premium hat fillers. Designed for subtle comfort, they provide a secure fit without compromising the hat’s shape or style.</p><p> </p><p><strong>Need Assistance</strong>:<br>Not sure of your size? Visit our <a href=\"https://luxebrims.com/pages/hat-size-guide\"><u>Hat Size Guide</u></a> or reach out to our support team — we're here to help you find your perfect fit.</p>",
+        "ggagGj567_n_text": "<p>At <span style=\"color:#3B3B3B;\">Lbora</span>, our hats are crafted with precision to ensure a tailored and flattering fit.</p><p>&nbsp;</p><p><strong>True to Size:</strong><br>Each style is designed to fit true to size, following standard international headwear measurements. Simply select your usual hat size for the most comfortable fit.</p><p>&nbsp;</p><p><strong>Between Sizes:</strong><br>If you find yourself between sizes, we recommend using one of our premium hat fillers. Designed for subtle comfort, they provide a secure fit without compromising the hat’s shape or style.</p><p>&nbsp;</p><p><strong>Need Assistance</strong>:<br>Not sure of your size? Visit our <a href=\"https://luxebrims.com/pages/hat-size-guide\"><u>Hat Size Guide</u></a> or reach out to our support team — we're here to help you find your perfect fit.</p>",
         "ggRa1qdeaB__text": "<p><span style=\"color:#3B3B3B;\">Lbora delivers to customers around the world — with free shipping and estimated delivery in 8-20 business days.</span><br><span style=\"color:#3B3B3B;\">Note: Delivery times may vary slightly depending on your location.</span></p>",
         "ggODL_QU1nu_childItem_0": "<p>Security and Service</p>",
         "ggoBqigMSJW_text": "<p>Payment Security</p>",
         "ggA-bjY31sD_text": "<p>Your payment security matters to us. Lbora partners exclusively with certified payment service providers who are committed to protecting and maintaining the confidentiality of your payment information.</p>",
         "ggefszgLuAZ_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/0700/3540/7006/files/1_0acf9969-a05d-4234-bc17-aa52917933b7.webp",
-        "ggSjQVgOFCb_text": "<p>Privacy Protection  </p>",
+        "ggSjQVgOFCb_text": "<p>Privacy Protection &nbsp;</p>",
         "ggGHGvQgckX_text": "<p>At Lbora, we protect your privacy with industry-standard encryption. Your shipping address, payment information, and purchase details are secured throughout your entire shopping experience. Shop with confidence.</p>",
         "ggjR23pmRhA_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/0700/3540/7006/files/1_860e4558-0116-4da8-9fde-5f40f8344a3d.webp",
         "ggUWHchKLTN_text": "<p>Efficient and Safe Logitics</p>",
@@ -58,6 +58,12 @@
         "ggTTJpRkYts_text": "Customer Service"
       }
     },
+    "gp_section_604074325057929927": {
+      "type": "gp-section-604074325057929927",
+      "settings": {
+        "checksum": "1d8f712a4a8dfdd4ca634ee59cd78efff3bb81addd15085a8fa7ae62fd027672_1_1_1_0__1"
+      }
+    },
     "gp_section_604074325058192071": {
       "type": "gp-section-604074325058192071",
       "settings": {
@@ -66,37 +72,9 @@
         "gggHuB5kZCF_text": "Model Showcase"
       }
     },
-    "1775117059d25b0157": {
-      "type": "apps",
-      "blocks": {
-        "boost_ai_search_filter_recommendation_ssr_LmAxqb": {
-          "type": "shopify://apps/boost-ai-search-filter/blocks/recommendation-ssr/7fc998ae-a150-4367-bab8-505d8a4503f7",
-          "settings": {
-            "widgetId": "productpage-738186",
-            "additional_classes": "",
-            "custom_css": ""
-          }
-        }
-      },
-      "block_order": [
-        "boost_ai_search_filter_recommendation_ssr_LmAxqb"
-      ],
-      "settings": {
-        "display_id": false,
-        "include_margins": true
-      }
-    },
-    "gp_section_604074325057929927": {
-      "type": "gp-section-604074325057929927",
-      "settings": {
-        "section_preload": "false",
-        "checksum": "1d8f712a4a8dfdd4ca634ee59cd78efff3bb81addd15085a8fa7ae62fd027672_1_1_1_0__1"
-      }
-    },
     "gp_section_604775944405648189": {
       "type": "gp-section-604775944405648189",
       "settings": {
-        "section_preload": "false",
         "checksum": "0f8ccd567bc495e39b826b66e6532e234485577677c171bafcda3c35154e6402_1_1_1_0__1",
         "ggY_vMVzD5r_text": "Hat Size Guide",
         "ggqwIs8eVQl_text": "<p>Find your perfect fit in two steps: measure your head or use a hat you already own, then convert the result with our size chart.</p>",
@@ -108,7 +86,6 @@
   "order": [
     "gp_section_604074325057864391",
     "gp_section_604074325058192071",
-    "1775117059d25b0157",
     "gp_section_604074325057929927",
     "gp_section_604775944405648189"
   ]
