@@ -9,55 +9,6 @@
  */
 {
   "sections": {
-    "gp_section_604072232670724834": {
-      "type": "gp-section-604072232670724834",
-      "settings": {
-        "section_preload": "true",
-        "checksum": "f1d916616f233e3f04c6aabc5d6b4b4917818cca0325804a23f9e43d12297194_1_1_1_0__1",
-        "ggWfc9XUAca_text": "<p><span style=\"font-size:16px;\">New Customers Only</span></p><p><span style=\"font-size:16px;\">Code: <strong>$10Off-LBORA</strong></span></p>",
-        "ggcGxgt79je_defaultLabel": "Copy",
-        "ggcGxgt79je_clickedLabel": "Copy",
-        "gg_UrfFT-vK_text": "<p><span style=\"font-size:16px;\">Over $200</span></p><p><span style=\"font-size:16px;\">Code: <strong>Easter Sale Over$200</strong></span></p>",
-        "gg09_-pjMHU_defaultLabel": "Copy",
-        "gg09_-pjMHU_clickedLabel": "Copy",
-        "ggm0hC2a59f_text": "Quantity",
-        "ggM3a8aHiru_text": "<p><u>Size Guide</u></p>",
-        "ggM3dJnCId3_text": "<p><a href=\"https://shoplbora.com/pages/process-flow\" target=\"_blank\"><u>Process Flow</u></a></p>",
-        "ggUK2hIvqMO_label": "Add To cart",
-        "ggUK2hIvqMO_outOfStockLabel": "Out of stock",
-        "ggUK2hIvqMO_unavailableLabel": "Unavailable",
-        "ggUK2hIvqMO_successMessage": "Add product to cart successfully",
-        "ggUK2hIvqMO_errorMessage": "Cannot add product to cart",
-        "ggIvNIugowr_label": "Buy Now",
-        "ggIvNIugowr_outOfStockLabel": "Out of stock",
-        "ggIvNIugowr_unavailableLabel": "Unavailable",
-        "ggIvNIugowr_successMessage": "Add product to cart successfully",
-        "ggIvNIugowr_errorMessage": "Cannot add product to cart",
-        "ggIb8XlUyJK_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/0700/3540/7006/files/1_0acf9969-a05d-4234-bc17-aa52917933b7.webp",
-        "ggL85oxCgCt_childItem_0": "<p>Discription</p>",
-        "ggL85oxCgCt_childItem_1": "<p>Size+fit</p>",
-        "ggL85oxCgCt_childItem_2": "<p>Free Shipping</p>",
-        "ggWccoCWPlH_viewMoreText": "Show more",
-        "ggWccoCWPlH_viewLessText": "Show less",
-        "ggagGj567_n_text": "<p>At <span style=\"color:#3B3B3B;\">Lbora</span>, our hats are crafted with precision to ensure a tailored and flattering fit.</p><p> </p><p><strong>True to Size:</strong><br>Each style is designed to fit true to size, following standard international headwear measurements. Simply select your usual hat size for the most comfortable fit.</p><p> </p><p><strong>Between Sizes:</strong><br>If you find yourself between sizes, we recommend using one of our premium hat fillers. Designed for subtle comfort, they provide a secure fit without compromising the hat’s shape or style.</p><p> </p><p><strong>Need Assistance</strong>:<br>Not sure of your size? Visit our <a href=\"https://luxebrims.com/pages/hat-size-guide\"><u>Hat Size Guide</u></a> or reach out to our support team — we're here to help you find your perfect fit.</p>",
-        "ggRa1qdeaB__text": "<p><span style=\"color:#3B3B3B;\">Lbora delivers to customers around the world — with free shipping and estimated delivery in 8-20 business days.</span><br><span style=\"color:#3B3B3B;\">Note: Delivery times may vary slightly depending on your location.</span></p>",
-        "ggODL_QU1nu_childItem_0": "<p>Security and Service</p>",
-        "ggoBqigMSJW_text": "<p>Payment Security</p>",
-        "ggA-bjY31sD_text": "<p>Your payment security matters to us. Lbora partners exclusively with certified payment service providers who are committed to protecting and maintaining the confidentiality of your payment information.</p>",
-        "ggefszgLuAZ_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/0700/3540/7006/files/1_0acf9969-a05d-4234-bc17-aa52917933b7.webp",
-        "ggSjQVgOFCb_text": "<p>Privacy Protection  </p>",
-        "ggGHGvQgckX_text": "<p>At Lbora, we protect your privacy with industry-standard encryption. Your shipping address, payment information, and purchase details are secured throughout your entire shopping experience. Shop with confidence.</p>",
-        "ggjR23pmRhA_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/0700/3540/7006/files/1_860e4558-0116-4da8-9fde-5f40f8344a3d.webp",
-        "ggUWHchKLTN_text": "<p>Efficient and Safe Logitics</p>",
-        "ggdwBSWcPdo_text": "<p>At Lbora, we deliver with security and efficiency. Track your order in real-time, and protect your purchase with our optional Shipping Protection—covering delays, damage, or loss during transit.<a href=\"https://www.shipsurance.com/surecircle/terms\" target=\"_blank\"><span style=\"color:#3393CC;\"><strong><u>learn more</u></strong></span></a></p>",
-        "gg1elQw0vld_text": "<p>Customer Service</p>",
-        "ggrjBheTtwl_text": "<p>We're here to help. If you encounter any problems during or after shopping, Lbora's customer service team is ready to assist you.</p>",
-        "gg-Vwvq42Vj_text": "Payment Security",
-        "ggk9tSva9R-_text": "Privacy Protection",
-        "gg0062YpiqU_text": "Efficient and Safe Logitics",
-        "ggTTJpRkYts_text": "Customer Service"
-      }
-    },
     "gp_section_604072232670593762": {
       "type": "gp-section-604072232670593762",
       "settings": {
@@ -87,34 +38,61 @@
     "gp_section_604072232670659298": {
       "type": "gp-section-604072232670659298",
       "settings": {
-        "section_preload": "false",
         "checksum": "54a4b2a9038a2aa46d04ca4f59e94aa2a670af7c13460944df79b5f1d187ed60_1_1_1_0__1"
       }
     },
-    "1775116972b256ca23": {
-      "type": "apps",
-      "blocks": {
-        "boost_ai_search_filter_recommendation_ssr_zTQ6nK": {
-          "type": "shopify://apps/boost-ai-search-filter/blocks/recommendation-ssr/7fc998ae-a150-4367-bab8-505d8a4503f7",
-          "settings": {
-            "widgetId": "productpage-738186",
-            "additional_classes": "",
-            "custom_css": ""
-          }
-        }
-      },
-      "block_order": [
-        "boost_ai_search_filter_recommendation_ssr_zTQ6nK"
-      ],
+    "gp_section_604072232670724834": {
+      "type": "gp-section-604072232670724834",
       "settings": {
-        "display_id": false,
-        "include_margins": true
+        "section_preload": "true",
+        "checksum": "17a44e8cd8fc58a821c05dd8863f1c4fab9f5003f7deaa0faa836eb74d61db1d_1_1_1_0__1",
+        "ggWfc9XUAca_text": "<p><span style=\"font-size:16px;\">New Customers Only</span></p><p><span style=\"font-size:16px;\">Code: <strong>$10Off-LBORA</strong></span></p>",
+        "ggcGxgt79je_defaultLabel": "Copy",
+        "ggcGxgt79je_clickedLabel": "Copy",
+        "ggfK3pE20EI_text": "<p><span style=\"font-size:16px;\">Easter Sale Over$200</span></p><p><span style=\"font-size:16px;\">Code:&nbsp;<strong> $25Off-LBORA</strong></span></p>",
+        "ggsAqgMIX8__defaultLabel": "Copy",
+        "ggsAqgMIX8__clickedLabel": "Copy",
+        "ggm0hC2a59f_text": "Quantity",
+        "ggM3a8aHiru_text": "<p><u>Size Guide</u></p>",
+        "ggM3dJnCId3_text": "<p><a href=\"https://shoplbora.com/pages/process-flow\" target=\"_blank\"><u>Process Flow</u></a></p>",
+        "ggUK2hIvqMO_label": "Add To cart",
+        "ggUK2hIvqMO_outOfStockLabel": "Out of stock",
+        "ggUK2hIvqMO_unavailableLabel": "Unavailable",
+        "ggUK2hIvqMO_successMessage": "Add product to cart successfully",
+        "ggUK2hIvqMO_errorMessage": "Cannot add product to cart",
+        "ggIvNIugowr_label": "Buy Now",
+        "ggIvNIugowr_outOfStockLabel": "Out of stock",
+        "ggIvNIugowr_unavailableLabel": "Unavailable",
+        "ggIvNIugowr_successMessage": "Add product to cart successfully",
+        "ggIvNIugowr_errorMessage": "Cannot add product to cart",
+        "ggIb8XlUyJK_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/0700/3540/7006/files/1_0acf9969-a05d-4234-bc17-aa52917933b7.webp",
+        "ggL85oxCgCt_childItem_0": "<p>Discription</p>",
+        "ggL85oxCgCt_childItem_1": "<p>Size+fit</p>",
+        "ggL85oxCgCt_childItem_2": "<p>Free Shipping</p>",
+        "ggWccoCWPlH_viewMoreText": "Show more",
+        "ggWccoCWPlH_viewLessText": "Show less",
+        "ggagGj567_n_text": "<p>At <span style=\"color:#3B3B3B;\">Lbora</span>, our hats are crafted with precision to ensure a tailored and flattering fit.</p><p>&nbsp;</p><p><strong>True to Size:</strong><br>Each style is designed to fit true to size, following standard international headwear measurements. Simply select your usual hat size for the most comfortable fit.</p><p>&nbsp;</p><p><strong>Between Sizes:</strong><br>If you find yourself between sizes, we recommend using one of our premium hat fillers. Designed for subtle comfort, they provide a secure fit without compromising the hat’s shape or style.</p><p>&nbsp;</p><p><strong>Need Assistance</strong>:<br>Not sure of your size? Visit our <a href=\"https://luxebrims.com/pages/hat-size-guide\"><u>Hat Size Guide</u></a> or reach out to our support team — we're here to help you find your perfect fit.</p>",
+        "ggRa1qdeaB__text": "<p><span style=\"color:#3B3B3B;\">Lbora delivers to customers around the world — with free shipping and estimated delivery in 8-20 business days.</span><br><span style=\"color:#3B3B3B;\">Note: Delivery times may vary slightly depending on your location.</span></p>",
+        "ggODL_QU1nu_childItem_0": "<p>Security and Service</p>",
+        "ggoBqigMSJW_text": "<p>Payment Security</p>",
+        "ggA-bjY31sD_text": "<p>Your payment security matters to us. Lbora partners exclusively with certified payment service providers who are committed to protecting and maintaining the confidentiality of your payment information.</p>",
+        "ggefszgLuAZ_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/0700/3540/7006/files/1_0acf9969-a05d-4234-bc17-aa52917933b7.webp",
+        "ggSjQVgOFCb_text": "<p>Privacy Protection &nbsp;</p>",
+        "ggGHGvQgckX_text": "<p>At Lbora, we protect your privacy with industry-standard encryption. Your shipping address, payment information, and purchase details are secured throughout your entire shopping experience. Shop with confidence.</p>",
+        "ggjR23pmRhA_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/0700/3540/7006/files/1_860e4558-0116-4da8-9fde-5f40f8344a3d.webp",
+        "ggUWHchKLTN_text": "<p>Efficient and Safe Logitics</p>",
+        "ggdwBSWcPdo_text": "<p>At Lbora, we deliver with security and efficiency. Track your order in real-time, and protect your purchase with our optional Shipping Protection—covering delays, damage, or loss during transit.<a href=\"https://www.shipsurance.com/surecircle/terms\" target=\"_blank\"><span style=\"color:#3393CC;\"><strong><u>learn more</u></strong></span></a></p>",
+        "gg1elQw0vld_text": "<p>Customer Service</p>",
+        "ggrjBheTtwl_text": "<p>We're here to help. If you encounter any problems during or after shopping, Lbora's customer service team is ready to assist you.</p>",
+        "gg-Vwvq42Vj_text": "Payment Security",
+        "ggk9tSva9R-_text": "Privacy Protection",
+        "gg0062YpiqU_text": "Efficient and Safe Logitics",
+        "ggTTJpRkYts_text": "Customer Service"
       }
     },
     "gp_section_604771587765306031": {
       "type": "gp-section-604771587765306031",
       "settings": {
-        "section_preload": "false",
         "checksum": "a1d5be266c9e2bd3be478851ffaea6a99dc97e280b106cf78734857ea7adacbe_1_1_1_0__1",
         "ggSUjzoLEiN_text": "Hat Size Guide",
         "ggU-2B-Ooj7_text": "<p>Find your perfect fit in two steps: measure your head or use a hat you already own, then convert the result with our size chart.</p>",
@@ -126,7 +104,6 @@
   "order": [
     "gp_section_604072232670724834",
     "gp_section_604072232670593762",
-    "1775116972b256ca23",
     "gp_section_604072232670659298",
     "gp_section_604771587765306031"
   ]
