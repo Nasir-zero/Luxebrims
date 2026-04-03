@@ -27,8 +27,8 @@
       
       {%- liquid
         if request.page_type != 'product'
-          assign product = all_products['luna-classic-wool-wide-brim-fedora-brown']
-          assign productId = '8580988010654' | times: 1
+          assign product = all_products['']
+          assign productId = 'latest' | times: 1
           if product == empty or product == null
             paginate collections.all.products by 100000
               for item in collections.all.products
