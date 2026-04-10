@@ -718,15 +718,6 @@
         "disabled": false,
         "settings": {}
       },
-      "10757484608650040377": {
-        "type": "shopify://apps/surecircle/blocks/app-embed-block/019b2b05-0150-7638-9440-9cf2013b18da",
-        "disabled": false,
-        "settings": {
-          "target_class": ".cart-drawer .cart__ctas",
-          "target_btn_class": ".class",
-          "target_btn_position": "up"
-        }
-      },
       "1513253815146976218": {
         "type": "shopify://apps/omnisend-email-marketing-sms/blocks/app-embed/44704aa2-794f-4c5d-8c8e-039c841158e9",
         "disabled": false,
@@ -749,6 +740,15 @@
           "button_horizontal_position": "bottom_right",
           "button_vertical_position": "lowest",
           "greeting_message": "Hi! Thanks for messaging LBORA.\n\nYou can choose one of the quick questions below for sizing, shipping, returns, order tracking, or product details.\n\nIf you already know the product you want, feel free to send us the product name or link and we’ll be happy to help."
+        }
+      },
+      "10757484608650040377": {
+        "type": "shopify://apps/surecircle/blocks/app-embed-block/019b2b05-0150-7638-9440-9cf2013b18da",
+        "disabled": false,
+        "settings": {
+          "target_class": ".page-width .cart__footer .cart__ctas,.cart-drawer .cart__ctas",
+          "target_btn_class": ".class",
+          "target_btn_position": "up"
         }
       }
     }
