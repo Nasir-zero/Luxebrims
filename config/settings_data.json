@@ -333,6 +333,7 @@
           },
           "text_with_icon_wAfHPB": {
             "type": "text_with_icon",
+            "disabled": true,
             "settings": {
               "position": "footer",
               "mobile_text_size": 22,
@@ -365,6 +366,7 @@
           },
           "product_upsells_4VzKjn": {
             "type": "product_upsells",
+            "disabled": true,
             "settings": {
               "position": "footer",
               "display": "globally",
